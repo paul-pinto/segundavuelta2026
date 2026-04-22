@@ -1,14 +1,14 @@
 import * as d3 from "../../_npm/d3@7.9.0/66d82917.js";
 
 export const DATA_BASE =
-  "https://raw.githubusercontent.com/mauforonda/subnacionales2026/refs/heads/main/resultados/primera_vuelta/";
+  "https://raw.githubusercontent.com/mauforonda/segundavuelta/refs/heads/main/resultados/segunda_vuelta/";
 
-export const STORAGE_KEY = "subnacionales2026_metrica";
-export const STORAGE_MAP_KEY = "subnacionales2026_mapa";
-export const STORAGE_ELECCION_KEY = "subnacionales2026_eleccion";
-export const STORAGE_PROVINCIA_KEY = "subnacionales2026_provincia";
-export const STORAGE_MUNICIPIO_KEY = "subnacionales2026_municipio";
-export const STORAGE_GOBERNADOR_VISTA_KEY = "subnacionales2026_gobernador_vista";
+export const STORAGE_KEY = "segundavuelta_metrica";
+export const STORAGE_MAP_KEY = "segundavuelta_mapa";
+export const STORAGE_ELECCION_KEY = "segundavuelta_eleccion";
+export const STORAGE_PROVINCIA_KEY = "segundavuelta_provincia";
+export const STORAGE_MUNICIPIO_KEY = "segundavuelta_municipio";
+export const STORAGE_GOBERNADOR_VISTA_KEY = "segundavuelta_gobernador_vista";
 
 export const PARTIDO_COLORES = {
   LIBRE: "#D32F2F",
@@ -72,31 +72,6 @@ export const elecciones = {
     nombre: "gobernador",
     archivo: "resultados_gobernador.json",
     partidos: "partidos_gobernador.json",
-  },
-  asambleista: {
-    nombre: "asambleísta",
-    archivo: "resultados_asambleista.json",
-    partidos: "partidos_asambleista.json",
-  },
-  subgobernador: {
-    nombre: "subgobernador",
-    archivo: "resultados_subgobernador.json",
-    partidos: "partidos_subgobernador.json",
-  },
-  alcalde: {
-    nombre: "alcalde",
-    archivo: "resultados_alcalde.json",
-    partidos: "partidos_alcalde.json",
-  },
-  corregidor: {
-    nombre: "corregidor",
-    archivo: "resultados_corregidor.json",
-    partidos: "partidos_corregidor.json",
-  },
-  concejales: {
-    nombre: "concejales",
-    archivo: "resultados_concejales.json",
-    partidos: "partidos_concejales.json",
   },
 };
 

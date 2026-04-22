@@ -3,24 +3,24 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="generator" content="Observable Framework v1.13.3">
+<meta name="generator" content="Observable Framework v1.13.4">
 <title>Subnacionales 2026 | Elecciones Subnacionales 2026</title>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&amp;display=swap" crossorigin>
-<link rel="preload" as="style" href="./_observablehq/theme-air,near-midnight,alt,wide.db1cdf55.css">
-<link rel="preload" as="style" href="./_observablehq/stdlib/inputs.ea9fd553.css">
+<link rel="preload" as="style" href="./_observablehq/theme-air,near-midnight,alt,wide.9b64840a.css">
+<link rel="preload" as="style" href="./_observablehq/stdlib/inputs.f7bf0e12.css">
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&amp;display=swap" crossorigin>
-<link rel="stylesheet" type="text/css" href="./_observablehq/theme-air,near-midnight,alt,wide.db1cdf55.css">
-<link rel="stylesheet" type="text/css" href="./_observablehq/stdlib/inputs.ea9fd553.css">
-<link rel="modulepreload" href="./_observablehq/client.2f027edd.js">
-<link rel="modulepreload" href="./_observablehq/runtime.e080113b.js">
-<link rel="modulepreload" href="./_observablehq/stdlib.73a8ec5a.js">
+<link rel="stylesheet" type="text/css" href="./_observablehq/theme-air,near-midnight,alt,wide.9b64840a.css">
+<link rel="stylesheet" type="text/css" href="./_observablehq/stdlib/inputs.f7bf0e12.css">
+<link rel="modulepreload" href="./_observablehq/client.198d3f2f.js">
+<link rel="modulepreload" href="./_observablehq/runtime.607a8173.js">
+<link rel="modulepreload" href="./_observablehq/stdlib.277aeab8.js">
 <link rel="modulepreload" href="./_npm/maplibre-gl@5.23.0/67fd5c26.js">
-<link rel="modulepreload" href="./_import/components/definiciones.e08fdf72.js">
+<link rel="modulepreload" href="./_import/components/definiciones.d1a43c93.js">
 <link rel="modulepreload" href="./_import/components/datos.eaccf071.js">
-<link rel="modulepreload" href="./_import/components/mapa.62089a06.js">
-<link rel="modulepreload" href="./_import/components/ui.1b4478a5.js">
-<link rel="modulepreload" href="./_observablehq/stdlib/inputs.4ef1d259.js">
+<link rel="modulepreload" href="./_import/components/mapa.ea274e28.js">
+<link rel="modulepreload" href="./_import/components/ui.da1daf54.js">
+<link rel="modulepreload" href="./_observablehq/stdlib/inputs.31cd1366.js">
 <link rel="modulepreload" href="./_npm/d3@7.9.0/66d82917.js">
 <link rel="modulepreload" href="./_npm/topojson-client@3.1.0/edd9ee95.js">
 <link rel="modulepreload" href="./_npm/@observablehq/plot@0.6.17/a96a6bbb.js">
@@ -64,35 +64,25 @@
 <link rel="icon" href="https://mauforonda.github.io/images/icon.svg" type="image/svg" sizes="32x32">
 <script type="module">
 
-import {define} from "./_observablehq/client.2f027edd.js";
-import {registerFile} from "./_observablehq/stdlib.73a8ec5a.js";
+import {define} from "./_observablehq/client.198d3f2f.js";
+import {registerFile} from "./_observablehq/stdlib.277aeab8.js";
 
-registerFile("./data/primera_vuelta/departamentos.json", {"name":"./data/primera_vuelta/departamentos.json","mimeType":"application/json","path":"./_file/data/primera_vuelta/departamentos.36fdee14.json","lastModified":1776186757352,"size":3991});
-registerFile("./data/primera_vuelta/municipios.json", {"name":"./data/primera_vuelta/municipios.json","mimeType":"application/json","path":"./_file/data/primera_vuelta/municipios.fa8892b6.json","lastModified":1776186707634,"size":145759});
-registerFile("./data/primera_vuelta/municipios.topo.json", {"name":"./data/primera_vuelta/municipios.topo.json","mimeType":"application/json","path":"./_file/data/primera_vuelta/municipios.topo.8d324b2f.json","lastModified":1776054213412,"size":2160578});
-registerFile("./data/primera_vuelta/partidos_alcalde.json", {"name":"./data/primera_vuelta/partidos_alcalde.json","mimeType":"application/json","path":"./_file/data/primera_vuelta/partidos_alcalde.e6ff5b8d.json","lastModified":1776186708100,"size":939172});
-registerFile("./data/primera_vuelta/partidos_asambleista.json", {"name":"./data/primera_vuelta/partidos_asambleista.json","mimeType":"application/json","path":"./_file/data/primera_vuelta/partidos_asambleista.94a0b54a.json","lastModified":1776186708393,"size":935695});
-registerFile("./data/primera_vuelta/partidos_concejales.json", {"name":"./data/primera_vuelta/partidos_concejales.json","mimeType":"application/json","path":"./_file/data/primera_vuelta/partidos_concejales.514a7977.json","lastModified":1776186708179,"size":946173});
-registerFile("./data/primera_vuelta/partidos_corregidor.json", {"name":"./data/primera_vuelta/partidos_corregidor.json","mimeType":"application/json","path":"./_file/data/primera_vuelta/partidos_corregidor.a69ffb53.json","lastModified":1776186708184,"size":33104});
-registerFile("./data/primera_vuelta/partidos_gobernador.json", {"name":"./data/primera_vuelta/partidos_gobernador.json","mimeType":"application/json","path":"./_file/data/primera_vuelta/partidos_gobernador.d3745145.json","lastModified":1776186708313,"size":1183316});
-registerFile("./data/primera_vuelta/partidos_subgobernador.json", {"name":"./data/primera_vuelta/partidos_subgobernador.json","mimeType":"application/json","path":"./_file/data/primera_vuelta/partidos_subgobernador.5fec052d.json","lastModified":1776186708396,"size":36351});
-registerFile("./data/primera_vuelta/resultados_alcalde.json", {"name":"./data/primera_vuelta/resultados_alcalde.json","mimeType":"application/json","path":"./_file/data/primera_vuelta/resultados_alcalde.30ec03bc.json","lastModified":1776186707725,"size":1430390});
-registerFile("./data/primera_vuelta/resultados_asambleista.json", {"name":"./data/primera_vuelta/resultados_asambleista.json","mimeType":"application/json","path":"./_file/data/primera_vuelta/resultados_asambleista.36164363.json","lastModified":1776186708017,"size":1456137});
-registerFile("./data/primera_vuelta/resultados_concejales.json", {"name":"./data/primera_vuelta/resultados_concejales.json","mimeType":"application/json","path":"./_file/data/primera_vuelta/resultados_concejales.d550e42c.json","lastModified":1776186707810,"size":1432640});
-registerFile("./data/primera_vuelta/resultados_corregidor.json", {"name":"./data/primera_vuelta/resultados_corregidor.json","mimeType":"application/json","path":"./_file/data/primera_vuelta/resultados_corregidor.9f956850.json","lastModified":1776186707815,"size":74264});
-registerFile("./data/primera_vuelta/resultados_gobernador.json", {"name":"./data/primera_vuelta/resultados_gobernador.json","mimeType":"application/json","path":"./_file/data/primera_vuelta/resultados_gobernador.75be3d84.json","lastModified":1776186707904,"size":1455650});
-registerFile("./data/primera_vuelta/resultados_subgobernador.json", {"name":"./data/primera_vuelta/resultados_subgobernador.json","mimeType":"application/json","path":"./_file/data/primera_vuelta/resultados_subgobernador.ba26df9c.json","lastModified":1776186708022,"size":75734});
-registerFile("./data/primera_vuelta/timestamp", {"name":"./data/primera_vuelta/timestamp","path":"./_file/data/primera_vuelta/timestamp.b73ad674","lastModified":1776186708399,"size":21});
+registerFile("./data/segunda_vuelta/departamentos.json", {"name":"./data/segunda_vuelta/departamentos.json","mimeType":"application/json","path":"./_file/data/segunda_vuelta/departamentos.a0e74339.json","lastModified":1776825880564,"size":230});
+registerFile("./data/segunda_vuelta/municipios.json", {"name":"./data/segunda_vuelta/municipios.json","mimeType":"application/json","path":"./_file/data/segunda_vuelta/municipios.262389ac.json","lastModified":1776825880565,"size":1422});
+registerFile("./data/segunda_vuelta/municipios.topo.json", {"name":"./data/segunda_vuelta/municipios.topo.json","mimeType":"application/json","path":"./_file/data/segunda_vuelta/municipios.topo.8d324b2f.json","lastModified":1776825880575,"size":2160578});
+registerFile("./data/segunda_vuelta/partidos_gobernador.json", {"name":"./data/segunda_vuelta/partidos_gobernador.json","mimeType":"application/json","path":"./_file/data/segunda_vuelta/partidos_gobernador.3806868a.json","lastModified":1776825880576,"size":15242});
+registerFile("./data/segunda_vuelta/resultados_gobernador.json", {"name":"./data/segunda_vuelta/resultados_gobernador.json","mimeType":"application/json","path":"./_file/data/segunda_vuelta/resultados_gobernador.fcad814a.json","lastModified":1776825880577,"size":67633});
+registerFile("./data/segunda_vuelta/timestamp", {"name":"./data/segunda_vuelta/timestamp","path":"./_file/data/segunda_vuelta/timestamp.338e22c3","lastModified":1776825880577,"size":21});
 
 define({id: "bfe04577", outputs: ["maplibregl","DATA_BASE","MAPA_FALLBACK","STORAGE_ELECCION_KEY","STORAGE_MAP_KEY","STORAGE_PROVINCIA_KEY","STORAGE_MUNICIPIO_KEY","STORAGE_GOBERNADOR_VISTA_KEY","elecciones","getStorage","metricaGanador","cargarDatos","crearRecintosConDepartamentos","crearTerritorios","aplicarMetricaMapa","limpiarResaltado","crearCapasBase","crearMapa","leerMapaInicial","persistirMapa","resaltarFeature","popupHTML"], body: async () => {
-const [{default: maplibregl}, {DATA_BASE, MAPA_FALLBACK, STORAGE_ELECCION_KEY, STORAGE_MAP_KEY, STORAGE_PROVINCIA_KEY, STORAGE_MUNICIPIO_KEY, STORAGE_GOBERNADOR_VISTA_KEY, elecciones, getStorage, metricaGanador}, {cargarDatos, crearRecintosConDepartamentos, crearTerritorios}, {aplicarMetricaMapa, limpiarResaltado, crearCapasBase, crearMapa, leerMapaInicial, persistirMapa, resaltarFeature}, {popupHTML}] = await Promise.all([import("./_npm/maplibre-gl@5.23.0/67fd5c26.js"), import("./_import/components/definiciones.e08fdf72.js"), import("./_import/components/datos.eaccf071.js"), import("./_import/components/mapa.62089a06.js"), import("./_import/components/ui.1b4478a5.js")]);
+const [{default: maplibregl}, {DATA_BASE, MAPA_FALLBACK, STORAGE_ELECCION_KEY, STORAGE_MAP_KEY, STORAGE_PROVINCIA_KEY, STORAGE_MUNICIPIO_KEY, STORAGE_GOBERNADOR_VISTA_KEY, elecciones, getStorage, metricaGanador}, {cargarDatos, crearRecintosConDepartamentos, crearTerritorios}, {aplicarMetricaMapa, limpiarResaltado, crearCapasBase, crearMapa, leerMapaInicial, persistirMapa, resaltarFeature}, {popupHTML}] = await Promise.all([import("./_npm/maplibre-gl@5.23.0/67fd5c26.js"), import("./_import/components/definiciones.d1a43c93.js"), import("./_import/components/datos.eaccf071.js"), import("./_import/components/mapa.ea274e28.js"), import("./_import/components/ui.da1daf54.js")]);
 
 return {maplibregl,DATA_BASE,MAPA_FALLBACK,STORAGE_ELECCION_KEY,STORAGE_MAP_KEY,STORAGE_PROVINCIA_KEY,STORAGE_MUNICIPIO_KEY,STORAGE_GOBERNADOR_VISTA_KEY,elecciones,getStorage,metricaGanador,cargarDatos,crearRecintosConDepartamentos,crearTerritorios,aplicarMetricaMapa,limpiarResaltado,crearCapasBase,crearMapa,leerMapaInicial,persistirMapa,resaltarFeature,popupHTML};
 }});
 
-define({id: "ec8cd8c9", inputs: ["getStorage","STORAGE_ELECCION_KEY","Inputs","elecciones","STORAGE_GOBERNADOR_VISTA_KEY","FileAttachment"], outputs: ["storage","LOCAL_DATA_BASE","eleccionInicial","eleccionInput","provinciaInput","municipioInput","gobernadorVistaInput","GOBERNADOR_VISTAS","vistaGuardada","vistaInicial","PARTIDOS_LOCALES","DATA_LOCALES","obtenerEleccionActual","obtenerVistaGobernadorActual","esEleccionDepartamental","sincronizarControlVistaGobernador","obtenerCodigoProvincia","labelProvincia"], body: async (getStorage,STORAGE_ELECCION_KEY,Inputs,elecciones,STORAGE_GOBERNADOR_VISTA_KEY,FileAttachment) => {
+define({id: "6b7de87e", inputs: ["getStorage","STORAGE_ELECCION_KEY","Inputs","elecciones","STORAGE_GOBERNADOR_VISTA_KEY","FileAttachment"], outputs: ["storage","LOCAL_DATA_BASE","eleccionInicial","eleccionInput","provinciaInput","municipioInput","gobernadorVistaInput","GOBERNADOR_VISTAS","vistaGuardada","vistaInicial","PARTIDOS_LOCALES","DATA_LOCALES","obtenerEleccionActual","obtenerVistaGobernadorActual","esEleccionDepartamental","sincronizarControlVistaGobernador","obtenerCodigoProvincia","labelProvincia"], body: async (getStorage,STORAGE_ELECCION_KEY,Inputs,elecciones,STORAGE_GOBERNADOR_VISTA_KEY,FileAttachment) => {
 const storage = getStorage();
-const LOCAL_DATA_BASE = "./data/primera_vuelta/";
+const LOCAL_DATA_BASE = "./data/segunda_vuelta/";
 const eleccionInicial = storage?.getItem(STORAGE_ELECCION_KEY) ?? "gobernador";
 const eleccionInput = Inputs.select(Object.keys(elecciones), {
   value: elecciones[eleccionInicial] ? eleccionInicial : "gobernador",
@@ -121,34 +111,19 @@ for (const opcion of GOBERNADOR_VISTAS) {
 }
 gobernadorVistaInput.value = vistaInicial;
 const PARTIDOS_LOCALES = {
-  gobernador: await FileAttachment("./data/primera_vuelta/partidos_gobernador.json").json(),
-  asambleista: await FileAttachment("./data/primera_vuelta/partidos_asambleista.json").json(),
-  subgobernador: await FileAttachment("./data/primera_vuelta/partidos_subgobernador.json").json(),
-  alcalde: await FileAttachment("./data/primera_vuelta/partidos_alcalde.json").json(),
-  corregidor: await FileAttachment("./data/primera_vuelta/partidos_corregidor.json").json(),
-  concejales: await FileAttachment("./data/primera_vuelta/partidos_concejales.json").json(),
+  gobernador: await FileAttachment("./data/segunda_vuelta/partidos_gobernador.json").json(),
 };
 const DATA_LOCALES = {
   resultados: {
-    "resultados_gobernador.json": await FileAttachment("./data/primera_vuelta/resultados_gobernador.json").json(),
-    "resultados_asambleista.json": await FileAttachment("./data/primera_vuelta/resultados_asambleista.json").json(),
-    "resultados_subgobernador.json": await FileAttachment("./data/primera_vuelta/resultados_subgobernador.json").json(),
-    "resultados_alcalde.json": await FileAttachment("./data/primera_vuelta/resultados_alcalde.json").json(),
-    "resultados_corregidor.json": await FileAttachment("./data/primera_vuelta/resultados_corregidor.json").json(),
-    "resultados_concejales.json": await FileAttachment("./data/primera_vuelta/resultados_concejales.json").json(),
+    "resultados_gobernador.json": await FileAttachment("./data/segunda_vuelta/resultados_gobernador.json").json(),
   },
   partidos: {
     "partidos_gobernador.json": PARTIDOS_LOCALES.gobernador,
-    "partidos_asambleista.json": PARTIDOS_LOCALES.asambleista,
-    "partidos_subgobernador.json": PARTIDOS_LOCALES.subgobernador,
-    "partidos_alcalde.json": PARTIDOS_LOCALES.alcalde,
-    "partidos_corregidor.json": PARTIDOS_LOCALES.corregidor,
-    "partidos_concejales.json": PARTIDOS_LOCALES.concejales,
   },
-  municipios: await FileAttachment("./data/primera_vuelta/municipios.json").json(),
-  departamentos: await FileAttachment("./data/primera_vuelta/departamentos.json").json(),
-  municipiosTopo: await FileAttachment("./data/primera_vuelta/municipios.topo.json").json(),
-  timestamp: await FileAttachment("./data/primera_vuelta/timestamp").text(),
+  municipios: await FileAttachment("./data/segunda_vuelta/municipios.json").json(),
+  departamentos: await FileAttachment("./data/segunda_vuelta/departamentos.json").json(),
+  municipiosTopo: await FileAttachment("./data/segunda_vuelta/municipios.topo.json").json(),
+  timestamp: await FileAttachment("./data/segunda_vuelta/timestamp").text(),
 };
 
 function obtenerEleccionActual() {
@@ -160,7 +135,7 @@ function obtenerVistaGobernadorActual() {
 }
 
 function esEleccionDepartamental(eleccion) {
-  return ["gobernador", "asambleista", "subgobernador"].includes(eleccion);
+  return ["gobernador"].includes(eleccion);
 }
 
 function sincronizarControlVistaGobernador() {
@@ -703,10 +678,10 @@ return {locked};
 <link rel="stylesheet" type="text/css" href="https://unpkg.com/maplibre-gl@4.0.2/dist/maplibre-gl.css">
 <link rel="stylesheet" type="text/css" href="./_file/index.4eec6a17.css">
 <div class="observablehq observablehq--block"><!--:bfe04577:--></div>
-<div class="observablehq observablehq--block"><!--:ec8cd8c9:--></div>
+<div class="observablehq observablehq--block"><!--:6b7de87e:--></div>
 <div class="app">
   <header class="header">
-    <div class="header__eyebrow">Elecciones subnacionales 2026 · Beni</div>
+    <div class="header__eyebrow">Segunda vuelta subnacionales 2026 · Beni</div>
     <div class="header__subtitle">Votos para <span class="header__eleccion"><observablehq-loading></observablehq-loading><!--:c63a2d52:--></span></div>
     <div class="header__timestamp" id="timestamp-container"></div>
     <div class="header__controls">
@@ -720,7 +695,7 @@ return {locked};
   <div id="mapa"></div>
   <div class="credito">
     <img class="credito__logo" src="https://paulpinto.com.bo/images/logo.png" alt="">
-    <span class="credito__text">Creado por Paul Pinto</span>
+    <span class="credito__text">Creado por Paul Pinto con créditos a Mau Foronda</span>
   </div>
 </div>
 <div class="observablehq observablehq--block"><!--:6d51eeac:--></div>

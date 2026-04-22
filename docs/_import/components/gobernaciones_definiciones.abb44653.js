@@ -1,4 +1,4 @@
-import { FileAttachment } from "../../_observablehq/stdlib.73a8ec5a.js";
+import { FileAttachment } from "../../_observablehq/stdlib.277aeab8.js";
 
 function partido(
   nombre,

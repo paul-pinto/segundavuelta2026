@@ -1,5 +1,5 @@
 import maplibregl from "../../_npm/maplibre-gl@5.23.0/67fd5c26.js";
-import { PARTIDO_COLORES } from "./definiciones.e08fdf72.js";
+import { PARTIDO_COLORES } from "./definiciones.d1a43c93.js";
 
 const TERRITORIOS_FADE_START = 8.6;
 const TERRITORIOS_FADE_END = 9;

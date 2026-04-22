@@ -3,25 +3,25 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="generator" content="Observable Framework v1.13.3">
+<meta name="generator" content="Observable Framework v1.13.4">
 <title>Gobernaciones 2026 | Elecciones Subnacionales 2026</title>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&amp;display=swap" crossorigin>
-<link rel="preload" as="style" href="./_observablehq/theme-air,near-midnight,alt,wide.db1cdf55.css">
-<link rel="preload" as="style" href="./_observablehq/stdlib/inputs.ea9fd553.css">
+<link rel="preload" as="style" href="./_observablehq/theme-air,near-midnight,alt,wide.9b64840a.css">
+<link rel="preload" as="style" href="./_observablehq/stdlib/inputs.f7bf0e12.css">
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&amp;display=swap" crossorigin>
-<link rel="stylesheet" type="text/css" href="./_observablehq/theme-air,near-midnight,alt,wide.db1cdf55.css">
-<link rel="stylesheet" type="text/css" href="./_observablehq/stdlib/inputs.ea9fd553.css">
-<link rel="modulepreload" href="./_observablehq/client.2f027edd.js">
-<link rel="modulepreload" href="./_observablehq/runtime.e080113b.js">
-<link rel="modulepreload" href="./_observablehq/stdlib.73a8ec5a.js">
+<link rel="stylesheet" type="text/css" href="./_observablehq/theme-air,near-midnight,alt,wide.9b64840a.css">
+<link rel="stylesheet" type="text/css" href="./_observablehq/stdlib/inputs.f7bf0e12.css">
+<link rel="modulepreload" href="./_observablehq/client.198d3f2f.js">
+<link rel="modulepreload" href="./_observablehq/runtime.607a8173.js">
+<link rel="modulepreload" href="./_observablehq/stdlib.277aeab8.js">
 <link rel="modulepreload" href="./_npm/d3@7.9.0/66d82917.js">
 <link rel="modulepreload" href="./_npm/@observablehq/plot@0.6.17/a96a6bbb.js">
 <link rel="modulepreload" href="./_npm/maplibre-gl@5.23.0/67fd5c26.js">
-<link rel="modulepreload" href="./_import/components/definiciones.e08fdf72.js">
-<link rel="modulepreload" href="./_import/components/gobernaciones_definiciones.ea2a20a3.js">
-<link rel="modulepreload" href="./_import/components/mapa.62089a06.js">
-<link rel="modulepreload" href="./_observablehq/stdlib/inputs.4ef1d259.js">
+<link rel="modulepreload" href="./_import/components/definiciones.d1a43c93.js">
+<link rel="modulepreload" href="./_import/components/gobernaciones_definiciones.abb44653.js">
+<link rel="modulepreload" href="./_import/components/mapa.ea274e28.js">
+<link rel="modulepreload" href="./_observablehq/stdlib/inputs.31cd1366.js">
 <link rel="modulepreload" href="./_npm/htl@0.3.1/72f4716c.js">
 <link rel="modulepreload" href="./_npm/isoformat@0.2.1/18cbf477.js">
 <link rel="modulepreload" href="./_npm/d3-array@3.2.4/e93ca09f.js">
@@ -62,8 +62,8 @@
 <link rel="icon" href="https://mauforonda.github.io/images/icon.svg" type="image/svg" sizes="32x32">
 <script type="module">
 
-import {define} from "./_observablehq/client.2f027edd.js";
-import {registerFile} from "./_observablehq/stdlib.73a8ec5a.js";
+import {define} from "./_observablehq/client.198d3f2f.js";
+import {registerFile} from "./_observablehq/stdlib.277aeab8.js";
 
 registerFile("./imagenes/adrian_alcazar.png", {"name":"./imagenes/adrian_alcazar.png","mimeType":"image/png","path":"./_file/imagenes/adrian_alcazar.f99bde71.png","lastModified":1776054213660,"size":16735});
 registerFile("./imagenes/alejandro_mostajo.png", {"name":"./imagenes/alejandro_mostajo.png","mimeType":"image/png","path":"./_file/imagenes/alejandro_mostajo.381152f1.png","lastModified":1776054213661,"size":15118});
@@ -101,7 +101,7 @@ registerFile("./imagenes/santos_quispe.png", {"name":"./imagenes/santos_quispe.p
 registerFile("./imagenes/sergio_rodriguez.png", {"name":"./imagenes/sergio_rodriguez.png","mimeType":"image/png","path":"./_file/imagenes/sergio_rodriguez.0035a4c2.png","lastModified":1776054213669,"size":15315});
 
 define({id: "a62d09e8", outputs: ["d3","Plot","maplibregl","getStorage","obtenerDefinicionesDepartamento","circleHoverRadiusExpr","circleRadiusExpr","crearMapa","leerMapaInicial","limpiarResaltado","persistirMapa","resaltarFeature"], body: async () => {
-const [d3, Plot, {default: maplibregl}, {getStorage}, {obtenerDefinicionesDepartamento}, {circleHoverRadiusExpr, circleRadiusExpr, crearMapa, leerMapaInicial, limpiarResaltado, persistirMapa, resaltarFeature}] = await Promise.all([import("./_npm/d3@7.9.0/66d82917.js"), import("./_npm/@observablehq/plot@0.6.17/a96a6bbb.js"), import("./_npm/maplibre-gl@5.23.0/67fd5c26.js"), import("./_import/components/definiciones.e08fdf72.js"), import("./_import/components/gobernaciones_definiciones.ea2a20a3.js"), import("./_import/components/mapa.62089a06.js")]);
+const [d3, Plot, {default: maplibregl}, {getStorage}, {obtenerDefinicionesDepartamento}, {circleHoverRadiusExpr, circleRadiusExpr, crearMapa, leerMapaInicial, limpiarResaltado, persistirMapa, resaltarFeature}] = await Promise.all([import("./_npm/d3@7.9.0/66d82917.js"), import("./_npm/@observablehq/plot@0.6.17/a96a6bbb.js"), import("./_npm/maplibre-gl@5.23.0/67fd5c26.js"), import("./_import/components/definiciones.d1a43c93.js"), import("./_import/components/gobernaciones_definiciones.abb44653.js"), import("./_import/components/mapa.ea274e28.js")]);
 
 return {d3,Plot,maplibregl,getStorage,obtenerDefinicionesDepartamento,circleHoverRadiusExpr,circleRadiusExpr,crearMapa,leerMapaInicial,limpiarResaltado,persistirMapa,resaltarFeature};
 }});
@@ -244,7 +244,7 @@ invalidation.then(() => {
 return {map,popup};
 }});
 
-define({id: "3c04c232", inputs: ["Plot","d3","obtenerDefinicionesDepartamento","maplibregl","datasetsCache","DATA_BASE","manifiesto","DEPARTAMENTOS"], outputs: ["fotoPartido","ordenarResultados","plotResultado","popupNode","resumenNode","boundsFromRecintos","cargarDepartamento","colorExpr"], body: (Plot,d3,obtenerDefinicionesDepartamento,maplibregl,datasetsCache,DATA_BASE,manifiesto,DEPARTAMENTOS) => {
+define({id: "1379136e", inputs: ["Plot","d3","obtenerDefinicionesDepartamento","maplibregl","datasetsCache","DATA_BASE","manifiesto","DEPARTAMENTOS"], outputs: ["fotoPartido","ordenarResultados","plotResultado","popupNode","resumenNode","boundsFromRecintos","cargarDepartamento","colorExpr"], body: (Plot,d3,obtenerDefinicionesDepartamento,maplibregl,datasetsCache,DATA_BASE,manifiesto,DEPARTAMENTOS) => {
 function fotoPartido(meta, id) {
   const foto = meta?.[id]?.foto;
   if (typeof foto === "string" && foto) return foto;
@@ -713,7 +713,7 @@ define({id: "078532ad", inputs: ["ready","popup","map","limpiarResaltado","resum
 <div class="observablehq observablehq--block"><!--:d6f5b653:--></div>
 <div class="observablehq observablehq--block"><!--:f7fdc021:--></div>
 <div class="observablehq observablehq--block"><!--:8f80b27b:--></div>
-<div class="observablehq observablehq--block"><!--:3c04c232:--></div>
+<div class="observablehq observablehq--block"><!--:1379136e:--></div>
 <div class="observablehq observablehq--block"><!--:2a4c1ea2:--></div>
 <div class="observablehq observablehq--block"><!--:078532ad:--></div>
 </main>
