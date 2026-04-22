@@ -1,0 +1,567 @@
+:root {
+  --panel-bg: rgba(255, 255, 255, 0.92);
+  --panel-border: rgba(23, 23, 23, 0.08);
+  --text-strong: #111111;
+  --text-soft: #929292;
+  --shadow: 0 20px 45px rgba(34, 34, 34, 0.12);
+}
+
+html,
+body,
+main,
+#observablehq-center,
+#observablehq-main,
+#observablehq-main > *,
+.app {
+  margin: 0;
+}
+
+body {
+  font-family: "Inter", system-ui, sans-serif;
+  background: #f4f1eb;
+}
+
+main,
+#observablehq-center,
+#observablehq-main,
+#observablehq-main > * {
+  max-width: none !important;
+  padding: 0 !important;
+}
+
+.app {
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+}
+
+#mapa {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.credito {
+  position: absolute;
+  left: 1rem;
+  bottom: 1rem;
+  z-index: 10;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.45rem 0.6rem;
+  border: 1px solid var(--panel-border);
+  border-radius: 999px;
+  background: var(--panel-bg);
+  backdrop-filter: blur(10px);
+  box-shadow: var(--shadow);
+}
+
+.credito__logo {
+  width: 0.95rem;
+  height: 0.95rem;
+  display: block;
+  flex: 0 0 auto;
+}
+
+.credito__text {
+  font-size: 0.7rem;
+  line-height: 1;
+  font-weight: 500;
+  color: var(--text-soft);
+  white-space: nowrap;
+}
+
+.header {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  right: 1rem;
+  z-index: 10;
+  max-width: 23rem;
+  padding: 0.8rem 0.9rem;
+  border: 1px solid var(--panel-border);
+  border-radius: 0.9rem;
+  background: var(--panel-bg);
+  backdrop-filter: blur(10px);
+  box-shadow: var(--shadow);
+}
+
+.header__eyebrow {
+  font-size: 0.85rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-soft);
+  text-align: center;
+}
+
+.header__subtitle {
+  margin-top: 0.2rem;
+  font-size: 0.84rem;
+  line-height: 1.2;
+  font-weight: 400;
+  color: var(--text-soft);
+  text-align: center;
+}
+
+.header__timestamp {
+  margin-top: 0.18rem;
+  font-size: 0.65rem;
+  line-height: 1.15;
+  font-weight: 300;
+  color: var(--text-soft);
+  opacity: 1;
+  text-align: center;
+}
+
+.header__eleccion {
+  display: inline;
+}
+
+.header__eleccion form,
+.header__eleccion .inputs-3a86ea,
+.header__eleccion .inputs-3a86ea-select {
+  display: inline;
+  min-height: 0;
+  margin: 0;
+}
+
+.header__eleccion select {
+  display: inline;
+  width: auto;
+  margin: 0 0.15rem;
+  padding: 0 0 5px 0;
+  border: 0;
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.14);
+  border-radius: 0;
+  background: transparent;
+  font: inherit;
+  font-weight: 600;
+  /* color: var(--text-strong); */
+  box-shadow: none;
+  vertical-align: baseline;
+  text-align: center;
+  text-align-last: center;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: none;
+  cursor: pointer;
+  transition:
+    color 120ms ease,
+    text-shadow 120ms ease,
+    border-bottom-color 120ms ease;
+}
+
+.header__eleccion select:focus {
+  outline: none;
+  border-bottom-color: rgba(0, 0, 0, 0.35);
+}
+
+.header__eleccion select:hover {
+  color: #000;
+  border-bottom-color: rgba(0, 0, 0, 0.24);
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.45);
+}
+
+.header__controls {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.5rem;
+  margin-top: 0.7rem;
+}
+
+.control {
+  /* padding: 0.65rem 0.75rem;
+  border-radius: 0.8rem;
+  background: rgba(249, 248, 248, 0.92); */
+}
+
+.control__input {
+  width: 100%;
+  margin: 10px 0;
+}
+
+.partido-input,
+.provincia-input,
+.municipio-input {
+  width: 100%;
+  padding: 0.42rem 0.55rem;
+  border: 1px solid rgba(0, 0, 0, 0.14);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.96);
+  font-size: 0.82rem;
+  line-height: 1.2;
+  color: var(--text-strong);
+}
+
+.partido-input:focus,
+.provincia-input:focus,
+.municipio-input:focus {
+  outline: none;
+  border-color: rgba(0, 0, 0, 0.32);
+}
+
+.control__input form {
+  width: 100%;
+}
+
+.control__input form > div {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.45rem;
+  width: 100%;
+}
+
+.control__input label {
+  display: block;
+  margin: 0 !important;
+  margin-right: 0 !important;
+  padding: 0.36rem 0.56rem;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 8px;
+  background: rgba(239, 239, 239, 0.6);
+  font-size: 0.82rem;
+  line-height: 1.18;
+  color: var(--text-soft);
+  cursor: pointer;
+  text-align: center;
+  transition:
+    background-color 120ms ease,
+    border-color 120ms ease,
+    color 120ms ease,
+    box-shadow 120ms ease;
+}
+
+.control__input input[type="radio"] {
+  appearance: none;
+  margin: 0;
+}
+
+.control__input label:has(input[type="radio"]:checked) {
+  color: var(--text-strong);
+  background: rgba(255, 255, 255, 0.98);
+  border-color: rgba(0, 0, 0, 0.14);
+}
+
+.control__input label:hover {
+  color: var(--text-strong);
+  background: rgba(255, 255, 255, 0.98);
+  border-color: rgba(0, 0, 0, 0.14);
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.08);
+}
+
+.control__description {
+  margin: 0.35rem 0;
+  color: var(--text-soft);
+  font-size: 0.84rem;
+  line-height: 1.2;
+  font-weight: 400;
+}
+
+.control--legend {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.control--legend :where(svg) {
+  display: block;
+  overflow: visible;
+}
+
+.control--legend :where(text) {
+  fill: var(--text-soft);
+}
+
+.control--legend .leyenda-ramp :where(line) {
+  stroke: white;
+  stroke-width: 1.5px;
+}
+
+.control--legend .leyenda-ramp :where(text) {
+  font-family: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace;
+}
+
+.maplibregl-ctrl-bottom-right {
+  right: 1rem;
+  bottom: 1rem;
+}
+
+.maplibregl-ctrl-group {
+  overflow: hidden;
+  border-radius: 999px;
+  box-shadow: var(--shadow);
+}
+
+.maplibregl-popup {
+  max-width: none !important;
+  pointer-events: none;
+}
+
+.maplibregl-popup.popup--interactive {
+  pointer-events: auto;
+}
+
+.maplibregl-popup-content {
+  padding: 0;
+  border-radius: 0.9rem;
+  box-shadow: 0 18px 36px rgba(28, 28, 28, 0.15);
+}
+
+.maplibregl-popup-close-button {
+  top: 0.28rem;
+  right: 0.34rem;
+  width: 1.3rem;
+  height: 1.3rem;
+  padding: 0;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  font-size: 1rem;
+  line-height: 1;
+  color: var(--text-soft);
+}
+
+.maplibregl-popup-close-button:hover {
+  background: rgba(0, 0, 0, 0.06);
+  color: var(--text-strong);
+}
+
+.popup {
+  --popup-accent: rgba(0, 0, 0, 0.12);
+  min-width: 15rem;
+  padding: 1.2rem 0.9rem;
+  font-family: "Inter", system-ui, sans-serif;
+  /* border: 1px solid var(--popup-accent); */
+  border-radius: 12px;
+  box-shadow:
+    0 14px 28px rgba(28, 28, 28, 0.1),
+    0 0 0 1px color-mix(in srgb, var(--popup-accent) 30%, white);
+}
+
+.popup__title {
+  margin-bottom: 0.18rem;
+  font-size: 0.95rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: var(--text-strong);
+  text-align: center;
+}
+
+.popup__subtitle {
+  margin-bottom: 0.3rem;
+  font-size: 0.84rem;
+  line-height: 1.2;
+  color: var(--text-soft);
+  text-align: center;
+}
+
+.popup__metric {
+  display: grid;
+  grid-template-columns: auto auto;
+  align-items: center;
+  justify-content: center;
+  gap: 0.3rem;
+  width: fit-content;
+  margin-bottom: 0.3rem;
+  margin-inline: auto;
+  padding: 0.48rem 0.55rem;
+}
+
+.popup__metric_value {
+  font-size: 1.3rem;
+  font-weight: 800;
+  line-height: 1;
+  color: var(--text-strong);
+}
+
+.popup__metric_label {
+  font-size: 0.78rem;
+  line-height: 1.15;
+  color: var(--text-soft);
+  text-align: left;
+}
+
+.popup__metric_emphasis {
+  color: var(--text-strong);
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1rem;
+  margin-left: 3px;
+}
+
+.popup__partidos {
+  margin: 0.35rem 0;
+}
+
+.popup__partidos--extras {
+  margin-top: 0.22rem;
+}
+
+.popup__divider {
+  height: 1px;
+  margin: 0.38rem 0 0.26rem 0;
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0.18),
+    rgba(0, 0, 0, 0)
+  );
+}
+
+.popup__partido {
+  margin-bottom: 0.35rem;
+}
+
+.popup__partido_head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.45rem;
+}
+
+.popup__partido_sigla_wrap {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  min-width: 0;
+}
+
+.popup__partido_avatar {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.1rem;
+  height: 1.1rem;
+  border-radius: 999px;
+  font-size: 0.5rem;
+  font-weight: 700;
+  color: white;
+  background: var(--partido-color, #9e9e9e);
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.08);
+  flex: 0 0 auto;
+}
+
+.popup__partido_sigla {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--text-strong);
+}
+
+.popup__partido_pct {
+  font-size: 0.76rem;
+  color: var(--text-soft);
+}
+
+.popup__partido_meta {
+  margin-top: 0.02rem;
+  font-size: 0.72rem;
+  color: var(--text-soft);
+}
+
+.popup__partido_bar {
+  margin-top: 0.12rem;
+  height: 0.45rem;
+  border-radius: 999px;
+  background: rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+}
+
+.popup__partido_fill {
+  display: block;
+  height: 100%;
+  border-radius: 999px;
+  background: var(--partido-color, #9e9e9e);
+}
+
+.popup__place {
+  text-align: center;
+}
+
+.popup__municipio {
+  font-size: 0.72rem;
+  line-height: 1.15;
+  color: var(--text-strong);
+}
+
+.popup__departamento {
+  margin-top: 0.08rem;
+  font-size: 0.68rem;
+  line-height: 1.1;
+  color: var(--text-soft);
+  opacity: 0.72;
+}
+
+.popup__provincia {
+  margin-top: 0.08rem;
+  font-size: 0.7rem;
+  line-height: 1.1;
+  color: var(--text-soft);
+}
+
+@media (max-width: 720px) {
+  .header {
+    top: 0;
+    left: 0;
+    right: 0;
+    max-width: none;
+    padding: 0.55rem 0.6rem;
+    border-radius: 0;
+    border-left: 0;
+    border-right: 0;
+  }
+
+  .credito {
+    left: 1.5rem;
+    bottom: 1.5rem;
+    padding: 0.38rem 0.5rem;
+    gap: 0.38rem;
+  }
+
+  .credito__text {
+    font-size: 0.64rem;
+  }
+
+  .header__subtitle {
+    margin-top: 0.1rem;
+    font-size: 0.8rem;
+  }
+
+  .header__timestamp {
+    margin-top: 0.12rem;
+    /* font-size: 0.6rem; */
+  }
+
+  .header__controls {
+    gap: 0.35rem;
+    margin-top: 0.45rem;
+  }
+
+  .control {
+    padding: 0.45rem 0.5rem;
+  }
+
+  .header__controls, .control__input {
+    margin: 0;
+  }
+
+  .control__input form > div {
+    gap: 0.3rem;
+  }
+
+  .control__input label {
+    padding: 0.5rem 0.66rem;
+    font-size: 0.8rem;
+    line-height: 1.12;
+  }
+
+  .control__description {
+    /* margin-bottom: 0.2rem; */
+    font-size: 0.8rem;
+    line-height: 1.16;
+  }
+}

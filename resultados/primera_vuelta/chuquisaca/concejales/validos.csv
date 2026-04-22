@@ -1,0 +1,1751 @@
+CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,NombreLocalidad,CodigoRecinto,NombreRecinto,CodigoMesa,NumeroMesa,AGN,PATRIA-UNIDOS,MTS,LIBRE,XS-CH,FRI,CHR,NGP,ASOCOIN-POROMA,COKASAL,A-UPP,FUERZA,APB-SUMATE
+1,Oropeza,1,Sucre,1204,Arabate,52,Escuela Arabate,1000197,1,1,9,3,1,4,1,2,4,,,4,6,3
+1,Oropeza,1,Sucre,1205,Chaunaca,53,Escuela Seccional De Chaunaca,1000207,1,2,26,5,3,5,4,10,5,,,9,44,5
+1,Oropeza,1,Sucre,1206,Chuqui Chuqui,54,Unidad Educativa Chuqui Chuqui,1000217,1,17,13,4,2,2,3,14,3,,,20,18,3
+1,Oropeza,1,Sucre,1206,Chuqui Chuqui,54,Unidad Educativa Chuqui Chuqui,1000227,2,17,4,5,2,1,2,20,5,,,11,23,1
+1,Oropeza,1,Sucre,1206,Chuqui Chuqui,54,Unidad Educativa Chuqui Chuqui,1000237,3,7,3,3,1,0,0,6,1,,,2,1,0
+1,Oropeza,1,Sucre,1207,Surima,55,Escuela Fray Gabriel Maria Landini,1000247,1,4,5,4,0,2,3,29,4,,,8,34,0
+1,Oropeza,1,Sucre,1207,Surima,55,Escuela Fray Gabriel Maria Landini,1000257,2,6,9,4,4,1,1,31,1,,,7,26,1
+1,Oropeza,1,Sucre,1207,Surima,55,Escuela Fray Gabriel Maria Landini,1000267,3,5,6,7,6,5,3,31,4,,,3,21,0
+1,Oropeza,1,Sucre,1208,Imilla Huañusca,56,Escuela Fray Gabriel Mariscal,1000277,1,2,16,2,3,0,8,1,4,,,10,19,3
+1,Oropeza,1,Sucre,1208,Imilla Huañusca,56,Escuela Fray Gabriel Mariscal,1000287,2,0,1,1,4,1,2,1,0,,,1,3,1
+1,Oropeza,1,Sucre,1218,Punilla,58,Escuela Punilla,1000297,1,7,21,2,4,4,3,11,5,,,10,29,2
+1,Oropeza,1,Sucre,1219,Mojotoro,59,Unidad Educativa La Palma,1000307,1,10,16,4,5,3,1,5,3,,,6,17,3
+1,Oropeza,1,Sucre,1219,Mojotoro,59,Unidad Educativa La Palma,1000317,2,5,18,2,4,2,1,6,7,,,9,16,1
+1,Oropeza,1,Sucre,1219,Mojotoro,59,Unidad Educativa La Palma,1000327,3,10,18,2,3,6,3,4,6,,,9,18,3
+1,Oropeza,1,Sucre,1220,Ckacha Ckacha,60,Escuela José Sampa,1000337,1,10,26,7,20,7,2,14,5,,,3,9,1
+1,Oropeza,1,Sucre,1220,Ckacha Ckacha,60,Escuela José Sampa,1000347,2,1,5,0,1,0,1,0,1,,,1,1,0
+1,Oropeza,1,Sucre,1221,El Chaco,61,Unidad Educativa Luis Espinal,1000357,1,19,16,4,7,3,3,19,1,,,9,8,1
+1,Oropeza,1,Sucre,1221,El Chaco,61,Unidad Educativa Luis Espinal,1000367,2,10,16,6,7,0,1,18,3,,,7,6,1
+1,Oropeza,1,Sucre,1221,El Chaco,61,Unidad Educativa Luis Espinal,1000377,3,9,13,10,6,3,1,12,2,,,6,13,2
+1,Oropeza,1,Sucre,1223,Potolo,62,U. Edu. Gualberto Villarroel,1000387,1,9,3,4,2,1,6,3,2,,,2,66,4
+1,Oropeza,1,Sucre,1223,Potolo,62,U. Edu. Gualberto Villarroel,1000397,2,3,10,10,1,2,8,2,2,,,2,59,2
+1,Oropeza,1,Sucre,1223,Potolo,62,U. Edu. Gualberto Villarroel,1000407,3,7,6,5,1,5,4,2,3,,,0,71,2
+1,Oropeza,1,Sucre,1223,Potolo,62,U. Edu. Gualberto Villarroel,1000417,4,11,5,5,1,2,2,4,2,,,2,63,1
+1,Oropeza,1,Sucre,1225,Quila Quila,63,Unidad Educativa Quila Quila,1000427,1,6,18,2,4,4,22,2,4,,,4,13,4
+1,Oropeza,1,Sucre,1225,Quila Quila,63,Unidad Educativa Quila Quila,1000437,2,4,13,1,3,4,9,3,2,,,5,10,3
+1,Oropeza,1,Sucre,1225,Quila Quila,63,Unidad Educativa Quila Quila,1000447,3,0,6,0,0,4,7,3,0,,,1,4,1
+1,Oropeza,1,Sucre,1230,Maragua,65,Colegio 24 de Septiembre   Maragua,1000457,1,10,19,6,1,3,3,7,5,,,4,18,2
+1,Oropeza,1,Sucre,1230,Maragua,65,Colegio 24 de Septiembre   Maragua,1000467,2,0,2,0,0,0,0,0,0,,,0,4,0
+1,Oropeza,1,Sucre,2794,Sucre,101,Colegio Junin,1001097,1,46,28,1,32,3,5,13,9,,,4,10,14
+1,Oropeza,1,Sucre,2794,Sucre,101,Colegio Junin,1001107,2,34,28,1,23,7,3,13,10,,,4,15,8
+1,Oropeza,1,Sucre,2794,Sucre,101,Colegio Junin,1001117,3,32,33,2,38,1,6,19,10,,,5,9,7
+1,Oropeza,1,Sucre,2794,Sucre,101,Colegio Junin,1001127,4,41,30,2,19,3,8,14,11,,,3,9,10
+1,Oropeza,1,Sucre,2794,Sucre,101,Colegio Junin,1001137,5,17,17,2,20,0,7,12,7,,,3,6,6
+1,Oropeza,1,Sucre,2794,Sucre,103,Esc. Mariscal De Ayacucho,1000637,1,24,26,2,53,5,3,12,11,,,4,10,12
+1,Oropeza,1,Sucre,2794,Sucre,103,Esc. Mariscal De Ayacucho,1000647,2,44,28,3,37,2,7,4,10,,,2,6,12
+1,Oropeza,1,Sucre,2794,Sucre,106,Kinder San Vicente De Paul,1000827,1,37,30,4,23,4,8,18,8,,,3,12,11
+1,Oropeza,1,Sucre,2794,Sucre,106,Kinder San Vicente De Paul,1000837,2,26,30,2,31,1,5,11,2,,,3,12,18
+1,Oropeza,1,Sucre,2794,Sucre,106,Kinder San Vicente De Paul,1000847,3,31,30,2,33,3,8,11,7,,,1,17,11
+1,Oropeza,1,Sucre,2794,Sucre,106,Kinder San Vicente De Paul,1000857,4,31,27,4,28,3,5,19,9,,,3,17,15
+1,Oropeza,1,Sucre,2794,Sucre,106,Kinder San Vicente De Paul,1000867,5,29,37,6,28,4,8,17,8,,,1,14,8
+1,Oropeza,1,Sucre,2794,Sucre,106,Kinder San Vicente De Paul,1000877,6,22,33,4,21,4,3,19,10,,,4,9,12
+1,Oropeza,1,Sucre,2794,Sucre,106,Kinder San Vicente De Paul,1000887,7,43,32,1,31,3,13,9,12,,,2,14,14
+1,Oropeza,1,Sucre,2794,Sucre,108,Col. Mariano Serrano,1004727,1,40,36,3,27,3,2,18,10,,,4,17,4
+1,Oropeza,1,Sucre,2794,Sucre,108,Col. Mariano Serrano,1004737,2,45,27,2,26,1,6,14,9,,,2,17,9
+1,Oropeza,1,Sucre,2794,Sucre,108,Col. Mariano Serrano,1004747,3,50,36,3,27,1,6,17,4,,,7,11,8
+1,Oropeza,1,Sucre,2794,Sucre,108,Col. Mariano Serrano,1004757,4,32,37,3,27,2,4,14,9,,,3,21,10
+1,Oropeza,1,Sucre,2794,Sucre,108,Col. Mariano Serrano,1004767,5,32,49,0,21,4,8,24,8,,,2,19,6
+1,Oropeza,1,Sucre,2794,Sucre,108,Col. Mariano Serrano,1004777,6,46,31,3,26,2,7,10,5,,,4,16,6
+1,Oropeza,1,Sucre,2794,Sucre,108,Col. Mariano Serrano,1004787,7,27,35,4,27,3,4,15,8,,,9,10,7
+1,Oropeza,1,Sucre,2794,Sucre,108,Col. Mariano Serrano,1004797,8,25,43,6,22,7,2,14,11,,,1,18,6
+1,Oropeza,1,Sucre,2794,Sucre,108,Col. Mariano Serrano,1004807,9,32,28,5,27,5,8,22,10,,,5,10,7
+1,Oropeza,1,Sucre,2794,Sucre,108,Col. Mariano Serrano,1004817,10,38,45,4,23,3,3,6,6,,,7,16,7
+1,Oropeza,1,Sucre,2794,Sucre,108,Col. Mariano Serrano,1004827,11,34,21,2,20,4,5,23,14,,,6,16,6
+1,Oropeza,1,Sucre,2794,Sucre,108,Col. Mariano Serrano,1004837,12,36,36,3,29,2,5,21,12,,,2,10,10
+1,Oropeza,1,Sucre,2794,Sucre,108,Col. Mariano Serrano,1004847,13,28,37,3,22,1,8,15,9,,,4,18,18
+1,Oropeza,1,Sucre,2794,Sucre,108,Col. Mariano Serrano,1004857,14,35,32,1,31,3,6,15,9,,,4,12,6
+1,Oropeza,1,Sucre,2794,Sucre,108,Col. Mariano Serrano,1004867,15,29,24,3,24,4,4,31,4,,,3,7,9
+1,Oropeza,1,Sucre,2794,Sucre,110,Unid. Educ. Jose Clemente Maurer,1008517,1,23,12,6,9,7,2,6,7,,,7,20,6
+1,Oropeza,1,Sucre,2794,Sucre,110,Unid. Educ. Jose Clemente Maurer,1008527,2,31,19,4,12,5,5,10,5,,,2,22,6
+1,Oropeza,1,Sucre,2794,Sucre,110,Unid. Educ. Jose Clemente Maurer,1008537,3,16,17,2,7,10,5,8,8,,,7,15,4
+1,Oropeza,1,Sucre,2794,Sucre,110,Unid. Educ. Jose Clemente Maurer,1008547,4,13,14,8,1,8,7,7,2,,,7,20,2
+1,Oropeza,1,Sucre,2794,Sucre,110,Unid. Educ. Jose Clemente Maurer,1008557,5,23,21,8,5,9,7,8,7,,,5,23,3
+1,Oropeza,1,Sucre,2794,Sucre,110,Unid. Educ. Jose Clemente Maurer,1008567,6,17,25,1,7,7,2,4,4,,,5,27,2
+1,Oropeza,1,Sucre,2794,Sucre,110,Unid. Educ. Jose Clemente Maurer,1008577,7,18,20,7,6,10,4,6,1,,,7,21,1
+1,Oropeza,1,Sucre,2794,Sucre,110,Unid. Educ. Jose Clemente Maurer,1008587,8,23,21,3,10,12,3,8,9,,,2,25,1
+1,Oropeza,1,Sucre,2794,Sucre,110,Unid. Educ. Jose Clemente Maurer,1008597,9,18,19,7,12,8,3,10,9,,,6,24,1
+1,Oropeza,1,Sucre,2794,Sucre,110,Unid. Educ. Jose Clemente Maurer,1008607,10,20,18,2,4,8,0,11,3,,,7,19,1
+1,Oropeza,1,Sucre,2794,Sucre,110,Unid. Educ. Jose Clemente Maurer,1008617,11,17,8,5,6,6,4,5,1,,,4,23,3
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005277,1,22,20,5,14,8,5,11,14,,,11,16,4
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005287,2,21,27,5,7,4,2,15,6,,,11,18,9
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005297,3,24,18,5,14,6,10,10,5,,,6,27,5
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005307,4,28,24,2,20,7,7,15,6,,,5,13,6
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005317,5,30,24,4,14,2,4,8,5,,,11,23,2
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005327,6,20,20,2,14,4,7,10,8,,,8,16,3
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005337,7,23,15,7,19,2,3,15,6,,,5,26,9
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005347,8,35,33,2,17,6,5,8,6,,,6,22,4
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005357,9,33,28,2,15,5,5,15,2,,,8,20,3
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005367,10,31,30,3,11,9,2,7,5,,,3,18,5
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005377,11,38,27,4,13,4,7,12,6,,,10,13,2
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005387,12,16,21,3,13,5,4,17,14,,,9,21,3
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005397,13,28,29,4,9,4,5,11,7,,,5,16,7
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005407,14,27,22,4,16,4,6,3,13,,,6,15,4
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005417,15,35,25,2,12,4,6,8,6,,,3,24,4
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005427,16,26,31,4,22,2,6,12,10,,,4,14,13
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005437,17,24,31,4,13,5,10,5,1,,,5,19,5
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005447,18,22,22,8,20,4,8,9,3,,,6,22,9
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005457,19,22,25,5,16,2,2,10,4,,,8,24,2
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005467,20,26,23,3,23,4,8,5,13,,,4,17,7
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005477,21,27,28,5,19,5,7,8,5,,,7,25,2
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005487,22,32,24,7,11,4,4,6,8,,,3,11,4
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005497,23,33,29,5,20,2,5,17,4,,,5,13,8
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005507,24,13,24,6,11,3,7,14,9,,,8,18,5
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005517,25,9,11,1,11,1,3,5,3,,,4,9,5
+1,Oropeza,1,Sucre,2794,Sucre,113,Esc. Benjamin Guzman,1003197,1,36,43,3,20,5,3,20,7,,,2,9,8
+1,Oropeza,1,Sucre,2794,Sucre,113,Esc. Benjamin Guzman,1003207,2,40,34,3,22,6,1,12,10,,,2,28,7
+1,Oropeza,1,Sucre,2794,Sucre,113,Esc. Benjamin Guzman,1003217,3,41,33,4,20,1,9,18,8,,,7,22,12
+1,Oropeza,1,Sucre,2794,Sucre,113,Esc. Benjamin Guzman,1003227,4,38,35,2,22,1,8,21,5,,,6,20,6
+1,Oropeza,1,Sucre,2794,Sucre,113,Esc. Benjamin Guzman,1003237,5,36,34,1,17,2,6,11,4,,,3,23,14
+1,Oropeza,1,Sucre,2794,Sucre,113,Esc. Benjamin Guzman,1003247,6,15,16,2,9,1,4,5,4,,,2,6,3
+1,Oropeza,1,Sucre,2794,Sucre,115,Esc. La Recoleta,1000967,1,30,43,4,19,4,5,8,7,,,8,17,6
+1,Oropeza,1,Sucre,2794,Sucre,115,Esc. La Recoleta,1000977,2,30,36,1,15,5,5,17,3,,,8,9,10
+1,Oropeza,1,Sucre,2794,Sucre,115,Esc. La Recoleta,1000987,3,36,27,5,18,5,7,11,3,,,8,15,10
+1,Oropeza,1,Sucre,2794,Sucre,115,Esc. La Recoleta,1000997,4,35,16,3,29,6,9,16,9,,,5,17,11
+1,Oropeza,1,Sucre,2794,Sucre,115,Esc. La Recoleta,1001007,5,38,28,3,14,11,7,8,2,,,7,21,3
+1,Oropeza,1,Sucre,2794,Sucre,115,Esc. La Recoleta,1001017,6,35,24,4,24,8,11,11,8,,,4,13,11
+1,Oropeza,1,Sucre,2794,Sucre,115,Esc. La Recoleta,1001027,7,31,39,7,18,1,9,18,8,,,5,14,9
+1,Oropeza,1,Sucre,2794,Sucre,115,Esc. La Recoleta,1001037,8,30,30,7,31,1,6,16,5,,,6,16,13
+1,Oropeza,1,Sucre,2794,Sucre,115,Esc. La Recoleta,1001047,9,39,27,0,24,6,10,8,11,,,10,17,8
+1,Oropeza,1,Sucre,2794,Sucre,115,Esc. La Recoleta,1001057,10,30,25,4,22,5,2,13,7,,,1,20,11
+1,Oropeza,1,Sucre,2794,Sucre,115,Esc. La Recoleta,1001067,11,47,29,4,20,2,8,6,5,,,1,21,5
+1,Oropeza,1,Sucre,2794,Sucre,115,Esc. La Recoleta,1001077,12,35,21,6,17,9,5,14,5,,,9,10,6
+1,Oropeza,1,Sucre,2794,Sucre,115,Esc. La Recoleta,1001087,13,5,3,3,1,1,0,3,1,,,0,2,1
+1,Oropeza,1,Sucre,2794,Sucre,116,Salon Multifuncional El Abra,1009507,1,28,39,5,17,6,9,13,6,,,2,9,5
+1,Oropeza,1,Sucre,2794,Sucre,116,Salon Multifuncional El Abra,1009517,2,16,31,1,10,9,2,11,4,,,9,9,1
+1,Oropeza,1,Sucre,2794,Sucre,116,Salon Multifuncional El Abra,1009527,3,27,33,4,6,4,9,12,5,,,4,17,1
+1,Oropeza,1,Sucre,2794,Sucre,116,Salon Multifuncional El Abra,1009537,4,27,27,3,13,7,7,5,7,,,4,15,6
+1,Oropeza,1,Sucre,2794,Sucre,116,Salon Multifuncional El Abra,1009547,5,22,32,8,7,4,5,7,8,,,5,19,2
+1,Oropeza,1,Sucre,2794,Sucre,116,Salon Multifuncional El Abra,1009557,6,19,41,2,11,2,7,13,7,,,3,15,4
+1,Oropeza,1,Sucre,2794,Sucre,116,Salon Multifuncional El Abra,1009567,7,28,23,8,7,9,5,8,12,,,4,11,0
+1,Oropeza,1,Sucre,2794,Sucre,116,Salon Multifuncional El Abra,1009577,8,28,25,4,18,6,8,8,12,,,2,14,6
+1,Oropeza,1,Sucre,2794,Sucre,116,Salon Multifuncional El Abra,1009587,9,23,10,6,12,5,6,10,9,,,5,13,4
+1,Oropeza,1,Sucre,2794,Sucre,117,Esc. San Javier,1004337,1,51,29,6,28,4,7,13,7,,,6,13,10
+1,Oropeza,1,Sucre,2794,Sucre,117,Esc. San Javier,1004347,2,46,26,1,34,1,7,15,4,,,6,11,6
+1,Oropeza,1,Sucre,2794,Sucre,117,Esc. San Javier,1004357,3,47,26,3,22,3,4,14,11,,,3,8,8
+1,Oropeza,1,Sucre,2794,Sucre,117,Esc. San Javier,1004367,4,34,38,3,29,2,6,10,10,,,4,18,14
+1,Oropeza,1,Sucre,2794,Sucre,117,Esc. San Javier,1004377,5,36,31,3,35,2,4,10,7,,,4,15,12
+1,Oropeza,1,Sucre,2794,Sucre,117,Esc. San Javier,1004387,6,40,36,3,20,4,2,15,7,,,8,17,14
+1,Oropeza,1,Sucre,2794,Sucre,117,Esc. San Javier,1004397,7,38,35,2,23,5,5,15,9,,,3,14,17
+1,Oropeza,1,Sucre,2794,Sucre,117,Esc. San Javier,1004407,8,25,38,4,35,2,4,15,8,,,7,10,7
+1,Oropeza,1,Sucre,2794,Sucre,117,Esc. San Javier,1004417,9,31,42,6,29,3,6,16,7,,,3,14,9
+1,Oropeza,1,Sucre,2794,Sucre,117,Esc. San Javier,1004427,10,34,36,2,35,5,1,11,7,,,6,16,12
+1,Oropeza,1,Sucre,2794,Sucre,117,Esc. San Javier,1004437,11,38,27,1,32,4,3,16,4,,,3,14,6
+1,Oropeza,1,Sucre,2794,Sucre,117,Esc. San Javier,1004447,12,41,35,3,19,4,5,15,12,,,7,11,6
+1,Oropeza,1,Sucre,2794,Sucre,117,Esc. San Javier,1004457,13,51,23,6,19,1,10,7,4,,,5,9,13
+1,Oropeza,1,Sucre,2794,Sucre,117,Esc. San Javier,1004467,14,29,27,1,30,3,5,17,13,,,7,20,15
+1,Oropeza,1,Sucre,2794,Sucre,117,Esc. San Javier,1004477,15,29,39,1,32,1,7,15,4,,,6,12,8
+1,Oropeza,1,Sucre,2794,Sucre,117,Esc. San Javier,1004487,16,39,26,5,40,2,7,14,4,,,5,15,10
+1,Oropeza,1,Sucre,2794,Sucre,117,Esc. San Javier,1004497,17,4,6,3,8,0,2,4,1,,,4,4,4
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003757,1,24,31,8,16,3,6,10,7,,,11,12,4
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003767,2,36,30,8,20,8,6,10,3,,,8,23,5
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003777,3,30,33,4,17,6,4,13,9,,,7,19,5
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003787,4,30,33,3,15,7,9,11,4,,,5,25,2
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003797,5,25,16,8,7,8,6,10,7,,,9,13,7
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003807,6,24,34,3,17,4,8,12,4,,,4,24,7
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003817,7,30,29,2,14,6,8,7,5,,,5,12,8
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003827,8,34,25,2,18,5,2,7,5,,,7,23,4
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003837,9,28,30,2,22,10,11,7,9,,,8,18,11
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003847,10,39,20,4,7,3,6,10,6,,,9,18,3
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003857,11,30,29,2,11,6,8,14,6,,,5,22,6
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003867,12,25,26,4,18,10,4,14,5,,,4,19,4
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003877,13,28,39,2,23,4,4,16,10,,,7,23,2
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003887,14,30,24,2,16,7,7,12,7,,,7,18,5
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003897,15,21,29,3,16,2,10,9,9,,,6,19,6
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003907,16,27,30,3,16,10,12,7,7,,,6,24,1
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003917,17,26,33,2,14,6,7,11,8,,,9,27,4
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003927,18,24,17,2,21,4,10,12,13,,,5,27,7
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003937,19,25,25,7,10,7,8,9,9,,,6,18,4
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003947,20,24,32,2,16,7,3,10,8,,,9,22,4
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003957,21,28,29,3,15,5,7,13,4,,,7,21,6
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003967,22,20,20,2,8,5,2,6,4,,,1,6,4
+1,Oropeza,1,Sucre,2794,Sucre,124,Kinder Echeverria,1001147,1,27,42,6,34,2,3,10,12,,,2,7,8
+1,Oropeza,1,Sucre,2794,Sucre,124,Kinder Echeverria,1001157,2,34,33,7,29,3,9,11,5,,,1,11,11
+1,Oropeza,1,Sucre,2794,Sucre,124,Kinder Echeverria,1001167,3,27,42,3,41,4,6,14,3,,,4,11,14
+1,Oropeza,1,Sucre,2794,Sucre,124,Kinder Echeverria,1001177,4,31,34,0,38,3,12,8,6,,,2,13,13
+1,Oropeza,1,Sucre,2794,Sucre,124,Kinder Echeverria,1001187,5,12,12,1,13,2,5,6,6,,,0,3,5
+1,Oropeza,1,Sucre,2794,Sucre,202,Col. Don Bosco,1000707,1,46,33,1,35,3,8,12,7,,,2,9,9
+1,Oropeza,1,Sucre,2794,Sucre,202,Col. Don Bosco,1000717,2,25,29,6,28,4,10,7,9,,,5,10,13
+1,Oropeza,1,Sucre,2794,Sucre,202,Col. Don Bosco,1000727,3,34,31,6,31,3,6,16,11,,,5,9,9
+1,Oropeza,1,Sucre,2794,Sucre,202,Col. Don Bosco,1000737,4,41,28,3,37,4,7,15,6,,,3,11,13
+1,Oropeza,1,Sucre,2794,Sucre,202,Col. Don Bosco,1000747,5,35,22,2,40,1,15,9,11,,,4,10,12
+1,Oropeza,1,Sucre,2794,Sucre,202,Col. Don Bosco,1000757,6,30,28,3,24,5,8,14,6,,,4,19,13
+1,Oropeza,1,Sucre,2794,Sucre,202,Col. Don Bosco,1000767,7,31,16,1,20,3,6,10,9,,,7,8,19
+1,Oropeza,1,Sucre,2794,Sucre,204,Col. Sagrado Corazon,1000777,1,20,37,2,27,5,5,11,13,,,5,15,16
+1,Oropeza,1,Sucre,2794,Sucre,204,Col. Sagrado Corazon,1000787,2,24,38,5,25,3,3,16,14,,,2,8,15
+1,Oropeza,1,Sucre,2794,Sucre,204,Col. Sagrado Corazon,1000797,3,29,27,3,33,3,5,13,14,,,5,11,12
+1,Oropeza,1,Sucre,2794,Sucre,204,Col. Sagrado Corazon,1000807,4,43,24,3,24,3,5,10,5,,,0,13,15
+1,Oropeza,1,Sucre,2794,Sucre,204,Col. Sagrado Corazon,1000817,5,12,12,1,7,0,3,4,8,,,0,4,5
+1,Oropeza,1,Sucre,2794,Sucre,208,Kinder Municipal,1007897,1,49,19,4,19,9,5,15,10,,,4,13,6
+1,Oropeza,1,Sucre,2794,Sucre,208,Kinder Municipal,1007907,2,48,30,4,23,5,11,13,7,,,1,11,6
+1,Oropeza,1,Sucre,2794,Sucre,208,Kinder Municipal,1007917,3,39,16,1,22,6,6,17,16,,,7,11,10
+1,Oropeza,1,Sucre,2794,Sucre,208,Kinder Municipal,1007927,4,42,18,4,20,6,9,17,11,,,3,18,7
+1,Oropeza,1,Sucre,2794,Sucre,208,Kinder Municipal,1007937,5,43,24,7,17,9,11,20,11,,,0,10,5
+1,Oropeza,1,Sucre,2794,Sucre,208,Kinder Municipal,1007947,6,38,31,5,25,4,9,11,17,,,5,11,4
+1,Oropeza,1,Sucre,2794,Sucre,208,Kinder Municipal,1007957,7,41,23,8,16,8,8,19,10,,,4,18,4
+1,Oropeza,1,Sucre,2794,Sucre,208,Kinder Municipal,1007967,8,26,12,1,16,2,7,8,9,,,1,4,5
+1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,1009417,1,37,38,3,23,1,12,17,6,,,7,19,10
+1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,1009427,2,33,37,3,17,12,20,13,7,,,1,12,7
+1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,1009437,3,30,39,6,16,6,10,16,2,,,4,10,11
+1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,1009447,4,34,36,4,17,6,8,23,7,,,3,17,13
+1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,1009457,5,26,22,7,14,7,11,9,8,,,5,16,6
+1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,1009467,6,31,33,2,20,1,11,23,5,,,5,13,11
+1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,1009477,7,29,28,3,27,5,15,12,4,,,8,12,7
+1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,1009487,8,39,26,7,15,4,18,12,12,,,4,14,10
+1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,1009497,9,16,25,7,13,0,15,14,10,,,5,13,5
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008047,1,20,23,4,19,6,9,8,8,,,3,31,3
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008057,2,22,30,2,11,9,9,8,4,,,6,17,3
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008067,3,21,29,1,12,7,7,7,6,,,7,21,4
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008077,4,21,15,2,13,11,8,26,10,,,6,16,3
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008087,5,17,24,8,14,6,5,11,6,,,7,16,11
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008097,6,21,19,3,9,3,10,16,5,,,10,16,4
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008107,7,28,13,8,15,5,5,12,3,,,4,14,3
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008117,8,17,29,5,14,9,7,12,3,,,6,14,14
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008127,9,19,21,7,6,1,5,8,4,,,3,16,2
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008137,10,26,29,4,16,8,5,7,3,,,6,11,3
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008147,11,16,15,2,10,3,7,20,6,,,6,31,4
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008157,12,19,27,3,11,4,5,12,4,,,2,29,7
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008167,13,15,26,1,10,5,7,6,7,,,2,18,3
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008177,14,22,22,4,14,6,9,14,6,,,5,27,2
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008187,15,14,31,4,14,4,8,12,11,,,2,20,7
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008197,16,17,26,2,18,5,5,12,8,,,6,20,4
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008207,17,28,23,2,14,5,6,12,10,,,9,18,7
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008217,18,31,16,3,19,6,3,19,2,,,7,18,3
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008227,19,23,20,2,14,4,3,8,7,,,4,4,8
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1005857,1,28,29,7,14,8,5,10,6,,,9,18,6
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1005867,2,33,23,6,19,5,6,18,9,,,6,19,4
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1005877,3,27,30,3,13,11,8,18,2,,,3,23,5
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1005887,4,24,28,4,15,9,3,15,11,,,6,16,7
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1005897,5,21,27,8,14,5,6,11,4,,,6,24,1
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1005907,6,22,18,5,13,7,6,7,7,,,11,14,7
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1005917,7,25,15,9,15,6,11,11,9,,,7,13,8
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1005927,8,25,38,5,13,2,9,12,7,,,5,18,8
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1005937,9,36,20,8,9,4,7,11,5,,,5,17,4
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1005947,10,21,41,6,16,9,3,20,5,,,9,9,6
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1005957,11,22,17,5,9,4,7,18,8,,,7,15,4
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1005967,12,35,37,4,9,7,4,16,8,,,2,5,8
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1005977,13,20,19,3,13,10,7,11,8,,,3,13,6
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1005987,14,30,20,4,24,4,7,14,9,,,5,17,4
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1005997,15,36,28,10,17,9,5,9,0,,,4,18,7
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1006007,16,18,27,9,16,10,5,17,7,,,9,11,9
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1006017,17,25,23,6,13,7,5,13,8,,,9,20,9
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1006027,18,26,21,6,11,3,2,12,6,,,2,18,5
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1006037,19,16,24,5,14,6,8,23,4,,,6,20,7
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1006047,20,28,33,2,19,10,6,16,8,,,1,18,7
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1006057,21,22,38,7,9,2,7,20,4,,,4,22,2
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1006067,22,19,26,6,14,4,2,23,10,,,8,17,5
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1006077,23,34,24,6,14,17,8,10,5,,,5,17,8
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1006087,24,17,11,1,9,6,2,7,1,,,5,12,4
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1002947,1,25,37,2,13,9,2,11,7,,,4,18,7
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1002957,2,27,28,4,15,5,5,22,7,,,3,20,7
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1002967,3,32,30,7,16,5,2,13,7,,,4,25,7
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1002977,4,22,30,5,17,6,7,14,7,,,5,22,7
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1002987,5,20,31,5,10,10,2,12,5,,,8,22,7
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1002997,6,32,23,1,12,7,6,7,9,,,12,21,3
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003007,7,33,26,1,17,3,4,7,3,,,4,16,7
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003017,8,23,42,9,19,9,8,5,8,,,8,23,3
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003027,9,26,33,3,18,1,4,7,11,,,8,18,7
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003037,10,24,38,4,16,3,6,16,4,,,4,23,2
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003047,11,29,31,7,12,9,6,9,12,,,1,32,6
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003057,12,24,32,5,18,5,6,6,3,,,7,20,4
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003067,13,18,12,3,17,3,8,15,8,,,5,27,3
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003077,14,26,26,4,15,3,7,14,8,,,3,8,6
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003087,15,19,41,4,11,4,9,10,6,,,2,28,7
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003097,16,25,24,4,13,7,3,14,7,,,5,24,7
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003107,17,17,14,4,15,3,6,18,8,,,5,27,5
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003117,18,27,22,7,14,7,9,21,3,,,4,11,2
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003127,19,35,22,8,16,5,4,9,6,,,3,28,11
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003137,20,27,29,3,14,6,4,16,10,,,4,27,3
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003147,21,26,28,3,18,3,3,9,11,,,8,29,4
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003157,22,23,24,6,16,7,6,16,7,,,8,17,13
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003167,23,22,27,7,17,5,5,14,4,,,3,19,8
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003177,24,30,32,4,25,2,5,12,11,,,5,14,7
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003187,25,5,12,1,5,0,2,6,2,,,1,13,1
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002727,1,26,18,3,9,6,9,12,5,,,6,19,6
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002737,2,25,20,3,14,11,4,12,1,,,4,11,3
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002747,3,29,27,5,14,7,2,14,9,,,8,18,5
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002757,4,22,19,5,15,4,5,5,6,,,9,23,6
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002767,5,23,21,3,7,4,4,9,2,,,5,13,5
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002777,6,24,23,8,12,8,1,9,6,,,6,12,8
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002787,7,18,16,4,14,11,4,9,8,,,5,19,5
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002797,8,33,16,4,18,2,5,9,3,,,7,14,6
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002807,9,25,24,2,10,4,7,14,6,,,7,14,4
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002817,10,17,18,9,11,6,4,10,4,,,9,10,6
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002827,11,19,33,4,13,9,4,12,7,,,7,17,2
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002837,12,13,17,6,9,6,6,15,11,,,7,11,4
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002847,13,27,23,5,9,8,2,6,9,,,3,15,4
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002857,14,12,20,5,9,10,4,13,8,,,9,19,4
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002867,15,20,27,3,12,7,5,7,5,,,10,16,3
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002877,16,28,17,3,9,11,4,11,7,,,9,16,1
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002887,17,36,23,5,12,6,5,9,6,,,8,9,5
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002897,18,20,25,3,9,8,6,10,8,,,7,16,4
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002907,19,19,22,6,18,5,4,15,5,,,9,18,2
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002917,20,20,19,9,14,6,5,8,6,,,11,10,5
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002927,21,30,27,5,20,6,6,7,1,,,1,17,6
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002937,22,3,6,0,3,2,2,4,4,,,0,5,0
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003257,1,24,21,2,4,3,5,9,3,,,7,19,4
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003267,2,35,17,5,9,10,9,8,9,,,7,15,6
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003277,3,19,34,4,12,10,5,13,5,,,9,9,7
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003287,4,20,14,2,9,5,6,12,5,,,6,20,6
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003297,5,20,15,4,11,7,4,9,6,,,9,18,7
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003307,6,17,23,5,11,8,4,14,4,,,7,19,3
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003317,7,26,22,5,12,8,4,15,7,,,7,12,3
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003327,8,18,20,5,12,9,6,6,1,,,4,19,4
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003337,9,11,20,4,9,8,4,13,3,,,12,21,6
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003347,10,24,23,2,16,8,3,8,9,,,6,17,8
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003357,11,20,27,7,10,5,3,7,7,,,8,15,4
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003367,12,25,28,4,7,2,9,11,5,,,4,30,4
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003377,13,12,27,13,9,6,3,11,5,,,11,10,4
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003387,14,28,15,7,10,2,5,8,7,,,10,18,2
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003397,15,16,18,7,14,5,5,9,5,,,9,25,2
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003407,16,30,15,9,9,9,11,15,5,,,6,17,4
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003417,17,13,30,4,10,4,1,11,5,,,15,28,0
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003427,18,26,16,4,9,3,4,8,5,,,9,15,3
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003437,19,23,23,4,11,10,2,13,8,,,7,18,3
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003447,20,24,19,4,11,9,3,13,7,,,10,12,3
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003457,21,32,14,5,6,5,9,9,5,,,8,18,4
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003467,22,29,22,3,10,10,3,10,8,,,10,14,3
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003477,23,22,19,7,9,4,2,8,8,,,5,18,5
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003487,24,18,23,3,12,7,7,10,5,,,9,17,1
+1,Oropeza,1,Sucre,2794,Sucre,219,U.E. Las Americas,1003497,25,8,3,1,2,1,0,1,2,,,0,6,0
+1,Oropeza,1,Sucre,2794,Sucre,222,Col. Cardenal Maurer,1001197,1,39,33,1,17,7,19,11,8,,,1,8,8
+1,Oropeza,1,Sucre,2794,Sucre,222,Col. Cardenal Maurer,1001207,2,53,20,2,24,2,8,11,7,,,5,18,8
+1,Oropeza,1,Sucre,2794,Sucre,222,Col. Cardenal Maurer,1001217,3,40,30,1,16,2,19,22,6,,,4,9,5
+1,Oropeza,1,Sucre,2794,Sucre,222,Col. Cardenal Maurer,1001227,4,51,24,1,31,4,18,8,6,,,2,13,9
+1,Oropeza,1,Sucre,2794,Sucre,222,Col. Cardenal Maurer,1001237,5,32,29,2,29,4,13,12,8,,,3,7,11
+1,Oropeza,1,Sucre,2794,Sucre,222,Col. Cardenal Maurer,1001247,6,33,45,2,25,3,16,11,5,,,5,12,13
+1,Oropeza,1,Sucre,2794,Sucre,222,Col. Cardenal Maurer,1001257,7,39,28,3,29,2,17,10,10,,,4,14,10
+1,Oropeza,1,Sucre,2794,Sucre,222,Col. Cardenal Maurer,1001267,8,33,34,1,27,1,26,8,12,,,2,17,6
+1,Oropeza,1,Sucre,2794,Sucre,222,Col. Cardenal Maurer,1001277,9,35,24,1,26,3,5,10,9,,,4,3,10
+1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002107,1,24,32,2,10,11,6,10,0,,,4,11,3
+1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002117,2,19,25,1,6,8,3,5,5,,,9,20,3
+1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002127,3,23,18,7,6,10,9,10,3,,,3,13,2
+1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002137,4,20,22,4,6,3,2,7,7,,,5,15,3
+1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002147,5,18,9,6,11,8,4,9,2,,,10,20,1
+1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002157,6,21,21,6,3,11,1,12,7,,,9,7,4
+1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002167,7,12,22,7,4,11,6,9,4,,,13,13,4
+1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002177,8,17,21,6,8,6,4,5,5,,,8,25,3
+1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002187,9,14,22,3,10,6,3,8,5,,,5,19,4
+1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002197,10,19,18,3,5,2,4,9,3,,,5,12,1
+1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002207,11,12,29,5,6,8,2,5,3,,,3,26,5
+1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002217,12,11,16,6,10,9,4,8,3,,,12,19,2
+1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002227,13,16,31,3,9,5,7,10,3,,,6,17,1
+1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002237,14,22,26,3,10,10,7,12,4,,,7,26,4
+1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002247,15,21,32,4,12,1,3,4,8,,,5,10,2
+1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002257,16,18,23,3,10,3,3,10,2,,,6,17,3
+1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002267,17,14,16,5,7,8,4,16,4,,,9,18,3
+1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002277,18,7,27,2,6,7,4,10,7,,,5,10,7
+1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002287,19,14,20,4,9,7,4,15,4,,,3,23,3
+1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002297,20,18,23,5,10,4,5,12,1,,,11,16,4
+1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002307,21,13,29,5,7,5,3,7,6,,,11,21,2
+1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002317,22,11,14,2,5,6,3,4,4,,,3,9,5
+1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006757,1,38,30,2,24,2,5,22,3,,,3,14,5
+1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006767,2,36,24,1,20,6,9,6,11,,,7,20,5
+1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006777,3,42,40,7,24,5,5,8,8,,,6,16,7
+1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006787,4,27,30,3,21,6,7,18,9,,,9,13,6
+1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006797,5,31,28,4,16,11,8,23,9,,,11,10,6
+1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006807,6,34,32,5,22,3,4,16,9,,,6,19,12
+1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006817,7,25,28,9,14,11,10,18,3,,,7,14,7
+1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006827,8,38,28,1,27,4,9,23,12,,,5,17,6
+1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006837,9,29,32,3,14,7,3,18,5,,,8,12,7
+1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006847,10,32,22,3,22,8,6,17,11,,,12,14,7
+1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006857,11,32,21,5,18,6,4,10,7,,,6,27,8
+1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006867,12,33,27,1,21,3,12,15,3,,,4,19,14
+1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006877,13,36,29,2,14,13,3,24,9,,,9,14,10
+1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006887,14,31,32,0,13,7,12,17,4,,,6,20,6
+1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006897,15,29,31,4,21,6,3,17,5,,,4,15,18
+1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006907,16,36,40,5,18,5,5,23,11,,,3,17,10
+1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006917,17,36,25,4,25,2,5,19,11,,,4,16,7
+1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006927,18,45,31,1,20,6,3,19,8,,,4,16,2
+1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006937,19,35,24,2,26,10,9,11,7,,,6,12,12
+1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006947,20,43,39,2,28,4,5,11,6,,,5,11,4
+1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006957,21,7,8,2,2,0,1,2,1,,,2,6,2
+1,Oropeza,1,Sucre,2794,Sucre,229,Colegio Domingo Sabio,1007637,1,19,31,5,21,13,5,17,12,,,5,16,5
+1,Oropeza,1,Sucre,2794,Sucre,229,Colegio Domingo Sabio,1007647,2,36,30,6,13,5,7,19,13,,,0,17,5
+1,Oropeza,1,Sucre,2794,Sucre,229,Colegio Domingo Sabio,1007657,3,25,22,5,13,11,9,18,10,,,4,24,5
+1,Oropeza,1,Sucre,2794,Sucre,229,Colegio Domingo Sabio,1007667,4,19,21,3,25,8,9,17,3,,,4,19,3
+1,Oropeza,1,Sucre,2794,Sucre,229,Colegio Domingo Sabio,1007677,5,32,18,5,13,4,9,17,5,,,4,14,9
+1,Oropeza,1,Sucre,2794,Sucre,229,Colegio Domingo Sabio,1007687,6,21,17,4,14,11,13,18,7,,,4,20,9
+1,Oropeza,1,Sucre,2794,Sucre,229,Colegio Domingo Sabio,1007697,7,22,17,4,14,8,7,14,6,,,4,17,4
+1,Oropeza,1,Sucre,2794,Sucre,229,Colegio Domingo Sabio,1007707,8,22,25,6,12,10,3,16,9,,,1,22,5
+1,Oropeza,1,Sucre,2794,Sucre,229,Colegio Domingo Sabio,1007717,9,29,21,4,29,8,2,8,13,,,3,16,7
+1,Oropeza,1,Sucre,2794,Sucre,229,Colegio Domingo Sabio,1007727,10,30,24,3,14,3,11,10,5,,,4,18,5
+1,Oropeza,1,Sucre,2794,Sucre,229,Colegio Domingo Sabio,1007737,11,2,6,1,6,4,3,7,4,,,1,5,3
+1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007337,1,22,22,6,20,7,5,8,6,,,10,25,4
+1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007347,2,27,23,5,14,7,4,13,6,,,6,17,2
+1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007357,3,21,24,6,10,4,10,11,5,,,9,18,4
+1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007367,4,20,25,7,11,6,3,16,9,,,5,17,3
+1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007377,5,18,24,7,12,6,4,14,8,,,5,23,5
+1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007387,6,22,37,2,14,1,9,14,12,,,4,19,5
+1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007397,7,21,25,5,13,4,5,7,5,,,4,20,4
+1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007407,8,16,24,3,10,5,5,11,6,,,4,21,9
+1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007417,9,31,29,7,12,5,3,9,5,,,6,13,3
+1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007427,10,20,34,6,12,6,3,9,5,,,6,20,2
+1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007437,11,28,25,6,11,4,4,10,7,,,6,30,5
+1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007447,12,15,25,5,9,7,7,9,5,,,5,18,6
+1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007457,13,27,26,9,9,5,2,10,10,,,6,20,7
+1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007467,14,33,25,7,15,2,9,15,6,,,5,21,3
+1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007477,15,9,36,6,15,4,2,13,9,,,5,22,17
+1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007487,16,14,19,3,3,6,7,9,8,,,5,18,4
+1,Oropeza,1,Sucre,2794,Sucre,231,E.S.F.M. Mariscal Sucre,1001807,1,28,36,2,22,4,5,12,14,,,5,14,11
+1,Oropeza,1,Sucre,2794,Sucre,231,E.S.F.M. Mariscal Sucre,1001817,2,29,42,3,25,2,7,9,5,,,8,16,5
+1,Oropeza,1,Sucre,2794,Sucre,231,E.S.F.M. Mariscal Sucre,1001827,3,38,35,2,29,0,6,13,9,,,3,13,14
+1,Oropeza,1,Sucre,2794,Sucre,231,E.S.F.M. Mariscal Sucre,1001837,4,31,42,3,17,4,4,22,9,,,5,13,5
+1,Oropeza,1,Sucre,2794,Sucre,231,E.S.F.M. Mariscal Sucre,1001847,5,34,30,3,30,2,9,16,11,,,8,15,8
+1,Oropeza,1,Sucre,2794,Sucre,231,E.S.F.M. Mariscal Sucre,1001857,6,26,38,6,26,5,3,10,11,,,6,20,6
+1,Oropeza,1,Sucre,2794,Sucre,231,E.S.F.M. Mariscal Sucre,1001867,7,8,2,0,3,1,1,0,1,,,2,1,0
+1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004507,1,34,27,2,19,4,6,15,5,,,5,13,11
+1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004517,2,42,25,3,31,1,7,14,12,,,2,8,16
+1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004527,3,34,39,1,23,5,7,15,8,,,0,14,8
+1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004537,4,45,38,5,21,2,5,16,8,,,7,16,6
+1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004547,5,34,24,4,27,4,11,13,6,,,2,17,13
+1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004557,6,37,28,2,23,4,7,9,6,,,6,21,10
+1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004567,7,43,31,5,41,3,4,13,8,,,4,8,14
+1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004577,8,35,34,2,29,2,7,18,3,,,2,17,9
+1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004587,9,49,20,4,25,2,2,13,9,,,4,18,6
+1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004597,10,38,34,3,21,1,4,18,7,,,1,19,3
+1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004607,11,32,41,5,24,3,4,20,7,,,12,17,9
+1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004617,12,38,22,1,21,6,7,19,4,,,4,19,7
+1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004627,13,27,27,3,33,5,4,18,5,,,4,15,13
+1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004637,14,32,34,8,25,6,3,11,5,,,1,10,11
+1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004647,15,30,23,7,33,4,8,13,12,,,9,9,10
+1,Oropeza,1,Sucre,2794,Sucre,401,Col. Victorino Vega,1008937,1,34,24,9,16,4,6,9,5,,,5,12,9
+1,Oropeza,1,Sucre,2794,Sucre,401,Col. Victorino Vega,1008947,2,30,21,4,14,5,4,17,4,,,7,13,6
+1,Oropeza,1,Sucre,2794,Sucre,401,Col. Victorino Vega,1008957,3,49,29,3,10,2,1,11,4,,,6,15,5
+1,Oropeza,1,Sucre,2794,Sucre,401,Col. Victorino Vega,1008967,4,37,22,0,11,6,3,8,7,,,6,16,5
+1,Oropeza,1,Sucre,2794,Sucre,401,Col. Victorino Vega,1008977,5,16,26,4,27,9,5,10,8,,,3,14,2
+1,Oropeza,1,Sucre,2794,Sucre,401,Col. Victorino Vega,1008987,6,26,27,4,18,4,7,11,6,,,5,12,2
+1,Oropeza,1,Sucre,2794,Sucre,401,Col. Victorino Vega,1008997,7,42,27,0,10,5,4,10,2,,,8,11,5
+1,Oropeza,1,Sucre,2794,Sucre,401,Col. Victorino Vega,1009007,8,35,26,6,8,4,3,11,4,,,8,15,3
+1,Oropeza,1,Sucre,2794,Sucre,401,Col. Victorino Vega,1009017,9,36,21,8,20,3,4,4,6,,,5,12,5
+1,Oropeza,1,Sucre,2794,Sucre,401,Col. Victorino Vega,1009027,10,43,28,1,7,3,5,7,2,,,9,17,6
+1,Oropeza,1,Sucre,2794,Sucre,401,Col. Victorino Vega,1009037,11,20,45,5,10,8,4,16,8,,,7,13,3
+1,Oropeza,1,Sucre,2794,Sucre,401,Col. Victorino Vega,1009047,12,38,21,2,20,8,5,13,4,,,5,19,4
+1,Oropeza,1,Sucre,2794,Sucre,401,Col. Victorino Vega,1009057,13,29,34,5,13,3,6,8,3,,,7,17,3
+1,Oropeza,1,Sucre,2794,Sucre,401,Col. Victorino Vega,1009067,14,32,19,5,10,4,3,10,8,,,7,24,3
+1,Oropeza,1,Sucre,2794,Sucre,401,Col. Victorino Vega,1009077,15,40,29,6,14,7,2,10,7,,,2,15,6
+1,Oropeza,1,Sucre,2794,Sucre,401,Col. Victorino Vega,1009087,16,32,36,2,13,3,2,15,5,,,6,21,5
+1,Oropeza,1,Sucre,2794,Sucre,401,Col. Victorino Vega,1009097,17,34,27,4,16,10,4,10,6,,,3,11,5
+1,Oropeza,1,Sucre,2794,Sucre,401,Col. Victorino Vega,1009107,18,26,14,9,16,8,6,14,5,,,8,16,8
+1,Oropeza,1,Sucre,2794,Sucre,401,Col. Victorino Vega,1009117,19,29,22,6,15,3,4,9,7,,,8,15,3
+1,Oropeza,1,Sucre,2794,Sucre,401,Col. Victorino Vega,1009127,20,14,13,3,6,1,2,3,1,,,3,11,4
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001477,1,24,25,10,13,3,6,17,5,,,7,26,2
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001487,2,30,30,5,18,8,12,12,8,,,7,15,3
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001497,3,26,25,3,22,13,1,10,5,,,8,14,4
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001507,4,28,31,6,15,6,3,15,5,,,3,13,2
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001517,5,34,24,4,8,5,6,7,7,,,14,14,3
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001527,6,20,23,1,10,6,8,15,6,,,6,18,7
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001537,7,27,27,0,10,7,6,14,2,,,6,19,5
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001547,8,20,27,7,18,6,5,11,6,,,4,17,8
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001557,9,35,20,6,17,4,6,6,4,,,11,9,5
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001567,10,24,18,9,15,3,2,7,11,,,10,12,7
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001577,11,32,25,5,15,6,5,12,3,,,11,15,5
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001587,12,24,24,2,12,3,4,7,6,,,10,23,4
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001597,13,22,27,6,16,5,8,13,5,,,7,21,6
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001607,14,23,25,7,23,10,7,8,4,,,4,25,3
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001617,15,27,27,2,25,4,9,12,3,,,8,14,2
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001627,16,22,29,9,15,2,6,10,4,,,4,17,3
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001637,17,26,22,4,17,3,10,14,5,,,2,25,2
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001647,18,28,22,4,14,4,6,8,4,,,5,29,2
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001657,19,22,27,5,14,5,2,7,5,,,3,20,6
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001667,20,33,23,2,12,15,6,9,4,,,3,25,4
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001677,21,27,29,2,10,10,1,10,6,,,4,23,9
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001687,22,23,21,4,15,3,5,4,6,,,8,27,10
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001697,23,26,29,3,14,9,3,8,5,,,7,9,4
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001707,24,28,18,11,16,9,11,10,8,,,7,21,1
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001717,25,14,16,3,9,7,5,8,7,,,2,16,3
+1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002547,1,30,35,2,24,7,3,12,4,,,9,16,15
+1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002557,2,34,30,8,24,6,3,20,9,,,6,17,6
+1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002567,3,42,29,6,24,4,9,10,8,,,4,14,3
+1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002577,4,21,26,3,25,4,13,6,7,,,11,20,10
+1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002587,5,43,20,5,18,5,17,10,5,,,16,16,4
+1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002597,6,34,32,7,12,4,10,13,9,,,4,18,10
+1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002607,7,25,24,6,22,8,7,11,8,,,3,21,13
+1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002617,8,39,30,2,17,5,3,16,8,,,7,14,5
+1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002627,9,26,26,3,26,3,7,9,11,,,7,16,13
+1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002637,10,35,48,3,23,5,5,12,7,,,2,14,8
+1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002647,11,34,43,5,20,4,12,12,9,,,7,14,6
+1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002657,12,38,32,6,33,6,6,16,6,,,3,17,4
+1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002667,13,40,27,3,27,6,12,12,8,,,10,14,3
+1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002677,14,37,24,6,20,4,6,19,5,,,5,23,9
+1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002687,15,26,32,5,30,2,10,16,6,,,2,26,6
+1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002697,16,36,40,6,19,4,3,12,9,,,8,7,6
+1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002707,17,29,31,4,24,2,6,17,9,,,8,19,8
+1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002717,18,22,15,1,10,1,4,1,5,,,1,2,5
+1,Oropeza,1,Sucre,2794,Sucre,408,Esc. Angel Baspineiro,1005527,1,14,14,3,7,2,12,8,3,,,7,16,4
+1,Oropeza,1,Sucre,2794,Sucre,408,Esc. Angel Baspineiro,1005537,2,22,15,5,3,1,3,9,1,,,3,18,2
+1,Oropeza,1,Sucre,2794,Sucre,408,Esc. Angel Baspineiro,1005547,3,18,8,1,5,2,18,5,2,,,10,24,2
+1,Oropeza,1,Sucre,2794,Sucre,408,Esc. Angel Baspineiro,1005557,4,14,13,3,6,0,6,5,5,,,5,19,1
+1,Oropeza,1,Sucre,2794,Sucre,408,Esc. Angel Baspineiro,1005567,5,11,16,2,10,2,11,6,7,,,7,23,0
+1,Oropeza,1,Sucre,2794,Sucre,408,Esc. Angel Baspineiro,1005577,6,21,21,5,6,2,5,2,5,,,9,24,5
+1,Oropeza,1,Sucre,2794,Sucre,408,Esc. Angel Baspineiro,1005587,7,16,18,2,6,2,6,5,4,,,5,10,4
+1,Oropeza,1,Sucre,2794,Sucre,408,Esc. Angel Baspineiro,1005597,8,11,19,4,6,1,7,10,2,,,6,18,1
+1,Oropeza,1,Sucre,2794,Sucre,408,Esc. Angel Baspineiro,1005607,9,11,14,1,9,4,14,5,7,,,6,19,0
+1,Oropeza,1,Sucre,2794,Sucre,408,Esc. Angel Baspineiro,1005617,10,15,17,1,5,3,8,9,7,,,10,14,2
+1,Oropeza,1,Sucre,2794,Sucre,408,Esc. Angel Baspineiro,1005627,11,15,19,3,8,6,12,8,3,,,8,20,3
+1,Oropeza,1,Sucre,2794,Sucre,408,Esc. Angel Baspineiro,1005637,12,17,11,1,2,8,8,5,6,,,7,22,2
+1,Oropeza,1,Sucre,2794,Sucre,408,Esc. Angel Baspineiro,1005647,13,9,10,1,7,3,5,3,1,,,2,16,3
+1,Oropeza,1,Sucre,2794,Sucre,409,Campo Deportivo 20 de Octubre,1007247,1,21,17,3,9,3,9,11,6,,,5,24,5
+1,Oropeza,1,Sucre,2794,Sucre,409,Campo Deportivo 20 de Octubre,1007257,2,28,29,3,10,3,12,17,8,,,3,20,5
+1,Oropeza,1,Sucre,2794,Sucre,409,Campo Deportivo 20 de Octubre,1007267,3,19,27,3,13,6,7,11,4,,,10,15,7
+1,Oropeza,1,Sucre,2794,Sucre,409,Campo Deportivo 20 de Octubre,1007277,4,21,39,8,9,4,7,13,10,,,5,13,8
+1,Oropeza,1,Sucre,2794,Sucre,409,Campo Deportivo 20 de Octubre,1007287,5,22,36,2,16,3,4,11,7,,,6,14,5
+1,Oropeza,1,Sucre,2794,Sucre,409,Campo Deportivo 20 de Octubre,1007297,6,18,20,6,17,3,3,6,3,,,3,13,9
+1,Oropeza,1,Sucre,2794,Sucre,410,Unid. Educativa Victoria Diez,1006207,1,12,13,6,6,5,13,6,2,,,5,11,2
+1,Oropeza,1,Sucre,2794,Sucre,410,Unid. Educativa Victoria Diez,1006217,2,13,22,2,8,5,6,8,14,,,3,11,0
+1,Oropeza,1,Sucre,2794,Sucre,410,Unid. Educativa Victoria Diez,1006227,3,14,19,5,8,6,4,3,4,,,5,14,0
+1,Oropeza,1,Sucre,2794,Sucre,410,Unid. Educativa Victoria Diez,1006237,4,19,18,3,5,4,12,6,6,,,8,21,2
+1,Oropeza,1,Sucre,2794,Sucre,410,Unid. Educativa Victoria Diez,1006247,5,11,14,4,3,10,6,5,12,,,9,23,1
+1,Oropeza,1,Sucre,2794,Sucre,410,Unid. Educativa Victoria Diez,1006257,6,14,15,4,5,9,4,2,12,,,5,14,0
+1,Oropeza,1,Sucre,2794,Sucre,410,Unid. Educativa Victoria Diez,1006267,7,14,20,1,8,4,6,6,4,,,9,13,1
+1,Oropeza,1,Sucre,2794,Sucre,410,Unid. Educativa Victoria Diez,1006277,8,20,15,2,7,8,6,8,8,,,11,16,2
+1,Oropeza,1,Sucre,2794,Sucre,410,Unid. Educativa Victoria Diez,1006287,9,13,19,4,13,4,13,9,2,,,10,15,2
+1,Oropeza,1,Sucre,2794,Sucre,410,Unid. Educativa Victoria Diez,1006297,10,10,26,5,10,5,6,4,2,,,5,16,2
+1,Oropeza,1,Sucre,2794,Sucre,410,Unid. Educativa Victoria Diez,1006307,11,14,18,3,7,3,6,7,2,,,1,19,1
+1,Oropeza,1,Sucre,2794,Sucre,410,Unid. Educativa Victoria Diez,1006317,12,13,10,4,5,3,2,3,8,,,7,17,3
+1,Oropeza,1,Sucre,2794,Sucre,410,Unid. Educativa Victoria Diez,1006327,13,12,11,3,5,6,14,7,4,,,10,27,3
+1,Oropeza,1,Sucre,2794,Sucre,410,Unid. Educativa Victoria Diez,1006337,14,9,14,4,5,4,8,3,7,,,12,18,3
+1,Oropeza,1,Sucre,2794,Sucre,410,Unid. Educativa Victoria Diez,1006347,15,19,9,1,10,1,10,10,5,,,6,16,0
+1,Oropeza,1,Sucre,2794,Sucre,410,Unid. Educativa Victoria Diez,1006357,16,15,19,7,5,6,8,9,4,,,8,11,1
+1,Oropeza,1,Sucre,2794,Sucre,410,Unid. Educativa Victoria Diez,1006367,17,13,18,5,6,5,4,6,6,,,3,6,1
+1,Oropeza,1,Sucre,2794,Sucre,410,Unid. Educativa Victoria Diez,1006377,18,6,10,4,5,4,6,10,2,,,8,11,2
+1,Oropeza,1,Sucre,2794,Sucre,410,Unid. Educativa Victoria Diez,1006387,19,11,16,3,3,3,10,4,8,,,6,13,2
+1,Oropeza,1,Sucre,2794,Sucre,410,Unid. Educativa Victoria Diez,1006397,20,21,18,2,6,4,3,14,9,,,6,24,4
+1,Oropeza,1,Sucre,2794,Sucre,410,Unid. Educativa Victoria Diez,1006407,21,16,23,6,8,2,8,9,2,,,5,14,2
+1,Oropeza,1,Sucre,2794,Sucre,410,Unid. Educativa Victoria Diez,1006417,22,19,23,2,7,6,7,9,7,,,6,19,1
+1,Oropeza,1,Sucre,2794,Sucre,410,Unid. Educativa Victoria Diez,1006427,23,11,14,4,5,8,5,5,12,,,3,16,5
+1,Oropeza,1,Sucre,2794,Sucre,410,Unid. Educativa Victoria Diez,1006437,24,9,14,3,8,3,6,6,4,,,5,17,2
+1,Oropeza,1,Sucre,2794,Sucre,502,Seminario Teologico Del Sur,1003977,1,36,35,8,17,8,8,8,10,,,3,24,4
+1,Oropeza,1,Sucre,2794,Sucre,502,Seminario Teologico Del Sur,1003987,2,25,22,4,32,5,2,8,7,,,10,22,10
+1,Oropeza,1,Sucre,2794,Sucre,502,Seminario Teologico Del Sur,1003997,3,27,28,4,20,6,6,17,10,,,8,17,3
+1,Oropeza,1,Sucre,2794,Sucre,502,Seminario Teologico Del Sur,1004007,4,26,24,5,20,7,5,9,10,,,7,11,6
+1,Oropeza,1,Sucre,2794,Sucre,502,Seminario Teologico Del Sur,1004017,5,40,25,6,14,5,6,7,5,,,10,14,10
+1,Oropeza,1,Sucre,2794,Sucre,502,Seminario Teologico Del Sur,1004027,6,31,23,3,26,2,5,6,11,,,12,19,11
+1,Oropeza,1,Sucre,2794,Sucre,502,Seminario Teologico Del Sur,1004037,7,29,27,8,16,5,5,9,6,,,12,22,8
+1,Oropeza,1,Sucre,2794,Sucre,502,Seminario Teologico Del Sur,1004047,8,30,27,3,17,4,7,14,6,,,7,20,5
+1,Oropeza,1,Sucre,2794,Sucre,502,Seminario Teologico Del Sur,1004057,9,29,25,5,14,8,10,8,9,,,5,19,7
+1,Oropeza,1,Sucre,2794,Sucre,502,Seminario Teologico Del Sur,1004067,10,23,27,5,15,4,10,13,8,,,6,13,13
+1,Oropeza,1,Sucre,2794,Sucre,502,Seminario Teologico Del Sur,1004077,11,25,28,6,14,7,3,13,12,,,5,21,10
+1,Oropeza,1,Sucre,2794,Sucre,502,Seminario Teologico Del Sur,1004087,12,22,26,1,17,10,2,22,7,,,8,22,7
+1,Oropeza,1,Sucre,2794,Sucre,502,Seminario Teologico Del Sur,1004097,13,31,30,6,26,3,5,13,5,,,4,17,7
+1,Oropeza,1,Sucre,2794,Sucre,504,U.E. Cristina Aitken de Gutierrez,1001727,1,34,31,3,31,1,10,13,3,,,2,15,7
+1,Oropeza,1,Sucre,2794,Sucre,504,U.E. Cristina Aitken de Gutierrez,1001737,2,31,30,1,23,4,5,11,8,,,7,11,9
+1,Oropeza,1,Sucre,2794,Sucre,504,U.E. Cristina Aitken de Gutierrez,1001747,3,33,36,3,32,3,11,18,1,,,4,13,5
+1,Oropeza,1,Sucre,2794,Sucre,504,U.E. Cristina Aitken de Gutierrez,1001757,4,36,28,6,15,5,6,11,4,,,3,16,8
+1,Oropeza,1,Sucre,2794,Sucre,504,U.E. Cristina Aitken de Gutierrez,1001767,5,41,34,3,29,3,5,5,9,,,10,23,5
+1,Oropeza,1,Sucre,2794,Sucre,504,U.E. Cristina Aitken de Gutierrez,1001777,6,35,39,3,23,2,9,19,8,,,7,13,7
+1,Oropeza,1,Sucre,2794,Sucre,504,U.E. Cristina Aitken de Gutierrez,1001787,7,39,20,4,31,2,5,8,5,,,2,16,8
+1,Oropeza,1,Sucre,2794,Sucre,504,U.E. Cristina Aitken de Gutierrez,1001797,8,25,30,1,15,2,4,7,2,,,4,15,6
+1,Oropeza,1,Sucre,2794,Sucre,506,Fundacion Pachamama,1007207,1,35,25,4,28,4,4,18,10,,,4,16,4
+1,Oropeza,1,Sucre,2794,Sucre,506,Fundacion Pachamama,1007217,2,38,34,3,18,8,4,21,7,,,3,22,9
+1,Oropeza,1,Sucre,2794,Sucre,506,Fundacion Pachamama,1007227,3,38,25,2,17,6,8,14,6,,,3,12,10
+1,Oropeza,1,Sucre,2794,Sucre,506,Fundacion Pachamama,1007237,4,37,45,5,27,3,0,29,2,,,4,7,5
+1,Oropeza,1,Sucre,2794,Sucre,507,Jardín De Niños San Lázaro,1009217,1,45,24,3,17,4,5,16,12,,,6,22,6
+1,Oropeza,1,Sucre,2794,Sucre,507,Jardín De Niños San Lázaro,1009227,2,36,20,4,30,4,6,24,5,,,2,15,5
+1,Oropeza,1,Sucre,2794,Sucre,507,Jardín De Niños San Lázaro,1009237,3,49,31,4,25,5,7,11,4,,,3,11,8
+1,Oropeza,1,Sucre,2794,Sucre,507,Jardín De Niños San Lázaro,1009247,4,46,26,4,13,5,5,23,7,,,3,10,12
+1,Oropeza,1,Sucre,2794,Sucre,507,Jardín De Niños San Lázaro,1009257,5,17,6,1,11,6,1,2,1,,,1,10,7
+1,Oropeza,1,Sucre,2794,Sucre,508,IPTK N Aguirre 560 CERPI,1004207,1,31,32,3,27,4,4,14,10,,,5,15,11
+1,Oropeza,1,Sucre,2794,Sucre,508,IPTK N Aguirre 560 CERPI,1004217,2,27,41,4,18,5,7,17,7,,,11,17,5
+1,Oropeza,1,Sucre,2794,Sucre,508,IPTK N Aguirre 560 CERPI,1004227,3,25,36,3,24,8,8,12,7,,,8,16,8
+1,Oropeza,1,Sucre,2794,Sucre,508,IPTK N Aguirre 560 CERPI,1004237,4,27,39,5,23,4,7,11,4,,,4,15,11
+1,Oropeza,1,Sucre,2794,Sucre,508,IPTK N Aguirre 560 CERPI,1004247,5,31,29,5,22,2,4,11,13,,,5,23,15
+1,Oropeza,1,Sucre,2794,Sucre,508,IPTK N Aguirre 560 CERPI,1004257,6,28,23,7,24,4,6,9,4,,,7,24,16
+1,Oropeza,1,Sucre,2794,Sucre,508,IPTK N Aguirre 560 CERPI,1004267,7,34,45,10,25,7,6,10,7,,,5,11,9
+1,Oropeza,1,Sucre,2794,Sucre,508,IPTK N Aguirre 560 CERPI,1004277,8,40,28,4,28,2,5,10,5,,,5,17,9
+1,Oropeza,1,Sucre,2794,Sucre,508,IPTK N Aguirre 560 CERPI,1004287,9,19,33,5,31,3,6,10,11,,,7,25,14
+1,Oropeza,1,Sucre,2794,Sucre,508,IPTK N Aguirre 560 CERPI,1004297,10,36,25,8,26,4,11,6,8,,,4,15,6
+1,Oropeza,1,Sucre,2794,Sucre,508,IPTK N Aguirre 560 CERPI,1004307,11,34,28,6,22,1,15,16,5,,,5,14,8
+1,Oropeza,1,Sucre,2794,Sucre,508,IPTK N Aguirre 560 CERPI,1004317,12,37,25,5,18,2,8,16,1,,,5,15,7
+1,Oropeza,1,Sucre,2794,Sucre,508,IPTK N Aguirre 560 CERPI,1004327,13,10,10,1,12,2,2,4,3,,,1,9,3
+1,Oropeza,1,Sucre,2794,Sucre,509,Kinder Gerardo Vaca Guzman,1000577,1,36,33,5,23,0,13,13,7,,,3,10,14
+1,Oropeza,1,Sucre,2794,Sucre,509,Kinder Gerardo Vaca Guzman,1000587,2,38,28,2,22,6,5,22,10,,,1,15,17
+1,Oropeza,1,Sucre,2794,Sucre,509,Kinder Gerardo Vaca Guzman,1000597,3,26,36,3,35,6,5,17,8,,,3,13,10
+1,Oropeza,1,Sucre,2794,Sucre,510,Unidad Educativa Alegría,1010027,1,18,12,3,2,8,5,10,2,,,4,13,4
+1,Oropeza,1,Sucre,2794,Sucre,510,Unidad Educativa Alegría,1010037,2,17,11,4,0,5,5,5,1,,,9,13,1
+1,Oropeza,1,Sucre,2794,Sucre,510,Unidad Educativa Alegría,1010047,3,13,24,1,11,8,5,3,4,,,8,12,2
+1,Oropeza,1,Sucre,2794,Sucre,510,Unidad Educativa Alegría,1010057,4,20,14,4,3,7,5,6,7,,,9,10,1
+1,Oropeza,1,Sucre,2794,Sucre,510,Unidad Educativa Alegría,1010067,5,17,23,5,3,6,5,8,8,,,7,10,2
+1,Oropeza,1,Sucre,2794,Sucre,510,Unidad Educativa Alegría,1010077,6,12,23,5,3,6,2,9,4,,,6,19,4
+1,Oropeza,1,Sucre,2794,Sucre,510,Unidad Educativa Alegría,1010087,7,12,13,3,5,10,9,6,3,,,9,11,0
+1,Oropeza,1,Sucre,2794,Sucre,510,Unidad Educativa Alegría,1010097,8,10,21,9,1,7,6,1,3,,,3,16,3
+1,Oropeza,1,Sucre,2794,Sucre,510,Unidad Educativa Alegría,1010107,9,13,29,3,6,4,3,14,4,,,10,12,2
+1,Oropeza,1,Sucre,2794,Sucre,510,Unidad Educativa Alegría,1010117,10,9,21,3,4,11,5,7,4,,,5,20,5
+1,Oropeza,1,Sucre,2794,Sucre,511,Salon Mult. Alto Loyola,1004907,1,16,32,5,14,10,11,10,3,,,7,14,5
+1,Oropeza,1,Sucre,2794,Sucre,511,Salon Mult. Alto Loyola,1004917,2,21,23,6,11,8,5,16,9,,,12,10,4
+1,Oropeza,1,Sucre,2794,Sucre,511,Salon Mult. Alto Loyola,1004927,3,25,23,4,19,3,5,6,3,,,10,16,2
+1,Oropeza,1,Sucre,2794,Sucre,511,Salon Mult. Alto Loyola,1004937,4,25,21,7,14,2,9,7,8,,,5,25,1
+1,Oropeza,1,Sucre,2794,Sucre,511,Salon Mult. Alto Loyola,1004947,5,14,17,4,9,6,7,9,7,,,15,25,4
+1,Oropeza,1,Sucre,2794,Sucre,511,Salon Mult. Alto Loyola,1004957,6,14,33,8,11,6,7,10,7,,,10,17,4
+1,Oropeza,1,Sucre,2794,Sucre,511,Salon Mult. Alto Loyola,1004967,7,2,6,0,2,2,1,0,1,,,0,3,1
+1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002377,1,32,30,4,24,2,8,16,10,,,4,9,11
+1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002387,2,27,27,1,19,3,4,15,11,,,1,11,13
+1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002397,3,36,30,7,37,4,4,13,4,,,6,16,10
+1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002407,4,30,27,1,21,8,12,8,6,,,6,21,10
+1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002417,5,27,32,2,28,5,7,14,7,,,6,20,8
+1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002427,6,29,32,4,20,0,7,15,8,,,4,6,10
+1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002437,7,32,19,4,31,0,3,9,13,,,5,20,16
+1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002447,8,24,28,4,19,6,8,25,9,,,6,27,9
+1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002457,9,35,21,2,16,7,7,16,11,,,0,19,9
+1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002467,10,19,35,6,21,5,7,10,13,,,2,15,11
+1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002477,11,29,36,3,20,4,6,11,11,,,8,15,9
+1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002487,12,34,22,2,22,8,8,8,6,,,7,24,16
+1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002497,13,47,22,3,23,11,6,16,7,,,6,6,9
+1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002507,14,29,38,3,33,5,1,13,8,,,1,15,5
+1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002517,15,40,35,1,23,6,2,11,9,,,2,20,9
+1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002527,16,39,30,2,21,2,8,20,11,,,8,13,12
+1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002537,17,10,15,2,10,3,4,5,3,,,1,6,4
+1,Oropeza,1,Sucre,2794,Sucre,513,Kinder Serrano,1004877,1,41,34,4,24,2,7,15,11,,,8,13,7
+1,Oropeza,1,Sucre,2794,Sucre,513,Kinder Serrano,1004887,2,31,31,3,28,5,6,17,5,,,4,19,6
+1,Oropeza,1,Sucre,2794,Sucre,513,Kinder Serrano,1004897,3,12,26,2,14,5,3,9,3,,,2,6,4
+1,Oropeza,1,Sucre,2794,Sucre,515,Liceo María Josefa Mujia,1001287,1,36,36,4,27,8,6,15,8,,,4,8,10
+1,Oropeza,1,Sucre,2794,Sucre,515,Liceo María Josefa Mujia,1001297,2,25,27,4,35,3,13,15,12,,,4,6,12
+1,Oropeza,1,Sucre,2794,Sucre,515,Liceo María Josefa Mujia,1001307,3,37,30,4,22,4,11,15,5,,,4,16,12
+1,Oropeza,1,Sucre,2794,Sucre,515,Liceo María Josefa Mujia,1001317,4,36,45,2,23,4,7,12,9,,,1,15,9
+1,Oropeza,1,Sucre,2794,Sucre,515,Liceo María Josefa Mujia,1001327,5,37,35,2,24,8,8,15,13,,,1,14,6
+1,Oropeza,1,Sucre,2794,Sucre,515,Liceo María Josefa Mujia,1001337,6,35,26,6,31,3,10,15,13,,,4,12,8
+1,Oropeza,1,Sucre,2794,Sucre,515,Liceo María Josefa Mujia,1001347,7,31,35,3,22,7,6,13,10,,,1,14,13
+1,Oropeza,1,Sucre,2794,Sucre,515,Liceo María Josefa Mujia,1001357,8,8,8,1,2,0,1,2,2,,,1,3,1
+1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1001877,1,30,31,4,32,0,9,12,3,,,6,12,3
+1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1001887,2,40,34,1,22,5,4,7,11,,,6,14,9
+1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1001897,3,30,33,6,33,2,4,17,3,,,4,21,7
+1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1001907,4,31,28,6,21,7,7,9,7,,,3,25,5
+1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1001917,5,25,30,2,30,2,7,9,14,,,5,22,2
+1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1001927,6,26,41,2,16,5,3,14,9,,,8,28,8
+1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1001937,7,27,28,5,30,2,3,15,14,,,7,13,7
+1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1001947,8,31,28,4,19,10,3,12,5,,,5,19,8
+1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1001957,9,22,37,9,18,3,8,16,6,,,7,15,9
+1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1001967,10,28,25,3,18,3,3,10,5,,,4,35,5
+1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1001977,11,35,43,4,25,2,5,13,4,,,5,16,10
+1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1001987,12,31,31,3,24,3,2,12,10,,,4,15,13
+1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1001997,13,32,36,5,15,3,6,17,7,,,6,18,8
+1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1002007,14,35,25,7,16,6,3,9,6,,,5,17,9
+1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1002017,15,29,27,4,21,2,12,6,11,,,7,30,16
+1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1002027,16,44,32,6,28,5,4,17,4,,,5,10,4
+1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1002037,17,30,46,2,22,5,2,4,8,,,6,14,7
+1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1002047,18,27,40,3,18,4,1,10,7,,,4,18,7
+1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1002057,19,10,17,1,9,0,1,7,3,,,1,3,3
+1,Oropeza,1,Sucre,2794,Sucre,517,Escuela Daniel Calvo,1000607,1,21,30,2,34,3,5,9,9,,,3,21,12
+1,Oropeza,1,Sucre,2794,Sucre,517,Escuela Daniel Calvo,1000617,2,32,30,4,18,6,5,14,8,,,4,15,19
+1,Oropeza,1,Sucre,2794,Sucre,517,Escuela Daniel Calvo,1000627,3,26,29,4,25,2,6,12,2,,,3,17,9
+1,Oropeza,1,Sucre,2794,Sucre,519,Colegio 23 de Marzo,1008237,1,32,28,5,18,2,7,32,3,,,2,16,8
+1,Oropeza,1,Sucre,2794,Sucre,519,Colegio 23 de Marzo,1008247,2,36,34,3,29,3,7,24,6,,,7,11,9
+1,Oropeza,1,Sucre,2794,Sucre,519,Colegio 23 de Marzo,1008257,3,36,19,2,23,6,5,12,5,,,6,17,9
+1,Oropeza,1,Sucre,2794,Sucre,519,Colegio 23 de Marzo,1008267,4,26,26,15,24,5,9,19,3,,,4,10,6
+1,Oropeza,1,Sucre,2794,Sucre,519,Colegio 23 de Marzo,1008277,5,33,23,6,16,2,6,22,7,,,6,11,9
+1,Oropeza,1,Sucre,2794,Sucre,519,Colegio 23 de Marzo,1008287,6,34,29,3,26,2,5,12,7,,,7,14,10
+1,Oropeza,1,Sucre,2794,Sucre,519,Colegio 23 de Marzo,1008297,7,44,21,4,20,1,10,20,11,,,6,13,7
+1,Oropeza,1,Sucre,2794,Sucre,519,Colegio 23 de Marzo,1008307,8,30,24,4,27,10,5,15,11,,,8,14,6
+1,Oropeza,1,Sucre,2794,Sucre,519,Colegio 23 de Marzo,1008317,9,26,39,3,21,5,2,23,10,,,3,17,5
+1,Oropeza,1,Sucre,2794,Sucre,519,Colegio 23 de Marzo,1008327,10,31,24,4,27,1,5,13,6,,,6,13,8
+1,Oropeza,1,Sucre,2794,Sucre,519,Colegio 23 de Marzo,1008337,11,34,29,6,24,4,11,12,5,,,4,17,6
+1,Oropeza,1,Sucre,2794,Sucre,519,Colegio 23 de Marzo,1008347,12,26,27,3,27,3,6,11,7,,,2,19,7
+1,Oropeza,1,Sucre,2794,Sucre,519,Colegio 23 de Marzo,1008357,13,22,11,4,21,4,4,13,10,,,0,15,4
+1,Oropeza,1,Sucre,2794,Sucre,522,Col. Bernardo Monteagudo,1000657,1,38,22,0,23,4,4,10,17,,,5,11,16
+1,Oropeza,1,Sucre,2794,Sucre,522,Col. Bernardo Monteagudo,1000667,2,30,42,2,24,3,4,12,8,,,3,18,8
+1,Oropeza,1,Sucre,2794,Sucre,522,Col. Bernardo Monteagudo,1000677,3,37,23,1,32,0,11,9,9,,,3,14,15
+1,Oropeza,1,Sucre,2794,Sucre,522,Col. Bernardo Monteagudo,1000687,4,35,39,3,30,4,3,8,5,,,4,7,5
+1,Oropeza,1,Sucre,2794,Sucre,522,Col. Bernardo Monteagudo,1000697,5,40,31,3,35,0,6,11,10,,,4,8,13
+1,Oropeza,1,Sucre,2794,Sucre,523,Coliseo Jorge Revilla Aldana,1005067,1,42,28,2,19,3,3,10,9,,,5,7,12
+1,Oropeza,1,Sucre,2794,Sucre,523,Coliseo Jorge Revilla Aldana,1005077,2,46,32,3,32,2,12,7,5,,,5,11,6
+1,Oropeza,1,Sucre,2794,Sucre,523,Coliseo Jorge Revilla Aldana,1005087,3,32,30,2,33,2,4,11,5,,,4,28,6
+1,Oropeza,1,Sucre,2794,Sucre,523,Coliseo Jorge Revilla Aldana,1005097,4,37,39,0,20,3,4,13,5,,,3,15,10
+1,Oropeza,1,Sucre,2794,Sucre,523,Coliseo Jorge Revilla Aldana,1005107,5,30,31,4,34,2,3,15,6,,,7,11,18
+1,Oropeza,1,Sucre,2794,Sucre,523,Coliseo Jorge Revilla Aldana,1005117,6,11,0,1,3,1,1,0,1,,,0,0,1
+1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,1006967,1,32,40,1,12,4,8,14,9,,,3,12,11
+1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,1006977,2,35,35,3,20,4,5,11,6,,,6,19,4
+1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,1006987,3,28,34,6,20,4,3,17,9,,,2,17,10
+1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,1006997,4,34,38,5,20,2,5,13,6,,,6,13,8
+1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,1007007,5,26,27,4,18,9,4,17,8,,,5,14,4
+1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,1007017,6,45,25,2,20,1,10,19,6,,,1,6,4
+1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,1007027,7,27,41,2,19,4,6,16,9,,,4,18,7
+1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,1007037,8,38,26,4,17,5,5,16,13,,,5,25,11
+1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,1007047,9,30,35,3,15,6,9,18,11,,,4,12,4
+1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,1007057,10,36,32,4,20,4,9,13,10,,,4,9,8
+1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,1007067,11,8,10,1,7,0,2,3,2,,,1,2,2
+1,Oropeza,1,Sucre,2794,Sucre,533,U.E. Nuevos Horizontes,1008797,1,32,34,3,11,6,4,6,13,,,9,14,8
+1,Oropeza,1,Sucre,2794,Sucre,533,U.E. Nuevos Horizontes,1008807,2,30,28,3,17,4,17,17,5,,,4,15,3
+1,Oropeza,1,Sucre,2794,Sucre,533,U.E. Nuevos Horizontes,1008817,3,27,23,7,16,2,3,13,8,,,8,24,2
+1,Oropeza,1,Sucre,2794,Sucre,533,U.E. Nuevos Horizontes,1008827,4,30,29,3,16,0,8,14,6,,,3,18,9
+1,Oropeza,1,Sucre,2794,Sucre,533,U.E. Nuevos Horizontes,1008837,5,33,32,4,10,3,6,12,8,,,4,14,3
+1,Oropeza,1,Sucre,2794,Sucre,533,U.E. Nuevos Horizontes,1008847,6,27,23,10,17,8,7,11,2,,,9,14,3
+1,Oropeza,1,Sucre,2794,Sucre,533,U.E. Nuevos Horizontes,1008857,7,25,26,2,12,1,8,17,7,,,11,13,3
+1,Oropeza,1,Sucre,2794,Sucre,533,U.E. Nuevos Horizontes,1008867,8,33,22,5,16,4,4,17,5,,,10,13,7
+1,Oropeza,1,Sucre,2794,Sucre,533,U.E. Nuevos Horizontes,1008877,9,25,21,7,12,3,8,13,5,,,5,23,2
+1,Oropeza,1,Sucre,2794,Sucre,533,U.E. Nuevos Horizontes,1008887,10,27,19,2,16,5,6,10,9,,,9,17,8
+1,Oropeza,1,Sucre,2794,Sucre,533,U.E. Nuevos Horizontes,1008897,11,26,34,1,17,5,5,9,9,,,3,14,6
+1,Oropeza,1,Sucre,2794,Sucre,533,U.E. Nuevos Horizontes,1008907,12,36,26,4,13,3,2,9,5,,,6,19,4
+1,Oropeza,1,Sucre,2794,Sucre,533,U.E. Nuevos Horizontes,1008917,13,29,31,3,8,2,1,14,7,,,10,18,2
+1,Oropeza,1,Sucre,2794,Sucre,533,U.E. Nuevos Horizontes,1008927,14,15,8,0,3,2,2,5,0,,,2,3,0
+1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005657,1,38,30,3,16,5,7,16,4,,,5,19,13
+1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005667,2,41,25,4,16,6,3,17,6,,,5,14,10
+1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005677,3,30,33,4,14,6,6,14,6,,,6,20,13
+1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005687,4,22,30,6,16,8,9,11,3,,,9,18,5
+1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005697,5,25,24,1,7,7,7,17,6,,,4,19,7
+1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005707,6,33,25,5,17,5,6,12,9,,,2,21,6
+1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005717,7,35,30,6,14,5,15,15,6,,,3,16,11
+1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005727,8,20,27,10,15,7,16,8,6,,,3,23,4
+1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005737,9,31,46,3,19,5,6,16,6,,,4,13,2
+1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005747,10,28,22,4,21,1,9,10,2,,,6,17,4
+1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005757,11,25,27,2,13,4,11,13,9,,,6,15,6
+1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005767,12,25,31,7,19,2,8,19,10,,,2,11,10
+1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005777,13,37,30,3,18,3,7,19,9,,,7,14,6
+1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005787,14,29,20,2,19,6,7,22,2,,,7,19,8
+1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005797,15,37,31,2,15,3,10,16,3,,,7,18,9
+1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005807,16,17,29,2,19,5,17,13,9,,,7,26,8
+1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005817,17,35,37,3,16,4,8,13,6,,,8,13,5
+1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005827,18,32,44,5,14,9,5,8,4,,,5,16,7
+1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005837,19,25,44,4,21,4,5,11,10,,,4,13,6
+1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005847,20,6,5,1,6,1,3,1,1,,,0,4,3
+1,Oropeza,1,Sucre,2794,Sucre,535,Unid. Ed. Hugo Poppe Entrambasaguas,1008627,1,30,31,4,12,8,3,10,5,,,3,13,5
+1,Oropeza,1,Sucre,2794,Sucre,535,Unid. Ed. Hugo Poppe Entrambasaguas,1008637,2,32,23,5,24,9,5,8,6,,,4,13,8
+1,Oropeza,1,Sucre,2794,Sucre,535,Unid. Ed. Hugo Poppe Entrambasaguas,1008647,3,36,24,3,19,8,4,9,10,,,6,11,5
+1,Oropeza,1,Sucre,2794,Sucre,535,Unid. Ed. Hugo Poppe Entrambasaguas,1008657,4,31,26,6,14,9,3,5,7,,,9,16,6
+1,Oropeza,1,Sucre,2794,Sucre,535,Unid. Ed. Hugo Poppe Entrambasaguas,1008667,5,37,18,2,19,2,7,11,10,,,5,14,5
+1,Oropeza,1,Sucre,2794,Sucre,535,Unid. Ed. Hugo Poppe Entrambasaguas,1008677,6,29,24,2,20,4,6,15,7,,,2,18,4
+1,Oropeza,1,Sucre,2794,Sucre,535,Unid. Ed. Hugo Poppe Entrambasaguas,1008687,7,26,19,6,16,2,3,13,10,,,5,19,12
+1,Oropeza,1,Sucre,2794,Sucre,535,Unid. Ed. Hugo Poppe Entrambasaguas,1008697,8,27,30,5,16,5,6,11,5,,,3,12,7
+1,Oropeza,1,Sucre,2794,Sucre,535,Unid. Ed. Hugo Poppe Entrambasaguas,1008707,9,26,26,2,13,2,7,14,11,,,5,18,9
+1,Oropeza,1,Sucre,2794,Sucre,535,Unid. Ed. Hugo Poppe Entrambasaguas,1008717,10,25,31,3,14,5,3,10,5,,,2,10,6
+1,Oropeza,1,Sucre,2794,Sucre,535,Unid. Ed. Hugo Poppe Entrambasaguas,1008727,11,36,22,6,11,1,3,10,6,,,4,11,5
+1,Oropeza,1,Sucre,2794,Sucre,535,Unid. Ed. Hugo Poppe Entrambasaguas,1008737,12,26,26,4,15,3,8,11,3,,,10,24,5
+1,Oropeza,1,Sucre,2794,Sucre,535,Unid. Ed. Hugo Poppe Entrambasaguas,1008747,13,33,21,2,16,8,4,15,8,,,9,18,4
+1,Oropeza,1,Sucre,2794,Sucre,535,Unid. Ed. Hugo Poppe Entrambasaguas,1008757,14,38,29,7,11,8,3,6,4,,,3,16,5
+1,Oropeza,1,Sucre,2794,Sucre,535,Unid. Ed. Hugo Poppe Entrambasaguas,1008767,15,21,19,5,22,2,4,11,9,,,4,12,7
+1,Oropeza,1,Sucre,2794,Sucre,536,U.E. Francisco Cermeño,1002327,1,30,34,5,28,1,6,19,10,,,8,9,16
+1,Oropeza,1,Sucre,2794,Sucre,536,U.E. Francisco Cermeño,1002337,2,24,29,2,19,2,6,16,5,,,3,22,7
+1,Oropeza,1,Sucre,2794,Sucre,536,U.E. Francisco Cermeño,1002347,3,5,7,1,5,1,0,5,1,,,2,5,1
+1,Oropeza,1,Sucre,2794,Sucre,25027,Salon Multifuncional El Niño,1006447,1,30,26,6,24,8,7,17,7,,,4,14,12
+1,Oropeza,1,Sucre,2794,Sucre,25027,Salon Multifuncional El Niño,1006457,2,21,33,3,23,4,10,23,10,,,6,16,12
+1,Oropeza,1,Sucre,2794,Sucre,25027,Salon Multifuncional El Niño,1006467,3,28,23,6,26,5,9,20,6,,,6,16,12
+1,Oropeza,1,Sucre,2794,Sucre,25027,Salon Multifuncional El Niño,1006477,4,35,36,7,18,10,5,15,4,,,4,12,5
+1,Oropeza,1,Sucre,2794,Sucre,25027,Salon Multifuncional El Niño,1006487,5,29,33,5,20,7,12,22,9,,,7,22,10
+1,Oropeza,1,Sucre,2794,Sucre,25027,Salon Multifuncional El Niño,1006497,6,26,30,2,15,5,19,11,11,,,10,26,15
+1,Oropeza,1,Sucre,2794,Sucre,25027,Salon Multifuncional El Niño,1006507,7,11,15,1,5,2,4,8,2,,,4,4,2
+1,Oropeza,1,Sucre,2794,Sucre,25028,Salon Multifuncional La Hoyada,1007867,1,25,24,5,16,9,10,11,5,,,2,12,4
+1,Oropeza,1,Sucre,2794,Sucre,25028,Salon Multifuncional La Hoyada,1007877,2,34,20,7,12,7,10,9,12,,,6,17,8
+1,Oropeza,1,Sucre,2794,Sucre,25028,Salon Multifuncional La Hoyada,1007887,3,35,27,2,10,6,10,15,10,,,6,9,3
+1,Oropeza,1,Sucre,2794,Sucre,25029,(Cárcel) Cárcel Pública,1009347,1,19,21,7,9,4,7,3,7,,,6,13,5
+1,Oropeza,1,Sucre,2794,Sucre,25029,(Cárcel) Cárcel Pública,1009357,2,16,19,4,7,8,2,2,12,,,6,10,6
+1,Oropeza,1,Sucre,2794,Sucre,25029,(Cárcel) Cárcel Pública,1009367,3,15,28,6,10,8,3,7,7,,,4,7,2
+1,Oropeza,1,Sucre,2794,Sucre,25029,(Cárcel) Cárcel Pública,1009377,4,8,11,2,3,2,1,3,3,,,3,1,2
+1,Oropeza,1,Sucre,2794,Sucre,25031,Mercado Yurac Yurac,1007497,1,27,23,1,14,3,5,15,5,,,5,18,4
+1,Oropeza,1,Sucre,2794,Sucre,25031,Mercado Yurac Yurac,1007507,2,32,30,5,18,3,10,9,10,,,6,12,5
+1,Oropeza,1,Sucre,2794,Sucre,25031,Mercado Yurac Yurac,1007517,3,23,27,5,8,6,3,16,13,,,3,10,5
+1,Oropeza,1,Sucre,2794,Sucre,25031,Mercado Yurac Yurac,1007527,4,29,25,1,18,4,11,16,5,,,5,18,11
+1,Oropeza,1,Sucre,2794,Sucre,25031,Mercado Yurac Yurac,1007537,5,19,26,6,15,5,7,14,9,,,4,17,9
+1,Oropeza,1,Sucre,2794,Sucre,25031,Mercado Yurac Yurac,1007547,6,30,27,4,17,1,4,19,8,,,5,14,8
+1,Oropeza,1,Sucre,2794,Sucre,25031,Mercado Yurac Yurac,1007557,7,38,22,2,18,5,4,10,6,,,6,29,4
+1,Oropeza,1,Sucre,2794,Sucre,25031,Mercado Yurac Yurac,1007567,8,31,19,3,22,4,8,18,11,,,4,15,7
+1,Oropeza,1,Sucre,2794,Sucre,25031,Mercado Yurac Yurac,1007577,9,31,24,3,19,6,4,18,5,,,7,18,10
+1,Oropeza,1,Sucre,2794,Sucre,25031,Mercado Yurac Yurac,1007587,10,24,25,3,21,9,3,21,3,,,4,13,6
+1,Oropeza,1,Sucre,2794,Sucre,25031,Mercado Yurac Yurac,1007597,11,27,27,7,15,4,6,15,7,,,5,26,11
+1,Oropeza,1,Sucre,2794,Sucre,25031,Mercado Yurac Yurac,1007607,12,37,27,3,16,11,2,11,13,,,3,15,5
+1,Oropeza,1,Sucre,2794,Sucre,25031,Mercado Yurac Yurac,1007617,13,22,28,5,15,3,2,3,6,,,2,22,3
+1,Oropeza,1,Sucre,2794,Sucre,25032,Unidad Educativa Alberto Bohorquez,1009677,1,27,18,9,12,8,2,13,6,,,7,22,2
+1,Oropeza,1,Sucre,2794,Sucre,25032,Unidad Educativa Alberto Bohorquez,1009687,2,19,24,9,9,8,8,10,8,,,8,8,3
+1,Oropeza,1,Sucre,2794,Sucre,25032,Unidad Educativa Alberto Bohorquez,1009697,3,14,23,6,9,4,8,10,4,,,4,23,3
+1,Oropeza,1,Sucre,2794,Sucre,25032,Unidad Educativa Alberto Bohorquez,1009707,4,13,20,1,10,4,8,10,3,,,4,19,2
+1,Oropeza,1,Sucre,2794,Sucre,25032,Unidad Educativa Alberto Bohorquez,1009717,5,22,14,5,10,2,4,8,10,,,5,16,2
+1,Oropeza,1,Sucre,2794,Sucre,25032,Unidad Educativa Alberto Bohorquez,1009727,6,13,20,2,9,3,9,8,6,,,5,15,4
+1,Oropeza,1,Sucre,2794,Sucre,25032,Unidad Educativa Alberto Bohorquez,1009737,7,24,8,5,7,2,18,10,8,,,12,16,5
+1,Oropeza,1,Sucre,2794,Sucre,25032,Unidad Educativa Alberto Bohorquez,1009747,8,21,15,7,7,4,8,6,3,,,10,20,1
+1,Oropeza,1,Sucre,2794,Sucre,25032,Unidad Educativa Alberto Bohorquez,1009757,9,23,16,1,7,6,7,8,3,,,5,15,6
+1,Oropeza,1,Sucre,2794,Sucre,25032,Unidad Educativa Alberto Bohorquez,1009767,10,25,18,6,2,3,7,7,5,,,5,26,4
+1,Oropeza,1,Sucre,2794,Sucre,25032,Unidad Educativa Alberto Bohorquez,1009777,11,21,17,9,7,1,9,12,7,,,8,17,5
+1,Oropeza,1,Sucre,2794,Sucre,25032,Unidad Educativa Alberto Bohorquez,1009787,12,15,26,5,7,4,7,2,4,,,3,19,1
+1,Oropeza,1,Sucre,2794,Sucre,25032,Unidad Educativa Alberto Bohorquez,1009797,13,19,16,9,7,3,11,8,13,,,7,16,6
+1,Oropeza,1,Sucre,2794,Sucre,25032,Unidad Educativa Alberto Bohorquez,1009807,14,20,24,5,8,2,4,5,8,,,5,26,4
+1,Oropeza,1,Sucre,2794,Sucre,25032,Unidad Educativa Alberto Bohorquez,1009817,15,6,25,0,5,8,6,4,1,,,6,24,4
+1,Oropeza,1,Sucre,2794,Sucre,25032,Unidad Educativa Alberto Bohorquez,1009827,16,8,6,1,1,2,3,1,3,,,2,8,1
+1,Oropeza,1,Sucre,2794,Sucre,25033,Unidad Educativa Ruffo,1009597,1,18,33,5,16,3,3,12,3,,,5,9,1
+1,Oropeza,1,Sucre,2794,Sucre,25033,Unidad Educativa Ruffo,1009607,2,20,19,2,12,7,8,11,3,,,5,14,3
+1,Oropeza,1,Sucre,2794,Sucre,25033,Unidad Educativa Ruffo,1009617,3,18,17,5,8,7,9,11,3,,,4,11,4
+1,Oropeza,1,Sucre,2794,Sucre,25033,Unidad Educativa Ruffo,1009627,4,18,15,1,10,12,5,17,2,,,17,13,5
+1,Oropeza,1,Sucre,2794,Sucre,25033,Unidad Educativa Ruffo,1009637,5,11,21,2,7,11,4,10,3,,,5,14,5
+1,Oropeza,1,Sucre,2794,Sucre,25033,Unidad Educativa Ruffo,1009647,6,14,12,2,7,2,7,12,5,,,8,23,1
+1,Oropeza,1,Sucre,2794,Sucre,25033,Unidad Educativa Ruffo,1009657,7,13,12,7,10,4,11,14,3,,,9,17,1
+1,Oropeza,1,Sucre,2794,Sucre,25033,Unidad Educativa Ruffo,1009667,8,10,17,3,7,5,1,8,5,,,2,12,2
+1,Oropeza,1,Sucre,2794,Sucre,25329,U.E. Gastón Vilar Casso,1006567,1,22,29,8,7,1,6,12,11,,,6,31,3
+1,Oropeza,1,Sucre,2794,Sucre,25329,U.E. Gastón Vilar Casso,1006577,2,19,18,4,8,11,11,5,4,,,9,23,3
+1,Oropeza,1,Sucre,2794,Sucre,25329,U.E. Gastón Vilar Casso,1006587,3,24,19,4,12,9,9,10,8,,,7,11,2
+1,Oropeza,1,Sucre,2794,Sucre,25329,U.E. Gastón Vilar Casso,1006597,4,14,22,3,10,4,11,12,8,,,5,21,3
+1,Oropeza,1,Sucre,2794,Sucre,25329,U.E. Gastón Vilar Casso,1006607,5,5,28,5,9,6,6,9,6,,,6,18,7
+1,Oropeza,1,Sucre,2794,Sucre,25329,U.E. Gastón Vilar Casso,1006617,6,16,15,5,13,3,11,4,6,,,6,18,3
+1,Oropeza,1,Sucre,2794,Sucre,25329,U.E. Gastón Vilar Casso,1006627,7,22,26,3,8,3,6,12,7,,,5,16,2
+1,Oropeza,1,Sucre,2794,Sucre,25329,U.E. Gastón Vilar Casso,1006637,8,25,13,7,10,6,10,7,5,,,4,23,4
+1,Oropeza,1,Sucre,2794,Sucre,25329,U.E. Gastón Vilar Casso,1006647,9,18,20,5,12,3,13,9,5,,,7,18,3
+1,Oropeza,1,Sucre,2794,Sucre,25329,U.E. Gastón Vilar Casso,1006657,10,15,26,7,11,5,6,6,6,,,15,19,5
+1,Oropeza,1,Sucre,2794,Sucre,25329,U.E. Gastón Vilar Casso,1006667,11,18,18,5,17,4,10,10,3,,,14,17,1
+1,Oropeza,1,Sucre,2794,Sucre,25329,U.E. Gastón Vilar Casso,1006677,12,13,22,1,8,6,20,10,5,,,3,25,1
+1,Oropeza,1,Sucre,2794,Sucre,25329,U.E. Gastón Vilar Casso,1006687,13,22,22,1,11,6,4,21,5,,,9,19,2
+1,Oropeza,1,Sucre,2794,Sucre,25329,U.E. Gastón Vilar Casso,1006697,14,26,25,1,7,9,10,9,5,,,7,19,5
+1,Oropeza,1,Sucre,2794,Sucre,25329,U.E. Gastón Vilar Casso,1006707,15,31,16,1,7,6,7,6,6,,,9,21,6
+1,Oropeza,1,Sucre,2794,Sucre,25329,U.E. Gastón Vilar Casso,1006717,16,26,27,8,14,5,8,8,4,,,9,26,5
+1,Oropeza,1,Sucre,2794,Sucre,25329,U.E. Gastón Vilar Casso,1006727,17,16,14,3,16,8,4,14,5,,,9,20,3
+1,Oropeza,1,Sucre,2794,Sucre,25329,U.E. Gastón Vilar Casso,1006737,18,23,22,6,11,4,11,19,6,,,12,16,4
+1,Oropeza,1,Sucre,2794,Sucre,25329,U.E. Gastón Vilar Casso,1006747,19,12,16,2,9,2,3,7,4,,,1,13,3
+1,Oropeza,1,Sucre,2794,Sucre,25476,Coliseo Libertadores,1003507,1,28,21,4,26,5,6,14,8,,,9,20,9
+1,Oropeza,1,Sucre,2794,Sucre,25476,Coliseo Libertadores,1003517,2,39,21,0,19,3,2,18,4,,,7,25,6
+1,Oropeza,1,Sucre,2794,Sucre,25476,Coliseo Libertadores,1003527,3,35,18,7,20,5,8,14,4,,,6,17,7
+1,Oropeza,1,Sucre,2794,Sucre,25476,Coliseo Libertadores,1003537,4,32,21,5,15,8,11,15,5,,,11,20,6
+1,Oropeza,1,Sucre,2794,Sucre,25476,Coliseo Libertadores,1003547,5,38,19,3,18,6,6,16,6,,,5,14,8
+1,Oropeza,1,Sucre,2794,Sucre,25476,Coliseo Libertadores,1003557,6,46,26,4,19,4,8,15,6,,,8,15,3
+1,Oropeza,1,Sucre,2794,Sucre,25476,Coliseo Libertadores,1003567,7,27,21,3,29,4,11,12,8,,,3,23,6
+1,Oropeza,1,Sucre,2794,Sucre,25476,Coliseo Libertadores,1003577,8,26,19,4,25,3,5,17,9,,,9,23,7
+1,Oropeza,1,Sucre,2794,Sucre,25476,Coliseo Libertadores,1003587,9,30,26,7,22,2,9,17,6,,,4,10,12
+1,Oropeza,1,Sucre,2794,Sucre,25476,Coliseo Libertadores,1003597,10,38,25,3,23,3,1,13,1,,,4,17,4
+1,Oropeza,1,Sucre,2794,Sucre,25476,Coliseo Libertadores,1003607,11,29,27,2,19,3,5,12,8,,,8,15,7
+1,Oropeza,1,Sucre,2794,Sucre,25476,Coliseo Libertadores,1003617,12,33,31,1,23,2,5,7,7,,,4,20,4
+1,Oropeza,1,Sucre,2794,Sucre,25476,Coliseo Libertadores,1003627,13,36,17,5,20,5,6,12,9,,,7,18,8
+1,Oropeza,1,Sucre,2794,Sucre,25476,Coliseo Libertadores,1003637,14,37,30,3,22,4,3,9,9,,,6,9,5
+1,Oropeza,1,Sucre,2794,Sucre,25476,Coliseo Libertadores,1003647,15,33,29,3,24,7,7,9,2,,,3,16,3
+1,Oropeza,1,Sucre,2794,Sucre,25476,Coliseo Libertadores,1003657,16,5,6,0,1,2,1,2,2,,,1,2,0
+1,Oropeza,1,Sucre,2794,Sucre,25526,U.E. Eduardo Abaroa,1001367,1,34,28,3,25,6,7,18,10,,,3,13,8
+1,Oropeza,1,Sucre,2794,Sucre,25526,U.E. Eduardo Abaroa,1001377,2,41,23,1,22,7,8,17,4,,,1,16,6
+1,Oropeza,1,Sucre,2794,Sucre,25526,U.E. Eduardo Abaroa,1001387,3,41,27,0,21,4,12,15,11,,,4,19,9
+1,Oropeza,1,Sucre,2794,Sucre,25526,U.E. Eduardo Abaroa,1001397,4,28,41,6,19,3,8,15,14,,,6,10,13
+1,Oropeza,1,Sucre,2794,Sucre,25526,U.E. Eduardo Abaroa,1001407,5,33,33,3,23,7,7,14,9,,,4,20,5
+1,Oropeza,1,Sucre,2794,Sucre,25526,U.E. Eduardo Abaroa,1001417,6,35,20,3,21,8,9,9,12,,,5,18,7
+1,Oropeza,1,Sucre,2794,Sucre,25526,U.E. Eduardo Abaroa,1001427,7,36,28,2,25,5,5,19,10,,,3,7,11
+1,Oropeza,1,Sucre,2794,Sucre,25526,U.E. Eduardo Abaroa,1001437,8,32,22,5,21,4,6,13,12,,,4,17,5
+1,Oropeza,1,Sucre,2794,Sucre,25526,U.E. Eduardo Abaroa,1001447,9,29,23,2,25,5,9,12,14,,,7,13,10
+1,Oropeza,1,Sucre,2794,Sucre,25526,U.E. Eduardo Abaroa,1001457,10,30,30,2,30,7,10,12,7,,,4,18,9
+1,Oropeza,1,Sucre,2794,Sucre,25526,U.E. Eduardo Abaroa,1001467,11,30,31,7,20,7,7,12,8,,,6,20,8
+1,Oropeza,1,Sucre,2794,Sucre,25530,Campo Deportivo Noria Alta,1007137,1,35,34,5,17,2,11,17,15,,,5,20,14
+1,Oropeza,1,Sucre,2794,Sucre,25530,Campo Deportivo Noria Alta,1007147,2,35,29,6,28,4,6,10,7,,,7,15,7
+1,Oropeza,1,Sucre,2794,Sucre,25530,Campo Deportivo Noria Alta,1007157,3,35,32,2,20,5,7,25,8,,,7,9,5
+1,Oropeza,1,Sucre,2794,Sucre,25530,Campo Deportivo Noria Alta,1007167,4,36,28,6,21,5,11,12,13,,,2,17,5
+1,Oropeza,1,Sucre,2794,Sucre,25530,Campo Deportivo Noria Alta,1007177,5,35,26,5,25,5,11,14,6,,,4,14,11
+1,Oropeza,1,Sucre,2794,Sucre,25530,Campo Deportivo Noria Alta,1007187,6,36,34,8,24,4,10,14,12,,,3,14,8
+1,Oropeza,1,Sucre,2794,Sucre,25530,Campo Deportivo Noria Alta,1007197,7,35,37,7,23,7,7,15,7,,,1,8,8
+1,Oropeza,1,Sucre,2794,Sucre,25531,U.E. Thako Pampa,1009957,1,19,20,5,13,3,6,9,5,,,5,29,2
+1,Oropeza,1,Sucre,2794,Sucre,25531,U.E. Thako Pampa,1009967,2,24,19,2,9,3,3,10,8,,,9,22,0
+1,Oropeza,1,Sucre,2794,Sucre,25531,U.E. Thako Pampa,1009977,3,23,22,3,3,1,7,6,3,,,11,19,3
+1,Oropeza,1,Sucre,2794,Sucre,25531,U.E. Thako Pampa,1009987,4,31,18,5,5,3,7,12,6,,,5,16,1
+1,Oropeza,1,Sucre,2794,Sucre,25531,U.E. Thako Pampa,1009997,5,23,14,3,13,3,6,6,8,,,6,14,5
+1,Oropeza,1,Sucre,2794,Sucre,25531,U.E. Thako Pampa,1010007,6,20,14,2,10,6,7,7,6,,,7,16,6
+1,Oropeza,1,Sucre,2794,Sucre,25568,U.E. San Roque Nivel Inicial,1007977,1,29,27,0,26,8,2,24,11,,,6,17,5
+1,Oropeza,1,Sucre,2794,Sucre,25568,U.E. San Roque Nivel Inicial,1007987,2,26,34,5,25,9,10,12,8,,,3,13,8
+1,Oropeza,1,Sucre,2794,Sucre,25568,U.E. San Roque Nivel Inicial,1007997,3,29,28,0,18,7,12,20,10,,,3,20,4
+1,Oropeza,1,Sucre,2794,Sucre,25568,U.E. San Roque Nivel Inicial,1008007,4,34,21,5,26,1,13,9,10,,,5,25,9
+1,Oropeza,1,Sucre,2794,Sucre,25568,U.E. San Roque Nivel Inicial,1008017,5,45,33,4,23,1,8,14,12,,,4,11,5
+1,Oropeza,1,Sucre,2794,Sucre,25568,U.E. San Roque Nivel Inicial,1008027,6,31,23,2,23,5,4,19,14,,,6,28,11
+1,Oropeza,1,Sucre,2794,Sucre,25568,U.E. San Roque Nivel Inicial,1008037,7,21,17,1,13,1,2,5,5,,,5,4,3
+1,Oropeza,1,Sucre,2794,Sucre,25569,Salón Multifuncional Satélite,1007077,1,31,23,11,13,7,7,18,6,,,6,12,7
+1,Oropeza,1,Sucre,2794,Sucre,25569,Salón Multifuncional Satélite,1007087,2,29,20,4,18,5,5,8,9,,,10,23,3
+1,Oropeza,1,Sucre,2794,Sucre,25569,Salón Multifuncional Satélite,1007097,3,25,29,3,13,9,6,20,2,,,5,9,8
+1,Oropeza,1,Sucre,2794,Sucre,25569,Salón Multifuncional Satélite,1007107,4,29,37,7,17,8,8,17,10,,,3,20,6
+1,Oropeza,1,Sucre,2794,Sucre,25569,Salón Multifuncional Satélite,1007117,5,24,26,3,21,9,1,17,6,,,7,17,6
+1,Oropeza,1,Sucre,2794,Sucre,25569,Salón Multifuncional Satélite,1007127,6,33,26,3,13,4,7,21,8,,,6,15,3
+1,Oropeza,1,Sucre,2794,Sucre,25570,Campo Deportivo San Juanillo Bajo,1004977,1,21,33,4,18,8,6,6,4,,,12,16,6
+1,Oropeza,1,Sucre,2794,Sucre,25570,Campo Deportivo San Juanillo Bajo,1004987,2,24,26,3,16,4,5,12,3,,,3,22,8
+1,Oropeza,1,Sucre,2794,Sucre,25570,Campo Deportivo San Juanillo Bajo,1004997,3,32,28,1,10,1,8,14,8,,,12,18,3
+1,Oropeza,1,Sucre,2794,Sucre,25570,Campo Deportivo San Juanillo Bajo,1005007,4,30,33,6,23,2,12,7,8,,,6,11,7
+1,Oropeza,1,Sucre,2794,Sucre,25570,Campo Deportivo San Juanillo Bajo,1005017,5,39,26,3,20,3,5,11,7,,,6,19,3
+1,Oropeza,1,Sucre,2794,Sucre,25570,Campo Deportivo San Juanillo Bajo,1005027,6,24,19,4,19,2,9,12,7,,,6,24,8
+1,Oropeza,1,Sucre,2794,Sucre,25570,Campo Deportivo San Juanillo Bajo,1005037,7,34,29,4,23,5,6,19,5,,,7,21,5
+1,Oropeza,1,Sucre,2794,Sucre,25570,Campo Deportivo San Juanillo Bajo,1005047,8,25,19,5,25,4,5,14,6,,,3,18,7
+1,Oropeza,1,Sucre,2794,Sucre,25570,Campo Deportivo San Juanillo Bajo,1005057,9,2,3,1,0,0,2,2,1,,,1,4,0
+1,Oropeza,1,Sucre,2794,Sucre,25571,Coliseo Los Pinos,1006097,1,28,16,11,26,6,4,12,6,,,8,20,7
+1,Oropeza,1,Sucre,2794,Sucre,25571,Coliseo Los Pinos,1006107,2,24,22,5,19,6,6,11,10,,,11,21,2
+1,Oropeza,1,Sucre,2794,Sucre,25571,Coliseo Los Pinos,1006117,3,20,20,6,14,3,6,22,8,,,8,19,6
+1,Oropeza,1,Sucre,2794,Sucre,25571,Coliseo Los Pinos,1006127,4,23,29,3,13,6,6,12,11,,,5,20,3
+1,Oropeza,1,Sucre,2794,Sucre,25571,Coliseo Los Pinos,1006137,5,23,18,7,16,9,4,22,7,,,5,21,10
+1,Oropeza,1,Sucre,2794,Sucre,25571,Coliseo Los Pinos,1006147,6,20,29,5,13,6,10,10,4,,,9,19,4
+1,Oropeza,1,Sucre,2794,Sucre,25571,Coliseo Los Pinos,1006157,7,30,21,6,17,5,6,10,7,,,5,30,6
+1,Oropeza,1,Sucre,2794,Sucre,25571,Coliseo Los Pinos,1006167,8,30,24,2,15,2,5,20,11,,,9,27,4
+1,Oropeza,1,Sucre,2794,Sucre,25571,Coliseo Los Pinos,1006177,9,34,25,6,10,6,1,16,8,,,7,25,4
+1,Oropeza,1,Sucre,2794,Sucre,25571,Coliseo Los Pinos,1006187,10,27,20,5,15,2,13,13,12,,,11,19,5
+1,Oropeza,1,Sucre,2794,Sucre,25571,Coliseo Los Pinos,1006197,11,10,7,2,4,2,3,10,2,,,1,4,5
+1,Oropeza,1,Sucre,2794,Sucre,25577,U.E. Cristo Rey,1002357,1,37,37,1,23,1,8,17,7,,,14,8,12
+1,Oropeza,1,Sucre,2794,Sucre,25577,U.E. Cristo Rey,1002367,2,13,11,0,3,3,3,4,0,,,1,5,3
+1,Oropeza,1,Sucre,2794,Sucre,26371,U.E. Lechuguillas,1010127,1,13,19,2,17,10,6,9,7,,,8,13,6
+1,Oropeza,1,Sucre,2794,Sucre,26371,U.E. Lechuguillas,1010137,2,3,3,0,4,0,0,1,1,,,1,7,1
+1,Oropeza,1,Sucre,2794,Sucre,26372,Salón Multifuncional Sancho,1009387,1,29,16,4,15,7,3,22,4,,,9,21,3
+1,Oropeza,1,Sucre,2794,Sucre,26372,Salón Multifuncional Sancho,1009397,2,36,25,4,8,3,5,16,8,,,7,21,2
+1,Oropeza,1,Sucre,2794,Sucre,26372,Salón Multifuncional Sancho,1009407,3,12,2,1,1,0,1,5,0,,,1,3,2
+1,Oropeza,1,Sucre,2794,Sucre,26373,U.E. Franz Tamayo,1003667,1,25,20,4,9,4,13,13,6,,,17,22,5
+1,Oropeza,1,Sucre,2794,Sucre,26373,U.E. Franz Tamayo,1003677,2,25,18,5,12,4,5,18,4,,,8,17,2
+1,Oropeza,1,Sucre,2794,Sucre,26373,U.E. Franz Tamayo,1003687,3,27,25,4,13,6,4,10,4,,,9,23,6
+1,Oropeza,1,Sucre,2794,Sucre,26373,U.E. Franz Tamayo,1003697,4,29,30,5,7,7,6,16,6,,,7,12,5
+1,Oropeza,1,Sucre,2794,Sucre,26373,U.E. Franz Tamayo,1003707,5,26,22,3,23,6,9,11,6,,,7,25,5
+1,Oropeza,1,Sucre,2794,Sucre,26373,U.E. Franz Tamayo,1003717,6,18,18,6,13,7,5,13,8,,,8,19,5
+1,Oropeza,1,Sucre,2794,Sucre,26373,U.E. Franz Tamayo,1003727,7,26,26,3,16,6,6,12,6,,,3,22,8
+1,Oropeza,1,Sucre,2794,Sucre,26373,U.E. Franz Tamayo,1003737,8,25,23,6,12,6,5,10,5,,,6,19,2
+1,Oropeza,1,Sucre,2794,Sucre,26373,U.E. Franz Tamayo,1003747,9,3,4,3,8,1,3,3,0,,,4,2,0
+1,Oropeza,1,Sucre,2794,Sucre,26374,U.E. Kurusa Llawi,1007307,1,17,20,2,9,7,13,12,3,,,8,19,6
+1,Oropeza,1,Sucre,2794,Sucre,26374,U.E. Kurusa Llawi,1007317,2,22,19,4,14,7,8,10,9,,,8,17,3
+1,Oropeza,1,Sucre,2794,Sucre,26374,U.E. Kurusa Llawi,1007327,3,16,10,3,6,3,4,7,1,,,6,10,2
+1,Oropeza,1,Sucre,2794,Sucre,26375,U.E. Tomas Katari Sucre,1009847,1,24,24,4,9,4,12,9,6,,,3,13,4
+1,Oropeza,1,Sucre,2794,Sucre,26375,U.E. Tomas Katari Sucre,1009857,2,10,18,3,12,2,1,9,3,,,10,23,2
+1,Oropeza,1,Sucre,2794,Sucre,26375,U.E. Tomas Katari Sucre,1009867,3,17,16,6,8,5,9,6,6,,,9,16,0
+1,Oropeza,1,Sucre,2794,Sucre,26375,U.E. Tomas Katari Sucre,1009877,4,14,17,9,7,6,3,12,9,,,6,13,5
+1,Oropeza,1,Sucre,2794,Sucre,26375,U.E. Tomas Katari Sucre,1009887,5,20,11,7,14,2,3,5,10,,,9,16,2
+1,Oropeza,1,Sucre,2794,Sucre,26375,U.E. Tomas Katari Sucre,1009897,6,15,23,4,7,5,6,10,8,,,9,20,6
+1,Oropeza,1,Sucre,2794,Sucre,26375,U.E. Tomas Katari Sucre,1009907,7,18,30,4,7,12,5,13,2,,,5,14,1
+1,Oropeza,1,Sucre,2794,Sucre,26375,U.E. Tomas Katari Sucre,1009917,8,18,17,4,9,5,5,6,7,,,9,11,2
+1,Oropeza,1,Sucre,2794,Sucre,26375,U.E. Tomas Katari Sucre,1009927,9,15,22,5,9,6,9,11,4,,,10,19,1
+1,Oropeza,1,Sucre,2794,Sucre,26375,U.E. Tomas Katari Sucre,1009937,10,11,22,5,13,4,5,11,6,,,6,10,5
+1,Oropeza,1,Sucre,2794,Sucre,26375,U.E. Tomas Katari Sucre,1009947,11,1,0,2,1,0,3,1,2,,,0,0,0
+1,Oropeza,1,Sucre,2794,Sucre,26376,Campo Deportivo Barrio Lindo,1002067,1,19,29,2,32,8,9,12,6,,,7,20,5
+1,Oropeza,1,Sucre,2794,Sucre,26376,Campo Deportivo Barrio Lindo,1002077,2,26,33,4,20,4,3,10,7,,,8,17,15
+1,Oropeza,1,Sucre,2794,Sucre,26376,Campo Deportivo Barrio Lindo,1002087,3,28,17,6,16,11,10,9,9,,,6,27,6
+1,Oropeza,1,Sucre,2794,Sucre,26376,Campo Deportivo Barrio Lindo,1002097,4,20,25,7,14,5,6,7,10,,,2,14,6
+1,Oropeza,1,Sucre,2794,Sucre,30001,Facultad de Tecnología Médica,1004657,1,30,26,5,31,1,1,10,9,,,12,19,12
+1,Oropeza,1,Sucre,2794,Sucre,30001,Facultad de Tecnología Médica,1004667,2,39,28,3,22,2,5,14,2,,,5,14,8
+1,Oropeza,1,Sucre,2794,Sucre,30001,Facultad de Tecnología Médica,1004677,3,36,20,0,20,4,8,17,5,,,8,15,11
+1,Oropeza,1,Sucre,2794,Sucre,30001,Facultad de Tecnología Médica,1004687,4,44,26,6,13,3,6,19,7,,,2,13,10
+1,Oropeza,1,Sucre,2794,Sucre,30001,Facultad de Tecnología Médica,1004697,5,36,29,1,20,6,9,22,3,,,4,18,8
+1,Oropeza,1,Sucre,2794,Sucre,30001,Facultad de Tecnología Médica,1004707,6,42,31,8,41,3,8,17,3,,,5,16,3
+1,Oropeza,1,Sucre,2794,Sucre,30001,Facultad de Tecnología Médica,1004717,7,27,21,5,13,3,5,5,5,,,2,11,4
+1,Oropeza,1,Sucre,2794,Sucre,30002,Campo Deportivo zona San Francisco,1009137,1,39,32,3,24,2,7,21,7,,,8,17,12
+1,Oropeza,1,Sucre,2794,Sucre,30002,Campo Deportivo zona San Francisco,1009147,2,24,20,1,29,3,12,24,5,,,1,17,9
+1,Oropeza,1,Sucre,2794,Sucre,30002,Campo Deportivo zona San Francisco,1009157,3,33,31,4,22,5,8,20,7,,,4,17,11
+1,Oropeza,1,Sucre,2794,Sucre,30002,Campo Deportivo zona San Francisco,1009167,4,41,33,3,30,3,9,9,5,,,3,11,12
+1,Oropeza,1,Sucre,2794,Sucre,30002,Campo Deportivo zona San Francisco,1009177,5,32,29,4,23,2,15,18,4,,,1,12,16
+1,Oropeza,1,Sucre,2794,Sucre,30002,Campo Deportivo zona San Francisco,1009187,6,33,35,7,29,4,4,17,4,,,3,12,13
+1,Oropeza,1,Sucre,2794,Sucre,30002,Campo Deportivo zona San Francisco,1009197,7,45,31,4,24,3,6,8,5,,,5,12,10
+1,Oropeza,1,Sucre,2794,Sucre,30002,Campo Deportivo zona San Francisco,1009207,8,12,4,1,2,1,0,2,5,,,3,1,3
+1,Oropeza,1,Sucre,2794,Sucre,30004,Campo Deportivo zona América,1007747,1,17,24,6,10,3,44,6,7,,,2,17,4
+1,Oropeza,1,Sucre,2794,Sucre,30004,Campo Deportivo zona América,1007757,2,25,21,2,14,6,13,10,3,,,7,21,2
+1,Oropeza,1,Sucre,2794,Sucre,30004,Campo Deportivo zona América,1007767,3,22,10,4,14,2,25,7,6,,,11,13,5
+1,Oropeza,1,Sucre,2794,Sucre,30004,Campo Deportivo zona América,1007777,4,26,16,1,23,5,15,9,8,,,4,15,5
+1,Oropeza,1,Sucre,2794,Sucre,30004,Campo Deportivo zona América,1007787,5,26,22,5,12,3,14,9,4,,,2,20,6
+1,Oropeza,1,Sucre,2794,Sucre,30004,Campo Deportivo zona América,1007797,6,21,25,3,13,6,23,8,4,,,6,14,2
+1,Oropeza,1,Sucre,2794,Sucre,30004,Campo Deportivo zona América,1007807,7,25,21,3,16,5,31,6,10,,,2,21,4
+1,Oropeza,1,Sucre,2794,Sucre,30005,Universidad del Valle UNIVALLE,1005127,1,40,32,6,23,5,3,9,5,,,5,20,9
+1,Oropeza,1,Sucre,2794,Sucre,30005,Universidad del Valle UNIVALLE,1005137,2,27,29,3,22,4,11,15,9,,,10,19,9
+1,Oropeza,1,Sucre,2794,Sucre,30005,Universidad del Valle UNIVALLE,1005147,3,31,32,3,15,6,8,10,4,,,5,20,11
+1,Oropeza,1,Sucre,2794,Sucre,30005,Universidad del Valle UNIVALLE,1005157,4,35,29,4,23,0,9,12,9,,,4,15,10
+1,Oropeza,1,Sucre,2794,Sucre,30005,Universidad del Valle UNIVALLE,1005167,5,26,29,2,27,3,1,11,4,,,8,18,6
+1,Oropeza,1,Sucre,2794,Sucre,30005,Universidad del Valle UNIVALLE,1005177,6,22,35,3,32,5,4,14,9,,,5,23,10
+1,Oropeza,1,Sucre,2794,Sucre,30005,Universidad del Valle UNIVALLE,1005187,7,29,41,3,18,2,10,14,9,,,1,20,3
+1,Oropeza,1,Sucre,2794,Sucre,30005,Universidad del Valle UNIVALLE,1005197,8,25,29,4,20,7,5,15,7,,,11,16,8
+1,Oropeza,1,Sucre,2794,Sucre,30005,Universidad del Valle UNIVALLE,1005207,9,31,42,3,16,4,5,9,4,,,3,25,10
+1,Oropeza,1,Sucre,2794,Sucre,30005,Universidad del Valle UNIVALLE,1005217,10,28,27,4,12,6,7,9,6,,,4,13,4
+1,Oropeza,1,Sucre,2794,Sucre,30009,Coliseo San José,1009267,1,43,23,7,24,6,8,14,10,,,6,18,11
+1,Oropeza,1,Sucre,2794,Sucre,30009,Coliseo San José,1009277,2,37,18,1,23,4,4,23,13,,,5,15,8
+1,Oropeza,1,Sucre,2794,Sucre,30009,Coliseo San José,1009287,3,38,30,3,23,3,1,22,6,,,6,9,7
+1,Oropeza,1,Sucre,2794,Sucre,30009,Coliseo San José,1009297,4,41,26,9,19,2,3,14,14,,,6,20,8
+1,Oropeza,1,Sucre,2794,Sucre,30009,Coliseo San José,1009307,5,33,24,2,26,5,8,11,7,,,8,21,5
+1,Oropeza,1,Sucre,2794,Sucre,30009,Coliseo San José,1009317,6,31,27,8,23,8,4,14,3,,,5,16,12
+1,Oropeza,1,Sucre,2794,Sucre,30010,Kinder Aniceto Arce,1007817,1,23,28,3,14,5,6,8,8,,,4,17,4
+1,Oropeza,1,Sucre,2794,Sucre,30010,Kinder Aniceto Arce,1007827,2,20,29,5,10,3,11,7,4,,,3,27,4
+1,Oropeza,1,Sucre,2794,Sucre,30010,Kinder Aniceto Arce,1007837,3,32,29,4,14,6,7,19,6,,,4,15,3
+1,Oropeza,1,Sucre,2794,Sucre,30010,Kinder Aniceto Arce,1007847,4,27,24,5,14,4,6,15,9,,,5,24,5
+1,Oropeza,1,Sucre,2794,Sucre,30010,Kinder Aniceto Arce,1007857,5,5,19,2,5,5,7,7,3,,,3,6,3
+1,Oropeza,1,Sucre,2794,Sucre,30015,U.E. Gualberto Paredes,1008367,1,29,32,2,13,8,7,11,3,,,4,25,9
+1,Oropeza,1,Sucre,2794,Sucre,30015,U.E. Gualberto Paredes,1008377,2,18,16,8,11,17,2,6,6,,,6,30,7
+1,Oropeza,1,Sucre,2794,Sucre,30015,U.E. Gualberto Paredes,1008387,3,22,24,4,17,11,4,11,2,,,8,23,8
+1,Oropeza,1,Sucre,2794,Sucre,30015,U.E. Gualberto Paredes,1008397,4,25,27,8,15,3,7,11,4,,,5,24,5
+1,Oropeza,1,Sucre,2794,Sucre,30015,U.E. Gualberto Paredes,1008407,5,29,19,4,17,10,3,3,6,,,9,27,5
+1,Oropeza,1,Sucre,2794,Sucre,30015,U.E. Gualberto Paredes,1008417,6,19,23,7,10,6,9,11,9,,,2,34,5
+1,Oropeza,1,Sucre,2794,Sucre,30015,U.E. Gualberto Paredes,1008427,7,19,19,3,5,6,4,8,2,,,7,19,1
+1,Oropeza,1,Sucre,2794,Sucre,30015,U.E. Gualberto Paredes,1008437,8,16,17,8,14,10,5,7,5,,,5,23,1
+1,Oropeza,1,Sucre,2794,Sucre,30015,U.E. Gualberto Paredes,1008447,9,22,16,10,7,2,6,3,7,,,3,22,3
+1,Oropeza,1,Sucre,2794,Sucre,30015,U.E. Gualberto Paredes,1008457,10,25,35,2,7,4,4,6,3,,,4,25,2
+1,Oropeza,1,Sucre,2794,Sucre,30015,U.E. Gualberto Paredes,1008467,11,30,26,6,5,3,3,9,7,,,4,18,6
+1,Oropeza,1,Sucre,2794,Sucre,30015,U.E. Gualberto Paredes,1008477,12,25,28,6,7,8,5,4,4,,,9,24,1
+1,Oropeza,1,Sucre,2794,Sucre,30015,U.E. Gualberto Paredes,1008487,13,15,28,7,15,7,4,4,4,,,4,21,3
+1,Oropeza,1,Sucre,2794,Sucre,30015,U.E. Gualberto Paredes,1008497,14,25,14,4,12,5,0,12,4,,,10,28,3
+1,Oropeza,1,Sucre,2794,Sucre,30015,U.E. Gualberto Paredes,1008507,15,3,5,2,3,2,1,0,1,,,0,6,0
+1,Oropeza,1,Sucre,2794,Sucre,32160,U.E. Genoveva Rios,1009327,1,23,23,3,11,6,5,9,4,,,7,25,5
+1,Oropeza,1,Sucre,2794,Sucre,32160,U.E. Genoveva Rios,1009337,2,43,19,3,8,8,2,6,3,,,4,7,5
+1,Oropeza,1,Sucre,2794,Sucre,32161,Salón Multifuncional Luis Espinal,1005227,1,28,21,5,13,6,10,9,5,,,4,15,4
+1,Oropeza,1,Sucre,2794,Sucre,32161,Salón Multifuncional Luis Espinal,1005237,2,35,22,3,23,3,5,11,5,,,8,25,2
+1,Oropeza,1,Sucre,2794,Sucre,32161,Salón Multifuncional Luis Espinal,1005247,3,29,26,0,14,9,4,9,7,,,5,24,4
+1,Oropeza,1,Sucre,2794,Sucre,32161,Salón Multifuncional Luis Espinal,1005257,4,29,22,1,15,6,2,16,12,,,6,15,4
+1,Oropeza,1,Sucre,2794,Sucre,32161,Salón Multifuncional Luis Espinal,1005267,5,16,15,3,11,1,3,5,3,,,2,8,4
+1,Oropeza,1,Sucre,2794,Sucre,32162,Centro Recreacional La Esperanza,1006517,1,32,36,2,22,4,9,13,7,,,5,15,8
+1,Oropeza,1,Sucre,2794,Sucre,32162,Centro Recreacional La Esperanza,1006527,2,41,37,3,29,4,9,12,8,,,7,9,5
+1,Oropeza,1,Sucre,2794,Sucre,32162,Centro Recreacional La Esperanza,1006537,3,49,20,6,18,4,6,15,8,,,2,16,11
+1,Oropeza,1,Sucre,2794,Sucre,32162,Centro Recreacional La Esperanza,1006547,4,43,28,4,21,5,7,19,4,,,5,17,8
+1,Oropeza,1,Sucre,2794,Sucre,32162,Centro Recreacional La Esperanza,1006557,5,19,19,1,18,2,3,8,8,,,6,4,5
+1,Oropeza,1,Sucre,2794,Sucre,32163,U.E. Ernesto Che Guevara,1004107,1,24,18,0,10,7,10,11,11,,,12,13,6
+1,Oropeza,1,Sucre,2794,Sucre,32163,U.E. Ernesto Che Guevara,1004117,2,16,20,5,17,7,4,8,8,,,12,17,7
+1,Oropeza,1,Sucre,2794,Sucre,32163,U.E. Ernesto Che Guevara,1004127,3,20,23,4,11,10,3,10,5,,,11,15,4
+1,Oropeza,1,Sucre,2794,Sucre,32163,U.E. Ernesto Che Guevara,1004137,4,15,15,4,11,5,7,13,4,,,12,14,4
+1,Oropeza,1,Sucre,2794,Sucre,32163,U.E. Ernesto Che Guevara,1004147,5,24,15,3,11,4,3,15,5,,,8,15,7
+1,Oropeza,1,Sucre,2794,Sucre,32163,U.E. Ernesto Che Guevara,1004157,6,21,25,4,19,3,10,11,0,,,10,15,4
+1,Oropeza,1,Sucre,2794,Sucre,32163,U.E. Ernesto Che Guevara,1004167,7,22,16,6,10,8,4,15,8,,,10,12,1
+1,Oropeza,1,Sucre,2794,Sucre,32163,U.E. Ernesto Che Guevara,1004177,8,22,25,5,11,5,9,12,11,,,15,12,2
+1,Oropeza,1,Sucre,2794,Sucre,32163,U.E. Ernesto Che Guevara,1004187,9,6,9,0,1,1,6,0,0,,,2,5,3
+1,Oropeza,1,Sucre,2794,Sucre,32387,Facultad de Ciencias de Enfermeria y Obstetricia,1004197,1,19,23,2,11,5,0,6,4,,,4,8,4
+1,Oropeza,1,Sucre,2794,Sucre,32388,U.E. Tambo Aranjuez,1009837,1,1,1,1,2,1,0,3,0,,,1,3,1
+1,Oropeza,1,Sucre,2794,Sucre,32389,U.E. Bicentenario,1008777,1,24,31,4,24,5,10,14,3,,,11,18,11
+1,Oropeza,1,Sucre,2794,Sucre,32389,U.E. Bicentenario,1008787,2,14,15,1,3,1,1,3,4,,,2,8,3
+1,Oropeza,1,Sucre,2794,Sucre,32390,U.E. Teresa Bustos de Lemoine,1000897,1,26,40,4,53,3,5,13,8,,,1,10,12
+1,Oropeza,1,Sucre,2794,Sucre,32390,U.E. Teresa Bustos de Lemoine,1000907,2,34,35,3,42,1,3,20,9,,,1,7,9
+1,Oropeza,1,Sucre,2794,Sucre,32390,U.E. Teresa Bustos de Lemoine,1000917,3,33,33,4,41,3,3,14,10,,,1,15,6
+1,Oropeza,1,Sucre,2794,Sucre,32390,U.E. Teresa Bustos de Lemoine,1000927,4,32,28,4,47,1,5,13,9,,,2,7,17
+1,Oropeza,1,Sucre,2794,Sucre,32390,U.E. Teresa Bustos de Lemoine,1000937,5,38,25,2,40,1,7,13,12,,,1,8,6
+1,Oropeza,1,Sucre,2794,Sucre,32390,U.E. Teresa Bustos de Lemoine,1000947,6,35,25,5,49,4,0,18,10,,,4,11,11
+1,Oropeza,1,Sucre,2794,Sucre,32390,U.E. Teresa Bustos de Lemoine,1000957,7,23,23,5,47,0,2,15,4,,,2,7,5
+1,Oropeza,1,Sucre,2794,Sucre,32438,Salón Multifuncional Barrio Icla,1010017,1,3,0,2,2,3,1,1,1,,,1,7,2
+1,Oropeza,1,Sucre,2794,Sucre,32439,Salón Multifuncional Santa Fé,1007627,1,13,11,1,6,0,5,3,3,,,4,1,4
+1,Oropeza,1,Sucre,2875,Ckochis,67,Escuela Elizardo Perez,1000477,1,22,21,7,3,4,5,5,4,,,7,10,1
+1,Oropeza,1,Sucre,2875,Ckochis,67,Escuela Elizardo Perez,1000487,2,6,11,2,2,2,2,1,0,,,7,3,2
+1,Oropeza,1,Sucre,2951,Falafaya,531,Escuela Falafaya,1000497,1,14,12,3,1,4,2,6,2,,,4,21,0
+1,Oropeza,1,Sucre,2952,Cantu Molino,532,Unidad Educativa Cantu Molino,1000507,1,0,7,3,0,5,1,16,1,,,2,27,2
+1,Oropeza,1,Sucre,3191,Llinfi,51,Escuela Llinfi,1000137,1,22,11,4,7,5,8,16,2,,,6,19,3
+1,Oropeza,1,Sucre,3191,Llinfi,51,Escuela Llinfi,1000147,2,8,13,3,5,9,4,8,2,,,2,22,2
+1,Oropeza,1,Sucre,3191,Llinfi,51,Escuela Llinfi,1000157,3,9,14,1,11,5,2,9,1,,,13,19,1
+1,Oropeza,1,Sucre,3191,Llinfi,51,Escuela Llinfi,1000167,4,14,16,2,5,7,0,15,4,,,5,30,1
+1,Oropeza,1,Sucre,3191,Llinfi,51,Escuela Llinfi,1000177,5,16,15,5,4,4,3,7,3,,,7,17,3
+1,Oropeza,1,Sucre,3191,Llinfi,51,Escuela Llinfi,1000187,6,2,5,2,2,2,0,1,0,,,2,2,0
+1,Oropeza,1,Sucre,3429,Soico,1,Unidad Educativa Soico,1000017,1,10,5,5,0,5,2,7,0,,,9,4,1
+1,Oropeza,1,Sucre,3430,La Barranca,1,Unidad Educativa La Barranca,1000027,1,10,11,2,8,3,6,12,3,,,5,33,4
+1,Oropeza,1,Sucre,3430,La Barranca,1,Unidad Educativa La Barranca,1000037,2,8,16,2,3,8,8,4,4,,,5,34,2
+1,Oropeza,1,Sucre,3430,La Barranca,1,Unidad Educativa La Barranca,1000047,3,7,19,6,13,6,1,7,4,,,5,35,2
+1,Oropeza,1,Sucre,3430,La Barranca,1,Unidad Educativa La Barranca,1000057,4,0,4,0,0,0,1,2,1,,,1,7,0
+1,Oropeza,1,Sucre,3821,Alto Khora Khora,1,U.E. Qhora Qhora Alta,1000067,1,14,8,9,4,7,6,5,2,,,7,24,1
+1,Oropeza,1,Sucre,3821,Alto Khora Khora,1,U.E. Qhora Qhora Alta,1000077,2,14,13,8,9,3,5,7,2,,,9,15,3
+1,Oropeza,1,Sucre,3821,Alto Khora Khora,1,U.E. Qhora Qhora Alta,1000087,3,21,24,4,8,3,10,7,4,,,7,22,5
+1,Oropeza,1,Sucre,3821,Alto Khora Khora,1,U.E. Qhora Qhora Alta,1000097,4,17,15,4,10,3,1,15,4,,,8,22,1
+1,Oropeza,1,Sucre,3821,Alto Khora Khora,1,U.E. Qhora Qhora Alta,1000107,5,15,21,5,6,2,9,18,10,,,3,21,1
+1,Oropeza,1,Sucre,3821,Alto Khora Khora,1,U.E. Qhora Qhora Alta,1000117,6,13,15,1,7,2,1,2,4,,,6,13,0
+1,Oropeza,1,Sucre,3822,San Juan de Cachimayu,1,Salón Multifuncional San Juan Cachimayu,1000127,1,7,6,1,6,4,4,3,3,,,5,30,0
+1,Oropeza,1,Sucre,4350,Kuchu Tambo,26050,U.E. 9 de Marzo,1000517,1,12,12,5,6,8,5,3,4,,,13,22,0
+1,Oropeza,1,Sucre,4350,Kuchu Tambo,26050,U.E. 9 de Marzo,1000527,2,5,13,3,3,12,8,8,2,,,9,23,0
+1,Oropeza,1,Sucre,4350,Kuchu Tambo,26050,U.E. 9 de Marzo,1000537,3,12,8,5,1,8,9,9,4,,,9,24,2
+1,Oropeza,1,Sucre,4350,Kuchu Tambo,26050,U.E. 9 de Marzo,1000547,4,13,10,4,3,13,4,7,4,,,6,9,0
+1,Oropeza,1,Sucre,4350,Kuchu Tambo,26050,U.E. 9 de Marzo,1000557,5,10,2,0,3,7,3,1,0,,,5,5,0
+1,Oropeza,1,Sucre,4638,Paredón,32441,U.E. Paredón,1000567,1,27,6,0,3,1,1,5,2,,,6,4,0
+1,Oropeza,2,Yotala,1200,Yotala,1,Colegio Gregorio Pacheco,1010147,1,61,20,4,,36,6,,,,,,,1
+1,Oropeza,2,Yotala,1200,Yotala,1,Colegio Gregorio Pacheco,1010157,2,61,32,10,,28,5,,,,,,,1
+1,Oropeza,2,Yotala,1200,Yotala,1,Colegio Gregorio Pacheco,1010167,3,63,26,13,,26,2,,,,,,,1
+1,Oropeza,2,Yotala,1200,Yotala,1,Colegio Gregorio Pacheco,1010177,4,67,20,8,,31,7,,,,,,,3
+1,Oropeza,2,Yotala,1200,Yotala,1,Colegio Gregorio Pacheco,1010187,5,23,13,5,,12,0,,,,,,,1
+1,Oropeza,2,Yotala,1200,Yotala,2,Centro Educativo Santa Rosa,1010357,1,72,30,6,,46,7,,,,,,,1
+1,Oropeza,2,Yotala,1200,Yotala,2,Centro Educativo Santa Rosa,1010367,2,51,41,5,,29,9,,,,,,,2
+1,Oropeza,2,Yotala,1200,Yotala,2,Centro Educativo Santa Rosa,1010377,3,73,40,6,,28,3,,,,,,,1
+1,Oropeza,2,Yotala,1200,Yotala,2,Centro Educativo Santa Rosa,1010387,4,57,25,6,,46,4,,,,,,,4
+1,Oropeza,2,Yotala,1200,Yotala,2,Centro Educativo Santa Rosa,1010397,5,49,27,4,,32,1,,,,,,,3
+1,Oropeza,2,Yotala,1214,Huayllas,1,Casa Posada de Huayllas,1010197,1,33,1,10,,34,3,,,,,,,1
+1,Oropeza,2,Yotala,1215,Tipaka,1,Escuela Tipaka,1010207,1,27,6,6,,3,1,,,,,,,0
+1,Oropeza,2,Yotala,1224,Pulqui,1,Posta De Salud Y Salón De La Comunidad,1010217,1,3,2,6,,3,54,,,,,,,1
+1,Oropeza,2,Yotala,1238,Tuero,1,Unidad Educativa Tuero Chico,1010227,1,8,3,7,,25,8,,,,,,,0
+1,Oropeza,2,Yotala,2756,Anfaya,1,Colegio San Isidro De Anfaya,1010237,1,1,2,48,,47,4,,,,,,,2
+1,Oropeza,2,Yotala,2756,Anfaya,1,Colegio San Isidro De Anfaya,1010247,2,2,3,21,,17,6,,,,,,,2
+1,Oropeza,2,Yotala,2884,Tasa Pampa,1,Colegio Tasa Pampa,1010257,1,12,6,12,,20,21,,,,,,,7
+1,Oropeza,2,Yotala,2953,Tambo Ackachila,1,Escuela Antonio Tovar Hinojosa,1010267,1,24,8,25,,15,29,,,,,,,1
+1,Oropeza,2,Yotala,2953,Tambo Ackachila,1,Escuela Antonio Tovar Hinojosa,1010277,2,5,0,5,,4,11,,,,,,,1
+1,Oropeza,2,Yotala,3295,Ñujchu,1,Unidad Educativa German Busch,1010287,1,139,11,0,,2,2,,,,,,,6
+1,Oropeza,2,Yotala,3296,Cachi Mayu,1,Unidad Educativa José Villegas,1010297,1,17,9,5,,67,3,,,,,,,0
+1,Oropeza,2,Yotala,3824,Campanario,1,Unidad Educativa Campanario,1010307,1,26,28,5,,66,2,,,,,,,3
+1,Oropeza,2,Yotala,3826,Mosoj Llajta,1,Unidad Educativa Victor Sandi,1010317,1,21,35,7,,46,10,,,,,,,11
+1,Oropeza,2,Yotala,3826,Mosoj Llajta,1,Unidad Educativa Victor Sandi,1010327,2,34,23,6,,47,12,,,,,,,0
+1,Oropeza,2,Yotala,3826,Mosoj Llajta,1,Unidad Educativa Victor Sandi,1010337,3,34,37,9,,45,9,,,,,,,6
+1,Oropeza,2,Yotala,3826,Mosoj Llajta,1,Unidad Educativa Victor Sandi,1010347,4,8,17,0,,33,8,,,,,,,7
+1,Oropeza,2,Yotala,4118,Tipoyo,25529,U.E. Tipoyo,1010407,1,5,1,8,,37,1,,,,,,,1
+1,Oropeza,3,Poroma,1242,Poroma,1,U. Edu. San Andres De Poroma,1010417,1,24,78,4,,4,,,,0,,,,
+1,Oropeza,3,Poroma,1242,Poroma,1,U. Edu. San Andres De Poroma,1010427,2,24,71,1,,3,,,,0,,,,
+1,Oropeza,3,Poroma,1242,Poroma,1,U. Edu. San Andres De Poroma,1010437,3,22,67,2,,3,,,,1,,,,
+1,Oropeza,3,Poroma,1242,Poroma,1,U. Edu. San Andres De Poroma,1010447,4,33,70,3,,2,,,,1,,,,
+1,Oropeza,3,Poroma,1242,Poroma,1,U. Edu. San Andres De Poroma,1010457,5,35,59,1,,1,,,,2,,,,
+1,Oropeza,3,Poroma,1242,Poroma,1,U. Edu. San Andres De Poroma,1010467,6,7,15,0,,0,,,,0,,,,
+1,Oropeza,3,Poroma,1246,Huañoma,1,Unidad Educativa Huañoma,1010477,1,50,3,0,,1,,,,0,,,,
+1,Oropeza,3,Poroma,1246,Huañoma,1,Unidad Educativa Huañoma,1010487,2,43,6,1,,0,,,,1,,,,
+1,Oropeza,3,Poroma,1248,Pojpo,1,Escuela San Salvador de Pojpo,1010497,1,17,19,30,,3,,,,0,,,,
+1,Oropeza,3,Poroma,1248,Pojpo,1,Escuela San Salvador de Pojpo,1010507,2,1,4,2,,2,,,,0,,,,
+1,Oropeza,3,Poroma,1253,Copavillque,1,Unidad Educativa Copavillque,1010517,1,7,50,4,,2,,,,0,,,,
+1,Oropeza,3,Poroma,1259,Sapse,1,Sub Alcaldía De Sapse,1010527,1,30,53,3,,4,,,,0,,,,
+1,Oropeza,3,Poroma,1260,Luje,1,Colegio Rafael Campos De Luje,1010537,1,57,30,3,,19,,,,0,,,,
+1,Oropeza,3,Poroma,1262,La Palca,66,Unidad Educativa Simón Bolivar La Palca,1010737,1,19,26,2,,15,,,,0,,,,
+1,Oropeza,3,Poroma,1263,Piocera,1,Unidad Educativa Piocera,1010547,1,24,10,4,,3,,,,0,,,,
+1,Oropeza,3,Poroma,2757,El Ajial,1,Posta Sanitaria,1010557,1,1,13,0,,0,,,,0,,,,
+1,Oropeza,3,Poroma,2888,Challcha,1,Escuela Central Challcha,1010567,1,45,51,4,,3,,,,0,,,,
+1,Oropeza,3,Poroma,2888,Challcha,1,Escuela Central Challcha,1010577,2,15,16,1,,0,,,,0,,,,
+1,Oropeza,3,Poroma,2954,Alamos(Zanabria),1,Unidad Educativa Los Alamos,1010587,1,21,26,24,,6,,,,0,,,,
+1,Oropeza,3,Poroma,2955,San Juan de Orcas,1,Colegio Manuel Ovando San Juan de Orcas,1010597,1,17,22,22,,3,,,,0,,,,
+1,Oropeza,3,Poroma,2955,San Juan de Orcas,1,Colegio Manuel Ovando San Juan de Orcas,1010607,2,2,11,5,,0,,,,0,,,,
+1,Oropeza,3,Poroma,3237,Sijcha Alta,1,Unidad Educativa Sijcha Alta,1010617,1,22,7,1,,9,,,,0,,,,
+1,Oropeza,3,Poroma,3332,Iru Kkota,1,Unidad Educativa Iru Kkota,1010627,1,14,15,6,,6,,,,0,,,,
+1,Oropeza,3,Poroma,3374,Chijmuri,1,Unidad Educativa Chijmuri,1010637,1,19,10,14,,7,,,,0,,,,
+1,Oropeza,3,Poroma,3420,Kaynacas,1,Escuela Kaynacas,1010647,1,36,4,3,,10,,,,0,,,,
+1,Oropeza,3,Poroma,3431,Uruguayo,1,Unidad Educativa Uruguayo,1010657,1,30,11,1,,1,,,,0,,,,
+1,Oropeza,3,Poroma,3432,Pangorasi,1,Unidad Educativa  Pangorasi,1010667,1,22,16,0,,1,,,,0,,,,
+1,Oropeza,3,Poroma,3433,Palajla,1,Unidad Educativa Palajla,1010677,1,42,41,2,,1,,,,0,,,,
+1,Oropeza,3,Poroma,3434,Sanabria,1,Unidad Educativa Sanabria,1010687,1,57,7,7,,14,,,,2,,,,
+1,Oropeza,3,Poroma,3435,Cucuri,1,Unidad Educativa Cucuri,1010697,1,8,19,53,,12,,,,2,,,,
+1,Oropeza,3,Poroma,3715,Calizaya,1,Unidad Educativa Calizaya,1010707,1,28,28,1,,0,,,,0,,,,
+1,Oropeza,3,Poroma,3829,Yanani,1,Unidad Educativa Yanani,1010717,1,27,21,3,,1,,,,0,,,,
+1,Oropeza,3,Poroma,3901,Viru Viru,1,Puesto de Salud Viru Viru,1010727,1,27,5,9,,2,,,,0,,,,
+1,Oropeza,3,Poroma,4114,Pomanasa,25523,U.E. Fray Francisco Valea,1010747,1,6,35,0,,0,,,,0,,,,
+1,Oropeza,3,Poroma,4474,Mariquilla,32062,U.E. Mariquilla,1010757,1,42,1,1,,0,,,,0,,,,
+2,Azurduy,1,Azurduy,1264,Azurduy,1,Unidad Educativa Nicanor Lopez,1010767,1,69,44,37,0,,,,,,,,,
+2,Azurduy,1,Azurduy,1264,Azurduy,1,Unidad Educativa Nicanor Lopez,1010777,2,51,57,35,0,,,,,,,,,
+2,Azurduy,1,Azurduy,1264,Azurduy,1,Unidad Educativa Nicanor Lopez,1010787,3,52,53,40,0,,,,,,,,,
+2,Azurduy,1,Azurduy,1264,Azurduy,1,Unidad Educativa Nicanor Lopez,1010797,4,52,40,49,2,,,,,,,,,
+2,Azurduy,1,Azurduy,1264,Azurduy,1,Unidad Educativa Nicanor Lopez,1010807,5,66,37,49,0,,,,,,,,,
+2,Azurduy,1,Azurduy,1264,Azurduy,1,Unidad Educativa Nicanor Lopez,1010817,6,63,44,42,1,,,,,,,,,
+2,Azurduy,1,Azurduy,1264,Azurduy,1,Unidad Educativa Nicanor Lopez,1010827,7,57,40,36,0,,,,,,,,,
+2,Azurduy,1,Azurduy,1264,Azurduy,1,Unidad Educativa Nicanor Lopez,1010837,8,60,32,26,0,,,,,,,,,
+2,Azurduy,1,Azurduy,1269,Torrecillas,1,Escuela Torrecillas,1010847,1,50,4,38,0,,,,,,,,,
+2,Azurduy,1,Azurduy,1270,Huancarani,1,Escuela Huancarani,1010857,1,25,5,22,0,,,,,,,,,
+2,Azurduy,1,Azurduy,1271,Pinos,1,Escuela Pinos,1010867,1,106,20,6,0,,,,,,,,,
+2,Azurduy,1,Azurduy,1271,Pinos,1,Escuela Pinos,1010877,2,14,0,2,0,,,,,,,,,
+2,Azurduy,1,Azurduy,1272,Rodeo Chico,1,Escuela  Rodeo Chico,1010887,1,28,8,82,1,,,,,,,,,
+2,Azurduy,1,Azurduy,1272,Rodeo Chico,1,Escuela  Rodeo Chico,1010897,2,29,6,65,0,,,,,,,,,
+2,Azurduy,1,Azurduy,1273,Tablani,1,Escuela Tablani,1010907,1,42,24,32,0,,,,,,,,,
+2,Azurduy,1,Azurduy,1273,Tablani,1,Escuela Tablani,1010917,2,11,8,7,0,,,,,,,,,
+2,Azurduy,1,Azurduy,3238,Santa Rosa,1,Unidad Educativa Santa Rosa,1010927,1,32,15,42,1,,,,,,,,,
+2,Azurduy,1,Azurduy,3421,Duraznal,1,Escuela Duraznal,1010937,1,75,8,18,2,,,,,,,,,
+2,Azurduy,1,Azurduy,3421,Duraznal,1,Escuela Duraznal,1010947,2,8,2,1,0,,,,,,,,,
+2,Azurduy,1,Azurduy,3436,San Roque,1,Unidad Educativa San Roque,1010957,1,26,8,51,0,,,,,,,,,
+2,Azurduy,1,Azurduy,3683,Collpamayu,1,U.E. Collpamayu,1010967,1,18,23,55,0,,,,,,,,,
+2,Azurduy,1,Azurduy,3683,Collpamayu,1,U.E. Collpamayu,1010977,2,20,14,71,1,,,,,,,,,
+2,Azurduy,1,Azurduy,3684,Quewiñal,1,U.E. Queweñal,1010987,1,11,1,27,1,,,,,,,,,
+2,Azurduy,2,Tarvita,1275,Tarvita,1,Unidad Educativa Antonio Tovar,1010997,1,39,15,25,74,1,,,,,,,,
+2,Azurduy,2,Tarvita,1275,Tarvita,1,Unidad Educativa Antonio Tovar,1011007,2,19,20,38,62,2,,,,,,,,
+2,Azurduy,2,Tarvita,1275,Tarvita,1,Unidad Educativa Antonio Tovar,1011017,3,56,22,21,54,3,,,,,,,,
+2,Azurduy,2,Tarvita,1275,Tarvita,1,Unidad Educativa Antonio Tovar,1011027,4,30,25,32,62,2,,,,,,,,
+2,Azurduy,2,Tarvita,1276,Molleni,1,Escuela 12 de Octubre,1011037,1,32,50,34,20,6,,,,,,,,
+2,Azurduy,2,Tarvita,1276,Molleni,1,Escuela 12 de Octubre,1011047,2,20,51,30,25,13,,,,,,,,
+2,Azurduy,2,Tarvita,1276,Molleni,1,Escuela 12 de Octubre,1011057,3,9,41,13,31,5,,,,,,,,
+2,Azurduy,2,Tarvita,1278,San Pedro,1,Escuela Luis Evencio Orías,1011067,1,30,4,28,43,14,,,,,,,,
+2,Azurduy,2,Tarvita,1278,San Pedro,1,Escuela Luis Evencio Orías,1011077,2,24,3,34,26,7,,,,,,,,
+2,Azurduy,2,Tarvita,1278,San Pedro,1,Escuela Luis Evencio Orías,1011087,3,26,4,19,43,11,,,,,,,,
+2,Azurduy,2,Tarvita,1279,Mariscal Braun,1,Escuela Mariscal Braun,1011097,1,10,41,8,60,9,,,,,,,,
+2,Azurduy,2,Tarvita,1279,Mariscal Braun,1,Escuela Mariscal Braun,1011107,2,7,19,5,59,1,,,,,,,,
+2,Azurduy,2,Tarvita,1280,Cruz Ckasa,1,Escuela Cruz Ckasa,1011117,1,22,8,26,47,11,,,,,,,,
+2,Azurduy,2,Tarvita,1280,Cruz Ckasa,1,Escuela Cruz Ckasa,1011127,2,21,12,19,25,10,,,,,,,,
+2,Azurduy,2,Tarvita,1281,Pampa Huasi,1,Unidad Educativa Jesús Maestro,1011137,1,19,6,68,4,29,,,,,,,,
+2,Azurduy,2,Tarvita,1281,Pampa Huasi,1,Unidad Educativa Jesús Maestro,1011147,2,20,1,59,4,32,,,,,,,,
+2,Azurduy,2,Tarvita,1281,Pampa Huasi,1,Unidad Educativa Jesús Maestro,1011157,3,2,1,26,3,11,,,,,,,,
+2,Azurduy,2,Tarvita,1300,Chunca Cancha,1,Escuela Chunca Cancha,1011167,1,4,2,19,2,5,,,,,,,,
+2,Azurduy,2,Tarvita,2876,Molle Cancha,1,Escuela Molle Cancha,1011177,1,22,0,5,0,5,,,,,,,,
+2,Azurduy,2,Tarvita,2895,San Jose de Alisos,1,Escuela San Jose de Alisos,1011187,1,11,7,102,14,6,,,,,,,,
+2,Azurduy,2,Tarvita,3375,Pampas de Leque,1,Unidad Educativa Pampas de Leque,1011197,1,48,2,28,4,32,,,,,,,,
+2,Azurduy,2,Tarvita,3375,Pampas de Leque,1,Unidad Educativa Pampas de Leque,1011207,2,17,2,14,4,7,,,,,,,,
+2,Azurduy,2,Tarvita,3685,Villa Pampa,1,U.E. Villa Pampa,1011217,1,3,7,6,33,77,,,,,,,,
+2,Azurduy,2,Tarvita,3685,Villa Pampa,1,U.E. Villa Pampa,1011227,2,0,0,2,2,6,,,,,,,,
+2,Azurduy,2,Tarvita,4450,La Sillada,26369,U.E. La Sillada,1011237,1,20,8,55,8,19,,,,,,,,
+2,Azurduy,2,Tarvita,4450,La Sillada,26369,U.E. La Sillada,1011247,2,6,1,13,1,3,,,,,,,,
+2,Azurduy,2,Tarvita,4639,Mara Pampa,32442,U.E. Mara Pampa,1011257,1,10,0,20,5,61,,,,,,,,
+3,Zudáñez,1,Zudañez,1283,Zudañez,1,Col. Jaime De Zudañez,1011367,1,22,32,9,23,30,,,0,,,,,
+3,Zudáñez,1,Zudañez,1283,Zudañez,1,Col. Jaime De Zudañez,1011377,2,41,23,13,14,41,,,0,,,,,
+3,Zudáñez,1,Zudañez,1283,Zudañez,1,Col. Jaime De Zudañez,1011387,3,32,39,18,7,41,,,0,,,,,
+3,Zudáñez,1,Zudañez,1283,Zudañez,1,Col. Jaime De Zudañez,1011397,4,46,30,11,9,29,,,0,,,,,
+3,Zudáñez,1,Zudañez,1283,Zudañez,1,Col. Jaime De Zudañez,1011407,5,36,26,18,12,38,,,0,,,,,
+3,Zudáñez,1,Zudañez,1283,Zudañez,1,Col. Jaime De Zudañez,1011417,6,51,27,14,12,34,,,0,,,,,
+3,Zudáñez,1,Zudañez,1283,Zudañez,1,Col. Jaime De Zudañez,1011427,7,13,14,6,5,15,,,0,,,,,
+3,Zudáñez,1,Zudañez,1283,Zudañez,2,Col. Ignacio Prudencio Bustillos,1011307,1,26,25,20,23,28,,,0,,,,,
+3,Zudáñez,1,Zudañez,1283,Zudañez,2,Col. Ignacio Prudencio Bustillos,1011317,2,29,17,20,21,50,,,0,,,,,
+3,Zudáñez,1,Zudañez,1283,Zudañez,2,Col. Ignacio Prudencio Bustillos,1011327,3,40,21,17,12,24,,,0,,,,,
+3,Zudáñez,1,Zudañez,1283,Zudañez,2,Col. Ignacio Prudencio Bustillos,1011337,4,31,12,23,13,43,,,0,,,,,
+3,Zudáñez,1,Zudañez,1283,Zudañez,2,Col. Ignacio Prudencio Bustillos,1011347,5,35,22,22,25,22,,,0,,,,,
+3,Zudáñez,1,Zudañez,1283,Zudañez,2,Col. Ignacio Prudencio Bustillos,1011357,6,40,21,15,8,22,,,0,,,,,
+3,Zudáñez,1,Zudañez,1284,Capilla Llave,1,Unidad Educativa Capilla Llave,1011267,1,30,2,13,4,4,,,0,,,,,
+3,Zudáñez,1,Zudañez,3393,Mandinga,1,Escuela Mandinga,1011277,1,18,18,28,2,1,,,0,,,,,
+3,Zudáñez,1,Zudañez,3394,Sayan Chaca,1,Escuela Sayan Chaca,1011287,1,63,37,12,0,2,,,0,,,,,
+3,Zudáñez,1,Zudañez,3716,Huaca Huasi,1,Unidad Educativa Huaca Huasi,1011297,1,30,6,14,1,14,,,0,,,,,
+3,Zudáñez,2,Presto,1287,Presto,1,Unidad Educativa Ricardo Mujia,1011437,1,13,17,36,35,27,,,,,,,,
+3,Zudáñez,2,Presto,1287,Presto,1,Unidad Educativa Ricardo Mujia,1011447,2,12,24,29,27,28,,,,,,,,
+3,Zudáñez,2,Presto,1287,Presto,1,Unidad Educativa Ricardo Mujia,1011457,3,17,20,50,24,26,,,,,,,,
+3,Zudáñez,2,Presto,1287,Presto,1,Unidad Educativa Ricardo Mujia,1011467,4,9,26,42,50,16,,,,,,,,
+3,Zudáñez,2,Presto,1287,Presto,1,Unidad Educativa Ricardo Mujia,1011477,5,8,17,44,19,21,,,,,,,,
+3,Zudáñez,2,Presto,1288,Pasopaya,1,U.E. 31 de Mayo,1011487,1,10,18,59,3,33,,,,,,,,
+3,Zudáñez,2,Presto,1288,Pasopaya,1,U.E. 31 de Mayo,1011497,2,1,1,18,2,0,,,,,,,,
+3,Zudáñez,2,Presto,1289,Rodeo El Palmar,1,Escuela José María Martínez,1011507,1,8,1,87,11,6,,,,,,,,
+3,Zudáñez,2,Presto,1289,Rodeo El Palmar,1,Escuela José María Martínez,1011517,2,12,0,87,14,14,,,,,,,,
+3,Zudáñez,2,Presto,1289,Rodeo El Palmar,1,Escuela José María Martínez,1011527,3,10,3,89,17,13,,,,,,,,
+3,Zudáñez,2,Presto,2896,El Peral,1,Unidad Educativa Tomoroco,1011537,1,10,17,49,29,31,,,,,,,,
+3,Zudáñez,2,Presto,2896,El Peral,1,Unidad Educativa Tomoroco,1011547,2,3,3,34,21,19,,,,,,,,
+3,Zudáñez,2,Presto,3830,Puno Khasa,1,Puesto de Salud Puno Khasa,1011557,1,32,13,47,5,2,,,,,,,,
+3,Zudáñez,2,Presto,3902,El Palmar,1,Unidad Educativa El Palmar,1011567,1,3,28,24,1,13,,,,,,,,
+3,Zudáñez,2,Presto,4396,Huaylla Pampa,26127,U.E. Huaylla Pampa Alta,1011577,1,3,5,82,9,19,,,,,,,,
+3,Zudáñez,3,Mojocoya,1292,Mojocoya,1,Unidad Educativa Eduardo Avaroa,1011587,1,10,45,23,,28,,,,,,,,
+3,Zudáñez,3,Mojocoya,1293,Redencion Pampa,1,Colegio Franz Tamayo,1011597,1,45,8,44,,21,,,,,,,,
+3,Zudáñez,3,Mojocoya,1293,Redencion Pampa,1,Colegio Franz Tamayo,1011607,2,38,16,66,,14,,,,,,,,
+3,Zudáñez,3,Mojocoya,1293,Redencion Pampa,1,Colegio Franz Tamayo,1011617,3,50,10,40,,22,,,,,,,,
+3,Zudáñez,3,Mojocoya,1293,Redencion Pampa,1,Colegio Franz Tamayo,1011627,4,56,12,38,,26,,,,,,,,
+3,Zudáñez,3,Mojocoya,1293,Redencion Pampa,1,Colegio Franz Tamayo,1011637,5,33,17,62,,18,,,,,,,,
+3,Zudáñez,3,Mojocoya,1293,Redencion Pampa,1,Colegio Franz Tamayo,1011647,6,40,14,48,,28,,,,,,,,
+3,Zudáñez,3,Mojocoya,1293,Redencion Pampa,1,Colegio Franz Tamayo,1011657,7,35,14,58,,19,,,,,,,,
+3,Zudáñez,3,Mojocoya,1293,Redencion Pampa,1,Colegio Franz Tamayo,1011667,8,55,12,40,,15,,,,,,,,
+3,Zudáñez,3,Mojocoya,1293,Redencion Pampa,1,Colegio Franz Tamayo,1011677,9,48,15,48,,13,,,,,,,,
+3,Zudáñez,3,Mojocoya,1293,Redencion Pampa,1,Colegio Franz Tamayo,1011687,10,19,15,31,,14,,,,,,,,
+3,Zudáñez,3,Mojocoya,1294,La Abra,1,Escuela Jaime Mendoza,1011697,1,46,4,5,,9,,,,,,,,
+3,Zudáñez,3,Mojocoya,1295,Churicana (M),1,Escuela Jorge Anibarro Zapata,1011707,1,24,1,28,,2,,,,,,,,
+3,Zudáñez,3,Mojocoya,2898,Yacambe,1,Escuela Guadalupe,1011717,1,70,4,41,,12,,,,,,,,
+3,Zudáñez,3,Mojocoya,2898,Yacambe,1,Escuela Guadalupe,1011727,2,24,0,3,,0,,,,,,,,
+3,Zudáñez,3,Mojocoya,2899,Quivale,1,Escuela Hilarion Vides Choque,1011737,1,77,24,11,,14,,,,,,,,
+3,Zudáñez,4,Icla,1298,Icla,1,Colegio Antonio José De Sucre,1011747,1,12,44,20,,59,,,,,,,,
+3,Zudáñez,4,Icla,1298,Icla,1,Colegio Antonio José De Sucre,1011757,2,8,42,8,,97,,,,,,,,
+3,Zudáñez,4,Icla,1298,Icla,1,Colegio Antonio José De Sucre,1011767,3,13,30,23,,71,,,,,,,,
+3,Zudáñez,4,Icla,1299,Rodeo,1,Escuela Rodeo,1011777,1,3,2,12,,78,,,,,,,,
+3,Zudáñez,4,Icla,1303,Pedro Jose Silvetti(Jatun Mayu),1,Escuela Jatun Mayu,1011787,1,2,17,27,,93,,,,,,,,
+3,Zudáñez,4,Icla,2844,Uyuni,1,Colegio Rosendo La Fuente,1011797,1,37,29,9,,46,,,,,,,,
+3,Zudáñez,4,Icla,2901,Santa Lucia,1,Escuela Santa Lucia,1011807,1,2,1,25,,22,,,,,,,,
+3,Zudáñez,4,Icla,2961,Cantar Gallo,1,Escuela Cantar Gallo,1011817,1,3,2,20,,28,,,,,,,,
+3,Zudáñez,4,Icla,2962,Thaco Pampa,1,Escuela Thaco Pampa,1011827,1,11,24,15,,93,,,,,,,,
+3,Zudáñez,4,Icla,2962,Thaco Pampa,1,Escuela Thaco Pampa,1011837,2,0,1,1,,7,,,,,,,,
+3,Zudáñez,4,Icla,2963,La Candelaria,1,Colegio Elizardo Perez,1011847,1,46,67,22,,7,,,,,,,,
+3,Zudáñez,4,Icla,2963,La Candelaria,1,Colegio Elizardo Perez,1011857,2,29,44,27,,15,,,,,,,,
+3,Zudáñez,4,Icla,3297,Sumala,1,Escuela Sumala,1011867,1,10,1,32,,16,,,,,,,,
+3,Zudáñez,4,Icla,3422,San Jacinto,1,Escuela San Jacinto,1011877,1,24,54,22,,40,,,,,,,,
+3,Zudáñez,4,Icla,3422,San Jacinto,1,Escuela San Jacinto,1011887,2,14,64,9,,22,,,,,,,,
+3,Zudáñez,4,Icla,3437,Chunca Cancha Baja,1,U. Edu. Seccional Chunca Cancha Baja,1011897,1,24,38,28,,20,,,,,,,,
+3,Zudáñez,4,Icla,3437,Chunca Cancha Baja,1,U. Edu. Seccional Chunca Cancha Baja,1011907,2,23,13,15,,16,,,,,,,,
+3,Zudáñez,4,Icla,3739,Soroma,1,U.E. Mcal. Sucre,1011917,1,44,5,5,,33,,,,,,,,
+3,Zudáñez,4,Icla,4448,Comunidad Jatun Wuasi,26368,U.E. Jatun Wasi,1011927,1,4,0,10,,23,,,,,,,,
+4,Tomina,1,Padilla,1305,Padilla,1,Colegio San Pio X,1011937,1,46,24,20,,51,,,25,,,,,
+4,Tomina,1,Padilla,1305,Padilla,1,Colegio San Pio X,1011947,2,53,22,14,,53,,,20,,,,,
+4,Tomina,1,Padilla,1305,Padilla,1,Colegio San Pio X,1011957,3,29,17,13,,54,,,18,,,,,
+4,Tomina,1,Padilla,1305,Padilla,1,Colegio San Pio X,1011967,4,29,25,12,,58,,,23,,,,,
+4,Tomina,1,Padilla,1305,Padilla,1,Colegio San Pio X,1011977,5,31,28,5,,68,,,23,,,,,
+4,Tomina,1,Padilla,1305,Padilla,1,Colegio San Pio X,1011987,6,40,16,12,,75,,,19,,,,,
+4,Tomina,1,Padilla,1305,Padilla,1,Colegio San Pio X,1011997,7,35,27,14,,60,,,17,,,,,
+4,Tomina,1,Padilla,1305,Padilla,1,Colegio San Pio X,1012007,8,45,24,8,,53,,,26,,,,,
+4,Tomina,1,Padilla,1305,Padilla,1,Colegio San Pio X,1012017,9,33,21,7,,58,,,31,,,,,
+4,Tomina,1,Padilla,1305,Padilla,1,Colegio San Pio X,1012027,10,11,4,6,,26,,,8,,,,,
+4,Tomina,1,Padilla,1305,Padilla,26132,(Cárcel) Carceleta Pública de Padilla,1012137,1,13,2,4,,31,,,0,,,,,
+4,Tomina,1,Padilla,1305,Padilla,30007,U.E. Deogracias Vega,1012147,1,44,22,13,,43,,,29,,,,,
+4,Tomina,1,Padilla,1305,Padilla,30007,U.E. Deogracias Vega,1012157,2,38,29,10,,63,,,15,,,,,
+4,Tomina,1,Padilla,1305,Padilla,30007,U.E. Deogracias Vega,1012167,3,34,11,10,,55,,,22,,,,,
+4,Tomina,1,Padilla,1305,Padilla,30007,U.E. Deogracias Vega,1012177,4,34,17,13,,54,,,23,,,,,
+4,Tomina,1,Padilla,1305,Padilla,30007,U.E. Deogracias Vega,1012187,5,39,22,15,,55,,,20,,,,,
+4,Tomina,1,Padilla,1305,Padilla,30007,U.E. Deogracias Vega,1012197,6,29,24,21,,49,,,20,,,,,
+4,Tomina,1,Padilla,1305,Padilla,30007,U.E. Deogracias Vega,1012207,7,36,19,15,,59,,,26,,,,,
+4,Tomina,1,Padilla,1305,Padilla,30007,U.E. Deogracias Vega,1012217,8,32,24,12,,58,,,19,,,,,
+4,Tomina,1,Padilla,1305,Padilla,30007,U.E. Deogracias Vega,1012227,9,14,5,3,,15,,,3,,,,,
+4,Tomina,1,Padilla,1306,La Cienega,1,Unidad Educativa 2 de Abril La Cienega,1012037,1,18,21,31,,53,,,11,,,,,
+4,Tomina,1,Padilla,1307,El Rosal,1,Unidad Educativa Telemina Barja,1012047,1,21,11,6,,50,,,9,,,,,
+4,Tomina,1,Padilla,1308,Tihumayu,1,Nucleo Escolar Humberto Delgadillo,1012057,1,74,7,1,,56,,,2,,,,,
+4,Tomina,1,Padilla,1308,Tihumayu,1,Nucleo Escolar Humberto Delgadillo,1012067,2,61,7,4,,41,,,2,,,,,
+4,Tomina,1,Padilla,1309,Tabacal,1,Nucleo Escolar Adrián Moya Tapia,1012077,1,26,14,2,,48,,,19,,,,,
+4,Tomina,1,Padilla,3677,Lampacillos,1,U.E. Mariscal Sucre,1012087,1,15,1,0,,16,,,8,,,,,
+4,Tomina,1,Padilla,3678,Thola Kasa,1,U.E. Franz Tamayo,1012097,1,2,6,7,,11,,,1,,,,,
+4,Tomina,1,Padilla,3679,Llantoj,1,U.E. Caciano Rodas Cardenas,1012107,1,17,2,1,,29,,,1,,,,,
+4,Tomina,1,Padilla,3831,Pili Pili Bajo,1,Unidad Educativa 29 de Marzo,1012117,1,23,5,6,,11,,,0,,,,,
+4,Tomina,1,Padilla,3833,Corey,1,Unidad Educativa Susana Duran,1012127,1,40,1,0,,24,,,2,,,,,
+4,Tomina,2,Tomina,1314,Tomina,1,Unidad Educativa Eduardo Avaroa,1012237,1,34,,27,,7,,,31,,,,,
+4,Tomina,2,Tomina,1314,Tomina,1,Unidad Educativa Eduardo Avaroa,1012247,2,41,,21,,11,,,37,,,,,
+4,Tomina,2,Tomina,1314,Tomina,1,Unidad Educativa Eduardo Avaroa,1012257,3,42,,15,,6,,,47,,,,,
+4,Tomina,2,Tomina,1314,Tomina,1,Unidad Educativa Eduardo Avaroa,1012267,4,38,,22,,9,,,49,,,,,
+4,Tomina,2,Tomina,1314,Tomina,1,Unidad Educativa Eduardo Avaroa,1012277,5,36,,28,,9,,,28,,,,,
+4,Tomina,2,Tomina,1314,Tomina,1,Unidad Educativa Eduardo Avaroa,1012287,6,39,,29,,10,,,41,,,,,
+4,Tomina,2,Tomina,1314,Tomina,1,Unidad Educativa Eduardo Avaroa,1012297,7,12,,6,,3,,,19,,,,,
+4,Tomina,2,Tomina,1315,Tarabuquillo,1,U.E. Destacamento 111,1012307,1,25,,29,,13,,,36,,,,,
+4,Tomina,2,Tomina,1315,Tarabuquillo,1,U.E. Destacamento 111,1012317,2,22,,26,,5,,,45,,,,,
+4,Tomina,2,Tomina,1315,Tarabuquillo,1,U.E. Destacamento 111,1012327,3,5,,7,,2,,,18,,,,,
+4,Tomina,2,Tomina,2845,Rodeo Porvenir,1,U.E. Rodeo El Porvenir,1012337,1,18,,42,,8,,,45,,,,,
+4,Tomina,2,Tomina,2845,Rodeo Porvenir,1,U.E. Rodeo El Porvenir,1012347,2,6,,10,,0,,,6,,,,,
+4,Tomina,2,Tomina,3371,Thuru Mayu,1,U. E. Seccional Faustino Suarez,1012357,1,16,,5,,83,,,10,,,,,
+4,Tomina,2,Tomina,3438,Fuerte Rua,1,Unidad Educativa Seccional Fuerte Rua,1012367,1,105,,12,,4,,,3,,,,,
+4,Tomina,2,Tomina,3834,Pucara,1,U.E. Pucara,1012377,1,36,,33,,2,,,7,,,,,
+4,Tomina,2,Tomina,3836,Kawasiri,1,Unidad Educativa Kawasiri,1012387,1,15,,12,,2,,,13,,,,,
+4,Tomina,2,Tomina,3838,Villa Flores,1,Unidad Educativa Villa Flores,1012397,1,1,,40,,8,,,17,,,,,
+4,Tomina,2,Tomina,4007,Arquillos,25322,U.E. Antofagasta,1012407,1,6,,24,,21,,,21,,,,,
+4,Tomina,2,Tomina,4007,Arquillos,25322,U.E. Antofagasta,1012417,2,5,,16,,19,,,30,,,,,
+4,Tomina,2,Tomina,4351,Kuri,26051,U.E. Kuri,1012427,1,2,,24,,20,,,9,,,,,
+4,Tomina,3,Sopachuy,1318,Sopachuy,1,U.E. Rvdo. Hans Josef Vossing,1012437,1,49,,37,,40,,,,,,,,
+4,Tomina,3,Sopachuy,1318,Sopachuy,1,U.E. Rvdo. Hans Josef Vossing,1012447,2,64,,22,,37,,,,,,,,
+4,Tomina,3,Sopachuy,1318,Sopachuy,1,U.E. Rvdo. Hans Josef Vossing,1012457,3,72,,23,,41,,,,,,,,
+4,Tomina,3,Sopachuy,1318,Sopachuy,1,U.E. Rvdo. Hans Josef Vossing,1012467,4,39,,11,,33,,,,,,,,
+4,Tomina,3,Sopachuy,1318,Sopachuy,2,Colegio 25 de Mayo,1012557,1,62,,30,,47,,,,,,,,
+4,Tomina,3,Sopachuy,1318,Sopachuy,2,Colegio 25 de Mayo,1012567,2,82,,22,,36,,,,,,,,
+4,Tomina,3,Sopachuy,1318,Sopachuy,2,Colegio 25 de Mayo,1012577,3,25,,8,,18,,,,,,,,
+4,Tomina,3,Sopachuy,1319,Amancaya,1,Internado Santa Rosa De Amancaya,1012477,1,21,,103,,23,,,,,,,,
+4,Tomina,3,Sopachuy,1319,Amancaya,1,Internado Santa Rosa De Amancaya,1012487,2,3,,22,,4,,,,,,,,
+4,Tomina,3,Sopachuy,3239,Pampas del Carmen,1,Unidad Educativa Pampas del Carmen,1012497,1,7,,5,,33,,,,,,,,
+4,Tomina,3,Sopachuy,3372,Sipicani,1,Escuela Sipicani,1012507,1,4,,71,,70,,,,,,,,
+4,Tomina,3,Sopachuy,3439,Milanes,1,Unidad Educativa Seccional Milanes,1012517,1,10,,8,,14,,,,,,,,
+4,Tomina,3,Sopachuy,3680,San Juan de Horcas,1,U.E. San Juan de Horcas,1012527,1,5,,22,,27,,,,,,,,
+4,Tomina,3,Sopachuy,3681,Pampas Punta,1,U.E. Pampas Punta,1012537,1,55,,14,,14,,,,,,,,
+4,Tomina,3,Sopachuy,3903,Mama Huasi,1,Unidad Educativa Mama Huasi,1012547,1,14,,96,,12,,,,,,,,
+4,Tomina,3,Sopachuy,4008,Paslapaya,25323,U.E. Paslapaya,1012587,1,4,,20,,31,,,,,,,,
+4,Tomina,3,Sopachuy,4214,Chavarria,25723,U.E. San Luis Chavarria,1012597,1,6,,40,,55,,,,,,,,
+4,Tomina,3,Sopachuy,4565,Achatalas,32276,U.E. Achatalas,1012607,1,8,,4,,25,,,,,,,,
+4,Tomina,4,Alcalá,1324,Alcala,1,Unidad Educativa Alcala,1012617,1,100,62,,,,,,,,,,,
+4,Tomina,4,Alcalá,1324,Alcala,1,Unidad Educativa Alcala,1012627,2,108,62,,,,,,,,,,,
+4,Tomina,4,Alcalá,1324,Alcala,1,Unidad Educativa Alcala,1012637,3,118,46,,,,,,,,,,,
+4,Tomina,4,Alcalá,1324,Alcala,1,Unidad Educativa Alcala,1012647,4,87,77,,,,,,,,,,,
+4,Tomina,4,Alcalá,1324,Alcala,1,Unidad Educativa Alcala,1012657,5,41,32,,,,,,,,,,,
+4,Tomina,4,Alcalá,1325,Limabamba,1,Escuela Oscar Alfaro,1012667,1,61,56,,,,,,,,,,,
+4,Tomina,4,Alcalá,1325,Limabamba,1,Escuela Oscar Alfaro,1012677,2,67,60,,,,,,,,,,,
+4,Tomina,4,Alcalá,1325,Limabamba,1,Escuela Oscar Alfaro,1012687,3,11,8,,,,,,,,,,,
+4,Tomina,5,El Villar,1326,El Villar,1,Colegio Eduardo Abaroa,1012697,1,75,49,,,32,,,,,,,,
+4,Tomina,5,El Villar,1326,El Villar,1,Colegio Eduardo Abaroa,1012707,2,83,46,,,30,,,,,,,,
+4,Tomina,5,El Villar,1326,El Villar,1,Colegio Eduardo Abaroa,1012717,3,74,36,,,33,,,,,,,,
+4,Tomina,5,El Villar,1326,El Villar,1,Colegio Eduardo Abaroa,1012727,4,41,25,,,19,,,,,,,,
+4,Tomina,5,El Villar,2758,Juana A. de Padilla (Segura),1,Escuela Seccional La Revuelta,1012737,1,31,14,,,78,,,,,,,,
+4,Tomina,5,El Villar,2758,Juana A. de Padilla (Segura),1,Escuela Seccional La Revuelta,1012747,2,20,14,,,65,,,,,,,,
+4,Tomina,5,El Villar,3240,San Blas,1,Unidad Educativa San Blas,1012757,1,11,80,,,3,,,,,,,,
+4,Tomina,5,El Villar,3241,El Dorado,1,Unidad Educativa El Dorado,1012767,1,51,2,,,100,,,,,,,,
+4,Tomina,5,El Villar,3241,El Dorado,1,Unidad Educativa El Dorado,1012777,2,23,4,,,35,,,,,,,,
+4,Tomina,5,El Villar,3682,Barbechos,1,U.E. Barbechos,1012787,1,60,3,,,7,,,,,,,,
+4,Tomina,5,El Villar,4215,Kharachimayu,25724,U.E. Kharachimayu,1012797,1,40,30,,,13,,,,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,1,U.E. María Vargas de Valda,1012807,1,71,37,,,,,,32,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,1,U.E. María Vargas de Valda,1012817,2,51,33,,,,,,47,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,1,U.E. María Vargas de Valda,1012827,3,69,34,,,,,,37,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,1,U.E. María Vargas de Valda,1012837,4,47,49,,,,,,50,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,1,U.E. María Vargas de Valda,1012847,5,64,26,,,,,,45,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,1,U.E. María Vargas de Valda,1012857,6,62,35,,,,,,38,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,1,U.E. María Vargas de Valda,1012867,7,51,36,,,,,,46,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,1,U.E. María Vargas de Valda,1012877,8,71,26,,,,,,49,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,1,U.E. María Vargas de Valda,1012887,9,48,47,,,,,,61,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,1,U.E. María Vargas de Valda,1012897,10,48,41,,,,,,49,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,1,U.E. María Vargas de Valda,1012907,11,49,31,,,,,,42,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,2,Escuela Bernardo Monteagudo,1013247,1,53,31,,,,,,59,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,2,Escuela Bernardo Monteagudo,1013257,2,58,32,,,,,,34,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,2,Escuela Bernardo Monteagudo,1013267,3,54,40,,,,,,37,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,2,Escuela Bernardo Monteagudo,1013277,4,51,35,,,,,,39,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,2,Escuela Bernardo Monteagudo,1013287,5,45,31,,,,,,45,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,2,Escuela Bernardo Monteagudo,1013297,6,45,40,,,,,,51,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,2,Escuela Bernardo Monteagudo,1013307,7,67,35,,,,,,54,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,2,Escuela Bernardo Monteagudo,1013317,8,63,34,,,,,,36,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,2,Escuela Bernardo Monteagudo,1013327,9,44,34,,,,,,59,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,2,Escuela Bernardo Monteagudo,1013337,10,58,30,,,,,,52,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,2,Escuela Bernardo Monteagudo,1013347,11,58,34,,,,,,47,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,2,Escuela Bernardo Monteagudo,1013357,12,4,2,,,,,,5,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,25719,(Cárcel) Carceleta Pública de Monteagudo,1013367,1,35,20,,,,,,8,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,30021,U.E. Lucio Siles Morales,1013387,1,57,41,,,,,,39,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,30021,U.E. Lucio Siles Morales,1013397,2,60,44,,,,,,35,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,30021,U.E. Lucio Siles Morales,1013407,3,66,39,,,,,,41,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,30021,U.E. Lucio Siles Morales,1013417,4,49,40,,,,,,52,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,30021,U.E. Lucio Siles Morales,1013427,5,54,32,,,,,,49,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,30021,U.E. Lucio Siles Morales,1013437,6,71,20,,,,,,43,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,30021,U.E. Lucio Siles Morales,1013447,7,50,31,,,,,,44,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,30022,CEA Jorge Vargas Menduiña,1013457,1,58,27,,,,,,33,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,30022,CEA Jorge Vargas Menduiña,1013467,2,68,30,,,,,,41,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,30022,CEA Jorge Vargas Menduiña,1013477,3,49,34,,,,,,44,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,30022,CEA Jorge Vargas Menduiña,1013487,4,60,22,,,,,,59,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,32385,U.E. República de Venezuela,1013527,1,82,33,,,,,,48,,,,,
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,32385,U.E. República de Venezuela,1013537,2,27,13,,,,,,24,,,,,
+5,Hernando Siles,1,Monteagudo,1332,Bartolo,1,Nucleo Escolar Bartolo,1012917,1,15,8,,,,,,6,,,,,
+5,Hernando Siles,1,Monteagudo,1333,Comunidad Heredia,1,Escuela Pampa Heredia,1012927,1,36,13,,,,,,6,,,,,
+5,Hernando Siles,1,Monteagudo,1335,Piraimiri,1,U. Edu. Juana Azurduy De Padilla,1012937,1,45,40,,,,,,21,,,,,
+5,Hernando Siles,1,Monteagudo,1335,Piraimiri,1,U. Edu. Juana Azurduy De Padilla,1012947,2,28,43,,,,,,20,,,,,
+5,Hernando Siles,1,Monteagudo,1336,Candua,1,Unidad Educativa Rebeca De La Vega,1012957,1,51,22,,,,,,41,,,,,
+5,Hernando Siles,1,Monteagudo,1336,Candua,1,Unidad Educativa Rebeca De La Vega,1012967,2,55,20,,,,,,46,,,,,
+5,Hernando Siles,1,Monteagudo,1336,Candua,1,Unidad Educativa Rebeca De La Vega,1012977,3,50,21,,,,,,58,,,,,
+5,Hernando Siles,1,Monteagudo,1336,Candua,1,Unidad Educativa Rebeca De La Vega,1012987,4,54,14,,,,,,48,,,,,
+5,Hernando Siles,1,Monteagudo,1336,Candua,1,Unidad Educativa Rebeca De La Vega,1012997,5,51,31,,,,,,52,,,,,
+5,Hernando Siles,1,Monteagudo,1336,Candua,1,Unidad Educativa Rebeca De La Vega,1013007,6,50,17,,,,,,48,,,,,
+5,Hernando Siles,1,Monteagudo,1336,Candua,1,Unidad Educativa Rebeca De La Vega,1013017,7,51,20,,,,,,61,,,,,
+5,Hernando Siles,1,Monteagudo,1336,Candua,1,Unidad Educativa Rebeca De La Vega,1013027,8,51,21,,,,,,37,,,,,
+5,Hernando Siles,1,Monteagudo,1336,Candua,1,Unidad Educativa Rebeca De La Vega,1013037,9,7,4,,,,,,7,,,,,
+5,Hernando Siles,1,Monteagudo,1336,Candua,32159,U.E. Gladys Cruz Perez,1013497,1,42,22,,,,,,41,,,,,
+5,Hernando Siles,1,Monteagudo,1336,Candua,32159,U.E. Gladys Cruz Perez,1013507,2,62,22,,,,,,48,,,,,
+5,Hernando Siles,1,Monteagudo,1336,Candua,32159,U.E. Gladys Cruz Perez,1013517,3,49,14,,,,,,38,,,,,
+5,Hernando Siles,1,Monteagudo,1337,Pedernal,1,Escuela Pedernal,1013047,1,107,27,,,,,,15,,,,,
+5,Hernando Siles,1,Monteagudo,1340,San Juan del Pirai,1,Escuela 6 de Junio,1013057,1,38,79,,,,,,9,,,,,
+5,Hernando Siles,1,Monteagudo,1340,San Juan del Pirai,1,Escuela 6 de Junio,1013067,2,34,58,,,,,,7,,,,,
+5,Hernando Siles,1,Monteagudo,1341,Fernandez,1,Escuela Fernandez,1013077,1,39,44,,,,,,16,,,,,
+5,Hernando Siles,1,Monteagudo,1342,Chapimayu,1,Escuela Chapimayu,1013087,1,96,16,,,,,,13,,,,,
+5,Hernando Siles,1,Monteagudo,1342,Chapimayu,1,Escuela Chapimayu,1013097,2,27,6,,,,,,3,,,,,
+5,Hernando Siles,1,Monteagudo,2846,Despensas,1,Escuela Despensas,1013107,1,40,14,,,,,,3,,,,,
+5,Hernando Siles,1,Monteagudo,2847,Yanayana,1,Escuela Yana Yana,1013117,1,10,10,,,,,,2,,,,,
+5,Hernando Siles,1,Monteagudo,2848,San Miguel,1,U. Edu. San Miguel Del Bañado,1013127,1,31,15,,,,,,57,,,,,
+5,Hernando Siles,1,Monteagudo,2848,San Miguel,1,U. Edu. San Miguel Del Bañado,1013137,2,33,13,,,,,,51,,,,,
+5,Hernando Siles,1,Monteagudo,2848,San Miguel,1,U. Edu. San Miguel Del Bañado,1013147,3,9,0,,,,,,1,,,,,
+5,Hernando Siles,1,Monteagudo,2965,Zapallar,1,Escuela El Zapallar,1013157,1,56,33,,,,,,36,,,,,
+5,Hernando Siles,1,Monteagudo,2966,San Lorenzo,1,Escuela San Lorenzo,1013167,1,34,24,,,,,,13,,,,,
+5,Hernando Siles,1,Monteagudo,2967,San Pedro del Parapetí,1,U. Edu. San Pedro Del Parapeti,1013177,1,8,7,,,,,,26,,,,,
+5,Hernando Siles,1,Monteagudo,3745,Valle Nuevo,1,Unidad Educativa Valle Nuevo,1013187,1,33,8,,,,,,17,,,,,
+5,Hernando Siles,1,Monteagudo,3745,Valle Nuevo,1,Unidad Educativa Valle Nuevo,1013197,2,9,3,,,,,,6,,,,,
+5,Hernando Siles,1,Monteagudo,3840,Roldana,1,Unidad Educativa Roldana,1013207,1,67,23,,,,,,8,,,,,
+5,Hernando Siles,1,Monteagudo,3842,Azero Norte,1,U.E. Río Azero,1013217,1,14,6,,,,,,4,,,,,
+5,Hernando Siles,1,Monteagudo,3843,Los Arcos,1,Unidad Educativa Los Arcos,1013227,1,64,3,,,,,,1,,,,,
+5,Hernando Siles,1,Monteagudo,3904,Ingavi,1,Unidad Educativa Ingavi,1013237,1,52,29,,,,,,1,,,,,
+5,Hernando Siles,1,Monteagudo,4216,Ñaurenda,25725,U.E. Ñaurenda,1013377,1,12,11,,,,,,7,,,,,
+5,Hernando Siles,2,Huacareta,1344,San Pablo de Huacareta,1,Colegio Amistad A,1013547,1,21,73,,53,,,,2,,,,,
+5,Hernando Siles,2,Huacareta,1344,San Pablo de Huacareta,1,Colegio Amistad A,1013557,2,14,76,,55,,,,9,,,,,
+5,Hernando Siles,2,Huacareta,1344,San Pablo de Huacareta,1,Colegio Amistad A,1013567,3,23,81,,51,,,,1,,,,,
+5,Hernando Siles,2,Huacareta,1344,San Pablo de Huacareta,1,Colegio Amistad A,1013577,4,13,65,,66,,,,0,,,,,
+5,Hernando Siles,2,Huacareta,1344,San Pablo de Huacareta,1,Colegio Amistad A,1013587,5,20,78,,53,,,,3,,,,,
+5,Hernando Siles,2,Huacareta,1344,San Pablo de Huacareta,1,Colegio Amistad A,1013597,6,9,79,,36,,,,3,,,,,
+5,Hernando Siles,2,Huacareta,1344,San Pablo de Huacareta,1,Colegio Amistad A,1013607,7,4,18,,9,,,,0,,,,,
+5,Hernando Siles,2,Huacareta,1345,Ñacamiri,1,Escuela Miguel Jhaster,1013617,1,6,60,,28,,,,5,,,,,
+5,Hernando Siles,2,Huacareta,1345,Ñacamiri,1,Escuela Miguel Jhaster,1013627,2,5,10,,11,,,,0,,,,,
+5,Hernando Siles,2,Huacareta,1346,Piraicito,1,Unidad Baldomero Lopez,1013637,1,13,90,,40,,,,4,,,,,
+5,Hernando Siles,2,Huacareta,1348,Añimbo,1,Escuela Rafael Pabon,1013647,1,4,106,,34,,,,0,,,,,
+5,Hernando Siles,2,Huacareta,1348,Añimbo,1,Escuela Rafael Pabon,1013657,2,0,74,,32,,,,0,,,,,
+5,Hernando Siles,2,Huacareta,1350,Rosario del Ingre,1,Escuela Salvio Lanuza,1013667,1,2,50,,49,,,,3,,,,,
+5,Hernando Siles,2,Huacareta,1350,Rosario del Ingre,1,Escuela Salvio Lanuza,1013677,2,1,39,,20,,,,2,,,,,
+5,Hernando Siles,2,Huacareta,2902,Uruguay,1,Unidad Educativa Ernesto Theobald,1013687,1,2,62,,43,,,,0,,,,,
+5,Hernando Siles,2,Huacareta,2902,Uruguay,1,Unidad Educativa Ernesto Theobald,1013697,2,12,66,,42,,,,0,,,,,
+5,Hernando Siles,2,Huacareta,2902,Uruguay,1,Unidad Educativa Ernesto Theobald,1013707,3,4,66,,25,,,,0,,,,,
+5,Hernando Siles,2,Huacareta,3440,San Jorge de Ipaty,1,Unidad Educativa San Jorge De Ipaty,1013717,1,6,52,,68,,,,6,,,,,
+5,Hernando Siles,2,Huacareta,3440,San Jorge de Ipaty,1,Unidad Educativa San Jorge De Ipaty,1013727,2,1,6,,16,,,,5,,,,,
+5,Hernando Siles,2,Huacareta,3441,Atirimbia,1,Unidad Educativa Atirimbia,1013737,1,29,25,,18,,,,1,,,,,
+5,Hernando Siles,2,Huacareta,3442,Huirasai,1,Unidad Educativa Huirasai,1013747,1,3,77,,16,,,,17,,,,,
+6,Yamparáez,1,Tarabuco,1354,Tarabuco,1,U. Edu. Rosalia Vda. De Antezana,1013757,1,14,19,,11,22,,,16,,,,,
+6,Yamparáez,1,Tarabuco,1354,Tarabuco,1,U. Edu. Rosalia Vda. De Antezana,1013767,2,12,13,,9,19,,,17,,,,,
+6,Yamparáez,1,Tarabuco,1354,Tarabuco,1,U. Edu. Rosalia Vda. De Antezana,1013777,3,9,22,,12,15,,,13,,,,,
+6,Yamparáez,1,Tarabuco,1354,Tarabuco,1,U. Edu. Rosalia Vda. De Antezana,1013787,4,10,23,,16,20,,,14,,,,,
+6,Yamparáez,1,Tarabuco,1354,Tarabuco,1,U. Edu. Rosalia Vda. De Antezana,1013797,5,6,19,,9,34,,,16,,,,,
+6,Yamparáez,1,Tarabuco,1354,Tarabuco,1,U. Edu. Rosalia Vda. De Antezana,1013807,6,9,17,,13,26,,,19,,,,,
+6,Yamparáez,1,Tarabuco,1354,Tarabuco,2,Colegio Aniceto Arce,1014047,1,25,18,,21,29,,,16,,,,,
+6,Yamparáez,1,Tarabuco,1354,Tarabuco,2,Colegio Aniceto Arce,1014057,2,24,20,,11,25,,,12,,,,,
+6,Yamparáez,1,Tarabuco,1354,Tarabuco,2,Colegio Aniceto Arce,1014067,3,14,11,,16,22,,,19,,,,,
+6,Yamparáez,1,Tarabuco,1354,Tarabuco,2,Colegio Aniceto Arce,1014077,4,16,14,,20,24,,,18,,,,,
+6,Yamparáez,1,Tarabuco,1354,Tarabuco,2,Colegio Aniceto Arce,1014087,5,12,21,,17,29,,,16,,,,,
+6,Yamparáez,1,Tarabuco,1354,Tarabuco,2,Colegio Aniceto Arce,1014097,6,9,10,,13,40,,,21,,,,,
+6,Yamparáez,1,Tarabuco,1354,Tarabuco,2,Colegio Aniceto Arce,1014107,7,18,5,,14,18,,,9,,,,,
+6,Yamparáez,1,Tarabuco,1354,Tarabuco,26130,(Cárcel) Carceleta Pública de Tarabuco,1014127,1,12,0,,3,0,,,14,,,,,
+6,Yamparáez,1,Tarabuco,1355,Cororo,1,Colegio Nacional Mixto Bolivia,1013817,1,26,94,,4,1,,,5,,,,,
+6,Yamparáez,1,Tarabuco,1355,Cororo,1,Colegio Nacional Mixto Bolivia,1013827,2,32,94,,1,4,,,10,,,,,
+6,Yamparáez,1,Tarabuco,1355,Cororo,1,Colegio Nacional Mixto Bolivia,1013837,3,6,38,,2,10,,,6,,,,,
+6,Yamparáez,1,Tarabuco,1357,Morado Ckasa,1,U.E. Morado Qasa,1013847,1,34,31,,12,3,,,12,,,,,
+6,Yamparáez,1,Tarabuco,1357,Morado Ckasa,1,U.E. Morado Qasa,1013857,2,10,8,,7,4,,,8,,,,,
+6,Yamparáez,1,Tarabuco,1359,Sarufaya,1,Unidad Educativa Sarufaya,1013867,1,24,43,,3,12,,,36,,,,,
+6,Yamparáez,1,Tarabuco,1359,Sarufaya,1,Unidad Educativa Sarufaya,1013877,2,10,10,,2,3,,,11,,,,,
+6,Yamparáez,1,Tarabuco,1360,Pajcha,1,Escuela Gustavo Valdivia De Pajcha,1013887,1,8,8,,4,37,,,9,,,,,
+6,Yamparáez,1,Tarabuco,1360,Pajcha,1,Escuela Gustavo Valdivia De Pajcha,1013897,2,7,2,,0,24,,,5,,,,,
+6,Yamparáez,1,Tarabuco,2759,La Cienega (Y),1,Unidad Educativa La Cienega,1013907,1,15,4,,2,48,,,12,,,,,
+6,Yamparáez,1,Tarabuco,2759,La Cienega (Y),1,Unidad Educativa La Cienega,1013917,2,5,0,,1,9,,,1,,,,,
+6,Yamparáez,1,Tarabuco,2956,Pampa Lupiara,1,Colegio Pampa Lupiara,1013927,1,164,6,,1,6,,,2,,,,,
+6,Yamparáez,1,Tarabuco,2956,Pampa Lupiara,1,Colegio Pampa Lupiara,1013937,2,121,6,,1,10,,,3,,,,,
+6,Yamparáez,1,Tarabuco,2956,Pampa Lupiara,1,Colegio Pampa Lupiara,1013947,3,16,0,,0,3,,,0,,,,,
+6,Yamparáez,1,Tarabuco,2957,Rincón Lupiara,1,U. Edu. Salvador Gómez Rodriguez,1013957,1,57,2,,0,3,,,2,,,,,
+6,Yamparáez,1,Tarabuco,2958,San José del Paredon,1,U. Edu. San José Del Paredon,1013967,1,5,5,,5,45,,,9,,,,,
+6,Yamparáez,1,Tarabuco,2958,San José del Paredon,1,U. Edu. San José Del Paredon,1013977,2,2,1,,1,6,,,1,,,,,
+6,Yamparáez,1,Tarabuco,3242,Surima Grande,1,Escuela Alfredo Martinez Rodas,1013987,1,1,2,,0,7,,,40,,,,,
+6,Yamparáez,1,Tarabuco,3243,Collacamani,1,Escuela Collacamani,1013997,1,1,0,,7,25,,,12,,,,,
+6,Yamparáez,1,Tarabuco,3373,Tunas Chillca,1,Escuela Tunas Chillca,1014007,1,1,1,,0,53,,,2,,,,,
+6,Yamparáez,1,Tarabuco,3443,El Carmen,1,Unidad Educativa El Carmen,1014017,1,9,3,,0,26,,,30,,,,,
+6,Yamparáez,1,Tarabuco,3444,Cayambuco,1,Unidad Educativa Cayambuco,1014027,1,2,42,,3,4,,,17,,,,,
+6,Yamparáez,1,Tarabuco,3717,San Antonio de Toca,1,U.E. San Antonio de Toca,1014037,1,18,1,,10,5,,,4,,,,,
+6,Yamparáez,1,Tarabuco,4397,Comunidad Surima Chica,26128,U.E. Surima Chica,1014117,1,4,0,,2,16,,,8,,,,,
+6,Yamparáez,1,Tarabuco,4472,Comunidad San Jorge de Kollpa,32065,U.E. San Jorge de Quollpa,1014147,1,4,2,,8,17,,,0,,,,,
+6,Yamparáez,1,Tarabuco,4473,Comunidad Lajas Sijlla,32063,U.E. Lajas,1014137,1,11,51,,15,13,,,19,,,,,
+6,Yamparáez,1,Tarabuco,4574,Ichupampa,32284,U.E. Ichu Pampa,1014157,1,2,3,,0,39,,,5,,,,,
+6,Yamparáez,2,Yamparáez,1361,Sotomayor,1,Unidad Educativa Sotomayor,1014167,1,2,30,2,24,62,,,,,,,,
+6,Yamparáez,2,Yamparáez,1361,Sotomayor,1,Unidad Educativa Sotomayor,1014177,2,14,28,4,32,48,,,,,,,,
+6,Yamparáez,2,Yamparáez,1361,Sotomayor,1,Unidad Educativa Sotomayor,1014187,3,12,22,6,29,56,,,,,,,,
+6,Yamparáez,2,Yamparáez,1363,Yamparaez,1,Escuela Eduardo Sempertegui,1014197,1,19,38,23,22,14,,,,,,,,
+6,Yamparáez,2,Yamparáez,1363,Yamparaez,1,Escuela Eduardo Sempertegui,1014207,2,16,52,14,29,8,,,,,,,,
+6,Yamparáez,2,Yamparáez,1363,Yamparaez,1,Escuela Eduardo Sempertegui,1014217,3,20,54,17,25,15,,,,,,,,
+6,Yamparáez,2,Yamparáez,1363,Yamparaez,1,Escuela Eduardo Sempertegui,1014227,4,17,63,15,16,11,,,,,,,,
+6,Yamparáez,2,Yamparáez,1363,Yamparaez,1,Escuela Eduardo Sempertegui,1014237,5,21,47,14,13,6,,,,,,,,
+6,Yamparáez,2,Yamparáez,1364,Huasa Cancha,1,Colegio Ana Leon de Huasa Cancha,1014247,1,22,11,13,55,8,,,,,,,,
+6,Yamparáez,2,Yamparáez,1364,Huasa Cancha,1,Colegio Ana Leon de Huasa Cancha,1014257,2,15,4,13,29,3,,,,,,,,
+6,Yamparáez,2,Yamparáez,1365,Escana,1,U.E. Gerardo Rios Murillo,1014267,1,55,4,7,43,12,,,,,,,,
+6,Yamparáez,2,Yamparáez,1365,Escana,1,U.E. Gerardo Rios Murillo,1014277,2,24,5,9,34,6,,,,,,,,
+6,Yamparáez,2,Yamparáez,2959,Pulqui Avaroa,1,Unidad Educativa Pulki Avaroa,1014287,1,8,10,47,6,14,,,,,,,,
+6,Yamparáez,2,Yamparáez,2959,Pulqui Avaroa,1,Unidad Educativa Pulki Avaroa,1014297,2,6,13,45,12,17,,,,,,,,
+6,Yamparáez,2,Yamparáez,2960,Jatun Khakha,1,Escuela Jatun Ckaka,1014307,1,24,58,2,28,7,,,,,,,,
+6,Yamparáez,2,Yamparáez,3445,Carama,1,Unidad Educativa Carama,1014317,1,9,2,2,73,3,,,,,,,,
+6,Yamparáez,2,Yamparáez,3740,Sajpaya,1,Unidad Educativa Sajpaya,1014327,1,16,35,17,11,16,,,,,,,,
+6,Yamparáez,2,Yamparáez,3740,Sajpaya,1,Unidad Educativa Sajpaya,1014337,2,6,20,4,6,9,,,,,,,,
+6,Yamparáez,2,Yamparáez,4006,Pata LLajta,25321,U.E. Pata Llajta,1014347,1,19,4,4,8,5,,,,,,,,
+7,Nor Cinti,1,Camargo,1371,Camargo,1,Colegio Bolivia,1014357,1,5,23,,40,26,19,11,,,,,,
+7,Nor Cinti,1,Camargo,1371,Camargo,1,Colegio Bolivia,1014367,2,6,21,,42,27,36,11,,,,,,
+7,Nor Cinti,1,Camargo,1371,Camargo,1,Colegio Bolivia,1014377,3,14,12,,42,35,20,7,,,,,,
+7,Nor Cinti,1,Camargo,1371,Camargo,1,Colegio Bolivia,1014387,4,11,15,,43,31,14,16,,,,,,
+7,Nor Cinti,1,Camargo,1371,Camargo,1,Colegio Bolivia,1014397,5,13,27,,39,30,29,13,,,,,,
+7,Nor Cinti,1,Camargo,1371,Camargo,1,Colegio Bolivia,1014407,6,10,28,,47,19,17,24,,,,,,
+7,Nor Cinti,1,Camargo,1371,Camargo,1,Colegio Bolivia,1014417,7,11,25,,50,27,23,21,,,,,,
+7,Nor Cinti,1,Camargo,1371,Camargo,1,Colegio Bolivia,1014427,8,7,14,,36,23,28,7,,,,,,
+7,Nor Cinti,1,Camargo,1371,Camargo,1,Colegio Bolivia,1014437,9,17,16,,39,27,18,17,,,,,,
+7,Nor Cinti,1,Camargo,1371,Camargo,1,Colegio Bolivia,1014447,10,9,20,,39,24,23,14,,,,,,
+7,Nor Cinti,1,Camargo,1371,Camargo,2,Colegio Nacional Mixto 3 De Abril,1014637,1,5,17,,39,30,18,13,,,,,,
+7,Nor Cinti,1,Camargo,1371,Camargo,2,Colegio Nacional Mixto 3 De Abril,1014647,2,10,33,,41,36,18,11,,,,,,
+7,Nor Cinti,1,Camargo,1371,Camargo,2,Colegio Nacional Mixto 3 De Abril,1014657,3,12,29,,54,27,10,5,,,,,,
+7,Nor Cinti,1,Camargo,1371,Camargo,2,Colegio Nacional Mixto 3 De Abril,1014667,4,5,21,,31,33,15,11,,,,,,
+7,Nor Cinti,1,Camargo,1371,Camargo,2,Colegio Nacional Mixto 3 De Abril,1014677,5,7,31,,47,35,15,12,,,,,,
+7,Nor Cinti,1,Camargo,1371,Camargo,2,Colegio Nacional Mixto 3 De Abril,1014687,6,10,21,,46,30,21,22,,,,,,
+7,Nor Cinti,1,Camargo,1371,Camargo,2,Colegio Nacional Mixto 3 De Abril,1014697,7,12,25,,31,23,26,10,,,,,,
+7,Nor Cinti,1,Camargo,1371,Camargo,2,Colegio Nacional Mixto 3 De Abril,1014707,8,10,28,,41,34,18,15,,,,,,
+7,Nor Cinti,1,Camargo,1371,Camargo,2,Colegio Nacional Mixto 3 De Abril,1014717,9,6,27,,39,27,31,13,,,,,,
+7,Nor Cinti,1,Camargo,1371,Camargo,2,Colegio Nacional Mixto 3 De Abril,1014727,10,8,32,,48,22,12,13,,,,,,
+7,Nor Cinti,1,Camargo,1371,Camargo,2,Colegio Nacional Mixto 3 De Abril,1014737,11,10,25,,36,34,15,21,,,,,,
+7,Nor Cinti,1,Camargo,1371,Camargo,2,Colegio Nacional Mixto 3 De Abril,1014747,12,3,11,,35,25,10,15,,,,,,
+7,Nor Cinti,1,Camargo,1371,Camargo,3,(Cárcel) Carceleta Pública de Camargo,1014757,1,1,2,,19,30,3,1,,,,,,
+7,Nor Cinti,1,Camargo,1371,Camargo,32440,U.E. Juana Azurduy de Padilla,1014767,1,7,25,,29,14,10,14,,,,,,
+7,Nor Cinti,1,Camargo,1372,Tacaquira,1,Unidad Educativa Tacaquira,1014457,1,8,36,,13,25,3,1,,,,,,
+7,Nor Cinti,1,Camargo,1372,Tacaquira,1,Unidad Educativa Tacaquira,1014467,2,2,20,,10,8,0,1,,,,,,
+7,Nor Cinti,1,Camargo,1373,Muyuquiri,1,Unidad Educativa Muyuquiri,1014477,1,14,23,,32,37,5,0,,,,,,
+7,Nor Cinti,1,Camargo,1373,Muyuquiri,1,Unidad Educativa Muyuquiri,1014487,2,15,19,,34,27,7,0,,,,,,
+7,Nor Cinti,1,Camargo,1373,Muyuquiri,1,Unidad Educativa Muyuquiri,1014497,3,1,5,,21,9,3,0,,,,,,
+7,Nor Cinti,1,Camargo,1374,Suquistaca,1,Unidad Educativa Suquistaca,1014507,1,2,15,,46,38,2,0,,,,,,
+7,Nor Cinti,1,Camargo,1375,Río Chico,1,U.E. El Porvenir,1014517,1,6,12,,43,13,10,13,,,,,,
+7,Nor Cinti,1,Camargo,1376,Palca Grande,1,Unidad Educativa Palca Grande,1014527,1,11,13,,55,6,12,1,,,,,,
+7,Nor Cinti,1,Camargo,1377,Higuera Huayco,1,Unidad Educativa Higuera Huayco,1014537,1,2,19,,63,5,5,6,,,,,,
+7,Nor Cinti,1,Camargo,1379,Yurac Caballo,1,Escuela Yurac Caballo,1014547,1,2,2,,24,23,3,0,,,,,,
+7,Nor Cinti,1,Camargo,1381,Lintaca,1,Unidad Educativa Lintaca,1014557,1,1,1,,22,0,3,0,,,,,,
+7,Nor Cinti,1,Camargo,1382,La Quemada,1,Escuela La Quemada,1014567,1,2,20,,14,0,10,1,,,,,,
+7,Nor Cinti,1,Camargo,2926,Carpachacra,1,Unidad Educativa Carpachacra,1014577,1,2,2,,36,26,1,0,,,,,,
+7,Nor Cinti,1,Camargo,2970,El Churo,1,Escuela El Churo,1014587,1,0,1,,9,7,3,2,,,,,,
+7,Nor Cinti,1,Camargo,2971,Huaca Cancha,1,Unidad Educativa Huaca Cancha,1014597,1,4,3,,4,12,1,0,,,,,,
+7,Nor Cinti,1,Camargo,3244,Cueva Pampa,1,Unidad Educativa Cueva Pampa,1014607,1,0,1,,21,53,1,0,,,,,,
+7,Nor Cinti,1,Camargo,3844,Jatun Quinray,1,Unidad Educativa Jatun Quinray,1014617,1,3,2,,10,30,2,0,,,,,,
+7,Nor Cinti,1,Camargo,3905,Quirucillani,1,Unidad Educativa Quirucillani,1014627,1,4,3,,7,15,2,1,,,,,,
+7,Nor Cinti,2,San Lucas,1380,Acchilla,1,Unidad Educativa Acchilla,1014777,1,4,,5,0,52,,,2,,2,,,
+7,Nor Cinti,2,San Lucas,1380,Acchilla,1,Unidad Educativa Acchilla,1014787,2,3,,3,0,44,,,1,,1,,,
+7,Nor Cinti,2,San Lucas,1383,San Lucas,2,U. Edu. Eduardo Avaroa,1015257,1,48,,14,6,49,,,14,,6,,,
+7,Nor Cinti,2,San Lucas,1383,San Lucas,2,U. Edu. Eduardo Avaroa,1015267,2,51,,20,2,52,,,10,,3,,,
+7,Nor Cinti,2,San Lucas,1383,San Lucas,2,U. Edu. Eduardo Avaroa,1015277,3,36,,21,4,36,,,17,,4,,,
+7,Nor Cinti,2,San Lucas,1383,San Lucas,2,U. Edu. Eduardo Avaroa,1015287,4,54,,32,4,36,,,14,,3,,,
+7,Nor Cinti,2,San Lucas,1383,San Lucas,2,U. Edu. Eduardo Avaroa,1015297,5,40,,24,2,44,,,18,,7,,,
+7,Nor Cinti,2,San Lucas,1383,San Lucas,2,U. Edu. Eduardo Avaroa,1015307,6,34,,22,2,50,,,14,,6,,,
+7,Nor Cinti,2,San Lucas,1383,San Lucas,30023,U.E. Rene Barrientos Ortuño,1015347,1,41,,22,1,42,,,7,,3,,,
+7,Nor Cinti,2,San Lucas,1383,San Lucas,30023,U.E. Rene Barrientos Ortuño,1015357,2,35,,20,1,62,,,23,,3,,,
+7,Nor Cinti,2,San Lucas,1383,San Lucas,30023,U.E. Rene Barrientos Ortuño,1015367,3,49,,18,0,51,,,21,,4,,,
+7,Nor Cinti,2,San Lucas,1383,San Lucas,30023,U.E. Rene Barrientos Ortuño,1015377,4,72,,21,1,41,,,14,,2,,,
+7,Nor Cinti,2,San Lucas,1383,San Lucas,30023,U.E. Rene Barrientos Ortuño,1015387,5,40,,7,3,36,,,9,,2,,,
+7,Nor Cinti,2,San Lucas,1384,Padcoyo,1,Unidad Educativa Padcoyo,1014797,1,6,,29,1,34,,,4,,49,,,
+7,Nor Cinti,2,San Lucas,1384,Padcoyo,1,Unidad Educativa Padcoyo,1014807,2,6,,43,0,42,,,4,,49,,,
+7,Nor Cinti,2,San Lucas,1384,Padcoyo,1,Unidad Educativa Padcoyo,1014817,3,12,,57,3,32,,,1,,37,,,
+7,Nor Cinti,2,San Lucas,1384,Padcoyo,1,Unidad Educativa Padcoyo,1014827,4,2,,3,0,6,,,0,,19,,,
+7,Nor Cinti,2,San Lucas,1385,Chiñimayu,1,Unidad Educativa Rosendo La Fuente,1014837,1,14,,18,4,73,,,0,,3,,,
+7,Nor Cinti,2,San Lucas,1385,Chiñimayu,1,Unidad Educativa Rosendo La Fuente,1014847,2,9,,8,0,76,,,3,,12,,,
+7,Nor Cinti,2,San Lucas,1385,Chiñimayu,1,Unidad Educativa Rosendo La Fuente,1014857,3,13,,6,1,33,,,0,,1,,,
+7,Nor Cinti,2,San Lucas,1386,Malliri,30024,U.E. 12 de Abril B,1015397,1,66,,22,1,47,,,2,,2,,,
+7,Nor Cinti,2,San Lucas,1386,Malliri,30024,U.E. 12 de Abril B,1015407,2,59,,27,1,37,,,3,,2,,,
+7,Nor Cinti,2,San Lucas,1386,Malliri,30024,U.E. 12 de Abril B,1015417,3,60,,18,1,40,,,4,,1,,,
+7,Nor Cinti,2,San Lucas,1386,Malliri,30024,U.E. 12 de Abril B,1015427,4,46,,12,3,27,,,3,,6,,,
+7,Nor Cinti,2,San Lucas,1387,Kollpa,1,Unidad Educativa Kollpa,1014867,1,4,,21,1,7,,,35,,2,,,
+7,Nor Cinti,2,San Lucas,1387,Kollpa,1,Unidad Educativa Kollpa,1014877,2,1,,12,0,3,,,8,,1,,,
+7,Nor Cinti,2,San Lucas,1388,Canchas Blancas,1,Unidad Educativa Canchas Blancas,1014887,1,12,,59,0,12,,,4,,3,,,
+7,Nor Cinti,2,San Lucas,1390,Payacota del Carmen,1,Escuela Payacota Del Carmen,1014897,1,48,,5,0,71,,,6,,6,,,
+7,Nor Cinti,2,San Lucas,1390,Payacota del Carmen,1,Escuela Payacota Del Carmen,1014907,2,34,,7,0,39,,,8,,2,,,
+7,Nor Cinti,2,San Lucas,1391,Tambillos,1,Unidad Educativa Tambillos,1014917,1,17,,16,0,48,,,20,,4,,,
+7,Nor Cinti,2,San Lucas,1391,Tambillos,1,Unidad Educativa Tambillos,1014927,2,8,,5,0,16,,,5,,1,,,
+7,Nor Cinti,2,San Lucas,1392,Pirhuani,1,Unidad Educativa Pirhuani,1014937,1,8,,19,1,20,,,3,,3,,,
+7,Nor Cinti,2,San Lucas,1393,Uruchini,1,Unidad Educativa Uruchini,1014947,1,22,,15,2,12,,,6,,1,,,
+7,Nor Cinti,2,San Lucas,1394,Torojchi,1,Unidad Educativa Torojchi,1014957,1,5,,10,0,30,,,4,,0,,,
+7,Nor Cinti,2,San Lucas,1396,Ocuri,1,Unidad Educativa Ocuri,1015487,1,18,,52,2,19,,,3,,6,,,
+7,Nor Cinti,2,San Lucas,1396,Ocuri,1,Unidad Educativa Ocuri,1015497,2,20,,41,1,29,,,1,,10,,,
+7,Nor Cinti,2,San Lucas,1396,Ocuri,1,Unidad Educativa Ocuri,1015507,3,13,,14,1,22,,,1,,5,,,
+7,Nor Cinti,2,San Lucas,1397,Palacio Tambo,1,Unidad Educativa Palacio Tambo,1014967,1,27,,9,0,25,,,1,,38,,,
+7,Nor Cinti,2,San Lucas,1397,Palacio Tambo,1,Unidad Educativa Palacio Tambo,1014977,2,26,,10,1,26,,,0,,31,,,
+7,Nor Cinti,2,San Lucas,1397,Palacio Tambo,1,Unidad Educativa Palacio Tambo,1014987,3,18,,13,2,29,,,4,,35,,,
+7,Nor Cinti,2,San Lucas,1397,Palacio Tambo,1,Unidad Educativa Palacio Tambo,1014997,4,31,,9,0,20,,,1,,32,,,
+7,Nor Cinti,2,San Lucas,1397,Palacio Tambo,1,Unidad Educativa Palacio Tambo,1015007,5,24,,8,1,26,,,2,,50,,,
+7,Nor Cinti,2,San Lucas,1397,Palacio Tambo,1,Unidad Educativa Palacio Tambo,1015017,6,15,,6,0,21,,,1,,28,,,
+7,Nor Cinti,2,San Lucas,1398,Laja Ckasa,1,Unidad Educativa Laja Ckasa,1015027,1,17,,8,0,23,,,3,,8,,,
+7,Nor Cinti,2,San Lucas,1399,Pasla,1,Unidad Educativa Pasla,1015037,1,6,,53,0,6,,,3,,3,,,
+7,Nor Cinti,2,San Lucas,2878,Huaño Imilla,1,Unidad Educativa Huañumilla,1015047,1,4,,79,0,11,,,1,,0,,,
+7,Nor Cinti,2,San Lucas,2878,Huaño Imilla,1,Unidad Educativa Huañumilla,1015057,2,0,,19,0,4,,,0,,0,,,
+7,Nor Cinti,2,San Lucas,2914,Chillagua,1,Unidad Educativa Chillagua,1015067,1,30,,16,1,35,,,11,,5,,,
+7,Nor Cinti,2,San Lucas,2914,Chillagua,1,Unidad Educativa Chillagua,1015077,2,32,,11,0,28,,,11,,2,,,
+7,Nor Cinti,2,San Lucas,2930,Molle Pata,1,Escuela Molle Pata,1015087,1,1,,26,0,43,,,0,,4,,,
+7,Nor Cinti,2,San Lucas,2930,Molle Pata,1,Escuela Molle Pata,1015097,2,3,,12,0,37,,,3,,5,,,
+7,Nor Cinti,2,San Lucas,2931,Saca Villque Chico,1,Unidad Educativa Sacavillque Chico,1015107,1,14,,36,1,71,,,9,,3,,,
+7,Nor Cinti,2,San Lucas,2931,Saca Villque Chico,1,Unidad Educativa Sacavillque Chico,1015117,2,10,,24,0,10,,,8,,2,,,
+7,Nor Cinti,2,San Lucas,2933,Huayllani,1,Escuela Huayllani,1015127,1,9,,10,0,52,,,4,,2,,,
+7,Nor Cinti,2,San Lucas,2972,Tambo Ckasa,1,Unidad Educativa Tambo Ckasa,1015137,1,4,,37,0,20,,,1,,4,,,
+7,Nor Cinti,2,San Lucas,2972,Tambo Ckasa,1,Unidad Educativa Tambo Ckasa,1015147,2,0,,10,0,8,,,1,,0,,,
+7,Nor Cinti,2,San Lucas,2973,Japo,1,Unidad Educativa Japo,1015157,1,5,,44,0,1,,,0,,0,,,
+7,Nor Cinti,2,San Lucas,3245,Buena Vista,1,Unidad Educativa Buena Vista,1015167,1,2,,56,0,12,,,2,,0,,,
+7,Nor Cinti,2,San Lucas,3689,Torre de Linares,1,U.E. Torre De Linares,1015177,1,4,,69,0,5,,,4,,2,,,
+7,Nor Cinti,2,San Lucas,3689,Torre de Linares,1,U.E. Torre De Linares,1015187,2,6,,0,0,2,,,0,,0,,,
+7,Nor Cinti,2,San Lucas,3690,Cinteño Tambo,1,U.E. Pututaca,1015197,1,24,,16,1,54,,,5,,27,,,
+7,Nor Cinti,2,San Lucas,3690,Cinteño Tambo,1,U.E. Pututaca,1015207,2,27,,20,1,23,,,5,,41,,,
+7,Nor Cinti,2,San Lucas,3690,Cinteño Tambo,1,U.E. Pututaca,1015217,3,7,,2,1,18,,,0,,16,,,
+7,Nor Cinti,2,San Lucas,3718,Murifaya,1,Unidad Educativa Murifaya,1015227,1,29,,8,0,8,,,6,,8,,,
+7,Nor Cinti,2,San Lucas,3741,Civita,1,Unidad Educativa Civita,1015237,1,6,,18,0,35,,,2,,1,,,
+7,Nor Cinti,2,San Lucas,3906,San Pedro de Huanaya,1,Unidad Educativa San Pedro De Huanaya,1015247,1,10,,14,0,12,,,10,,0,,,
+7,Nor Cinti,2,San Lucas,4012,Cruz Mayu,25327,U.E. Cruz Mayu,1015317,1,4,,21,0,11,,,3,,3,,,
+7,Nor Cinti,2,San Lucas,4013,El Terrado,25328,U.E. El Terrado,1015327,1,10,,16,2,44,,,1,,4,,,
+7,Nor Cinti,2,San Lucas,4451,Comunidad Querquihuisi,26370,U.E. Qhirqiwisi,1015337,1,11,,0,0,50,,,5,,2,,,
+7,Nor Cinti,2,San Lucas,4469,Comunidad Rodeo Cocha,32066,U.E. Rodeo Cocha,1015437,1,1,,19,0,29,,,6,,3,,,
+7,Nor Cinti,2,San Lucas,4470,Comunidad Chuncho,32067,U.E. Chunchu,1015447,1,7,,54,0,9,,,1,,0,,,
+7,Nor Cinti,2,San Lucas,4471,Comunidad Coplacia,32068,U.E. Coplacia,1015457,1,15,,13,0,13,,,6,,0,,,
+7,Nor Cinti,2,San Lucas,4512,Lara Vinto,32165,U.E. Laravinto,1015467,1,2,,58,0,3,,,1,,1,,,
+7,Nor Cinti,2,San Lucas,4567,Andamarca,32280,U.E. Andamarca,1015477,1,14,,8,1,37,,,2,,3,,,
+7,Nor Cinti,3,Incahuasi,1401,Incahuasi,1,Unidad Educativa Eduardo Avaroa,1015517,1,56,29,12,,41,,,,,,,,
+7,Nor Cinti,3,Incahuasi,1401,Incahuasi,1,Unidad Educativa Eduardo Avaroa,1015527,2,65,26,17,,23,,,,,,,,
+7,Nor Cinti,3,Incahuasi,1401,Incahuasi,1,Unidad Educativa Eduardo Avaroa,1015537,3,61,24,16,,20,,,,,,,,
+7,Nor Cinti,3,Incahuasi,1401,Incahuasi,1,Unidad Educativa Eduardo Avaroa,1015547,4,75,28,18,,27,,,,,,,,
+7,Nor Cinti,3,Incahuasi,1401,Incahuasi,1,Unidad Educativa Eduardo Avaroa,1015557,5,54,23,14,,35,,,,,,,,
+7,Nor Cinti,3,Incahuasi,1401,Incahuasi,1,Unidad Educativa Eduardo Avaroa,1015567,6,64,27,15,,29,,,,,,,,
+7,Nor Cinti,3,Incahuasi,1401,Incahuasi,1,Unidad Educativa Eduardo Avaroa,1015577,7,78,15,16,,32,,,,,,,,
+7,Nor Cinti,3,Incahuasi,1401,Incahuasi,1,Unidad Educativa Eduardo Avaroa,1015587,8,13,17,5,,9,,,,,,,,
+7,Nor Cinti,3,Incahuasi,1404,San Lorencito,1,Escuela San Lorencito,1015597,1,28,1,0,,3,,,,,,,,
+7,Nor Cinti,3,Incahuasi,1413,Huajlaya,1,Escuela Huajlaya,1015607,1,56,2,2,,12,,,,,,,,
+7,Nor Cinti,3,Incahuasi,2935,Lampazar,1,Escuela Lampazar,1015617,1,170,0,0,,3,,,,,,,,
+7,Nor Cinti,3,Incahuasi,2935,Lampazar,1,Escuela Lampazar,1015627,2,29,0,0,,0,,,,,,,,
+7,Nor Cinti,3,Incahuasi,2936,El Portillo,1,Escuela 2 de Agosto,1015637,1,37,4,23,,7,,,,,,,,
+7,Nor Cinti,3,Incahuasi,2936,El Portillo,1,Escuela 2 de Agosto,1015647,2,65,1,8,,6,,,,,,,,
+7,Nor Cinti,3,Incahuasi,2974,Jolencia,1,Escuela Jolencia,1015657,1,61,3,21,,56,,,,,,,,
+7,Nor Cinti,3,Incahuasi,2974,Jolencia,1,Escuela Jolencia,1015667,2,41,5,18,,62,,,,,,,,
+7,Nor Cinti,3,Incahuasi,2977,El Verano,1,Escuela El Verano,1015677,1,21,0,72,,2,,,,,,,,
+7,Nor Cinti,3,Incahuasi,2977,El Verano,1,Escuela El Verano,1015687,2,6,0,25,,1,,,,,,,,
+7,Nor Cinti,3,Incahuasi,3692,Yatina,1,U.E. Yatina,1015697,1,50,3,15,,7,,,,,,,,
+7,Nor Cinti,3,Incahuasi,3845,El Quemado,1,U.E. Marcelo Quiroga Santa Cruz,1015707,1,23,2,25,,2,,,,,,,,
+7,Nor Cinti,3,Incahuasi,3845,El Quemado,1,U.E. Marcelo Quiroga Santa Cruz,1015717,2,1,0,9,,0,,,,,,,,
+7,Nor Cinti,3,Incahuasi,4394,Comunidad San Andréz,26125,U.E. San Andrés,1015727,1,68,0,23,,1,,,,,,,,
+7,Nor Cinti,3,Incahuasi,4395,Chillajara,26126,U.E. 25 de Mayo,1015737,1,13,3,41,,15,,,,,,,,
+7,Nor Cinti,3,Incahuasi,4398,San Marcelo,26129,U.E. San Marcelo,1015747,1,5,1,0,,42,,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1402,Villa Charcas,1,Colegio Padre Landini Simon Bolivar,1015757,1,38,7,26,,20,55,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1402,Villa Charcas,1,Colegio Padre Landini Simon Bolivar,1015767,2,22,9,28,,23,41,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1402,Villa Charcas,1,Colegio Padre Landini Simon Bolivar,1015777,3,33,12,23,,8,39,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1402,Villa Charcas,1,Colegio Padre Landini Simon Bolivar,1015787,4,20,9,30,,19,36,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1402,Villa Charcas,1,Colegio Padre Landini Simon Bolivar,1015797,5,30,2,32,,23,35,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1402,Villa Charcas,1,Colegio Padre Landini Simon Bolivar,1015807,6,33,6,24,,21,47,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1402,Villa Charcas,1,Colegio Padre Landini Simon Bolivar,1015817,7,31,6,28,,28,31,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1402,Villa Charcas,1,Colegio Padre Landini Simon Bolivar,1015827,8,36,7,28,,20,54,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1402,Villa Charcas,1,Colegio Padre Landini Simon Bolivar,1015837,9,40,4,31,,21,37,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1402,Villa Charcas,1,Colegio Padre Landini Simon Bolivar,1015847,10,23,4,21,,18,58,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1402,Villa Charcas,30025,Esc. Simón Bolívar,1015997,1,27,5,24,,23,46,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1402,Villa Charcas,30025,Esc. Simón Bolívar,1016007,2,40,7,25,,11,48,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1402,Villa Charcas,30025,Esc. Simón Bolívar,1016017,3,27,3,35,,21,36,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1402,Villa Charcas,30025,Esc. Simón Bolívar,1016027,4,20,9,41,,42,41,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1402,Villa Charcas,30025,Esc. Simón Bolívar,1016037,5,22,5,18,,11,46,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1403,Chunchuli,1,Unidad Educativa Jose Antonio Zampa,1015857,1,77,1,23,,5,11,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1403,Chunchuli,1,Unidad Educativa Jose Antonio Zampa,1015867,2,79,2,30,,1,10,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1403,Chunchuli,1,Unidad Educativa Jose Antonio Zampa,1015877,3,64,6,28,,5,13,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1403,Chunchuli,1,Unidad Educativa Jose Antonio Zampa,1015887,4,10,0,12,,0,2,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1408,Santa Elena,1,Escuela Santa Elena,1015897,1,38,22,13,,3,3,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1408,Santa Elena,1,Escuela Santa Elena,1015907,2,15,4,7,,3,1,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1409,Caysaca,1,Escuela Caiza K,1015917,1,1,35,3,,0,21,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1409,Caysaca,1,Escuela Caiza K,1015927,2,1,11,0,,0,7,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1410,Supas,1,Escuela Supas,1015937,1,19,22,14,,3,5,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1410,Supas,1,Escuela Supas,1015947,2,47,8,9,,1,1,,,,,,,
+7,Nor Cinti,4,Villa Charcas,1411,La Bombona,1,Escuela Bomboma,1015957,1,18,16,2,,0,2,,,,,,,
+7,Nor Cinti,4,Villa Charcas,2975,Pucara de Llujllaya,1,Escuela Llujllaya,1015967,1,6,20,7,,2,2,,,,,,,
+7,Nor Cinti,4,Villa Charcas,2975,Pucara de Llujllaya,1,Escuela Llujllaya,1015977,2,15,27,19,,4,7,,,,,,,
+7,Nor Cinti,4,Villa Charcas,3691,Mollini,1,U.E. Mollini,1015987,1,20,11,1,,0,34,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,1417,Villa Serrano (Pescado),30008,U.E. Eduardo Abaroa,1016207,1,22,28,,,40,46,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,1417,Villa Serrano (Pescado),30008,U.E. Eduardo Abaroa,1016217,2,25,26,,,44,50,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,1417,Villa Serrano (Pescado),30008,U.E. Eduardo Abaroa,1016227,3,24,27,,,43,44,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,1417,Villa Serrano (Pescado),30008,U.E. Eduardo Abaroa,1016237,4,20,24,,,59,42,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,1417,Villa Serrano (Pescado),30008,U.E. Eduardo Abaroa,1016247,5,28,40,,,33,54,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,1417,Villa Serrano (Pescado),30008,U.E. Eduardo Abaroa,1016257,6,29,26,,,37,43,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,1417,Villa Serrano (Pescado),30008,U.E. Eduardo Abaroa,1016267,7,25,24,,,43,44,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,1417,Villa Serrano (Pescado),30008,U.E. Eduardo Abaroa,1016277,8,26,28,,,44,34,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,1417,Villa Serrano (Pescado),30008,U.E. Eduardo Abaroa,1016287,9,23,22,,,50,46,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,1417,Villa Serrano (Pescado),30008,U.E. Eduardo Abaroa,1016297,10,26,36,,,57,30,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,1417,Villa Serrano (Pescado),30008,U.E. Eduardo Abaroa,1016307,11,21,23,,,46,53,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,1417,Villa Serrano (Pescado),30008,U.E. Eduardo Abaroa,1016317,12,34,17,,,42,52,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,1417,Villa Serrano (Pescado),30008,U.E. Eduardo Abaroa,1016327,13,16,13,,,17,33,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,1419,Mendoza,1,Colegio Daniel Sanchez Bustamante,1016047,1,12,18,,,123,6,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,1419,Mendoza,1,Colegio Daniel Sanchez Bustamante,1016057,2,11,13,,,117,3,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,1419,Mendoza,1,Colegio Daniel Sanchez Bustamante,1016067,3,2,3,,,26,4,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,1420,Piedra Grande,1,Escuela René Anibarro Gómez,1016077,1,24,5,,,16,5,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,1421,Urriolagoitia,1,Escuela Luis Santos Prado,1016087,1,11,5,,,18,5,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,1422,La Quebrada,1,Unid. Educ. San Miguel De La Quebrada,1016097,1,12,12,,,13,10,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,1423,Pampas del Tigre,1,Escuela Elisardo Perez,1016107,1,22,38,,,23,28,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,1423,Pampas del Tigre,1,Escuela Elisardo Perez,1016117,2,16,12,,,10,5,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,1424,Nuevo Mundo (BB),1,Escuela Jorge Anibarro Zapata,1016127,1,35,49,,,18,11,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,1424,Nuevo Mundo (BB),1,Escuela Jorge Anibarro Zapata,1016137,2,27,41,,,19,8,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,1425,Lampasillos,2,Unidad Educativa Mamerto Nava Duran,1016167,1,10,3,,,67,3,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,2877,Pozos,1,Escuela Heroes del Chaco,1016147,1,24,25,,,31,13,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,2964,Monte Grande,1,Escuela Dario Ovando Cuellar,1016157,1,61,3,,,30,1,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,4009,Yunguillas,25324,U.E. 8 de Septiembre,1016177,1,30,3,,,21,6,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,4010,Lampazos,25325,U.E. Lampazos,1016187,1,23,3,,,22,8,,,,,,,
+8,Belisario Boeto,1,Villa Serrano,4217,Sipotendi,25726,U.E. Eduardo Gutierrez,1016197,1,7,6,,,60,4,,,,,,,
+9,Sud Cinti,1,Villa Abecia,1426,Camataqui (Villa Abecia),1,Unidad Educativa 23 de Marzo,1016337,1,60,39,55,,,,,,,,,,
+9,Sud Cinti,1,Villa Abecia,1426,Camataqui (Villa Abecia),1,Unidad Educativa 23 de Marzo,1016347,2,50,52,58,,,,,,,,,,
+9,Sud Cinti,1,Villa Abecia,1426,Camataqui (Villa Abecia),1,Unidad Educativa 23 de Marzo,1016357,3,52,50,47,,,,,,,,,,
+9,Sud Cinti,1,Villa Abecia,1426,Camataqui (Villa Abecia),1,Unidad Educativa 23 de Marzo,1016367,4,68,49,28,,,,,,,,,,
+9,Sud Cinti,1,Villa Abecia,1426,Camataqui (Villa Abecia),1,Unidad Educativa 23 de Marzo,1016377,5,28,10,21,,,,,,,,,,
+9,Sud Cinti,1,Villa Abecia,1427,Jailia,1,Unidad Educativa Jailia,1016387,1,11,31,22,,,,,,,,,,
+9,Sud Cinti,1,Villa Abecia,1428,Tarcana,1,Unidad Educativa Tarcana,1016397,1,34,5,3,,,,,,,,,,
+9,Sud Cinti,1,Villa Abecia,1429,Higuerayoc,1,U. Edu. Daniel Sanchez Bustamante,1016407,1,38,19,7,,,,,,,,,,
+9,Sud Cinti,1,Villa Abecia,2979,Colpanayoc,1,Unidad Educativa 2 de Agosto,1016417,1,11,30,25,,,,,,,,,,
+9,Sud Cinti,1,Villa Abecia,2980,Achuma,1,Unidad Educativa Achuma,1016427,1,15,8,19,,,,,,,,,,
+9,Sud Cinti,2,Culpina,1430,Culpina,1,U. Edu. Jose Antonio Zampa,1016437,1,18,9,,30,25,23,,15,,,,,
+9,Sud Cinti,2,Culpina,1430,Culpina,1,U. Edu. Jose Antonio Zampa,1016447,2,25,14,,31,18,32,,2,,,,,
+9,Sud Cinti,2,Culpina,1430,Culpina,1,U. Edu. Jose Antonio Zampa,1016457,3,26,6,,28,21,33,,12,,,,,
+9,Sud Cinti,2,Culpina,1430,Culpina,1,U. Edu. Jose Antonio Zampa,1016467,4,51,11,,19,18,12,,13,,,,,
+9,Sud Cinti,2,Culpina,1430,Culpina,1,U. Edu. Jose Antonio Zampa,1016477,5,21,6,,15,28,33,,18,,,,,
+9,Sud Cinti,2,Culpina,1430,Culpina,1,U. Edu. Jose Antonio Zampa,1016487,6,36,9,,32,18,26,,10,,,,,
+9,Sud Cinti,2,Culpina,1430,Culpina,1,U. Edu. Jose Antonio Zampa,1016497,7,24,24,,36,18,26,,14,,,,,
+9,Sud Cinti,2,Culpina,1430,Culpina,1,U. Edu. Jose Antonio Zampa,1016507,8,33,19,,24,15,26,,16,,,,,
+9,Sud Cinti,2,Culpina,1430,Culpina,1,U. Edu. Jose Antonio Zampa,1016517,9,17,8,,26,24,32,,16,,,,,
+9,Sud Cinti,2,Culpina,1430,Culpina,1,U. Edu. Jose Antonio Zampa,1016527,10,35,9,,28,18,32,,8,,,,,
+9,Sud Cinti,2,Culpina,1430,Culpina,1,U. Edu. Jose Antonio Zampa,1016537,11,18,7,,18,17,16,,4,,,,,
+9,Sud Cinti,2,Culpina,1430,Culpina,30026,CEA Culpina San Roque,1016807,1,25,4,,28,25,25,,16,,,,,
+9,Sud Cinti,2,Culpina,1430,Culpina,30026,CEA Culpina San Roque,1016817,2,29,11,,22,28,16,,13,,,,,
+9,Sud Cinti,2,Culpina,1430,Culpina,30026,CEA Culpina San Roque,1016827,3,25,18,,28,10,38,,9,,,,,
+9,Sud Cinti,2,Culpina,1430,Culpina,30026,CEA Culpina San Roque,1016837,4,23,9,,24,25,12,,14,,,,,
+9,Sud Cinti,2,Culpina,1430,Culpina,32386,U.E. Cecilio Guzman de Rojas,1016857,1,12,1,,3,4,6,,2,,,,,
+9,Sud Cinti,2,Culpina,1431,Tojlasa,1,Unidad Educativa Tojlasa,1016547,1,8,0,,4,2,18,,72,,,,,
+9,Sud Cinti,2,Culpina,1431,Tojlasa,1,Unidad Educativa Tojlasa,1016557,2,4,1,,7,4,21,,88,,,,,
+9,Sud Cinti,2,Culpina,1431,Tojlasa,1,Unidad Educativa Tojlasa,1016567,3,2,1,,1,1,8,,36,,,,,
+9,Sud Cinti,2,Culpina,1432,Sajlina,1,Unidad Educativa Sajlina,1016577,1,3,5,,69,13,15,,11,,,,,
+9,Sud Cinti,2,Culpina,1432,Sajlina,1,Unidad Educativa Sajlina,1016587,2,5,7,,62,19,21,,11,,,,,
+9,Sud Cinti,2,Culpina,1432,Sajlina,1,Unidad Educativa Sajlina,1016597,3,3,1,,26,9,3,,3,,,,,
+9,Sud Cinti,2,Culpina,1434,Salitre,1,Unidad Educativa Salitre,1016607,1,6,1,,2,0,6,,33,,,,,
+9,Sud Cinti,2,Culpina,1435,La Cienega,1,Unidad Educativa La Cienega,1016617,1,3,7,,27,3,3,,10,,,,,
+9,Sud Cinti,2,Culpina,1436,La Cueva,1,Unidad Educativa La Cueva,1016627,1,17,2,,2,2,5,,70,,,,,
+9,Sud Cinti,2,Culpina,1437,El Monte,1,Unidad Educativa El Monte,1016637,1,35,7,,12,2,34,,28,,,,,
+9,Sud Cinti,2,Culpina,1437,El Monte,1,Unidad Educativa El Monte,1016647,2,4,2,,3,1,9,,8,,,,,
+9,Sud Cinti,2,Culpina,1438,La Loma,1,Unidad Educativa La Loma,1016657,1,8,1,,5,14,30,,1,,,,,
+9,Sud Cinti,2,Culpina,1439,San Francisco,1,Unidad Educativa San Francisco,1016667,1,6,1,,2,28,15,,0,,,,,
+9,Sud Cinti,2,Culpina,1440,El Palmar,1,Unidad Educativa El Palmar,1016677,1,13,1,,99,0,19,,2,,,,,
+9,Sud Cinti,2,Culpina,1440,El Palmar,1,Unidad Educativa El Palmar,1016687,2,15,0,,97,0,30,,1,,,,,
+9,Sud Cinti,2,Culpina,1440,El Palmar,1,Unidad Educativa El Palmar,1016697,3,17,0,,58,0,20,,1,,,,,
+9,Sud Cinti,2,Culpina,1443,Puca Pampa,1,Unidad Educativa Puca Pampa,1016707,1,6,5,,24,4,34,,10,,,,,
+9,Sud Cinti,2,Culpina,1443,Puca Pampa,1,Unidad Educativa Puca Pampa,1016717,2,6,2,,6,0,2,,3,,,,,
+9,Sud Cinti,2,Culpina,1444,El Campamento,1,Unidad Educativa El Campamento,1016727,1,16,6,,52,3,26,,4,,,,,
+9,Sud Cinti,2,Culpina,1446,Carapari (Pilaya),1,Unidad Educativa Pilaya,1016737,1,5,2,,3,1,7,,5,,,,,
+9,Sud Cinti,2,Culpina,2937,Puma Ckasa,1,Unidad Educativa Puma Ckasa,1016747,1,5,4,,4,1,84,,4,,,,,
+9,Sud Cinti,2,Culpina,2976,Sumaya,1,Unidad Educativa Sumaya,1016757,1,2,1,,0,1,11,,1,,,,,
+9,Sud Cinti,2,Culpina,2981,Huajlita,1,Unidad Educativa Huajlita,1016767,1,4,13,,13,22,22,,2,,,,,
+9,Sud Cinti,2,Culpina,2982,El Manzanal,1,Escuela El Manzanal,1016777,1,22,0,,5,4,12,,1,,,,,
+9,Sud Cinti,2,Culpina,2983,Cañon Verde,1,Escuela Cañon Verde,1016787,1,16,8,,18,2,20,,5,,,,,
+9,Sud Cinti,2,Culpina,3719,Puca Laja,1,Unidad Educativa Puca Laja,1016797,1,9,2,,0,1,4,,0,,,,,
+9,Sud Cinti,2,Culpina,4513,Laranendy,32166,U.E. Laramendy,1016847,1,9,2,,0,13,4,,4,,,,,
+9,Sud Cinti,3,Las Carreras,1447,Las Carreras,1,Unidad Educativa Jaime Mendoza,1016867,1,24,32,,,30,,,48,,,,,
+9,Sud Cinti,3,Las Carreras,1447,Las Carreras,1,Unidad Educativa Jaime Mendoza,1016877,2,17,43,,,32,,,50,,,,,
+9,Sud Cinti,3,Las Carreras,1448,San Juan,1,Unidad Educativa San Juan,1016887,1,24,43,,,33,,,14,,,,,
+9,Sud Cinti,3,Las Carreras,1449,Santa Rosa (SC),1,Unidad Educativa Santa Rosa,1016897,1,23,5,,,31,,,12,,,,,
+9,Sud Cinti,3,Las Carreras,1450,Socpora,1,Escuela Socpora,1016907,1,17,2,,,4,,,15,,,,,
+9,Sud Cinti,3,Las Carreras,1451,Impora,1,Unidad Educativa Impora,1016917,1,30,9,,,13,,,11,,,,,
+9,Sud Cinti,3,Las Carreras,1452,La Torre (SC),1,Unidad Educativa La Torre,1016927,1,17,5,,,40,,,4,,,,,
+9,Sud Cinti,3,Las Carreras,1453,Lime,1,Unidad Educativa Lime,1016937,1,26,11,,,80,,,7,,,,,
+9,Sud Cinti,3,Las Carreras,1454,Taraya,1,Unidad Educativa Taraya,1016947,1,31,5,,,12,,,26,,,,,
+9,Sud Cinti,3,Las Carreras,2984,Monte Sandoval,1,Escuela El Monte De Sandoval,1016957,1,113,3,,,7,,,5,,,,,
+9,Sud Cinti,3,Las Carreras,2985,Monte Taraya,1,Escuela Monte De Taraya,1016967,1,10,3,,,5,,,3,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,1456,Muyupampa,1,Escuela Hernando Siles,1016977,1,51,34,,,8,,,41,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,1456,Muyupampa,1,Escuela Hernando Siles,1016987,2,73,46,,,7,,,20,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,1456,Muyupampa,1,Escuela Hernando Siles,1016997,3,66,34,,,16,,,26,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,1456,Muyupampa,1,Escuela Hernando Siles,1017007,4,61,39,,,10,,,17,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,1456,Muyupampa,1,Escuela Hernando Siles,1017017,5,53,50,,,14,,,26,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,1456,Muyupampa,1,Escuela Hernando Siles,1017027,6,70,29,,,16,,,28,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,1456,Muyupampa,1,Escuela Hernando Siles,1017037,7,43,40,,,26,,,24,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,1456,Muyupampa,1,Escuela Hernando Siles,1017047,8,49,45,,,24,,,27,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,1456,Muyupampa,1,Escuela Hernando Siles,1017057,9,71,43,,,20,,,23,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,1456,Muyupampa,1,Escuela Hernando Siles,1017067,10,54,43,,,6,,,34,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,1456,Muyupampa,1,Escuela Hernando Siles,1017077,11,72,45,,,16,,,19,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,1456,Muyupampa,1,Escuela Hernando Siles,1017087,12,69,46,,,10,,,17,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,1456,Muyupampa,1,Escuela Hernando Siles,1017097,13,22,17,,,12,,,13,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,1458,Iguembe,1,Unidad Educativa Iguembe,1017107,1,36,41,,,33,,,10,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,1458,Iguembe,1,Unidad Educativa Iguembe,1017117,2,12,17,,,5,,,1,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,1460,Tentayapi,1,Casa Comunal Tentayapi,1017127,1,24,45,,,40,,,14,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,1460,Tentayapi,1,Casa Comunal Tentayapi,1017137,2,8,14,,,18,,,0,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,1463,Sapiranguimiri,1,Escuela Sapiranguimiri,1017147,1,29,2,,,2,,,9,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,1464,Ticucha,1,Escuela Ticucha,1017157,1,29,7,,,3,,,16,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,1465,Cumandaiti,1,U.E. Leo Schwarz,1017167,1,47,69,,,18,,,6,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,1466,La Tapera,1,Escuela Rufino Salazar,1017177,1,56,34,,,3,,,27,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,1466,La Tapera,1,Escuela Rufino Salazar,1017187,2,3,4,,,0,,,7,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,3246,Aguairenda,1,U.E. O Ñemboea,1017197,1,25,27,,,55,,,19,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,3246,Aguairenda,1,U.E. O Ñemboea,1017207,2,4,2,,,4,,,4,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,3848,Ity,1,Unidad Educativa Ity,1017217,1,23,28,,,62,,,8,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,3892,Itau,1,Unidad Educativa Itau,1017227,1,32,3,,,7,,,5,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,4011,Monte Grande,25326,U.E. Monte Grande,1017237,1,7,20,,,25,,,23,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,4211,Taperillas,25720,Puesto de Salud Taperillas,1017247,1,16,34,,,19,,,39,,,,,
+10,Luis Calvo,1,Villa Vaca Guzmán,4212,Karatindi,25721,U.E. Karatindi,1017257,1,13,4,,,50,,,2,,,,,
+10,Luis Calvo,3,Macharetí,1474,Machareti,1,Escuela Eduardo Avaroa,1017347,1,45,48,,,10,,,36,,,,,
+10,Luis Calvo,3,Macharetí,1474,Machareti,1,Escuela Eduardo Avaroa,1017357,2,25,66,,,12,,,49,,,,,
+10,Luis Calvo,3,Macharetí,1474,Machareti,1,Escuela Eduardo Avaroa,1017367,3,28,65,,,12,,,46,,,,,
+10,Luis Calvo,3,Macharetí,1474,Machareti,1,Escuela Eduardo Avaroa,1017377,4,50,39,,,9,,,55,,,,,
+10,Luis Calvo,3,Macharetí,1474,Machareti,1,Escuela Eduardo Avaroa,1017387,5,24,40,,,9,,,47,,,,,
+10,Luis Calvo,3,Macharetí,1475,Estacion Machareti,1,Escuela Pedro Domingo Murillo,1017397,1,48,7,,,1,,,2,,,,,
+10,Luis Calvo,3,Macharetí,1478,Camatindi,1,Escuela San Juan de Camatindi,1017407,1,52,50,,,10,,,18,,,,,
+10,Luis Calvo,3,Macharetí,1479,Carandaytí,1,U. Edu. Heroes Del Chaco Hernado Siles,1017417,1,55,42,,,3,,,23,,,,,
+10,Luis Calvo,3,Macharetí,1479,Carandaytí,1,U. Edu. Heroes Del Chaco Hernado Siles,1017427,2,19,29,,,0,,,11,,,,,
+10,Luis Calvo,3,Macharetí,1480,Vinal El Salvador,1,Escuela El Vinal,1017437,1,4,11,,,1,,,6,,,,,
+10,Luis Calvo,3,Macharetí,1481,Tiguipa Estacion,1,Colegio Fray Quebracho,1017447,1,28,13,,,4,,,18,,,,,
+10,Luis Calvo,3,Macharetí,1482,Ipati,1,U.E. Bautista Jurado Hoyos Ipati de Ivo,1017457,1,4,45,,,18,,,33,,,,,
+10,Luis Calvo,3,Macharetí,1489,Ivo,1,Escuela 25 de Mayo,1017467,1,74,6,,,1,,,68,,,,,
+10,Luis Calvo,3,Macharetí,1489,Ivo,1,Escuela 25 de Mayo,1017477,2,60,17,,,2,,,64,,,,,
+10,Luis Calvo,3,Macharetí,1489,Ivo,1,Escuela 25 de Mayo,1017487,3,79,7,,,5,,,55,,,,,
+10,Luis Calvo,3,Macharetí,1489,Ivo,1,Escuela 25 de Mayo,1017497,4,9,2,,,0,,,10,,,,,
+10,Luis Calvo,3,Macharetí,1491,Ñancorainza,1,U.E. Ñancaroinza Estación,1017507,1,73,34,,,5,,,12,,,,,
+10,Luis Calvo,3,Macharetí,1491,Ñancorainza,1,U.E. Ñancaroinza Estación,1017517,2,10,3,,,1,,,0,,,,,
+10,Luis Calvo,3,Macharetí,1493,Tiguipa Pueblo,1,Escuela Tiguipa Pueblo,1017527,1,31,39,,,48,,,12,,,,,
+10,Luis Calvo,3,Macharetí,2850,Simbolar,1,Escuela El Simbolar,1017537,1,0,9,,,0,,,12,,,,,
+10,Luis Calvo,3,Macharetí,3686,Timboycito,1,U.E. Timboycito,1017547,1,31,2,,,2,,,2,,,,,
+10,Luis Calvo,3,Macharetí,3687,Tentami,1,U.E. Tentami,1017557,1,37,22,,,9,,,7,,,,,
+10,Luis Calvo,3,Macharetí,3688,Isipotindi,1,U.E Tamaniguati,1017567,1,61,15,,,8,,,17,,,,,
+10,Luis Calvo,3,Macharetí,3846,La Victoria,1,U.E. La Victoria,1017577,1,1,2,,,2,,,21,,,,,
+10,Luis Calvo,3,Macharetí,3847,Cuatro Vientos,1,U.E. Rene Arteaga,1017587,1,11,10,,,0,,,1,,,,,

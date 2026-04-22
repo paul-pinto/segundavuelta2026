@@ -1,0 +1,500 @@
+CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,NombreLocalidad,CodigoRecinto,NombreRecinto,CodigoMesa,NumeroMesa,PATRIA,MTS,MATE,T,ISA,AIR,APB-SUMATE,SOMOSCHACO,NGP,PDC,UNIR
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,1,U.E. 27 de Mayo,6012516,1,25,11,11,,4,2,,4,,7,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,1,U.E. 27 de Mayo,6012526,2,38,5,7,,10,8,,6,,8,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,1,U.E. 27 de Mayo,6012536,3,37,6,10,,8,12,,5,,9,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,1,U.E. 27 de Mayo,6012546,4,39,16,12,,6,10,,3,,16,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,1,U.E. 27 de Mayo,6012556,5,30,8,9,,1,3,,4,,11,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,1,U.E. 27 de Mayo,6012566,6,34,22,5,,5,7,,8,,9,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,1,U.E. 27 de Mayo,6012576,7,45,16,10,,8,2,,3,,13,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,1,U.E. 27 de Mayo,6012586,8,33,10,12,,5,7,,5,,10,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,1,U.E. 27 de Mayo,6012596,9,6,2,1,,2,2,,1,,0,0
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010486,1,26,11,5,,23,5,,12,,8,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010496,2,29,23,8,,26,9,,3,,12,9
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010506,3,35,11,8,,22,5,,10,,12,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010516,4,22,16,6,,20,9,,7,,7,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010526,5,26,15,8,,32,6,,7,,7,12
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010536,6,27,7,5,,20,6,,6,,10,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010546,7,41,14,7,,29,8,,7,,5,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010556,8,39,24,1,,22,4,,6,,9,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010566,9,25,9,6,,11,7,,13,,8,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010576,10,32,12,4,,25,7,,4,,6,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010586,11,42,10,8,,20,9,,8,,9,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010596,12,37,12,3,,19,8,,8,,8,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010606,13,26,11,6,,29,8,,9,,15,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010616,14,33,11,7,,16,11,,9,,1,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010626,15,45,13,8,,31,5,,10,,13,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010636,16,2,0,3,,4,1,,1,,1,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012356,1,33,13,11,,19,12,,11,,11,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012366,2,33,9,18,,12,14,,12,,13,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012376,3,34,9,12,,16,9,,14,,8,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012386,4,41,20,7,,13,6,,14,,14,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012396,5,56,17,6,,14,6,,9,,13,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012406,6,47,15,14,,11,13,,8,,11,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012416,7,33,15,13,,15,16,,11,,14,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012426,8,52,17,11,,13,7,,11,,14,12
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012436,9,39,15,12,,21,4,,10,,7,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012446,10,31,16,12,,12,11,,12,,17,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012456,11,33,14,13,,7,5,,18,,12,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,8,U.E. 12 de Agosto,6012466,1,44,13,8,,14,5,,6,,8,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,8,U.E. 12 de Agosto,6012476,2,46,19,11,,7,8,,4,,15,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,8,U.E. 12 de Agosto,6012486,3,60,18,22,,7,7,,10,,16,11
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,8,U.E. 12 de Agosto,6012496,4,44,15,10,,6,18,,11,,9,9
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,8,U.E. 12 de Agosto,6012506,5,12,7,5,,3,7,,2,,4,1
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011186,1,39,8,6,,7,22,,17,,17,14
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011196,2,39,13,10,,9,24,,22,,17,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011206,3,49,11,18,,11,16,,12,,12,12
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011216,4,37,8,10,,3,20,,12,,16,13
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011226,5,39,6,3,,15,12,,16,,16,11
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011236,6,34,13,7,,17,17,,9,,9,14
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011246,7,38,13,11,,16,16,,12,,9,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011256,8,44,17,12,,7,13,,8,,9,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011266,9,36,15,5,,11,22,,11,,3,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011276,10,36,14,8,,13,15,,7,,15,11
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011286,11,36,19,8,,11,16,,16,,8,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011296,12,49,11,7,,9,10,,15,,12,14
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011306,13,38,26,7,,7,16,,12,,10,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011716,1,28,21,9,,16,20,,10,,15,14
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011726,2,35,12,8,,13,14,,15,,18,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011736,3,36,10,10,,13,13,,12,,9,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011746,4,32,10,8,,22,17,,8,,12,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011756,5,39,17,6,,13,11,,13,,12,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011766,6,33,12,9,,17,20,,13,,9,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011776,7,32,18,3,,13,7,,18,,17,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011786,8,23,22,9,,18,4,,11,,14,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011796,9,26,18,9,,16,16,,12,,8,11
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011806,10,37,18,11,,11,16,,11,,13,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011816,11,33,16,9,,13,21,,10,,20,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011826,12,39,13,12,,11,19,,11,,13,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011836,13,16,13,5,,4,13,,7,,7,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,16,U.E. Liceo Gran Chaco,6011316,1,36,25,7,,18,19,,14,,12,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,16,U.E. Liceo Gran Chaco,6011326,2,40,10,7,,8,20,,14,,10,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,16,U.E. Liceo Gran Chaco,6011336,3,38,24,7,,11,19,,15,,11,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,16,U.E. Liceo Gran Chaco,6011346,4,41,18,12,,11,22,,10,,8,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,16,U.E. Liceo Gran Chaco,6011356,5,29,14,5,,15,14,,6,,10,9
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,16,U.E. Liceo Gran Chaco,6011366,6,38,16,12,,8,19,,11,,12,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,16,U.E. Liceo Gran Chaco,6011376,7,34,14,9,,20,11,,6,,17,13
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,16,U.E. Liceo Gran Chaco,6011386,8,29,20,7,,9,11,,12,,8,1
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,17,U.E. Miguel Estensoro,6011396,1,37,26,12,,10,13,,10,,7,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,17,U.E. Miguel Estensoro,6011406,2,39,30,2,,14,14,,13,,11,12
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,17,U.E. Miguel Estensoro,6011416,3,37,11,13,,13,18,,18,,11,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,17,U.E. Miguel Estensoro,6011426,4,44,17,7,,11,20,,14,,8,11
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,17,U.E. Miguel Estensoro,6011436,5,38,21,10,,6,17,,11,,15,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,17,U.E. Miguel Estensoro,6011446,6,37,10,8,,12,17,,9,,7,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,17,U.E. Miguel Estensoro,6011456,7,40,24,8,,10,16,,11,,4,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,17,U.E. Miguel Estensoro,6011466,8,37,20,14,,11,17,,13,,5,15
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,17,U.E. Miguel Estensoro,6011476,9,49,18,7,,3,15,,6,,9,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,17,U.E. Miguel Estensoro,6011486,10,44,12,8,,10,12,,16,,7,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011846,1,37,6,11,,8,15,,10,,11,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011856,2,33,14,10,,13,15,,10,,20,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011866,3,31,15,5,,21,14,,17,,15,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011876,4,31,12,9,,16,14,,7,,23,11
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011886,5,44,11,3,,15,13,,13,,21,11
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011896,6,45,6,6,,11,10,,7,,14,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011906,7,29,16,4,,14,12,,14,,14,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011916,8,30,15,8,,13,9,,11,,16,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011926,9,47,12,7,,13,13,,8,,19,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011936,10,23,10,7,,12,16,,19,,17,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011946,11,39,17,11,,7,10,,18,,25,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011956,12,37,12,7,,14,13,,9,,18,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011966,13,34,16,12,,17,12,,13,,10,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011976,14,3,3,0,,1,0,,5,,2,1
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6011986,1,25,5,7,,12,19,,15,,12,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6011996,2,29,11,9,,16,16,,14,,20,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012006,3,32,8,12,,7,9,,11,,9,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012016,4,30,13,10,,10,24,,10,,27,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012026,5,37,15,8,,14,11,,9,,17,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012036,6,32,14,9,,3,21,,11,,19,9
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012046,7,29,7,13,,18,16,,15,,18,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012056,8,30,10,6,,11,16,,7,,13,12
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012066,9,38,5,7,,13,19,,12,,19,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012076,10,30,14,4,,13,20,,12,,26,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012086,11,26,18,13,,9,21,,8,,19,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012096,12,32,21,6,,14,9,,9,,13,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012106,13,29,11,5,,11,18,,12,,16,12
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012116,14,31,12,7,,15,12,,9,,26,9
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012126,15,30,16,13,,8,20,,13,,18,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012136,16,18,7,1,,3,5,,12,,6,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011496,1,38,15,9,,10,24,,21,,8,15
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011506,2,39,30,4,,9,22,,14,,19,9
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011516,3,35,15,8,,16,12,,15,,7,11
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011526,4,42,30,10,,8,15,,16,,8,11
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011536,5,45,14,7,,14,18,,12,,5,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011546,6,41,20,6,,6,17,,21,,11,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011556,7,42,10,11,,17,18,,14,,18,9
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011566,8,27,16,8,,8,21,,19,,16,15
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011576,9,41,21,6,,16,15,,13,,9,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011586,10,33,26,4,,11,13,,13,,12,12
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011596,11,38,23,6,,18,11,,12,,11,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011606,12,49,16,16,,9,21,,14,,6,9
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011616,13,34,15,7,,13,13,,16,,14,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011626,14,45,14,6,,7,14,,21,,12,11
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011636,15,37,21,7,,7,20,,17,,5,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011646,16,10,4,4,,1,4,,2,,1,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,21,(Cárcel) Carceleta Pública,6012816,1,31,8,4,,17,3,,9,,6,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,21,(Cárcel) Carceleta Pública,6012826,2,4,5,2,,6,1,,4,,4,1
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,22,U.E. Mariscal Sucre,6012146,1,42,18,5,,11,11,,11,,18,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,22,U.E. Mariscal Sucre,6012156,2,41,8,10,,11,8,,13,,11,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,22,U.E. Mariscal Sucre,6012166,3,46,25,10,,14,8,,10,,8,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,22,U.E. Mariscal Sucre,6012176,4,37,14,11,,14,18,,13,,17,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,22,U.E. Mariscal Sucre,6012186,5,33,23,11,,12,16,,13,,11,12
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,22,U.E. Mariscal Sucre,6012196,6,35,16,7,,21,11,,17,,18,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,22,U.E. Mariscal Sucre,6012206,7,34,18,6,,18,11,,15,,17,14
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010836,1,43,9,13,,7,22,,14,,9,11
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010846,2,37,22,15,,6,15,,18,,14,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010856,3,45,26,9,,11,17,,20,,15,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010866,4,41,12,15,,14,18,,10,,8,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010876,5,49,21,10,,11,14,,19,,10,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010886,6,43,14,9,,13,14,,16,,17,14
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010896,7,49,14,9,,14,12,,14,,11,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010906,8,51,24,13,,8,16,,14,,6,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010916,9,45,22,12,,9,14,,12,,6,12
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010926,10,44,11,16,,6,10,,15,,11,13
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010936,11,20,5,4,,7,8,,5,,8,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,24,U.E. Oliverio Pelichelli,6010946,1,41,12,14,,8,7,,12,,9,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,24,U.E. Oliverio Pelichelli,6010956,2,36,18,4,,18,7,,9,,18,9
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,24,U.E. Oliverio Pelichelli,6010966,3,38,15,9,,7,19,,11,,9,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,24,U.E. Oliverio Pelichelli,6010976,4,39,15,8,,14,24,,8,,15,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,24,U.E. Oliverio Pelichelli,6010986,5,34,12,13,,17,12,,12,,16,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,24,U.E. Oliverio Pelichelli,6010996,6,35,22,12,,9,18,,8,,11,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,24,U.E. Oliverio Pelichelli,6011006,7,29,15,7,,3,16,,15,,14,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,24,U.E. Oliverio Pelichelli,6011016,8,10,5,5,,5,6,,7,,4,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25706,U.E. Campo Grande A,6012606,1,28,27,11,,5,7,,8,,10,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25706,U.E. Campo Grande A,6012616,2,24,25,9,,9,6,,10,,9,11
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25706,U.E. Campo Grande A,6012626,3,38,30,9,,9,8,,11,,5,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25706,U.E. Campo Grande A,6012636,4,9,5,3,,1,2,,2,,1,1
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25707,U.E. Bella Vista de Caipitandy,6012306,1,45,18,19,,12,16,,9,,10,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25707,U.E. Bella Vista de Caipitandy,6012316,2,45,12,22,,16,16,,5,,20,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25707,U.E. Bella Vista de Caipitandy,6012326,3,34,17,16,,9,15,,8,,21,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25707,U.E. Bella Vista de Caipitandy,6012336,4,42,12,11,,22,21,,12,,15,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25707,U.E. Bella Vista de Caipitandy,6012346,5,23,5,9,,13,4,,2,,10,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25716,U.E. José Mariano Serrano,6011026,1,43,16,14,,15,14,,10,,9,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25716,U.E. José Mariano Serrano,6011036,2,53,18,8,,8,14,,10,,7,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25716,U.E. José Mariano Serrano,6011046,3,44,11,11,,8,12,,15,,8,13
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25716,U.E. José Mariano Serrano,6011056,4,48,14,6,,8,13,,16,,7,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25716,U.E. José Mariano Serrano,6011066,5,37,14,6,,14,19,,8,,11,9
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25716,U.E. José Mariano Serrano,6011076,6,44,19,10,,12,15,,13,,15,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25716,U.E. José Mariano Serrano,6011086,7,37,18,7,,7,27,,13,,6,11
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25716,U.E. José Mariano Serrano,6011096,8,45,17,8,,12,12,,7,,14,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25716,U.E. José Mariano Serrano,6011106,9,43,14,12,,8,12,,15,,16,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25716,U.E. José Mariano Serrano,6011116,10,6,2,3,,5,6,,3,,1,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25717,U.E. Simón Bolívar (Secundario),6010646,1,42,13,7,,32,6,,5,,22,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25717,U.E. Simón Bolívar (Secundario),6010656,2,39,24,2,,23,9,,13,,7,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25717,U.E. Simón Bolívar (Secundario),6010666,3,35,9,8,,39,6,,8,,5,9
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25717,U.E. Simón Bolívar (Secundario),6010676,4,32,17,9,,25,8,,5,,6,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25717,U.E. Simón Bolívar (Secundario),6010686,5,21,11,4,,25,4,,11,,8,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012646,1,38,8,11,,8,11,,13,,16,9
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012656,2,30,14,12,,9,10,,2,,14,11
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012666,3,34,18,10,,20,9,,10,,12,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012676,4,32,9,7,,8,12,,10,,14,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012686,5,31,16,6,,21,19,,14,,16,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012696,6,24,11,7,,16,7,,13,,21,11
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012706,7,33,17,11,,20,6,,8,,12,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012716,8,22,16,6,,33,13,,16,,14,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012726,9,33,12,5,,14,14,,8,,15,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012736,10,33,14,11,,24,10,,10,,14,9
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012746,11,23,7,11,,19,12,,8,,21,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012756,12,3,0,2,,1,4,,4,,2,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31065,Coliseo 15 de Abril,6011656,1,32,14,7,,16,26,,17,,15,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31065,Coliseo 15 de Abril,6011666,2,41,20,7,,13,28,,9,,11,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31065,Coliseo 15 de Abril,6011676,3,34,17,5,,12,28,,15,,7,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31065,Coliseo 15 de Abril,6011686,4,40,12,7,,11,8,,12,,12,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31065,Coliseo 15 de Abril,6011696,5,47,21,8,,8,21,,9,,9,9
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31065,Coliseo 15 de Abril,6011706,6,16,4,5,,5,9,,5,,9,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31066,Instituto de Idiomas Juan Misael Saracho,6011126,1,43,22,13,,10,24,,11,,8,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31066,Instituto de Idiomas Juan Misael Saracho,6011136,2,43,21,5,,15,19,,9,,9,13
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31066,Instituto de Idiomas Juan Misael Saracho,6011146,3,48,19,7,,9,15,,20,,8,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31066,Instituto de Idiomas Juan Misael Saracho,6011156,4,31,17,8,,9,14,,22,,6,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31066,Instituto de Idiomas Juan Misael Saracho,6011166,5,34,18,12,,6,11,,13,,13,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31066,Instituto de Idiomas Juan Misael Saracho,6011176,6,28,15,3,,6,5,,4,,5,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31067,U.E. Yacuiba Inicial (Kinder),6012216,1,43,12,9,,8,22,,14,,22,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31067,U.E. Yacuiba Inicial (Kinder),6012226,2,46,9,5,,21,13,,5,,21,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31067,U.E. Yacuiba Inicial (Kinder),6012236,3,29,8,2,,14,23,,11,,23,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31067,U.E. Yacuiba Inicial (Kinder),6012246,4,23,9,10,,14,17,,17,,17,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31067,U.E. Yacuiba Inicial (Kinder),6012256,5,23,6,7,,16,10,,16,,21,9
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31067,U.E. Yacuiba Inicial (Kinder),6012266,6,28,12,6,,10,21,,13,,15,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31067,U.E. Yacuiba Inicial (Kinder),6012276,7,17,17,6,,7,7,,1,,12,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31068,U.E. Juana Azurduy De Padilla Inicial (Kinder),6012286,1,29,15,6,,10,13,,18,,17,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31068,U.E. Juana Azurduy De Padilla Inicial (Kinder),6012296,2,30,7,7,,9,26,,18,,9,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32095,U.E. San Juan,6012766,1,36,16,8,,14,24,,8,,25,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32095,U.E. San Juan,6012776,2,32,12,8,,13,15,,9,,24,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32095,U.E. San Juan,6012786,3,28,7,9,,13,15,,10,,29,13
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32095,U.E. San Juan,6012796,4,35,16,4,,12,28,,5,,25,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32095,U.E. San Juan,6012806,5,10,5,2,,2,7,,3,,4,0
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010696,1,64,14,7,,20,2,,6,,11,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010706,2,43,14,7,,22,4,,7,,10,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010716,3,32,12,4,,12,13,,5,,11,13
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010726,4,40,22,3,,18,13,,7,,14,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010736,5,26,17,7,,13,10,,9,,14,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010746,6,48,28,6,,20,10,,10,,13,9
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010756,7,33,21,6,,26,6,,3,,8,9
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010766,8,35,16,5,,21,12,,6,,14,12
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010776,9,40,16,5,,14,7,,11,,19,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010786,10,30,17,6,,10,10,,4,,7,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010796,11,41,20,3,,21,7,,4,,14,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010806,12,32,15,4,,21,8,,14,,6,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010816,13,30,19,4,,14,10,,11,,8,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010826,14,8,4,1,,10,2,,4,,3,1
+3,Gran Chaco,1,Yacuiba,1956,Palmar Chico,7,U.E. Nacional Mixto El Palmar,6010036,1,36,6,31,,3,11,,6,,3,11
+3,Gran Chaco,1,Yacuiba,1956,Palmar Chico,7,U.E. Nacional Mixto El Palmar,6010046,2,27,7,22,,1,9,,10,,8,12
+3,Gran Chaco,1,Yacuiba,1956,Palmar Chico,7,U.E. Nacional Mixto El Palmar,6010056,3,25,6,30,,5,6,,8,,7,8
+3,Gran Chaco,1,Yacuiba,1956,Palmar Chico,7,U.E. Nacional Mixto El Palmar,6010066,4,41,4,29,,7,9,,7,,6,8
+3,Gran Chaco,1,Yacuiba,1956,Palmar Chico,7,U.E. Nacional Mixto El Palmar,6010076,5,17,9,29,,6,5,,3,,10,14
+3,Gran Chaco,1,Yacuiba,1956,Palmar Chico,7,U.E. Nacional Mixto El Palmar,6010086,6,40,3,31,,6,4,,9,,6,9
+3,Gran Chaco,1,Yacuiba,1956,Palmar Chico,7,U.E. Nacional Mixto El Palmar,6010096,7,23,11,23,,5,13,,6,,8,13
+3,Gran Chaco,1,Yacuiba,1956,Palmar Chico,7,U.E. Nacional Mixto El Palmar,6010106,8,18,7,29,,5,13,,4,,2,18
+3,Gran Chaco,1,Yacuiba,1956,Palmar Chico,7,U.E. Nacional Mixto El Palmar,6010116,9,21,15,24,,5,7,,4,,5,8
+3,Gran Chaco,1,Yacuiba,1956,Palmar Chico,7,U.E. Nacional Mixto El Palmar,6010126,10,9,2,5,,1,2,,2,,7,7
+3,Gran Chaco,1,Yacuiba,1958,Caiza J,9,U.E. Prof. Bautista Jurado,6010136,1,26,14,15,,10,5,,1,,16,14
+3,Gran Chaco,1,Yacuiba,1958,Caiza J,9,U.E. Prof. Bautista Jurado,6010146,2,12,10,6,,16,4,,2,,14,7
+3,Gran Chaco,1,Yacuiba,1958,Caiza J,9,U.E. Prof. Bautista Jurado,6010156,3,21,15,9,,5,8,,6,,17,4
+3,Gran Chaco,1,Yacuiba,1958,Caiza J,9,U.E. Prof. Bautista Jurado,6010166,4,14,11,13,,7,10,,6,,13,12
+3,Gran Chaco,1,Yacuiba,1958,Caiza J,9,U.E. Prof. Bautista Jurado,6010176,5,29,25,12,,12,10,,5,,17,9
+3,Gran Chaco,1,Yacuiba,1958,Caiza J,9,U.E. Prof. Bautista Jurado,6010186,6,18,15,12,,4,6,,6,,10,13
+3,Gran Chaco,1,Yacuiba,1958,Caiza J,32333,U.E. Isaac Maldonado Reque de Caiza J,6010466,1,3,2,6,,1,5,,3,,5,1
+3,Gran Chaco,1,Yacuiba,1959,San Francisco de Inti,10,U.E. San Francisco De Inti,6010196,1,22,9,19,,16,9,,5,,8,8
+3,Gran Chaco,1,Yacuiba,1959,San Francisco de Inti,10,U.E. San Francisco De Inti,6010206,2,31,17,20,,14,8,,12,,9,9
+3,Gran Chaco,1,Yacuiba,1959,San Francisco de Inti,10,U.E. San Francisco De Inti,6010216,3,19,4,15,,9,1,,4,,4,2
+3,Gran Chaco,1,Yacuiba,1960,Yaguacua,11,U.E. 4 de Mayo,6010226,1,13,11,6,,28,2,,0,,6,6
+3,Gran Chaco,1,Yacuiba,1960,Yaguacua,11,U.E. 4 de Mayo,6010236,2,22,7,9,,14,2,,0,,18,6
+3,Gran Chaco,1,Yacuiba,1960,Yaguacua,11,U.E. 4 de Mayo,6010246,3,12,4,6,,32,2,,2,,10,9
+3,Gran Chaco,1,Yacuiba,1960,Yaguacua,11,U.E. 4 de Mayo,6010256,4,23,12,16,,14,3,,0,,7,4
+3,Gran Chaco,1,Yacuiba,1960,Yaguacua,11,U.E. 4 de Mayo,6010266,5,18,7,7,,13,3,,4,,7,4
+3,Gran Chaco,1,Yacuiba,1961,Sanandita,12,U.E. Heroes de Boqueron,6010276,1,21,8,6,,10,9,,3,,6,7
+3,Gran Chaco,1,Yacuiba,1961,Sanandita,12,U.E. Heroes de Boqueron,6010286,2,19,15,7,,8,5,,6,,19,3
+3,Gran Chaco,1,Yacuiba,1961,Sanandita,12,U.E. Heroes de Boqueron,6010296,3,25,5,4,,13,4,,4,,14,7
+3,Gran Chaco,1,Yacuiba,1961,Sanandita,12,U.E. Heroes de Boqueron,6010306,4,23,7,0,,14,6,,1,,10,5
+3,Gran Chaco,1,Yacuiba,1962,Sachapera,13,U.E. Sachapera,6010316,1,10,12,19,,32,11,,3,,3,10
+3,Gran Chaco,1,Yacuiba,1962,Sachapera,13,U.E. Sachapera,6010326,2,17,9,15,,30,4,,2,,7,21
+3,Gran Chaco,1,Yacuiba,1962,Sachapera,13,U.E. Sachapera,6010336,3,23,7,17,,25,4,,5,,6,8
+3,Gran Chaco,1,Yacuiba,1962,Sachapera,13,U.E. Sachapera,6010346,4,15,5,21,,21,3,,1,,4,15
+3,Gran Chaco,1,Yacuiba,1962,Sachapera,13,U.E. Sachapera,6010356,5,4,1,10,,8,0,,1,,3,7
+3,Gran Chaco,1,Yacuiba,1963,Sunchal,14,U.E. Sunchal,6010366,1,8,14,14,,15,2,,3,,2,2
+3,Gran Chaco,1,Yacuiba,1964,Crevaux,15,U.E. Crevaux Sud,6010376,1,14,10,3,,36,5,,6,,5,5
+3,Gran Chaco,1,Yacuiba,1964,Crevaux,15,U.E. Crevaux Sud,6010386,2,27,8,4,,39,15,,5,,6,4
+3,Gran Chaco,1,Yacuiba,1964,Crevaux,15,U.E. Crevaux Sud,6010396,3,27,5,4,,30,18,,4,,4,9
+3,Gran Chaco,1,Yacuiba,1964,Crevaux,15,U.E. Crevaux Sud,6010406,4,23,12,8,,21,17,,4,,3,6
+3,Gran Chaco,1,Yacuiba,1964,Crevaux,15,U.E. Crevaux Sud,6010416,5,3,1,4,,9,3,,1,,0,1
+3,Gran Chaco,1,Yacuiba,1965,D'Orbigni,16,U.E. D'Orbigny,6010426,1,13,18,1,,3,1,,4,,14,15
+3,Gran Chaco,1,Yacuiba,1965,D'Orbigni,16,U.E. D'Orbigny,6010436,2,12,7,1,,7,2,,1,,10,19
+3,Gran Chaco,1,Yacuiba,1965,D'Orbigni,16,U.E. D'Orbigny,6010446,3,5,4,2,,1,3,,3,,1,5
+3,Gran Chaco,1,Yacuiba,1966,Bagual,17,U.E. 21 de Septiembre,6010456,1,9,9,11,,6,12,,7,,12,8
+3,Gran Chaco,1,Yacuiba,3162,Villa el Carmen,3,U.E. Villa El Carmen,6009946,1,24,10,30,,17,4,,4,,6,5
+3,Gran Chaco,1,Yacuiba,3162,Villa el Carmen,3,U.E. Villa El Carmen,6009956,2,25,6,31,,14,5,,4,,12,6
+3,Gran Chaco,1,Yacuiba,3162,Villa el Carmen,3,U.E. Villa El Carmen,6009966,3,19,7,40,,16,4,,5,,8,9
+3,Gran Chaco,1,Yacuiba,3162,Villa el Carmen,3,U.E. Villa El Carmen,6009976,4,19,6,37,,10,0,,4,,11,4
+3,Gran Chaco,1,Yacuiba,3162,Villa el Carmen,3,U.E. Villa El Carmen,6009986,5,20,7,34,,15,3,,1,,6,2
+3,Gran Chaco,1,Yacuiba,3162,Villa el Carmen,3,U.E. Villa El Carmen,6009996,6,27,5,28,,14,6,,5,,5,4
+3,Gran Chaco,1,Yacuiba,3162,Villa el Carmen,3,U.E. Villa El Carmen,6010006,7,20,2,25,,8,5,,5,,8,5
+3,Gran Chaco,1,Yacuiba,3163,La Purisima,2,U.E. La Purisima,6009916,1,13,2,7,,4,3,,3,,5,3
+3,Gran Chaco,1,Yacuiba,3164,Cañon Oculto,3,U.E. Cañon Oculto,6010016,1,32,16,3,,9,11,,7,,14,8
+3,Gran Chaco,1,Yacuiba,3164,Cañon Oculto,3,U.E. Cañon Oculto,6010026,2,11,11,7,,5,6,,8,,2,6
+3,Gran Chaco,1,Yacuiba,3271,Timboy Chaco,1,U.E. Timboy Tiguazu,6009866,1,11,8,21,,46,3,,1,,17,4
+3,Gran Chaco,1,Yacuiba,3335,Tierras Nuevas,1,U.E. Tierras Nuevas,6009876,1,13,10,14,,12,6,,1,,15,9
+3,Gran Chaco,1,Yacuiba,3335,Tierras Nuevas,1,U.E. Tierras Nuevas,6009886,2,12,10,12,,10,3,,7,,13,5
+3,Gran Chaco,1,Yacuiba,3335,Tierras Nuevas,1,U.E. Tierras Nuevas,6009896,3,19,5,19,,13,4,,1,,16,6
+3,Gran Chaco,1,Yacuiba,3335,Tierras Nuevas,1,U.E. Tierras Nuevas,6009906,4,13,11,13,,15,0,,2,,6,6
+3,Gran Chaco,1,Yacuiba,3506,Aguayrenda,2,Escuela 27 de Mayo,6009926,1,49,5,10,,7,3,,3,,4,4
+3,Gran Chaco,1,Yacuiba,3506,Aguayrenda,2,Escuela 27 de Mayo,6009936,2,12,1,1,,1,0,,0,,0,1
+3,Gran Chaco,1,Yacuiba,4593,Pananty,32334,U.E. Arakuarenda,6010476,1,2,1,25,,1,0,,0,,1,1
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012905,1,28,25,35,20,,,,,,,
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012915,2,23,25,56,28,,,,,,,
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012925,3,32,28,32,21,,,,,,,
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012935,4,20,27,40,30,,,,,,,
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012945,5,25,32,31,25,,,,,,,
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012955,6,33,32,34,20,,,,,,,
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012965,7,20,29,39,30,,,,,,,
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012975,8,22,33,33,37,,,,,,,
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012985,9,19,33,41,31,,,,,,,
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012995,10,18,29,21,31,,,,,,,
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6013005,11,33,32,43,26,,,,,,,
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6013015,12,20,48,34,28,,,,,,,
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6013025,13,15,19,45,24,,,,,,,
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6013035,14,12,38,42,28,,,,,,,
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6013045,15,24,30,35,27,,,,,,,
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6013055,16,24,25,45,27,,,,,,,
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6013065,17,7,4,16,17,,,,,,,
+3,Gran Chaco,2,Caraparí,1968,Loma Alta,4,U.E. Celso Raffaelli,6013075,1,54,16,49,16,,,,,,,
+3,Gran Chaco,2,Caraparí,1968,Loma Alta,4,U.E. Celso Raffaelli,6013085,2,71,12,54,19,,,,,,,
+3,Gran Chaco,2,Caraparí,1969,Cortaderal,5,U.E. 15 de Abril,6013095,1,29,41,32,22,,,,,,,
+3,Gran Chaco,2,Caraparí,1970,Saladillo,5,U.E. Lidia Galarza,6013105,1,51,17,32,21,,,,,,,
+3,Gran Chaco,2,Caraparí,1970,Saladillo,5,U.E. Lidia Galarza,6013115,2,36,15,45,26,,,,,,,
+3,Gran Chaco,2,Caraparí,1970,Saladillo,5,U.E. Lidia Galarza,6013125,3,32,13,29,5,,,,,,,
+3,Gran Chaco,2,Caraparí,1970,Saladillo,32327,U.E. Antoniano de Saladillo,6013355,1,11,15,26,24,,,,,,,
+3,Gran Chaco,2,Caraparí,1971,Campo Largo,6,U.E. Fray Quebracho,6013135,1,41,40,34,34,,,,,,,
+3,Gran Chaco,2,Caraparí,1971,Campo Largo,6,U.E. Fray Quebracho,6013145,2,25,20,25,22,,,,,,,
+3,Gran Chaco,2,Caraparí,1973,Itau,8,U.E. Fray Quebracho,6013155,1,37,7,54,41,,,,,,,
+3,Gran Chaco,2,Caraparí,1973,Itau,8,U.E. Fray Quebracho,6013165,2,52,4,43,35,,,,,,,
+3,Gran Chaco,2,Caraparí,1973,Itau,8,U.E. Fray Quebracho,6013175,3,11,3,24,24,,,,,,,
+3,Gran Chaco,2,Caraparí,1973,Itau,32325,U.E. Eustaquio Méndez,6013335,1,8,8,13,7,,,,,,,
+3,Gran Chaco,2,Caraparí,1974,Agua Blanca,9,U.E. Julio Ramos Valdez,6013185,1,36,26,60,29,,,,,,,
+3,Gran Chaco,2,Caraparí,1974,Agua Blanca,9,U.E. Julio Ramos Valdez,6013195,2,49,17,26,26,,,,,,,
+3,Gran Chaco,2,Caraparí,1975,Yacunda,10,U.E. 17 de Agosto,6013205,1,4,10,22,2,,,,,,,
+3,Gran Chaco,2,Caraparí,1976,Zapatera Norte,11,U.E. Zapatera Norte,6013225,1,15,24,13,81,,,,,,,
+3,Gran Chaco,2,Caraparí,1976,Zapatera Norte,11,U.E. Zapatera Norte,6013235,2,15,7,7,53,,,,,,,
+3,Gran Chaco,2,Caraparí,1976,Zapatera Norte,32324,Centro Pan,6013325,1,0,3,2,23,,,,,,,
+3,Gran Chaco,2,Caraparí,2934,Las Sidras,10,U.E. 2 de Agosto,6013215,1,12,7,43,38,,,,,,,
+3,Gran Chaco,2,Caraparí,3047,Berety Chaco,16,U.E. Berety Chaco,6013245,1,35,24,37,28,,,,,,,
+3,Gran Chaco,2,Caraparí,3047,Berety Chaco,16,U.E. Berety Chaco,6013255,2,3,5,4,5,,,,,,,
+3,Gran Chaco,2,Caraparí,3330,Campo Largo Hito 22,1,U.E. Campo Largo Hito 22,6012835,1,55,8,33,5,,,,,,,
+3,Gran Chaco,2,Caraparí,3507,Fuerte Viejo,2,U.E. 6 de Agosto,6012855,1,12,20,58,49,,,,,,,
+3,Gran Chaco,2,Caraparí,3507,Fuerte Viejo,2,U.E. 6 de Agosto,6012865,2,6,6,31,23,,,,,,,
+3,Gran Chaco,2,Caraparí,3508,San Alberto,2,U.E. San Alberto,6012875,1,36,24,49,26,,,,,,,
+3,Gran Chaco,2,Caraparí,3508,San Alberto,2,U.E. San Alberto,6012885,2,38,21,48,24,,,,,,,
+3,Gran Chaco,2,Caraparí,3508,San Alberto,2,U.E. San Alberto,6012895,3,21,16,26,14,,,,,,,
+3,Gran Chaco,2,Caraparí,3730,Cañitas,1,U.E. Cañitas,6012845,1,13,4,21,22,,,,,,,
+3,Gran Chaco,2,Caraparí,4022,Iñiguazu,25349,U.E. Bolivia,6013265,1,63,38,4,33,,,,,,,
+3,Gran Chaco,2,Caraparí,4023,Sausalito,25350,U.E. San Juan,6013275,1,14,3,15,1,,,,,,,
+3,Gran Chaco,2,Caraparí,4024,Itaparenda,25351,U.E. Bolivia De Carapari,6013285,1,5,20,53,16,,,,,,,
+3,Gran Chaco,2,Caraparí,4025,San Nicolas,25352,U.E. San Nicolas,6013295,1,17,8,6,7,,,,,,,
+3,Gran Chaco,2,Caraparí,4025,San Nicolas,25353,Posta Sanitaria Kereimba Renda (Indigena),6013305,1,1,6,7,9,,,,,,,
+3,Gran Chaco,2,Caraparí,4075,Lecheronal Cañaveral,25477,U.E. José Antonio De Sucre,6013315,1,6,4,15,27,,,,,,,
+3,Gran Chaco,2,Caraparí,4591,Laime,32326,Sede Comunal Laime,6013345,1,10,22,13,14,,,,,,,
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6013955,1,20,14,8,1,2,17,9,6,8,24,12
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6013965,2,20,10,10,3,1,7,4,9,9,32,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6013975,3,14,17,6,3,6,15,3,6,12,22,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6013985,4,14,14,10,7,4,5,4,1,13,29,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6013995,5,16,10,16,9,4,21,5,8,6,28,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6014005,6,11,11,10,6,8,14,3,8,10,18,5
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6014015,7,12,10,16,2,5,11,6,8,10,19,9
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6014025,8,13,21,11,2,8,19,2,6,15,22,12
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6014035,9,12,20,13,6,4,16,7,9,7,21,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6014045,10,13,16,17,2,6,24,8,11,8,18,9
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6014055,11,16,7,5,0,3,6,3,7,7,18,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,2,U.E. Ismael Montes,6013795,1,26,18,22,1,6,12,5,9,11,20,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,2,U.E. Ismael Montes,6013805,2,24,7,15,1,9,9,3,6,17,20,14
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,2,U.E. Ismael Montes,6013815,3,16,11,19,2,3,4,4,3,16,27,15
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,2,U.E. Ismael Montes,6013825,4,26,8,18,5,5,12,2,5,11,21,12
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,2,U.E. Ismael Montes,6013835,5,16,16,19,8,3,15,7,2,10,15,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,2,U.E. Ismael Montes,6013845,6,24,9,18,2,5,5,4,7,17,18,13
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,2,U.E. Ismael Montes,6013855,7,26,15,16,8,5,17,3,5,27,14,17
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,2,U.E. Ismael Montes,6013865,8,12,10,14,1,8,17,5,6,16,15,12
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,2,U.E. Ismael Montes,6013875,9,15,20,16,7,5,13,5,4,19,8,12
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,2,U.E. Ismael Montes,6013885,10,14,13,16,1,7,14,2,5,16,32,14
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,2,U.E. Ismael Montes,6013895,11,14,4,9,2,4,3,0,3,12,19,0
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014105,1,25,18,21,1,8,15,2,5,6,19,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014115,2,25,11,14,3,7,19,1,5,10,25,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014125,3,23,22,23,3,11,9,5,9,15,19,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014135,4,24,22,13,3,7,11,2,1,13,16,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014145,5,15,18,22,2,11,10,3,7,4,22,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014155,6,25,13,18,4,7,15,1,7,8,15,16
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014165,7,24,19,10,4,5,18,4,6,5,28,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014175,8,19,24,20,2,8,7,4,1,13,15,17
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014185,9,28,17,10,4,11,16,5,8,5,27,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014195,10,23,15,23,5,8,12,5,9,6,22,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014205,11,17,12,19,1,5,17,4,6,7,19,16
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014215,12,26,17,18,3,7,20,1,1,8,11,14
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014225,13,14,20,15,6,8,13,3,5,11,20,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,4,U.E. Adela Hoyos,6014235,1,18,19,21,4,7,17,6,6,6,12,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,4,U.E. Adela Hoyos,6014245,2,24,20,14,1,7,18,4,5,6,22,14
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,4,U.E. Adela Hoyos,6014255,3,18,12,18,4,7,25,2,8,3,18,9
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,4,U.E. Adela Hoyos,6014265,4,20,10,14,5,9,23,8,9,6,25,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,4,U.E. Adela Hoyos,6014275,5,16,11,27,3,4,18,7,4,8,18,11
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,4,U.E. Adela Hoyos,6014285,6,14,17,16,6,9,14,6,5,9,14,13
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,4,U.E. Adela Hoyos,6014295,7,22,21,9,3,5,20,2,5,8,11,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,4,U.E. Adela Hoyos,6014305,8,19,12,18,5,7,19,7,10,4,11,11
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,4,U.E. Adela Hoyos,6014315,9,27,14,11,3,7,19,5,3,5,32,11
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014615,1,21,18,13,3,8,12,3,6,11,16,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014625,2,8,24,12,5,6,16,4,5,13,13,9
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014635,3,22,20,7,2,10,11,2,8,7,21,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014645,4,17,12,16,3,9,20,1,10,4,19,9
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014655,5,18,12,13,5,7,12,4,4,9,23,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014665,6,14,15,9,2,10,15,3,4,6,21,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014675,7,15,20,6,0,9,14,4,7,18,20,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014685,8,24,13,16,4,8,9,1,10,1,21,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014695,9,22,19,17,4,6,8,5,6,6,17,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014705,10,14,22,10,8,13,9,4,8,11,20,5
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014715,11,13,16,16,2,9,14,5,7,7,26,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014325,1,14,13,13,7,5,6,0,8,9,14,11
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014335,2,17,18,12,5,9,11,1,1,7,10,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014345,3,22,15,4,3,6,12,7,3,6,19,4
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014355,4,20,25,7,2,11,4,2,2,12,12,3
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014365,5,17,11,20,3,8,9,3,6,6,19,12
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014375,6,19,14,10,5,11,7,1,6,6,8,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014385,7,24,16,13,4,17,10,4,6,13,15,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014395,8,15,15,2,5,12,7,4,6,17,11,9
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014405,9,12,13,20,3,6,7,4,2,10,15,13
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014415,10,17,19,11,2,5,6,3,8,12,22,13
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014425,11,21,18,8,5,6,14,3,7,7,24,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014435,12,16,17,8,1,5,11,0,5,12,14,13
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014445,13,16,18,3,2,9,10,3,7,13,17,12
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014455,14,13,11,6,10,7,9,1,5,9,17,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,9,Kinder Colorados de Bolivia,6014465,1,20,20,9,3,11,6,5,6,6,12,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,9,Kinder Colorados de Bolivia,6014475,2,19,17,5,3,9,11,8,5,10,21,4
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,9,Kinder Colorados de Bolivia,6014485,3,16,20,13,6,12,10,2,4,8,19,3
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,9,Kinder Colorados de Bolivia,6014495,4,25,16,10,3,19,7,7,4,11,23,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,9,Kinder Colorados de Bolivia,6014505,5,8,19,11,3,21,10,3,5,5,20,13
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,9,Kinder Colorados de Bolivia,6014515,6,20,22,9,5,8,16,3,12,5,17,11
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,9,Kinder Colorados de Bolivia,6014525,7,28,10,9,1,8,21,6,5,7,13,5
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,9,Kinder Colorados de Bolivia,6014535,8,7,6,5,2,5,11,4,2,11,8,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,10,(Cárcel) Carceleta De Villa Montes,6014065,1,5,18,3,2,16,2,1,2,5,2,4
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26478,U.E. Faustino Suarez Arnes,6014595,1,11,17,11,8,12,10,4,1,5,25,12
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26478,U.E. Faustino Suarez Arnes,6014605,2,15,14,12,6,16,8,1,9,10,25,15
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26479,U.E. Cristo Rey,6014725,1,17,18,7,3,17,9,5,5,11,23,11
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26479,U.E. Cristo Rey,6014735,2,16,20,19,2,23,10,4,5,17,24,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26479,U.E. Cristo Rey,6014745,3,15,17,8,6,14,18,8,2,11,18,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26479,U.E. Cristo Rey,6014755,4,18,13,7,4,9,5,6,6,5,22,13
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26479,U.E. Cristo Rey,6014765,5,15,28,7,2,7,12,7,11,11,14,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26479,U.E. Cristo Rey,6014775,6,9,10,7,0,4,6,3,3,8,2,4
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26480,U.E. Santa Clara,6013905,1,12,15,14,0,15,13,3,9,12,23,14
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26480,U.E. Santa Clara,6013915,2,24,12,20,1,11,7,2,3,17,11,21
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26480,U.E. Santa Clara,6013925,3,22,16,21,3,13,8,2,5,12,18,11
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26480,U.E. Santa Clara,6013935,4,24,14,18,4,9,7,2,9,11,18,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26480,U.E. Santa Clara,6013945,5,19,13,8,0,13,10,0,2,8,9,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26481,U.E. Defensores del Chaco,6014545,1,11,15,8,2,9,8,5,6,13,28,9
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26481,U.E. Defensores del Chaco,6014555,2,22,20,5,0,10,10,8,6,12,23,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26481,U.E. Defensores del Chaco,6014565,3,18,13,12,1,13,12,7,4,8,12,11
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26481,U.E. Defensores del Chaco,6014575,4,12,15,11,3,10,6,8,4,9,22,18
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26481,U.E. Defensores del Chaco,6014585,5,23,13,11,4,15,7,15,5,15,19,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31062,U.E. Aplicación Bilingüe Weenhayek,6014075,1,16,15,20,3,3,15,2,9,9,17,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31062,U.E. Aplicación Bilingüe Weenhayek,6014085,2,19,16,5,2,15,5,3,9,10,21,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31062,U.E. Aplicación Bilingüe Weenhayek,6014095,3,28,14,16,4,9,11,4,6,5,24,4
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31065,U.E. San Antonio,6014785,1,20,9,9,4,9,8,6,14,6,18,15
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31065,U.E. San Antonio,6014795,2,33,14,11,3,14,16,2,4,8,19,4
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31065,U.E. San Antonio,6014805,3,30,11,16,2,12,15,2,4,6,18,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31065,U.E. San Antonio,6014815,4,22,10,7,2,12,17,1,4,11,10,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31065,U.E. San Antonio,6014825,5,23,19,10,7,4,12,4,12,14,5,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31065,U.E. San Antonio,6014835,6,26,7,7,5,4,12,3,3,9,13,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31065,U.E. San Antonio,6014845,7,10,2,2,1,0,3,4,2,5,3,1
+3,Gran Chaco,3,Villa Montes,1979,Capirendita,5,U.E. Capirendita,6013505,1,20,4,30,2,6,17,0,0,8,8,2
+3,Gran Chaco,3,Villa Montes,1979,Capirendita,5,U.E. Capirendita,6013515,2,21,3,6,1,38,12,1,1,6,22,1
+3,Gran Chaco,3,Villa Montes,1979,Capirendita,5,U.E. Capirendita,6013525,3,13,2,17,1,9,40,2,2,7,13,3
+3,Gran Chaco,3,Villa Montes,1979,Capirendita,5,U.E. Capirendita,6013535,4,6,4,16,1,13,20,2,3,13,12,1
+3,Gran Chaco,3,Villa Montes,1979,Capirendita,5,U.E. Capirendita,6013545,5,2,1,0,0,3,1,0,0,1,1,0
+3,Gran Chaco,3,Villa Montes,1980,Caigua,5,U.E. Cabo Juan,6013555,1,8,11,15,10,5,16,2,2,8,3,7
+3,Gran Chaco,3,Villa Montes,1980,Caigua,5,U.E. Cabo Juan,6013565,2,17,12,16,4,4,21,1,4,10,7,7
+3,Gran Chaco,3,Villa Montes,1980,Caigua,5,U.E. Cabo Juan,6013575,3,15,7,7,1,3,3,0,0,3,7,2
+3,Gran Chaco,3,Villa Montes,1980,Caigua,32329,Sede APG Caigua,6013765,1,0,0,4,0,0,2,0,0,1,1,0
+3,Gran Chaco,3,Villa Montes,1981,Taihuati,6,U.E. 27 de Mayo,6013585,1,13,7,7,0,0,3,0,0,2,9,9
+3,Gran Chaco,3,Villa Montes,1981,Taihuati,32331,Sede APG Tahiguaty,6013785,1,6,5,10,3,0,0,0,1,2,2,0
+3,Gran Chaco,3,Villa Montes,1982,Tarairi,7,U.E. Tte. Victor Zeballos Claros,6013595,1,19,8,34,0,2,5,4,3,33,5,9
+3,Gran Chaco,3,Villa Montes,1982,Tarairi,7,U.E. Tte. Victor Zeballos Claros,6013605,2,5,1,6,2,4,1,0,4,18,3,3
+3,Gran Chaco,3,Villa Montes,1982,Tarairi,32328,U.E. Héroes del Chaco del Tarairi,6013755,1,2,3,6,0,1,4,2,2,20,5,4
+3,Gran Chaco,3,Villa Montes,1983,Tiguipa,8,U.E. Rebeca Aguirre,6013615,1,13,22,23,3,10,11,1,3,0,23,7
+3,Gran Chaco,3,Villa Montes,1983,Tiguipa,8,U.E. Rebeca Aguirre,6013625,2,7,25,29,3,6,9,4,2,4,25,10
+3,Gran Chaco,3,Villa Montes,1983,Tiguipa,8,U.E. Rebeca Aguirre,6013635,3,18,26,25,2,7,14,2,2,0,25,10
+3,Gran Chaco,3,Villa Montes,1983,Tiguipa,8,U.E. Rebeca Aguirre,6013645,4,6,11,4,3,2,1,1,0,2,11,4
+3,Gran Chaco,3,Villa Montes,1984,Capirenda,9,U.E. Capirenda,6013655,1,4,4,3,0,0,0,0,2,1,4,1
+3,Gran Chaco,3,Villa Montes,1985,Taringuiti,10,Sede Social de La Comunidad,6013665,1,14,2,4,0,0,2,0,1,0,0,0
+3,Gran Chaco,3,Villa Montes,1986,Ibibobo,11,U.E. Rafael Pabón,6013675,1,20,7,2,0,1,2,0,2,2,4,1
+3,Gran Chaco,3,Villa Montes,1986,Ibibobo,11,U.E. Rafael Pabón,6013685,2,12,11,4,0,2,4,0,3,3,2,1
+3,Gran Chaco,3,Villa Montes,1986,Ibibobo,11,U.E. Rafael Pabón,6013695,3,6,3,2,0,1,2,0,0,5,1,5
+3,Gran Chaco,3,Villa Montes,1987,Cutaiqui,12,U.E. Central Cutaiqui,6013705,1,25,5,0,0,0,4,0,0,0,2,4
+3,Gran Chaco,3,Villa Montes,2879,Palmar Grande,26484,U.E. 15 de Abril,6013725,1,8,4,12,1,15,6,2,5,8,13,30
+3,Gran Chaco,3,Villa Montes,2879,Palmar Grande,26484,U.E. 15 de Abril,6013735,2,14,1,11,3,14,5,0,5,10,15,23
+3,Gran Chaco,3,Villa Montes,2879,Palmar Grande,26484,U.E. 15 de Abril,6013745,3,4,1,9,0,3,5,0,1,0,1,0
+3,Gran Chaco,3,Villa Montes,3166,La Victoria,2,U.E. San Isidro La Victoria,6013465,1,4,11,1,0,0,7,3,1,0,0,2
+3,Gran Chaco,3,Villa Montes,3198,Resistencia,2,U.E. Resistencia,6013475,1,5,6,15,1,6,19,3,0,0,3,2
+3,Gran Chaco,3,Villa Montes,3336,El Toro,1,U.E. Chaco Boreal,6013365,1,1,1,0,0,0,1,0,2,0,0,3
+3,Gran Chaco,3,Villa Montes,3337,Ipa,1,U.E. Antonio Jose De Sucre,6013375,1,11,11,18,2,5,0,4,2,19,14,10
+3,Gran Chaco,3,Villa Montes,3360,Esmeralda,1,U.E. La Esmeralda,6013385,1,7,0,1,0,6,1,1,1,0,4,0
+3,Gran Chaco,3,Villa Montes,3509,Samayguate,25528,U.E. Samaiguate,6013715,1,14,0,2,1,1,6,0,1,0,3,0
+3,Gran Chaco,3,Villa Montes,3510,Algarrobal,2,U.E. Algarrobal,6013485,1,13,6,3,0,4,22,4,0,5,4,3
+3,Gran Chaco,3,Villa Montes,3511,La Central,2,U.E. Aguaragüe,6013495,1,8,0,3,5,9,3,1,2,13,6,7
+3,Gran Chaco,3,Villa Montes,3731,Puesto Garcia,1,U.E. 27 de Mayo,6013395,1,28,8,19,1,2,2,1,1,15,12,9
+3,Gran Chaco,3,Villa Montes,3731,Puesto Garcia,1,U.E. 27 de Mayo,6013405,2,10,3,4,0,1,0,0,1,3,2,2
+3,Gran Chaco,3,Villa Montes,3732,Nueva Esperanza,1,U.E. Nueva Esperanza,6013415,1,6,6,1,0,0,2,0,1,0,14,2
+3,Gran Chaco,3,Villa Montes,3753,Chimeo,1,U.E. Chimeo,6013425,1,23,12,8,10,3,2,1,5,14,9,6
+3,Gran Chaco,3,Villa Montes,3753,Chimeo,1,U.E. Chimeo,6013435,2,10,3,4,11,2,1,1,1,4,4,3
+3,Gran Chaco,3,Villa Montes,3754,Ibopeiti,1,U.E. Ibopeiti,6013445,1,4,9,6,1,5,11,1,0,4,45,6
+3,Gran Chaco,3,Villa Montes,3754,Ibopeiti,1,U.E. Ibopeiti,6013455,2,5,7,3,0,3,14,1,3,3,32,7
+3,Gran Chaco,3,Villa Montes,4592,Tucainty,32330,U.E. Tucainty,6013775,1,2,2,2,1,4,11,3,3,7,1,7

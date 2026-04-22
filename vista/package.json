@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "clean": "rimraf src/.observablehq/cache",
+    "build": "node -e \"const fs=require('node:fs'); const p=require('node:path'); fs.rmSync('../docs',{recursive:true,force:true});\" && observable build && node -e \"const fs=require('node:fs'); const p=require('node:path'); const src=p.resolve('src/data'); const dst=p.resolve('../docs/data'); fs.mkdirSync(dst,{recursive:true}); fs.cpSync(src,dst,{recursive:true,force:true});\"",
+    "dev": "observable preview",
+    "deploy": "observable deploy",
+    "observable": "observable"
+  },
+  "dependencies": {
+    "@observablehq/framework": "^1.13.4"
+  },
+  "devDependencies": {
+    "rimraf": "^5.0.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

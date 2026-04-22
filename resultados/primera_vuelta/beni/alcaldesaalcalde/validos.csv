@@ -1,0 +1,1340 @@
+CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,NombreLocalidad,CodigoRecinto,NombreRecinto,CodigoMesa,NumeroMesa,DESPIERTA,MTS,PATRIA-UNIDOS,TUFE,CPEM-B,LIBRE,A-UPP,VAMOS,NGP,APB-SUMATE,MNR,AVANZAR,F.S.D.
+1,Cercado,1,Trinidad,2526,Trinidad,1,U.E. Liceo Mario Saielly,8000187,1,35,10,90,19,4,,25,,3,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,1,U.E. Liceo Mario Saielly,8000197,2,36,11,58,14,5,,30,,1,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,1,U.E. Liceo Mario Saielly,8000207,3,39,12,76,11,3,,17,,3,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,1,U.E. Liceo Mario Saielly,8000217,4,5,0,5,2,1,,1,,0,,0,,
+1,Cercado,1,Trinidad,2526,Trinidad,2,U.E. Nicolas Suarez,8000227,1,45,5,99,6,4,,12,,1,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,2,U.E. Nicolas Suarez,8000237,2,44,7,81,12,4,,17,,2,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,2,U.E. Nicolas Suarez,8000247,3,35,3,86,16,2,,21,,2,,19,,
+1,Cercado,1,Trinidad,2526,Trinidad,2,U.E. Nicolas Suarez,8000257,4,44,9,73,8,4,,24,,1,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,2,U.E. Nicolas Suarez,8000267,5,39,6,86,8,4,,24,,1,,19,,
+1,Cercado,1,Trinidad,2526,Trinidad,2,U.E. Nicolas Suarez,8000277,6,23,5,81,20,7,,18,,3,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8000907,1,35,23,52,13,7,,32,,3,,17,,
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8000917,2,22,12,73,17,5,,25,,7,,18,,
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8000927,3,19,18,59,28,6,,39,,8,,5,,
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8000937,4,35,9,63,21,5,,24,,5,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8000947,5,24,23,50,16,1,,43,,4,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8000957,6,36,12,69,18,5,,31,,0,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8000967,7,26,17,52,20,2,,33,,6,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8000977,8,26,18,54,20,7,,33,,6,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8000987,9,24,12,44,17,3,,36,,4,,18,,
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8000997,10,33,32,60,22,0,,26,,7,,6,,
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8001007,11,23,28,50,20,4,,27,,5,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8001017,12,33,13,73,21,5,,29,,2,,17,,
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8001027,13,33,14,51,16,9,,23,,3,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8001037,14,31,11,50,22,5,,31,,4,,22,,
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8001047,15,18,12,87,10,6,,32,,1,,11,,
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8001057,16,15,29,56,25,2,,36,,2,,5,,
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8001067,17,43,10,52,26,5,,32,,1,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8001077,18,40,11,56,15,4,,38,,5,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8001087,19,19,11,43,11,3,,20,,1,,7,,
+1,Cercado,1,Trinidad,2526,Trinidad,6,U.E. Pedro Ignacio Muiba,8001617,1,43,12,58,13,4,,25,,4,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,6,U.E. Pedro Ignacio Muiba,8001627,2,36,4,70,15,4,,28,,4,,19,,
+1,Cercado,1,Trinidad,2526,Trinidad,6,U.E. Pedro Ignacio Muiba,8001637,3,40,6,61,13,4,,31,,4,,20,,
+1,Cercado,1,Trinidad,2526,Trinidad,6,U.E. Pedro Ignacio Muiba,8001647,4,35,7,45,16,6,,38,,1,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,6,U.E. Pedro Ignacio Muiba,8001657,5,43,9,66,10,5,,26,,4,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,6,U.E. Pedro Ignacio Muiba,8001667,6,34,6,60,12,1,,28,,2,,32,,
+1,Cercado,1,Trinidad,2526,Trinidad,6,U.E. Pedro Ignacio Muiba,8001677,7,28,8,51,14,3,,31,,7,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,6,U.E. Pedro Ignacio Muiba,8001687,8,27,8,64,14,4,,29,,3,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,6,U.E. Pedro Ignacio Muiba,8001697,9,31,6,61,21,7,,32,,4,,19,,
+1,Cercado,1,Trinidad,2526,Trinidad,6,U.E. Pedro Ignacio Muiba,8001707,10,48,12,53,14,7,,26,,4,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,6,U.E. Pedro Ignacio Muiba,8001717,11,37,4,67,27,1,,28,,1,,17,,
+1,Cercado,1,Trinidad,2526,Trinidad,6,U.E. Pedro Ignacio Muiba,8001727,12,45,11,58,14,3,,25,,3,,19,,
+1,Cercado,1,Trinidad,2526,Trinidad,7,U.E. San Antonio,8001737,1,27,4,85,23,2,,36,,3,,20,,
+1,Cercado,1,Trinidad,2526,Trinidad,7,U.E. San Antonio,8001747,2,38,4,75,17,1,,25,,1,,23,,
+1,Cercado,1,Trinidad,2526,Trinidad,7,U.E. San Antonio,8001757,3,41,15,66,29,4,,31,,1,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,7,U.E. San Antonio,8001767,4,26,8,79,18,2,,29,,2,,18,,
+1,Cercado,1,Trinidad,2526,Trinidad,7,U.E. San Antonio,8001777,5,39,6,78,12,0,,30,,2,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,7,U.E. San Antonio,8001787,6,39,5,72,22,1,,39,,3,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,7,U.E. San Antonio,8001797,7,34,4,75,16,3,,30,,3,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,7,U.E. San Antonio,8001807,8,27,7,73,21,3,,38,,6,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,7,U.E. San Antonio,8001817,9,30,9,81,13,9,,22,,5,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,7,U.E. San Antonio,8001827,10,32,5,51,13,6,,20,,2,,7,,
+1,Cercado,1,Trinidad,2526,Trinidad,8,U.E. Raúl Monje Roca,8000577,1,32,11,97,14,5,,25,,1,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,8,U.E. Raúl Monje Roca,8000587,2,30,7,72,20,10,,31,,2,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,8,U.E. Raúl Monje Roca,8000597,3,32,13,68,12,5,,30,,2,,21,,
+1,Cercado,1,Trinidad,2526,Trinidad,8,U.E. Raúl Monje Roca,8000607,4,31,13,73,18,5,,29,,5,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,8,U.E. Raúl Monje Roca,8000617,5,30,11,68,17,8,,27,,5,,18,,
+1,Cercado,1,Trinidad,2526,Trinidad,8,U.E. Raúl Monje Roca,8000627,6,27,5,91,19,6,,29,,2,,21,,
+1,Cercado,1,Trinidad,2526,Trinidad,8,U.E. Raúl Monje Roca,8000637,7,21,8,108,16,9,,24,,4,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,8,U.E. Raúl Monje Roca,8000647,8,33,6,83,19,6,,21,,5,,18,,
+1,Cercado,1,Trinidad,2526,Trinidad,8,U.E. Raúl Monje Roca,8000657,9,27,6,77,17,17,,22,,3,,8,,
+1,Cercado,1,Trinidad,2526,Trinidad,8,U.E. Raúl Monje Roca,8000667,10,22,8,72,13,13,,25,,4,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,9,U.E. J. Lorenzo Campero,8002167,1,47,0,102,7,3,,23,,1,,8,,
+1,Cercado,1,Trinidad,2526,Trinidad,9,U.E. J. Lorenzo Campero,8002177,2,41,4,101,7,1,,28,,1,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,9,U.E. J. Lorenzo Campero,8002187,3,51,2,72,9,3,,31,,4,,17,,
+1,Cercado,1,Trinidad,2526,Trinidad,9,U.E. J. Lorenzo Campero,8002197,4,46,3,74,12,4,,29,,3,,10,,
+1,Cercado,1,Trinidad,2526,Trinidad,9,U.E. J. Lorenzo Campero,8002207,5,49,4,84,17,2,,25,,1,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,9,U.E. J. Lorenzo Campero,8002217,6,40,0,88,13,5,,25,,7,,18,,
+1,Cercado,1,Trinidad,2526,Trinidad,10,U.E. Hormando Ortiz Chávez,8002467,1,33,5,99,9,3,,19,,4,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,10,U.E. Hormando Ortiz Chávez,8002477,2,47,0,76,14,5,,23,,1,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,10,U.E. Hormando Ortiz Chávez,8002487,3,37,2,83,14,3,,13,,2,,18,,
+1,Cercado,1,Trinidad,2526,Trinidad,11,U.E. San Vicente,8001887,1,39,6,83,13,4,,23,,5,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,11,U.E. San Vicente,8001897,2,36,7,97,16,3,,26,,3,,10,,
+1,Cercado,1,Trinidad,2526,Trinidad,11,U.E. San Vicente,8001907,3,29,10,73,19,2,,28,,4,,17,,
+1,Cercado,1,Trinidad,2526,Trinidad,11,U.E. San Vicente,8001917,4,33,14,89,17,2,,31,,1,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,11,U.E. San Vicente,8001927,5,28,12,88,20,2,,19,,4,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,11,U.E. San Vicente,8001937,6,43,1,80,25,7,,26,,1,,11,,
+1,Cercado,1,Trinidad,2526,Trinidad,11,U.E. San Vicente,8001947,7,34,8,85,16,1,,29,,5,,8,,
+1,Cercado,1,Trinidad,2526,Trinidad,11,U.E. San Vicente,8001957,8,37,3,75,17,10,,20,,3,,19,,
+1,Cercado,1,Trinidad,2526,Trinidad,11,U.E. San Vicente,8001967,9,42,5,53,19,6,,27,,5,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,11,U.E. San Vicente,8001977,10,24,12,72,17,3,,30,,3,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,11,U.E. San Vicente,8001987,11,35,6,78,18,2,,24,,2,,20,,
+1,Cercado,1,Trinidad,2526,Trinidad,11,U.E. San Vicente,8001997,12,34,8,81,15,5,,24,,0,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,11,U.E. San Vicente,8002007,13,44,7,75,12,3,,18,,1,,9,,
+1,Cercado,1,Trinidad,2526,Trinidad,13,U.E.  Emilio Campos Pedriel,8003297,1,44,4,79,9,7,,31,,3,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,13,U.E.  Emilio Campos Pedriel,8003307,2,38,13,75,13,0,,29,,2,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,13,U.E.  Emilio Campos Pedriel,8003317,3,31,14,79,19,3,,29,,6,,5,,
+1,Cercado,1,Trinidad,2526,Trinidad,13,U.E.  Emilio Campos Pedriel,8003327,4,41,7,78,13,2,,26,,4,,11,,
+1,Cercado,1,Trinidad,2526,Trinidad,13,U.E.  Emilio Campos Pedriel,8003337,5,30,10,86,11,9,,27,,1,,9,,
+1,Cercado,1,Trinidad,2526,Trinidad,13,U.E.  Emilio Campos Pedriel,8003347,6,23,8,74,21,3,,35,,6,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,13,U.E.  Emilio Campos Pedriel,8003357,7,39,9,93,13,4,,26,,1,,17,,
+1,Cercado,1,Trinidad,2526,Trinidad,13,U.E.  Emilio Campos Pedriel,8003367,8,26,9,77,20,6,,39,,2,,11,,
+1,Cercado,1,Trinidad,2526,Trinidad,13,U.E.  Emilio Campos Pedriel,8003377,9,22,4,109,11,5,,22,,2,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,13,U.E.  Emilio Campos Pedriel,8003387,10,33,12,82,10,8,,25,,3,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,13,U.E.  Emilio Campos Pedriel,8003397,11,35,8,79,23,4,,35,,0,,11,,
+1,Cercado,1,Trinidad,2526,Trinidad,13,U.E.  Emilio Campos Pedriel,8003407,12,35,9,81,7,8,,31,,6,,9,,
+1,Cercado,1,Trinidad,2526,Trinidad,13,U.E.  Emilio Campos Pedriel,8003417,13,4,0,18,0,0,,0,,0,,2,,
+1,Cercado,1,Trinidad,2526,Trinidad,14,U.E. J.Azurduy De Padilla,8002527,1,32,4,99,12,3,,26,,5,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,14,U.E. J.Azurduy De Padilla,8002537,2,20,9,99,15,6,,22,,7,,22,,
+1,Cercado,1,Trinidad,2526,Trinidad,14,U.E. J.Azurduy De Padilla,8002547,3,30,5,91,18,9,,27,,4,,5,,
+1,Cercado,1,Trinidad,2526,Trinidad,14,U.E. J.Azurduy De Padilla,8002557,4,28,3,90,23,7,,27,,3,,9,,
+1,Cercado,1,Trinidad,2526,Trinidad,14,U.E. J.Azurduy De Padilla,8002567,5,33,7,87,8,7,,24,,1,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,14,U.E. J.Azurduy De Padilla,8002577,6,18,1,43,7,3,,11,,0,,5,,
+1,Cercado,1,Trinidad,2526,Trinidad,15,U.E. 4 De  Febrero,8000677,1,24,13,59,26,6,,34,,6,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,15,U.E. 4 De  Febrero,8000687,2,31,12,49,14,3,,44,,6,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,15,U.E. 4 De  Febrero,8000697,3,22,24,59,15,1,,33,,5,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,15,U.E. 4 De  Febrero,8000707,4,35,16,54,19,2,,36,,4,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,15,U.E. 4 De  Febrero,8000717,5,24,11,50,20,6,,38,,4,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,15,U.E. 4 De  Febrero,8000727,6,29,10,63,20,4,,36,,3,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,15,U.E. 4 De  Febrero,8000737,7,28,12,65,17,3,,29,,2,,19,,
+1,Cercado,1,Trinidad,2526,Trinidad,15,U.E. 4 De  Febrero,8000747,8,28,16,50,14,6,,34,,5,,18,,
+1,Cercado,1,Trinidad,2526,Trinidad,15,U.E. 4 De  Febrero,8000757,9,20,11,59,19,6,,42,,2,,18,,
+1,Cercado,1,Trinidad,2526,Trinidad,15,U.E. 4 De  Febrero,8000767,10,23,13,51,16,2,,34,,4,,22,,
+1,Cercado,1,Trinidad,2526,Trinidad,15,U.E. 4 De  Febrero,8000777,11,23,13,68,13,3,,33,,4,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,15,U.E. 4 De  Febrero,8000787,12,23,19,55,20,10,,37,,4,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,15,U.E. 4 De  Febrero,8000797,13,29,12,73,16,4,,35,,6,,11,,
+1,Cercado,1,Trinidad,2526,Trinidad,15,U.E. 4 De  Febrero,8000807,14,27,17,65,11,8,,34,,5,,24,,
+1,Cercado,1,Trinidad,2526,Trinidad,15,U.E. 4 De  Febrero,8000817,15,26,14,55,18,4,,33,,4,,21,,
+1,Cercado,1,Trinidad,2526,Trinidad,15,U.E. 4 De  Febrero,8000827,16,34,13,60,17,3,,22,,1,,24,,
+1,Cercado,1,Trinidad,2526,Trinidad,15,U.E. 4 De  Febrero,8000837,17,16,12,22,11,3,,23,,2,,10,,
+1,Cercado,1,Trinidad,2526,Trinidad,16,(Cárcel) Cárcel Mocobi,8003697,1,18,4,48,13,9,,29,,6,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,16,(Cárcel) Cárcel Mocobi,8003707,2,6,3,12,8,5,,14,,4,,7,,
+1,Cercado,1,Trinidad,2526,Trinidad,18,U.E. La Salle,8002227,1,36,2,101,12,0,,18,,1,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,18,U.E. La Salle,8002237,2,40,2,90,15,2,,20,,2,,9,,
+1,Cercado,1,Trinidad,2526,Trinidad,18,U.E. La Salle,8002247,3,30,2,97,15,3,,12,,3,,10,,
+1,Cercado,1,Trinidad,2526,Trinidad,18,U.E. La Salle,8002257,4,41,3,92,11,1,,24,,1,,11,,
+1,Cercado,1,Trinidad,2526,Trinidad,18,U.E. La Salle,8002267,5,34,2,93,24,0,,20,,5,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,18,U.E. La Salle,8002277,6,40,1,93,8,1,,25,,1,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,18,U.E. La Salle,8002287,7,45,1,93,9,4,,15,,5,,20,,
+1,Cercado,1,Trinidad,2526,Trinidad,18,U.E. La Salle,8002297,8,23,1,79,10,5,,18,,0,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,19,U.E. Mary Ribera G.,8003067,1,33,2,100,16,4,,24,,2,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,19,U.E. Mary Ribera G.,8003077,2,30,2,82,12,7,,23,,2,,25,,
+1,Cercado,1,Trinidad,2526,Trinidad,19,U.E. Mary Ribera G.,8003087,3,36,8,85,14,5,,17,,4,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,19,U.E. Mary Ribera G.,8003097,4,26,5,75,14,5,,35,,1,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,19,U.E. Mary Ribera G.,8003107,5,24,8,86,17,8,,23,,2,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,19,U.E. Mary Ribera G.,8003117,6,47,4,79,11,3,,32,,2,,17,,
+1,Cercado,1,Trinidad,2526,Trinidad,19,U.E. Mary Ribera G.,8003127,7,35,4,86,9,5,,39,,1,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,19,U.E. Mary Ribera G.,8003137,8,24,12,80,19,4,,29,,2,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,19,U.E. Mary Ribera G.,8003147,9,33,5,70,27,9,,26,,3,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,19,U.E. Mary Ribera G.,8003157,10,25,6,64,22,11,,35,,4,,7,,
+1,Cercado,1,Trinidad,2526,Trinidad,19,U.E. Mary Ribera G.,8003167,11,35,6,107,9,7,,23,,6,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,19,U.E. Mary Ribera G.,8003177,12,37,5,75,16,9,,40,,3,,17,,
+1,Cercado,1,Trinidad,2526,Trinidad,19,U.E. Mary Ribera G.,8003187,13,33,5,83,17,5,,41,,3,,10,,
+1,Cercado,1,Trinidad,2526,Trinidad,19,U.E. Mary Ribera G.,8003197,14,32,6,87,10,6,,32,,1,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,19,U.E. Mary Ribera G.,8003207,15,12,3,29,7,3,,13,,1,,2,,
+1,Cercado,1,Trinidad,2526,Trinidad,20,U.E. Corina Hurtado De,8001107,1,21,9,75,23,7,,28,,5,,17,,
+1,Cercado,1,Trinidad,2526,Trinidad,20,U.E. Corina Hurtado De,8001117,2,35,13,78,20,3,,26,,6,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,20,U.E. Corina Hurtado De,8001127,3,24,20,61,9,7,,35,,3,,21,,
+1,Cercado,1,Trinidad,2526,Trinidad,20,U.E. Corina Hurtado De,8001137,4,23,13,62,18,4,,42,,1,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,20,U.E. Corina Hurtado De,8001147,5,33,9,59,20,3,,34,,8,,22,,
+1,Cercado,1,Trinidad,2526,Trinidad,20,U.E. Corina Hurtado De,8001157,6,26,25,67,17,5,,28,,6,,11,,
+1,Cercado,1,Trinidad,2526,Trinidad,20,U.E. Corina Hurtado De,8001167,7,24,8,56,24,6,,42,,4,,19,,
+1,Cercado,1,Trinidad,2526,Trinidad,20,U.E. Corina Hurtado De,8001177,8,27,14,66,14,1,,30,,6,,8,,
+1,Cercado,1,Trinidad,2526,Trinidad,20,U.E. Corina Hurtado De,8001187,9,40,14,61,16,2,,29,,4,,26,,
+1,Cercado,1,Trinidad,2526,Trinidad,20,U.E. Corina Hurtado De,8001197,10,31,11,71,18,9,,40,,3,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,20,U.E. Corina Hurtado De,8001207,11,21,13,74,17,11,,29,,0,,18,,
+1,Cercado,1,Trinidad,2526,Trinidad,20,U.E. Corina Hurtado De,8001217,12,26,11,40,14,2,,34,,4,,18,,
+1,Cercado,1,Trinidad,2526,Trinidad,24,U.E. Nuestra Señora de Fátima,8002307,1,33,4,99,10,4,,20,,3,,17,,
+1,Cercado,1,Trinidad,2526,Trinidad,24,U.E. Nuestra Señora de Fátima,8002317,2,32,5,83,20,9,,25,,1,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,24,U.E. Nuestra Señora de Fátima,8002327,3,33,11,82,5,6,,23,,1,,18,,
+1,Cercado,1,Trinidad,2526,Trinidad,24,U.E. Nuestra Señora de Fátima,8002337,4,35,6,79,5,6,,24,,1,,19,,
+1,Cercado,1,Trinidad,2526,Trinidad,24,U.E. Nuestra Señora de Fátima,8002347,5,29,4,93,13,4,,27,,3,,17,,
+1,Cercado,1,Trinidad,2526,Trinidad,24,U.E. Nuestra Señora de Fátima,8002357,6,30,2,96,13,6,,23,,0,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,24,U.E. Nuestra Señora de Fátima,8002367,7,26,4,92,14,11,,28,,1,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,24,U.E. Nuestra Señora de Fátima,8002377,8,24,3,89,13,9,,25,,3,,6,,
+1,Cercado,1,Trinidad,2526,Trinidad,24,U.E. Nuestra Señora de Fátima,8002387,9,34,5,92,8,6,,24,,3,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,24,U.E. Nuestra Señora de Fátima,8002397,10,19,4,77,9,4,,20,,4,,4,,
+1,Cercado,1,Trinidad,2526,Trinidad,26,U.E.  Nueva Trinidad,8002667,1,35,20,53,22,1,,29,,4,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,26,U.E.  Nueva Trinidad,8002677,2,33,9,65,8,5,,37,,4,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,26,U.E.  Nueva Trinidad,8002687,3,27,14,54,15,4,,38,,3,,21,,
+1,Cercado,1,Trinidad,2526,Trinidad,26,U.E.  Nueva Trinidad,8002697,4,32,10,55,22,2,,39,,4,,17,,
+1,Cercado,1,Trinidad,2526,Trinidad,26,U.E.  Nueva Trinidad,8002707,5,25,14,61,12,3,,32,,7,,7,,
+1,Cercado,1,Trinidad,2526,Trinidad,26,U.E.  Nueva Trinidad,8002717,6,20,12,60,21,4,,28,,5,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,26,U.E.  Nueva Trinidad,8002727,7,31,13,66,8,4,,33,,2,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,26,U.E.  Nueva Trinidad,8002737,8,24,17,64,13,7,,35,,3,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,26,U.E.  Nueva Trinidad,8002747,9,33,13,53,12,3,,35,,3,,19,,
+1,Cercado,1,Trinidad,2526,Trinidad,26,U.E.  Nueva Trinidad,8002757,10,27,10,55,13,2,,37,,5,,11,,
+1,Cercado,1,Trinidad,2526,Trinidad,26,U.E.  Nueva Trinidad,8002767,11,28,11,68,14,2,,42,,4,,11,,
+1,Cercado,1,Trinidad,2526,Trinidad,26,U.E.  Nueva Trinidad,8002777,12,43,9,56,16,5,,27,,1,,19,,
+1,Cercado,1,Trinidad,2526,Trinidad,26,U.E.  Nueva Trinidad,8002787,13,28,9,67,11,5,,25,,10,,11,,
+1,Cercado,1,Trinidad,2526,Trinidad,26,U.E.  Nueva Trinidad,8002797,14,21,7,47,18,6,,41,,1,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,26,U.E.  Nueva Trinidad,8002807,15,29,9,48,11,3,,35,,1,,9,,
+1,Cercado,1,Trinidad,2526,Trinidad,26,U.E.  Nueva Trinidad,8002817,16,36,14,62,9,5,,35,,4,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,26,U.E.  Nueva Trinidad,8002827,17,2,6,19,6,2,,12,,0,,0,,
+1,Cercado,1,Trinidad,2526,Trinidad,27,U.E. Villa Vecinal,8003427,1,26,10,76,16,9,,30,,2,,11,,
+1,Cercado,1,Trinidad,2526,Trinidad,27,U.E. Villa Vecinal,8003437,2,35,5,68,15,4,,25,,4,,24,,
+1,Cercado,1,Trinidad,2526,Trinidad,27,U.E. Villa Vecinal,8003447,3,28,10,74,17,9,,25,,5,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,27,U.E. Villa Vecinal,8003457,4,29,7,84,16,4,,42,,4,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,27,U.E. Villa Vecinal,8003467,5,42,5,71,15,6,,28,,2,,18,,
+1,Cercado,1,Trinidad,2526,Trinidad,27,U.E. Villa Vecinal,8003477,6,36,10,76,18,4,,34,,2,,17,,
+1,Cercado,1,Trinidad,2526,Trinidad,27,U.E. Villa Vecinal,8003487,7,36,9,59,14,5,,36,,5,,18,,
+1,Cercado,1,Trinidad,2526,Trinidad,27,U.E. Villa Vecinal,8003497,8,24,7,73,11,5,,36,,4,,22,,
+1,Cercado,1,Trinidad,2526,Trinidad,27,U.E. Villa Vecinal,8003507,9,34,7,68,16,5,,32,,4,,9,,
+1,Cercado,1,Trinidad,2526,Trinidad,27,U.E. Villa Vecinal,8003517,10,31,8,68,12,4,,32,,5,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,27,U.E. Villa Vecinal,8003527,11,29,14,64,11,4,,29,,2,,23,,
+1,Cercado,1,Trinidad,2526,Trinidad,27,U.E. Villa Vecinal,8003537,12,33,11,61,13,6,,36,,3,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,27,U.E. Villa Vecinal,8003547,13,30,11,76,7,12,,19,,6,,9,,
+1,Cercado,1,Trinidad,2526,Trinidad,27,U.E. Villa Vecinal,8003557,14,23,7,91,17,4,,28,,1,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,27,U.E. Villa Vecinal,8003567,15,16,3,47,11,5,,21,,0,,11,,
+1,Cercado,1,Trinidad,2526,Trinidad,29,(Cárcel) Cárcel De Mujeres,8000847,1,6,4,8,14,1,,10,,1,,3,,
+1,Cercado,1,Trinidad,2526,Trinidad,30,U.E. San Francisco De Asís,8002587,1,36,12,106,16,0,,22,,4,,9,,
+1,Cercado,1,Trinidad,2526,Trinidad,30,U.E. San Francisco De Asís,8002597,2,31,3,117,16,4,,16,,2,,4,,
+1,Cercado,1,Trinidad,2526,Trinidad,30,U.E. San Francisco De Asís,8002607,3,43,9,91,18,5,,21,,2,,6,,
+1,Cercado,1,Trinidad,2526,Trinidad,30,U.E. San Francisco De Asís,8002617,4,16,6,50,6,0,,17,,0,,3,,
+1,Cercado,1,Trinidad,2526,Trinidad,31,U.E. Mangalito,8001317,1,39,3,57,11,1,,30,,2,,17,,
+1,Cercado,1,Trinidad,2526,Trinidad,31,U.E. Mangalito,8001327,2,32,9,55,19,1,,37,,5,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,31,U.E. Mangalito,8001337,3,28,5,59,18,3,,47,,4,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,31,U.E. Mangalito,8001347,4,47,5,44,26,4,,38,,4,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,31,U.E. Mangalito,8001357,5,33,8,54,16,8,,35,,7,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,31,U.E. Mangalito,8001367,6,34,13,62,20,3,,31,,2,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,31,U.E. Mangalito,8001377,7,43,2,54,12,2,,46,,0,,18,,
+1,Cercado,1,Trinidad,2526,Trinidad,31,U.E. Mangalito,8001387,8,44,12,55,12,4,,30,,3,,9,,
+1,Cercado,1,Trinidad,2526,Trinidad,31,U.E. Mangalito,8001397,9,3,2,12,4,0,,2,,0,,2,,
+1,Cercado,1,Trinidad,2526,Trinidad,32,U.E.  Gral. Hugo Banzer Suarez,8003717,1,22,8,71,11,7,,36,,4,,20,,
+1,Cercado,1,Trinidad,2526,Trinidad,32,U.E.  Gral. Hugo Banzer Suarez,8003727,2,28,3,77,8,2,,42,,2,,22,,
+1,Cercado,1,Trinidad,2526,Trinidad,32,U.E.  Gral. Hugo Banzer Suarez,8003737,3,6,2,24,3,0,,4,,1,,1,,
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000397,1,35,10,60,13,7,,26,,2,,24,,
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000407,2,40,6,73,14,5,,23,,7,,19,,
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000417,3,35,12,59,7,3,,30,,5,,19,,
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000427,4,28,24,50,20,6,,26,,10,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000437,5,36,12,53,16,5,,32,,8,,7,,
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000447,6,21,12,65,18,7,,28,,10,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000457,7,23,9,71,20,3,,25,,9,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000467,8,35,11,56,19,7,,22,,5,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000477,9,24,7,71,18,8,,34,,12,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000487,10,36,7,67,8,4,,37,,8,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000497,11,19,16,50,12,2,,35,,11,,26,,
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000507,12,42,11,57,10,4,,25,,12,,18,,
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000517,13,26,13,76,12,3,,24,,6,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000527,14,19,11,76,16,3,,34,,7,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000537,15,36,14,55,13,3,,32,,10,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000547,16,25,10,69,21,6,,32,,7,,25,,
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000557,17,17,14,60,17,3,,42,,7,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000567,18,24,7,47,13,5,,30,,10,,10,,
+1,Cercado,1,Trinidad,2526,Trinidad,25027,U.E. Joaquín Hurtado Chavez,8003747,1,21,4,58,19,2,,44,,8,,23,,
+1,Cercado,1,Trinidad,2526,Trinidad,25027,U.E. Joaquín Hurtado Chavez,8003757,2,17,10,78,14,4,,36,,5,,17,,
+1,Cercado,1,Trinidad,2526,Trinidad,25027,U.E. Joaquín Hurtado Chavez,8003767,3,31,4,71,18,3,,37,,3,,19,,
+1,Cercado,1,Trinidad,2526,Trinidad,25027,U.E. Joaquín Hurtado Chavez,8003777,4,26,3,60,21,3,,37,,2,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,25027,U.E. Joaquín Hurtado Chavez,8003787,5,38,4,63,10,6,,37,,5,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,25027,U.E. Joaquín Hurtado Chavez,8003797,6,27,8,67,13,7,,42,,3,,21,,
+1,Cercado,1,Trinidad,2526,Trinidad,25027,U.E. Joaquín Hurtado Chavez,8003807,7,34,10,54,19,7,,42,,5,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,25027,U.E. Joaquín Hurtado Chavez,8003817,8,5,30,57,4,3,,19,,15,,38,,
+1,Cercado,1,Trinidad,2526,Trinidad,25027,U.E. Joaquín Hurtado Chavez,8003827,9,33,8,61,15,4,,31,,4,,20,,
+1,Cercado,1,Trinidad,2526,Trinidad,25027,U.E. Joaquín Hurtado Chavez,8003837,10,21,6,56,18,3,,36,,6,,23,,
+1,Cercado,1,Trinidad,2526,Trinidad,25028,U.E. Orlando Monasterio Claure,8001587,1,34,13,42,8,3,,21,,2,,55,,
+1,Cercado,1,Trinidad,2526,Trinidad,25028,U.E. Orlando Monasterio Claure,8001597,2,31,6,37,28,5,,31,,5,,38,,
+1,Cercado,1,Trinidad,2526,Trinidad,25028,U.E. Orlando Monasterio Claure,8001607,3,15,2,16,11,0,,6,,1,,8,,
+1,Cercado,1,Trinidad,2526,Trinidad,25029,U.A.B. (Carrera de Derecho),8002017,1,41,4,87,14,6,,26,,1,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,25029,U.A.B. (Carrera de Derecho),8002027,2,40,5,85,13,2,,38,,0,,9,,
+1,Cercado,1,Trinidad,2526,Trinidad,25029,U.A.B. (Carrera de Derecho),8002037,3,29,3,87,16,6,,21,,5,,20,,
+1,Cercado,1,Trinidad,2526,Trinidad,25029,U.A.B. (Carrera de Derecho),8002047,4,33,3,81,18,7,,29,,2,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,25029,U.A.B. (Carrera de Derecho),8002057,5,27,2,79,23,5,,23,,2,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,25029,U.A.B. (Carrera de Derecho),8002067,6,42,5,83,13,5,,23,,1,,21,,
+1,Cercado,1,Trinidad,2526,Trinidad,25029,U.A.B. (Carrera de Derecho),8002077,7,46,4,94,14,4,,25,,1,,10,,
+1,Cercado,1,Trinidad,2526,Trinidad,25029,U.A.B. (Carrera de Derecho),8002087,8,42,4,92,18,2,,14,,2,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,25029,U.A.B. (Carrera de Derecho),8002097,9,31,9,97,11,8,,21,,3,,19,,
+1,Cercado,1,Trinidad,2526,Trinidad,25029,U.A.B. (Carrera de Derecho),8002107,10,36,9,95,15,3,,26,,1,,19,,
+1,Cercado,1,Trinidad,2526,Trinidad,25029,U.A.B. (Carrera de Derecho),8002117,11,22,7,86,15,3,,27,,2,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,25029,U.A.B. (Carrera de Derecho),8002127,12,37,9,82,21,2,,27,,4,,18,,
+1,Cercado,1,Trinidad,2526,Trinidad,25029,U.A.B. (Carrera de Derecho),8002137,13,51,6,85,8,2,,24,,1,,19,,
+1,Cercado,1,Trinidad,2526,Trinidad,25029,U.A.B. (Carrera de Derecho),8002147,14,34,6,72,23,4,,32,,5,,20,,
+1,Cercado,1,Trinidad,2526,Trinidad,25029,U.A.B. (Carrera de Derecho),8002157,15,7,2,20,1,0,,4,,0,,0,,
+1,Cercado,1,Trinidad,2526,Trinidad,25030,U.E. 15 de Agosto,8001407,1,31,5,57,16,4,,40,,6,,20,,
+1,Cercado,1,Trinidad,2526,Trinidad,25030,U.E. 15 de Agosto,8001417,2,35,8,56,13,3,,38,,6,,10,,
+1,Cercado,1,Trinidad,2526,Trinidad,25030,U.E. 15 de Agosto,8001427,3,34,4,65,13,6,,28,,10,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,25030,U.E. 15 de Agosto,8001437,4,36,10,48,15,3,,45,,5,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,25030,U.E. 15 de Agosto,8001447,5,31,8,49,13,2,,42,,6,,23,,
+1,Cercado,1,Trinidad,2526,Trinidad,25030,U.E. 15 de Agosto,8001457,6,24,11,51,23,6,,37,,5,,26,,
+1,Cercado,1,Trinidad,2526,Trinidad,25030,U.E. 15 de Agosto,8001467,7,35,9,67,18,4,,31,,5,,18,,
+1,Cercado,1,Trinidad,2526,Trinidad,25030,U.E. 15 de Agosto,8001477,8,34,5,68,24,2,,35,,2,,18,,
+1,Cercado,1,Trinidad,2526,Trinidad,25030,U.E. 15 de Agosto,8001487,9,29,10,58,13,2,,40,,4,,19,,
+1,Cercado,1,Trinidad,2526,Trinidad,25030,U.E. 15 de Agosto,8001497,10,25,7,54,22,7,,37,,6,,21,,
+1,Cercado,1,Trinidad,2526,Trinidad,25030,U.E. 15 de Agosto,8001507,11,19,6,20,18,2,,20,,2,,10,,
+1,Cercado,1,Trinidad,2526,Trinidad,25031,U.E. Luis Espinal Cams,8001227,1,36,14,45,28,2,,33,,3,,10,,
+1,Cercado,1,Trinidad,2526,Trinidad,25031,U.E. Luis Espinal Cams,8001237,2,25,10,42,15,5,,55,,2,,17,,
+1,Cercado,1,Trinidad,2526,Trinidad,25031,U.E. Luis Espinal Cams,8001247,3,26,12,42,19,1,,36,,6,,25,,
+1,Cercado,1,Trinidad,2526,Trinidad,25031,U.E. Luis Espinal Cams,8001257,4,23,7,55,13,5,,50,,6,,21,,
+1,Cercado,1,Trinidad,2526,Trinidad,25031,U.E. Luis Espinal Cams,8001267,5,24,13,45,23,6,,46,,4,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,25031,U.E. Luis Espinal Cams,8001277,6,28,11,46,15,6,,49,,6,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,25031,U.E. Luis Espinal Cams,8001287,7,28,7,57,12,0,,37,,6,,17,,
+1,Cercado,1,Trinidad,2526,Trinidad,25031,U.E. Luis Espinal Cams,8001297,8,38,5,38,15,4,,38,,4,,19,,
+1,Cercado,1,Trinidad,2526,Trinidad,25031,U.E. Luis Espinal Cams,8001307,9,28,5,50,22,2,,39,,5,,19,,
+1,Cercado,1,Trinidad,2526,Trinidad,25032,U.E. Gonzalo Suarez D.,8000857,1,27,6,52,15,8,,41,,4,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,25032,U.E. Gonzalo Suarez D.,8000867,2,16,13,56,26,5,,40,,2,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,25032,U.E. Gonzalo Suarez D.,8000877,3,25,5,58,13,2,,49,,2,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,25032,U.E. Gonzalo Suarez D.,8000887,4,30,15,48,19,2,,44,,2,,9,,
+1,Cercado,1,Trinidad,2526,Trinidad,25032,U.E. Gonzalo Suarez D.,8000897,5,4,0,10,2,0,,4,,1,,3,,
+1,Cercado,1,Trinidad,2526,Trinidad,25033,U.E. Los Cedros,8003577,1,36,5,77,12,4,,20,,1,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,25033,U.E. Los Cedros,8003587,2,48,4,83,10,3,,21,,1,,8,,
+1,Cercado,1,Trinidad,2526,Trinidad,25033,U.E. Los Cedros,8003597,3,36,4,91,16,7,,22,,1,,11,,
+1,Cercado,1,Trinidad,2526,Trinidad,25033,U.E. Los Cedros,8003607,4,52,1,67,14,1,,22,,3,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,25033,U.E. Los Cedros,8003617,5,43,7,80,18,4,,10,,3,,11,,
+1,Cercado,1,Trinidad,2526,Trinidad,25033,U.E. Los Cedros,8003627,6,41,3,90,15,0,,15,,1,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,25033,U.E. Los Cedros,8003637,7,9,2,13,6,0,,3,,0,,2,,
+1,Cercado,1,Trinidad,2526,Trinidad,26180,U.E. La Palmera,8003647,1,28,5,85,27,10,,29,,2,,19,,
+1,Cercado,1,Trinidad,2526,Trinidad,26180,U.E. La Palmera,8003657,2,28,2,88,31,5,,30,,5,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,26180,U.E. La Palmera,8003667,3,27,8,91,22,5,,34,,2,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,26180,U.E. La Palmera,8003677,4,25,4,88,28,10,,25,,4,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,26180,U.E. La Palmera,8003687,5,7,1,30,2,1,,5,,0,,1,,
+1,Cercado,1,Trinidad,2526,Trinidad,32003,U.A.B. Medicina,8002407,1,24,6,98,16,7,,29,,1,,9,,
+1,Cercado,1,Trinidad,2526,Trinidad,32003,U.A.B. Medicina,8002417,2,32,5,68,14,7,,30,,4,,11,,
+1,Cercado,1,Trinidad,2526,Trinidad,32003,U.A.B. Medicina,8002427,3,36,3,98,15,5,,22,,1,,11,,
+1,Cercado,1,Trinidad,2526,Trinidad,32003,U.A.B. Medicina,8002437,4,30,1,93,13,5,,28,,5,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,32003,U.A.B. Medicina,8002447,5,19,6,98,18,3,,25,,3,,19,,
+1,Cercado,1,Trinidad,2526,Trinidad,32003,U.A.B. Medicina,8002457,6,6,0,9,2,0,,3,,0,,3,,
+1,Cercado,1,Trinidad,2526,Trinidad,32005,Palacio de los Deportes Trinidad,8000287,1,27,11,68,14,3,,30,,5,,19,,
+1,Cercado,1,Trinidad,2526,Trinidad,32005,Palacio de los Deportes Trinidad,8000297,2,39,13,61,24,4,,26,,1,,23,,
+1,Cercado,1,Trinidad,2526,Trinidad,32005,Palacio de los Deportes Trinidad,8000307,3,25,14,61,25,8,,32,,3,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,32005,Palacio de los Deportes Trinidad,8000317,4,28,16,56,19,4,,32,,3,,10,,
+1,Cercado,1,Trinidad,2526,Trinidad,32007,U.E. Kinder República Argentina,8000327,1,35,12,71,21,4,,23,,2,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,32007,U.E. Kinder República Argentina,8000337,2,42,6,67,14,1,,31,,1,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,32007,U.E. Kinder República Argentina,8000347,3,27,7,58,10,2,,17,,0,,8,,
+1,Cercado,1,Trinidad,2526,Trinidad,32008,U.E. Metodista Instituto Americano Trinidad,8000357,1,31,7,88,12,5,,16,,1,,21,,
+1,Cercado,1,Trinidad,2526,Trinidad,32008,U.E. Metodista Instituto Americano Trinidad,8000367,2,45,3,76,13,4,,35,,1,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,32008,U.E. Metodista Instituto Americano Trinidad,8000377,3,46,2,81,14,7,,21,,1,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,32008,U.E. Metodista Instituto Americano Trinidad,8000387,4,20,4,78,9,4,,15,,1,,11,,
+1,Cercado,1,Trinidad,2526,Trinidad,32009,U.E. Andrés Bello,8002497,1,35,2,81,14,4,,28,,3,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,32009,U.E. Andrés Bello,8002507,2,51,6,74,13,3,,16,,4,,27,,
+1,Cercado,1,Trinidad,2526,Trinidad,32009,U.E. Andrés Bello,8002517,3,10,1,28,3,1,,8,,0,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,32010,U.E. Christa Mc Auliffe,8001837,1,35,5,70,12,1,,31,,5,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,32010,U.E. Christa Mc Auliffe,8001847,2,31,2,74,22,6,,36,,2,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,32010,U.E. Christa Mc Auliffe,8001857,3,38,5,71,18,2,,28,,2,,21,,
+1,Cercado,1,Trinidad,2526,Trinidad,32010,U.E. Christa Mc Auliffe,8001867,4,45,9,68,17,2,,27,,3,,20,,
+1,Cercado,1,Trinidad,2526,Trinidad,32010,U.E. Christa Mc Auliffe,8001877,5,33,11,59,14,3,,23,,3,,21,,
+1,Cercado,1,Trinidad,2526,Trinidad,32011,U.E. Evangélico Cuatro,8002627,1,34,2,104,6,6,,19,,3,,9,,
+1,Cercado,1,Trinidad,2526,Trinidad,32011,U.E. Evangélico Cuatro,8002637,2,27,8,101,9,5,,21,,2,,10,,
+1,Cercado,1,Trinidad,2526,Trinidad,32011,U.E. Evangélico Cuatro,8002647,3,37,5,93,12,6,,18,,4,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,32011,U.E. Evangélico Cuatro,8002657,4,8,1,35,1,6,,9,,1,,5,,
+1,Cercado,1,Trinidad,2526,Trinidad,32012,U.E.Inmaculada,8002837,1,27,17,75,18,3,,29,,3,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,32012,U.E.Inmaculada,8002847,2,26,11,68,15,9,,34,,5,,24,,
+1,Cercado,1,Trinidad,2526,Trinidad,32012,U.E.Inmaculada,8002857,3,27,11,89,18,2,,31,,2,,7,,
+1,Cercado,1,Trinidad,2526,Trinidad,32012,U.E.Inmaculada,8002867,4,23,13,76,13,4,,42,,4,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,32012,U.E.Inmaculada,8002877,5,30,8,60,17,1,,44,,7,,17,,
+1,Cercado,1,Trinidad,2526,Trinidad,32012,U.E.Inmaculada,8002887,6,24,9,60,17,3,,37,,2,,18,,
+1,Cercado,1,Trinidad,2526,Trinidad,32012,U.E.Inmaculada,8002897,7,40,8,63,12,5,,34,,3,,25,,
+1,Cercado,1,Trinidad,2526,Trinidad,32012,U.E.Inmaculada,8002907,8,26,10,66,12,3,,37,,4,,18,,
+1,Cercado,1,Trinidad,2526,Trinidad,32012,U.E.Inmaculada,8002917,9,37,11,62,13,5,,43,,2,,19,,
+1,Cercado,1,Trinidad,2526,Trinidad,32012,U.E.Inmaculada,8002927,10,34,18,57,16,7,,38,,2,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,32012,U.E.Inmaculada,8002937,11,8,3,18,6,1,,11,,1,,6,,
+1,Cercado,1,Trinidad,2526,Trinidad,32013,E. S. F. M. Clara Parada de Pinto,8003217,1,27,19,80,7,1,,32,,3,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,32013,E. S. F. M. Clara Parada de Pinto,8003227,2,28,19,81,14,4,,29,,0,,8,,
+1,Cercado,1,Trinidad,2526,Trinidad,32013,E. S. F. M. Clara Parada de Pinto,8003237,3,34,8,85,12,5,,30,,4,,5,,
+1,Cercado,1,Trinidad,2526,Trinidad,32013,E. S. F. M. Clara Parada de Pinto,8003247,4,39,9,60,21,7,,27,,3,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,32013,E. S. F. M. Clara Parada de Pinto,8003257,5,26,4,78,14,6,,39,,4,,10,,
+1,Cercado,1,Trinidad,2526,Trinidad,32013,E. S. F. M. Clara Parada de Pinto,8003267,6,26,9,92,19,1,,29,,0,,18,,
+1,Cercado,1,Trinidad,2526,Trinidad,32013,E. S. F. M. Clara Parada de Pinto,8003277,7,27,10,100,15,4,,25,,5,,5,,
+1,Cercado,1,Trinidad,2526,Trinidad,32013,E. S. F. M. Clara Parada de Pinto,8003287,8,21,9,72,22,7,,36,,1,,11,,
+1,Cercado,1,Trinidad,2526,Trinidad,32014,U.E. Jesús Rioja Aponte,8002947,1,25,14,61,19,6,,47,,2,,17,,
+1,Cercado,1,Trinidad,2526,Trinidad,32014,U.E. Jesús Rioja Aponte,8002957,2,18,20,58,27,3,,52,,4,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,32014,U.E. Jesús Rioja Aponte,8002967,3,31,12,62,16,5,,44,,6,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,32014,U.E. Jesús Rioja Aponte,8002977,4,30,12,59,23,4,,44,,1,,25,,
+1,Cercado,1,Trinidad,2526,Trinidad,32014,U.E. Jesús Rioja Aponte,8002987,5,28,5,60,16,6,,37,,9,,18,,
+1,Cercado,1,Trinidad,2526,Trinidad,32014,U.E. Jesús Rioja Aponte,8002997,6,32,8,72,18,5,,45,,2,,9,,
+1,Cercado,1,Trinidad,2526,Trinidad,32014,U.E. Jesús Rioja Aponte,8003007,7,29,18,69,8,6,,36,,1,,9,,
+1,Cercado,1,Trinidad,2526,Trinidad,32014,U.E. Jesús Rioja Aponte,8003017,8,37,7,64,6,11,,41,,4,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,32014,U.E. Jesús Rioja Aponte,8003027,9,27,13,68,10,3,,36,,6,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,32014,U.E. Jesús Rioja Aponte,8003037,10,27,9,77,16,7,,34,,7,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,32014,U.E. Jesús Rioja Aponte,8003047,11,26,9,71,21,6,,36,,1,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,32014,U.E. Jesús Rioja Aponte,8003057,12,9,1,9,3,2,,10,,2,,7,,
+1,Cercado,1,Trinidad,2526,Trinidad,32147,U.E.Villa Magdalena,8003847,1,23,6,88,14,2,,39,,2,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,32147,U.E.Villa Magdalena,8003857,2,26,7,68,18,6,,52,,2,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,32147,U.E.Villa Magdalena,8003867,3,37,10,72,20,1,,29,,0,,23,,
+1,Cercado,1,Trinidad,2526,Trinidad,32147,U.E.Villa Magdalena,8003877,4,19,11,78,38,4,,44,,5,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,32147,U.E.Villa Magdalena,8003887,5,28,8,82,10,5,,39,,1,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,32147,U.E.Villa Magdalena,8003897,6,12,2,27,7,0,,9,,1,,8,,
+1,Cercado,1,Trinidad,2526,Trinidad,32148,U.E.Villa Marin,8001517,1,24,10,70,13,1,,35,,4,,8,,
+1,Cercado,1,Trinidad,2526,Trinidad,32148,U.E.Villa Marin,8001527,2,32,16,43,19,6,,33,,1,,20,,
+1,Cercado,1,Trinidad,2526,Trinidad,32148,U.E.Villa Marin,8001537,3,28,7,67,16,4,,43,,8,,13,,
+1,Cercado,1,Trinidad,2526,Trinidad,32148,U.E.Villa Marin,8001547,4,30,6,61,13,4,,37,,9,,10,,
+1,Cercado,1,Trinidad,2526,Trinidad,32148,U.E.Villa Marin,8001557,5,25,14,59,18,7,,32,,1,,5,,
+1,Cercado,1,Trinidad,2526,Trinidad,32148,U.E.Villa Marin,8001567,6,28,8,52,17,1,,39,,6,,15,,
+1,Cercado,1,Trinidad,2526,Trinidad,32148,U.E.Villa Marin,8001577,7,26,9,45,10,2,,28,,4,,10,,
+1,Cercado,1,Trinidad,2526,Trinidad,32150,U.E. Nacional 6 de Agosto,8003907,1,32,3,77,15,6,,31,,5,,26,,
+1,Cercado,1,Trinidad,2526,Trinidad,32150,U.E. Nacional 6 de Agosto,8003917,2,35,3,107,10,5,,25,,2,,11,,
+1,Cercado,1,Trinidad,2526,Trinidad,32150,U.E. Nacional 6 de Agosto,8003927,3,38,4,78,14,5,,38,,3,,14,,
+1,Cercado,1,Trinidad,2526,Trinidad,32150,U.E. Nacional 6 de Agosto,8003937,4,30,2,97,17,3,,20,,1,,12,,
+1,Cercado,1,Trinidad,2526,Trinidad,32150,U.E. Nacional 6 de Agosto,8003947,5,37,3,79,13,3,,29,,3,,16,,
+1,Cercado,1,Trinidad,2526,Trinidad,32150,U.E. Nacional 6 de Agosto,8003957,6,15,1,77,7,3,,16,,1,,9,,
+1,Cercado,1,Trinidad,2526,Trinidad,32370,U.E. Hernán Melgar Justiniano,8001097,1,30,14,55,22,9,,34,,5,,16,,
+1,Cercado,1,Trinidad,2527,Loma Suárez,1,Esc. Loma Suarez,8000017,1,18,2,65,3,1,,15,,3,,14,,
+1,Cercado,1,Trinidad,2527,Loma Suárez,1,Esc. Loma Suarez,8000027,2,10,1,77,7,2,,22,,4,,19,,
+1,Cercado,1,Trinidad,2527,Loma Suárez,1,Esc. Loma Suarez,8000037,3,9,5,70,4,1,,23,,5,,19,,
+1,Cercado,1,Trinidad,2527,Loma Suárez,1,Esc. Loma Suarez,8000047,4,8,1,39,1,0,,10,,3,,7,,
+1,Cercado,1,Trinidad,2528,Puerto Ballivián,1,Esc. Puerto Ballivian,8000057,1,46,3,53,7,4,,12,,3,,9,,
+1,Cercado,1,Trinidad,2529,Puerto Almacén,1,Esc. Mayor Pedro Vaca Diez,8000067,1,10,6,65,27,4,,22,,6,,28,,
+1,Cercado,1,Trinidad,2529,Puerto Almacén,1,Esc. Mayor Pedro Vaca Diez,8000077,2,22,6,41,24,1,,27,,3,,26,,
+1,Cercado,1,Trinidad,2534,San Juan de Aguas Dulces,1,Esc. San Juan De Aguas Dulces,8000087,1,9,0,77,0,0,,0,,4,,13,,
+1,Cercado,1,Trinidad,3069,Casarabe,1,Escuela Casarabe,8000097,1,52,3,41,5,5,,20,,3,,37,,
+1,Cercado,1,Trinidad,3069,Casarabe,1,Escuela Casarabe,8000107,2,46,1,50,10,1,,20,,7,,27,,
+1,Cercado,1,Trinidad,3069,Casarabe,1,Escuela Casarabe,8000117,3,52,1,56,4,2,,16,,3,,34,,
+1,Cercado,1,Trinidad,3070,Ibiato,1,Escuela Iviato,8000127,1,38,0,60,13,4,,33,,2,,20,,
+1,Cercado,1,Trinidad,3070,Ibiato,1,Escuela Iviato,8000137,2,24,0,25,3,0,,9,,1,,19,,
+1,Cercado,1,Trinidad,3125,Puerto Barador,1,Esc. Puerto Varador,8000147,1,36,8,54,15,4,,16,,7,,23,,
+1,Cercado,1,Trinidad,3125,Puerto Barador,1,Esc. Puerto Varador,8000157,2,48,4,44,22,4,,6,,2,,21,,
+1,Cercado,1,Trinidad,3125,Puerto Barador,1,Esc. Puerto Varador,8000167,3,43,10,39,21,6,,10,,7,,21,,
+1,Cercado,1,Trinidad,3125,Puerto Barador,1,Esc. Puerto Varador,8000177,4,20,2,17,9,2,,10,,4,,7,,
+1,Cercado,2,San Javier,2530,San Javier,2,Escuela San Javier,8004017,1,,53,83,13,,,5,,5,,12,,
+1,Cercado,2,San Javier,2530,San Javier,2,Escuela San Javier,8004027,2,,63,80,22,,,6,,6,,10,,
+1,Cercado,2,San Javier,2530,San Javier,2,Escuela San Javier,8004037,3,,72,94,10,,,5,,2,,15,,
+1,Cercado,2,San Javier,2532,Espíritu Santo,2,Escuela Espiritu Santo,8004047,1,,3,15,4,,,0,,10,,2,,
+1,Cercado,2,San Javier,2535,San Pedro,2,Escuela San Pedro,8004057,1,,3,118,33,,,16,,8,,7,,
+1,Cercado,2,San Javier,2535,San Pedro,2,Escuela San Pedro,8004067,2,,8,109,40,,,12,,8,,8,,
+1,Cercado,2,San Javier,2539,Nueva Israel,2,Escuela Nueva Israel,8004077,1,,3,114,31,,,15,,4,,14,,
+1,Cercado,2,San Javier,2539,Nueva Israel,2,Escuela Nueva Israel,8004087,2,,7,81,51,,,13,,1,,21,,
+1,Cercado,2,San Javier,2539,Nueva Israel,2,Escuela Nueva Israel,8004097,3,,2,91,34,,,24,,9,,13,,
+1,Cercado,2,San Javier,2539,Nueva Israel,2,Escuela Nueva Israel,8004107,4,,3,60,42,,,24,,11,,6,,
+1,Cercado,2,San Javier,3126,Laguna Colorada,2,Escuela Laguna Colorada,8004117,1,,10,38,13,,,7,,4,,2,,
+1,Cercado,2,San Javier,3340,Pedro Ignacio Muiba,1,Escuela Pedro Ignacio Muiba,8003967,1,,1,109,42,,,3,,1,,0,,
+1,Cercado,2,San Javier,3340,Pedro Ignacio Muiba,1,Escuela Pedro Ignacio Muiba,8003977,2,,2,85,29,,,2,,0,,0,,
+1,Cercado,2,San Javier,3867,La Curva,1,U.E. La Curva,8003987,1,,0,64,6,,,2,,3,,16,,
+1,Cercado,2,San Javier,3867,La Curva,1,U.E. La Curva,8003997,2,,0,80,4,,,3,,3,,9,,
+1,Cercado,2,San Javier,3867,La Curva,1,U.E. La Curva,8004007,3,,0,6,1,,,0,,0,,0,,
+1,Cercado,2,San Javier,4172,Villa Rodeo,25567,U.E. Villa Rodeo,8004127,1,,4,23,25,,,4,,13,,2,,
+2,Vaca Diez,1,Riberalta,2540,Riberalta,1,U.E. San Jose Obrero,8004427,1,12,3,31,,0,0,8,13,3,,14,24,56
+2,Vaca Diez,1,Riberalta,2540,Riberalta,1,U.E. San Jose Obrero,8004437,2,13,2,32,,0,0,4,15,1,,18,21,49
+2,Vaca Diez,1,Riberalta,2540,Riberalta,1,U.E. San Jose Obrero,8004447,3,7,2,21,,3,0,11,14,2,,15,25,53
+2,Vaca Diez,1,Riberalta,2540,Riberalta,1,U.E. San Jose Obrero,8004457,4,9,1,34,,3,0,0,15,2,,17,26,60
+2,Vaca Diez,1,Riberalta,2540,Riberalta,1,U.E. San Jose Obrero,8004467,5,10,0,37,,2,0,3,16,1,,14,17,63
+2,Vaca Diez,1,Riberalta,2540,Riberalta,1,U.E. San Jose Obrero,8004477,6,9,3,30,,0,0,4,17,1,,15,22,49
+2,Vaca Diez,1,Riberalta,2540,Riberalta,1,U.E. San Jose Obrero,8004487,7,11,0,22,,2,0,6,15,3,,18,21,56
+2,Vaca Diez,1,Riberalta,2540,Riberalta,1,U.E. San Jose Obrero,8004497,8,8,0,25,,2,0,5,12,7,,24,22,55
+2,Vaca Diez,1,Riberalta,2540,Riberalta,1,U.E. San Jose Obrero,8004507,9,18,3,30,,1,0,3,12,3,,16,19,56
+2,Vaca Diez,1,Riberalta,2540,Riberalta,1,U.E. San Jose Obrero,8004517,10,10,2,37,,3,0,7,10,2,,17,28,62
+2,Vaca Diez,1,Riberalta,2540,Riberalta,1,U.E. San Jose Obrero,8004527,11,18,2,31,,3,0,8,13,3,,9,23,44
+2,Vaca Diez,1,Riberalta,2540,Riberalta,1,U.E. San Jose Obrero,8004537,12,8,0,27,,2,0,1,18,3,,11,21,57
+2,Vaca Diez,1,Riberalta,2540,Riberalta,1,U.E. San Jose Obrero,8004547,13,1,0,1,,0,0,2,0,0,,3,2,5
+2,Vaca Diez,1,Riberalta,2540,Riberalta,3,U.E. Felix Sattory Roman,8005187,1,14,2,45,,2,0,1,25,2,,13,19,60
+2,Vaca Diez,1,Riberalta,2540,Riberalta,3,U.E. Felix Sattory Roman,8005197,2,9,3,37,,0,0,4,11,5,,14,26,70
+2,Vaca Diez,1,Riberalta,2540,Riberalta,3,U.E. Felix Sattory Roman,8005207,3,20,5,25,,3,0,4,13,2,,26,42,53
+2,Vaca Diez,1,Riberalta,2540,Riberalta,3,U.E. Felix Sattory Roman,8005217,4,12,3,32,,0,0,3,20,3,,18,31,54
+2,Vaca Diez,1,Riberalta,2540,Riberalta,3,U.E. Felix Sattory Roman,8005227,5,11,3,43,,0,0,0,27,2,,12,23,66
+2,Vaca Diez,1,Riberalta,2540,Riberalta,3,U.E. Felix Sattory Roman,8005237,6,12,1,35,,3,0,4,27,2,,12,39,57
+2,Vaca Diez,1,Riberalta,2540,Riberalta,3,U.E. Felix Sattory Roman,8005247,7,7,1,36,,1,0,1,21,5,,19,25,62
+2,Vaca Diez,1,Riberalta,2540,Riberalta,3,U.E. Felix Sattory Roman,8005257,8,5,1,25,,3,0,4,14,7,,13,20,70
+2,Vaca Diez,1,Riberalta,2540,Riberalta,3,U.E. Felix Sattory Roman,8005267,9,10,4,42,,1,0,2,14,4,,18,21,72
+2,Vaca Diez,1,Riberalta,2540,Riberalta,3,U.E. Felix Sattory Roman,8005277,10,19,1,38,,1,0,4,20,2,,22,19,53
+2,Vaca Diez,1,Riberalta,2540,Riberalta,3,U.E. Felix Sattory Roman,8005287,11,10,2,28,,1,0,2,17,5,,13,21,47
+2,Vaca Diez,1,Riberalta,2540,Riberalta,4,Politecnico Benjamin Bowles,8006097,1,13,2,21,,8,0,8,16,3,,15,26,68
+2,Vaca Diez,1,Riberalta,2540,Riberalta,4,Politecnico Benjamin Bowles,8006107,2,13,4,29,,0,0,5,14,6,,19,22,71
+2,Vaca Diez,1,Riberalta,2540,Riberalta,4,Politecnico Benjamin Bowles,8006117,3,17,8,34,,2,0,4,17,1,,12,22,42
+2,Vaca Diez,1,Riberalta,2540,Riberalta,4,Politecnico Benjamin Bowles,8006127,4,12,2,40,,1,0,5,11,6,,21,22,37
+2,Vaca Diez,1,Riberalta,2540,Riberalta,4,Politecnico Benjamin Bowles,8006137,5,10,2,31,,6,0,1,11,0,,19,22,64
+2,Vaca Diez,1,Riberalta,2540,Riberalta,4,Politecnico Benjamin Bowles,8006147,6,14,5,27,,5,0,3,12,2,,25,25,52
+2,Vaca Diez,1,Riberalta,2540,Riberalta,4,Politecnico Benjamin Bowles,8006157,7,14,2,34,,11,0,4,14,3,,22,12,52
+2,Vaca Diez,1,Riberalta,2540,Riberalta,4,Politecnico Benjamin Bowles,8006167,8,23,3,27,,6,0,8,19,4,,17,23,51
+2,Vaca Diez,1,Riberalta,2540,Riberalta,4,Politecnico Benjamin Bowles,8006177,9,13,3,27,,4,0,5,14,3,,19,17,66
+2,Vaca Diez,1,Riberalta,2540,Riberalta,4,Politecnico Benjamin Bowles,8006187,10,19,2,26,,3,0,1,17,3,,31,15,61
+2,Vaca Diez,1,Riberalta,2540,Riberalta,4,Politecnico Benjamin Bowles,8006197,11,16,5,27,,1,0,3,25,3,,6,17,62
+2,Vaca Diez,1,Riberalta,2540,Riberalta,4,Politecnico Benjamin Bowles,8006207,12,11,0,11,,0,0,3,8,1,,14,12,23
+2,Vaca Diez,1,Riberalta,2540,Riberalta,6,U.E. Juana Azurduy De Padilla,8004557,1,18,1,42,,2,0,3,22,2,,10,31,30
+2,Vaca Diez,1,Riberalta,2540,Riberalta,6,U.E. Juana Azurduy De Padilla,8004567,2,12,4,40,,2,0,2,18,2,,13,32,30
+2,Vaca Diez,1,Riberalta,2540,Riberalta,6,U.E. Juana Azurduy De Padilla,8004577,3,10,1,46,,0,0,6,16,2,,21,20,49
+2,Vaca Diez,1,Riberalta,2540,Riberalta,6,U.E. Juana Azurduy De Padilla,8004587,4,13,2,62,,1,0,1,19,2,,15,30,38
+2,Vaca Diez,1,Riberalta,2540,Riberalta,6,U.E. Juana Azurduy De Padilla,8004597,5,1,1,5,,0,0,1,7,1,,2,4,2
+2,Vaca Diez,1,Riberalta,2540,Riberalta,8,U.E. 6 de Junio,8004827,1,11,1,34,,2,0,0,21,4,,17,22,56
+2,Vaca Diez,1,Riberalta,2540,Riberalta,8,U.E. 6 de Junio,8004837,2,7,3,41,,1,0,5,12,2,,10,37,37
+2,Vaca Diez,1,Riberalta,2540,Riberalta,8,U.E. 6 de Junio,8004847,3,10,0,32,,3,0,6,9,2,,17,30,67
+2,Vaca Diez,1,Riberalta,2540,Riberalta,8,U.E. 6 de Junio,8004857,4,8,0,40,,0,0,2,23,2,,18,26,39
+2,Vaca Diez,1,Riberalta,2540,Riberalta,8,U.E. 6 de Junio,8004867,5,10,2,33,,0,0,0,20,2,,11,26,55
+2,Vaca Diez,1,Riberalta,2540,Riberalta,8,U.E. 6 de Junio,8004877,6,15,1,41,,0,0,2,15,3,,20,25,43
+2,Vaca Diez,1,Riberalta,2540,Riberalta,8,U.E. 6 de Junio,8004887,7,13,0,42,,1,0,3,9,0,,13,36,46
+2,Vaca Diez,1,Riberalta,2540,Riberalta,8,U.E. 6 de Junio,8004897,8,1,1,8,,0,0,0,2,0,,0,3,4
+2,Vaca Diez,1,Riberalta,2540,Riberalta,9,U.E. Nacional Pedro Kramer,8004607,1,14,0,41,,1,0,3,13,4,,20,23,47
+2,Vaca Diez,1,Riberalta,2540,Riberalta,9,U.E. Nacional Pedro Kramer,8004617,2,21,0,43,,0,0,2,14,2,,11,26,49
+2,Vaca Diez,1,Riberalta,2540,Riberalta,9,U.E. Nacional Pedro Kramer,8004627,3,15,1,51,,2,0,4,24,4,,20,19,44
+2,Vaca Diez,1,Riberalta,2540,Riberalta,9,U.E. Nacional Pedro Kramer,8004637,4,10,3,57,,2,0,3,12,1,,22,32,32
+2,Vaca Diez,1,Riberalta,2540,Riberalta,9,U.E. Nacional Pedro Kramer,8004647,5,20,0,66,,0,0,4,9,3,,7,28,56
+2,Vaca Diez,1,Riberalta,2540,Riberalta,9,U.E. Nacional Pedro Kramer,8004657,6,7,1,31,,0,0,1,6,4,,15,13,26
+2,Vaca Diez,1,Riberalta,2540,Riberalta,10,U.E.Jhon Fitzgerald Kennedy,8004667,1,12,1,37,,0,0,1,18,4,,21,28,60
+2,Vaca Diez,1,Riberalta,2540,Riberalta,10,U.E.Jhon Fitzgerald Kennedy,8004677,2,14,1,50,,0,0,5,16,5,,26,31,53
+2,Vaca Diez,1,Riberalta,2540,Riberalta,10,U.E.Jhon Fitzgerald Kennedy,8004687,3,22,1,0,,1,0,0,23,3,,15,23,70
+2,Vaca Diez,1,Riberalta,2540,Riberalta,10,U.E.Jhon Fitzgerald Kennedy,8004697,4,8,2,42,,3,0,2,18,7,,14,31,53
+2,Vaca Diez,1,Riberalta,2540,Riberalta,10,U.E.Jhon Fitzgerald Kennedy,8004707,5,19,4,39,,0,0,1,17,4,,22,39,58
+2,Vaca Diez,1,Riberalta,2540,Riberalta,10,U.E.Jhon Fitzgerald Kennedy,8004717,6,23,1,45,,0,0,4,14,3,,20,29,54
+2,Vaca Diez,1,Riberalta,2540,Riberalta,10,U.E.Jhon Fitzgerald Kennedy,8004727,7,7,0,0,,1,0,0,6,2,,8,9,27
+2,Vaca Diez,1,Riberalta,2540,Riberalta,11,U.E.  Británica,8006217,1,14,3,42,,1,0,2,13,2,,16,17,63
+2,Vaca Diez,1,Riberalta,2540,Riberalta,11,U.E.  Británica,8006227,2,15,4,26,,1,0,7,22,1,,10,24,67
+2,Vaca Diez,1,Riberalta,2540,Riberalta,11,U.E.  Británica,8006237,3,12,9,24,,3,0,7,12,5,,7,19,75
+2,Vaca Diez,1,Riberalta,2540,Riberalta,11,U.E.  Británica,8006247,4,6,3,42,,3,0,12,19,1,,16,15,61
+2,Vaca Diez,1,Riberalta,2540,Riberalta,11,U.E.  Británica,8006257,5,12,5,27,,1,0,5,18,1,,26,11,70
+2,Vaca Diez,1,Riberalta,2540,Riberalta,11,U.E.  Británica,8006267,6,11,4,30,,3,0,11,12,0,,16,25,53
+2,Vaca Diez,1,Riberalta,2540,Riberalta,11,U.E.  Británica,8006277,7,10,4,33,,6,0,5,15,4,,21,16,66
+2,Vaca Diez,1,Riberalta,2540,Riberalta,11,U.E.  Británica,8006287,8,10,10,29,,1,0,8,15,4,,14,18,50
+2,Vaca Diez,1,Riberalta,2540,Riberalta,11,U.E.  Británica,8006297,9,7,7,21,,3,0,2,15,2,,15,30,58
+2,Vaca Diez,1,Riberalta,2540,Riberalta,11,U.E.  Británica,8006307,10,6,9,41,,1,0,10,11,2,,17,18,44
+2,Vaca Diez,1,Riberalta,2540,Riberalta,11,U.E.  Británica,8006317,11,9,12,38,,1,0,2,12,3,,14,22,48
+2,Vaca Diez,1,Riberalta,2540,Riberalta,11,U.E.  Británica,8006327,12,9,1,19,,3,0,6,18,3,,8,12,43
+2,Vaca Diez,1,Riberalta,2540,Riberalta,12,U.E. Petrolera,8005617,1,12,6,25,,2,0,6,25,6,,27,25,44
+2,Vaca Diez,1,Riberalta,2540,Riberalta,12,U.E. Petrolera,8005627,2,12,3,28,,6,0,7,27,3,,20,25,46
+2,Vaca Diez,1,Riberalta,2540,Riberalta,12,U.E. Petrolera,8005637,3,15,1,27,,1,0,5,22,4,,20,38,42
+2,Vaca Diez,1,Riberalta,2540,Riberalta,12,U.E. Petrolera,8005647,4,10,3,36,,2,0,6,10,5,,22,27,61
+2,Vaca Diez,1,Riberalta,2540,Riberalta,12,U.E. Petrolera,8005657,5,9,3,36,,3,0,2,18,5,,25,36,41
+2,Vaca Diez,1,Riberalta,2540,Riberalta,12,U.E. Petrolera,8005667,6,8,4,25,,3,0,7,20,4,,15,25,60
+2,Vaca Diez,1,Riberalta,2540,Riberalta,12,U.E. Petrolera,8005677,7,16,2,18,,3,0,2,15,1,,21,23,65
+2,Vaca Diez,1,Riberalta,2540,Riberalta,12,U.E. Petrolera,8005687,8,14,4,25,,3,0,8,13,3,,23,18,60
+2,Vaca Diez,1,Riberalta,2540,Riberalta,12,U.E. Petrolera,8005697,9,14,3,30,,4,0,5,19,2,,18,19,60
+2,Vaca Diez,1,Riberalta,2540,Riberalta,12,U.E. Petrolera,8005707,10,11,1,25,,5,0,1,21,3,,22,35,44
+2,Vaca Diez,1,Riberalta,2540,Riberalta,12,U.E. Petrolera,8005717,11,11,2,27,,4,0,8,23,3,,14,28,60
+2,Vaca Diez,1,Riberalta,2540,Riberalta,12,U.E. Petrolera,8005727,12,15,7,26,,4,0,6,12,5,,22,31,59
+2,Vaca Diez,1,Riberalta,2540,Riberalta,12,U.E. Petrolera,8005737,13,12,2,32,,3,0,5,25,4,,14,35,54
+2,Vaca Diez,1,Riberalta,2540,Riberalta,12,U.E. Petrolera,8005747,14,12,2,22,,3,0,4,19,3,,19,29,54
+2,Vaca Diez,1,Riberalta,2540,Riberalta,12,U.E. Petrolera,8005757,15,12,1,24,,2,0,3,27,4,,17,24,47
+2,Vaca Diez,1,Riberalta,2540,Riberalta,12,U.E. Petrolera,8005767,16,12,2,12,,2,0,22,20,1,,16,20,48
+2,Vaca Diez,1,Riberalta,2540,Riberalta,13,U.E.  Eduardo Abaroa,8005297,1,14,2,28,,3,0,6,26,3,,20,22,57
+2,Vaca Diez,1,Riberalta,2540,Riberalta,13,U.E.  Eduardo Abaroa,8005307,2,23,3,34,,0,0,2,28,6,,16,18,50
+2,Vaca Diez,1,Riberalta,2540,Riberalta,13,U.E.  Eduardo Abaroa,8005317,3,8,3,21,,3,0,6,17,6,,27,20,54
+2,Vaca Diez,1,Riberalta,2540,Riberalta,13,U.E.  Eduardo Abaroa,8005327,4,10,6,31,,2,0,6,18,2,,15,29,62
+2,Vaca Diez,1,Riberalta,2540,Riberalta,13,U.E.  Eduardo Abaroa,8005337,5,8,5,34,,3,0,1,18,1,,28,14,67
+2,Vaca Diez,1,Riberalta,2540,Riberalta,13,U.E.  Eduardo Abaroa,8005347,6,13,1,6,,0,0,27,27,2,,18,23,63
+2,Vaca Diez,1,Riberalta,2540,Riberalta,13,U.E.  Eduardo Abaroa,8005357,7,10,5,32,,2,0,1,14,1,,16,12,40
+2,Vaca Diez,1,Riberalta,2540,Riberalta,13,U.E.  Eduardo Abaroa,8005367,8,11,2,36,,1,0,2,29,4,,21,16,47
+2,Vaca Diez,1,Riberalta,2540,Riberalta,13,U.E.  Eduardo Abaroa,8005377,9,10,1,30,,1,0,7,16,4,,22,29,62
+2,Vaca Diez,1,Riberalta,2540,Riberalta,13,U.E.  Eduardo Abaroa,8005387,10,13,5,32,,4,0,5,19,4,,11,24,62
+2,Vaca Diez,1,Riberalta,2540,Riberalta,13,U.E.  Eduardo Abaroa,8005397,11,12,2,35,,1,0,1,26,4,,16,32,53
+2,Vaca Diez,1,Riberalta,2540,Riberalta,13,U.E.  Eduardo Abaroa,8005407,12,13,2,33,,1,0,4,24,0,,21,18,62
+2,Vaca Diez,1,Riberalta,2540,Riberalta,13,U.E.  Eduardo Abaroa,8005417,13,18,5,32,,2,0,2,22,7,,11,25,61
+2,Vaca Diez,1,Riberalta,2540,Riberalta,13,U.E.  Eduardo Abaroa,8005427,14,7,1,13,,3,0,3,13,5,,10,16,35
+2,Vaca Diez,1,Riberalta,2540,Riberalta,14,U.E.  1ro. de Diciembre,8004907,1,21,3,18,,1,0,9,13,4,,14,29,45
+2,Vaca Diez,1,Riberalta,2540,Riberalta,14,U.E.  1ro. de Diciembre,8004917,2,14,3,30,,2,0,2,10,7,,21,31,49
+2,Vaca Diez,1,Riberalta,2540,Riberalta,14,U.E.  1ro. de Diciembre,8004927,3,12,1,32,,0,0,4,16,5,,12,30,47
+2,Vaca Diez,1,Riberalta,2540,Riberalta,14,U.E.  1ro. de Diciembre,8004937,4,7,3,22,,0,0,5,12,3,,18,27,59
+2,Vaca Diez,1,Riberalta,2540,Riberalta,14,U.E.  1ro. de Diciembre,8004947,5,8,2,23,,3,0,4,16,3,,10,26,52
+2,Vaca Diez,1,Riberalta,2540,Riberalta,14,U.E.  1ro. de Diciembre,8004957,6,13,3,29,,2,0,4,11,2,,14,30,63
+2,Vaca Diez,1,Riberalta,2540,Riberalta,14,U.E.  1ro. de Diciembre,8004967,7,7,5,27,,3,0,6,19,3,,12,33,52
+2,Vaca Diez,1,Riberalta,2540,Riberalta,14,U.E.  1ro. de Diciembre,8004977,8,10,3,27,,4,0,8,10,5,,15,29,44
+2,Vaca Diez,1,Riberalta,2540,Riberalta,14,U.E.  1ro. de Diciembre,8004987,9,20,3,22,,2,0,9,17,3,,23,16,57
+2,Vaca Diez,1,Riberalta,2540,Riberalta,14,U.E.  1ro. de Diciembre,8004997,10,9,2,0,,3,0,44,12,2,,20,28,47
+2,Vaca Diez,1,Riberalta,2540,Riberalta,14,U.E.  1ro. de Diciembre,8005007,11,5,2,21,,1,0,4,6,4,,11,17,31
+2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006337,1,15,4,22,,5,0,4,18,4,,20,16,50
+2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006347,2,18,12,22,,3,0,8,13,4,,14,19,51
+2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006357,3,14,12,24,,3,0,8,12,2,,12,13,63
+2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006367,4,11,13,15,,2,0,7,22,0,,11,13,61
+2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006377,5,20,9,20,,1,0,6,15,2,,13,13,52
+2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006387,6,11,12,14,,4,0,8,16,2,,14,15,54
+2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006397,7,21,8,20,,3,0,4,14,4,,11,21,48
+2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006407,8,20,5,22,,2,0,2,15,2,,6,14,32
+2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006417,9,11,5,17,,3,0,0,18,5,,14,17,62
+2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006427,10,18,12,20,,0,0,7,21,2,,9,14,63
+2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006437,11,20,7,11,,5,0,24,14,6,,18,14,46
+2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006447,12,12,8,23,,1,0,7,13,0,,15,32,54
+2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006457,13,10,4,21,,3,0,10,14,6,,11,17,52
+2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006467,14,8,6,18,,5,0,2,23,2,,13,25,59
+2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006477,15,12,7,15,,4,0,6,17,3,,17,8,52
+2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006487,16,15,7,19,,2,0,4,17,4,,11,15,72
+2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006497,17,10,1,20,,1,0,7,15,5,,14,12,63
+2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006507,18,10,3,59,,0,0,0,12,3,,15,24,24
+2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006517,19,9,6,18,,1,0,1,13,2,,5,16,40
+2,Vaca Diez,1,Riberalta,2540,Riberalta,16,U.E. Nuestra Señora Del Carmen,8004737,1,17,8,49,,3,0,4,16,2,,13,31,36
+2,Vaca Diez,1,Riberalta,2540,Riberalta,16,U.E. Nuestra Señora Del Carmen,8004747,2,15,2,36,,3,0,5,18,4,,12,28,60
+2,Vaca Diez,1,Riberalta,2540,Riberalta,16,U.E. Nuestra Señora Del Carmen,8004757,3,14,4,49,,0,0,2,20,1,,14,27,42
+2,Vaca Diez,1,Riberalta,2540,Riberalta,16,U.E. Nuestra Señora Del Carmen,8004767,4,14,3,42,,1,0,6,21,2,,16,23,51
+2,Vaca Diez,1,Riberalta,2540,Riberalta,16,U.E. Nuestra Señora Del Carmen,8004777,5,10,2,49,,1,0,2,24,0,,15,23,57
+2,Vaca Diez,1,Riberalta,2540,Riberalta,16,U.E. Nuestra Señora Del Carmen,8004787,6,15,1,54,,0,0,2,14,5,,14,27,50
+2,Vaca Diez,1,Riberalta,2540,Riberalta,16,U.E. Nuestra Señora Del Carmen,8004797,7,15,1,49,,0,0,3,19,3,,11,17,60
+2,Vaca Diez,1,Riberalta,2540,Riberalta,16,U.E. Nuestra Señora Del Carmen,8004807,8,1,2,16,,1,0,1,7,1,,3,10,8
+2,Vaca Diez,1,Riberalta,2540,Riberalta,17,Unidad Educativa Nataniel García Chavez,8005017,1,19,0,25,,2,0,4,15,1,,17,41,59
+2,Vaca Diez,1,Riberalta,2540,Riberalta,17,Unidad Educativa Nataniel García Chavez,8005027,2,11,1,39,,0,0,7,11,3,,12,42,52
+2,Vaca Diez,1,Riberalta,2540,Riberalta,17,Unidad Educativa Nataniel García Chavez,8005037,3,12,4,20,,0,0,4,20,4,,19,47,57
+2,Vaca Diez,1,Riberalta,2540,Riberalta,17,Unidad Educativa Nataniel García Chavez,8005047,4,13,4,29,,2,0,5,24,1,,18,38,44
+2,Vaca Diez,1,Riberalta,2540,Riberalta,17,Unidad Educativa Nataniel García Chavez,8005057,5,9,5,27,,0,0,7,15,3,,15,49,35
+2,Vaca Diez,1,Riberalta,2540,Riberalta,17,Unidad Educativa Nataniel García Chavez,8005067,6,18,2,27,,0,0,3,18,7,,20,35,54
+2,Vaca Diez,1,Riberalta,2540,Riberalta,17,Unidad Educativa Nataniel García Chavez,8005077,7,16,1,27,,2,0,6,22,1,,19,23,61
+2,Vaca Diez,1,Riberalta,2540,Riberalta,17,Unidad Educativa Nataniel García Chavez,8005087,8,11,3,23,,1,0,5,21,1,,31,45,50
+2,Vaca Diez,1,Riberalta,2540,Riberalta,17,Unidad Educativa Nataniel García Chavez,8005097,9,13,3,24,,6,0,4,15,2,,28,38,44
+2,Vaca Diez,1,Riberalta,2540,Riberalta,17,Unidad Educativa Nataniel García Chavez,8005107,10,10,1,29,,0,0,4,19,1,,22,30,45
+2,Vaca Diez,1,Riberalta,2540,Riberalta,17,Unidad Educativa Nataniel García Chavez,8005117,11,5,0,20,,1,0,3,11,2,,23,28,30
+2,Vaca Diez,1,Riberalta,2540,Riberalta,18,(Cárcel) Penal Riberalta,8004817,1,2,0,4,,1,0,6,11,0,,2,0,4
+2,Vaca Diez,1,Riberalta,2540,Riberalta,19,U.E.  San Francisco,8005437,1,5,0,34,,5,0,4,33,3,,20,28,44
+2,Vaca Diez,1,Riberalta,2540,Riberalta,19,U.E.  San Francisco,8005447,2,8,1,22,,1,0,0,29,2,,14,23,59
+2,Vaca Diez,1,Riberalta,2540,Riberalta,19,U.E.  San Francisco,8005457,3,10,4,33,,1,0,1,25,2,,13,12,69
+2,Vaca Diez,1,Riberalta,2540,Riberalta,19,U.E.  San Francisco,8005467,4,5,1,28,,2,0,3,14,0,,12,18,36
+2,Vaca Diez,1,Riberalta,2540,Riberalta,20,U.E.  Walter Alpire Duran,8005477,1,4,2,23,,2,0,4,30,2,,11,28,61
+2,Vaca Diez,1,Riberalta,2540,Riberalta,20,U.E.  Walter Alpire Duran,8005487,2,4,5,34,,0,0,5,15,2,,21,23,75
+2,Vaca Diez,1,Riberalta,2540,Riberalta,20,U.E.  Walter Alpire Duran,8005497,3,10,5,25,,2,0,4,21,3,,10,32,57
+2,Vaca Diez,1,Riberalta,2540,Riberalta,20,U.E.  Walter Alpire Duran,8005507,4,12,5,26,,4,0,0,26,2,,13,24,54
+2,Vaca Diez,1,Riberalta,2540,Riberalta,20,U.E.  Walter Alpire Duran,8005517,5,16,3,24,,0,0,2,17,4,,19,27,66
+2,Vaca Diez,1,Riberalta,2540,Riberalta,20,U.E.  Walter Alpire Duran,8005527,6,9,0,39,,3,0,8,18,1,,14,30,52
+2,Vaca Diez,1,Riberalta,2540,Riberalta,20,U.E.  Walter Alpire Duran,8005537,7,15,5,29,,1,0,1,17,1,,16,30,67
+2,Vaca Diez,1,Riberalta,2540,Riberalta,20,U.E.  Walter Alpire Duran,8005547,8,2,1,3,,1,0,0,3,1,,4,6,11
+2,Vaca Diez,1,Riberalta,2540,Riberalta,21,U.E.  Ismael Carrasco Telleria,8006527,1,11,2,20,,9,0,5,24,2,,25,17,57
+2,Vaca Diez,1,Riberalta,2540,Riberalta,21,U.E.  Ismael Carrasco Telleria,8006537,2,11,6,27,,2,0,6,16,3,,18,24,55
+2,Vaca Diez,1,Riberalta,2540,Riberalta,21,U.E.  Ismael Carrasco Telleria,8006547,3,7,5,19,,4,0,7,21,3,,9,20,71
+2,Vaca Diez,1,Riberalta,2540,Riberalta,21,U.E.  Ismael Carrasco Telleria,8006557,4,13,6,15,,6,0,5,16,2,,13,18,66
+2,Vaca Diez,1,Riberalta,2540,Riberalta,21,U.E.  Ismael Carrasco Telleria,8006567,5,16,4,29,,16,0,10,11,0,,18,13,48
+2,Vaca Diez,1,Riberalta,2540,Riberalta,21,U.E.  Ismael Carrasco Telleria,8006577,6,8,3,17,,4,0,8,21,3,,15,18,77
+2,Vaca Diez,1,Riberalta,2540,Riberalta,21,U.E.  Ismael Carrasco Telleria,8006587,7,16,3,30,,3,0,7,26,3,,14,21,47
+2,Vaca Diez,1,Riberalta,2540,Riberalta,21,U.E.  Ismael Carrasco Telleria,8006597,8,13,5,28,,3,0,8,18,3,,13,21,68
+2,Vaca Diez,1,Riberalta,2540,Riberalta,21,U.E.  Ismael Carrasco Telleria,8006607,9,10,4,14,,2,0,6,19,5,,6,15,38
+2,Vaca Diez,1,Riberalta,2540,Riberalta,22,U.E. Federico Demmer,8005777,1,12,2,22,,0,0,2,13,3,,19,15,63
+2,Vaca Diez,1,Riberalta,2540,Riberalta,22,U.E. Federico Demmer,8005787,2,12,2,26,,5,0,4,18,4,,16,19,58
+2,Vaca Diez,1,Riberalta,2540,Riberalta,22,U.E. Federico Demmer,8005797,3,13,2,37,,0,0,2,21,3,,10,31,48
+2,Vaca Diez,1,Riberalta,2540,Riberalta,22,U.E. Federico Demmer,8005807,4,13,6,23,,2,0,3,17,3,,20,21,56
+2,Vaca Diez,1,Riberalta,2540,Riberalta,22,U.E. Federico Demmer,8005817,5,21,2,22,,1,0,4,10,2,,12,33,58
+2,Vaca Diez,1,Riberalta,2540,Riberalta,22,U.E. Federico Demmer,8005827,6,11,3,37,,0,0,7,17,4,,15,40,45
+2,Vaca Diez,1,Riberalta,2540,Riberalta,22,U.E. Federico Demmer,8005837,7,15,1,27,,4,0,3,22,4,,14,30,49
+2,Vaca Diez,1,Riberalta,2540,Riberalta,22,U.E. Federico Demmer,8005847,8,10,3,24,,3,0,3,14,2,,25,23,73
+2,Vaca Diez,1,Riberalta,2540,Riberalta,22,U.E. Federico Demmer,8005857,9,16,1,31,,2,0,2,21,1,,11,26,49
+2,Vaca Diez,1,Riberalta,2540,Riberalta,22,U.E. Federico Demmer,8005867,10,11,4,30,,3,0,5,13,4,,15,27,46
+2,Vaca Diez,1,Riberalta,2540,Riberalta,22,U.E. Federico Demmer,8005877,11,17,1,36,,1,0,4,21,3,,13,36,46
+2,Vaca Diez,1,Riberalta,2540,Riberalta,22,U.E. Federico Demmer,8005887,12,1,2,4,,0,0,0,2,0,,4,2,9
+2,Vaca Diez,1,Riberalta,2540,Riberalta,23,U.E.  San Juan,8006617,1,11,16,22,,7,0,10,19,4,,10,20,49
+2,Vaca Diez,1,Riberalta,2540,Riberalta,23,U.E.  San Juan,8006627,2,18,15,20,,3,0,8,14,3,,11,15,51
+2,Vaca Diez,1,Riberalta,2540,Riberalta,23,U.E.  San Juan,8006637,3,13,20,16,,2,0,6,10,1,,9,11,52
+2,Vaca Diez,1,Riberalta,2540,Riberalta,23,U.E.  San Juan,8006647,4,12,16,16,,3,0,10,16,7,,12,20,48
+2,Vaca Diez,1,Riberalta,2540,Riberalta,23,U.E.  San Juan,8006657,5,9,23,17,,5,0,5,24,1,,13,12,51
+2,Vaca Diez,1,Riberalta,2540,Riberalta,23,U.E.  San Juan,8006667,6,14,9,22,,6,0,4,26,4,,8,12,60
+2,Vaca Diez,1,Riberalta,2540,Riberalta,23,U.E.  San Juan,8006677,7,19,6,19,,4,0,4,16,1,,12,17,52
+2,Vaca Diez,1,Riberalta,2540,Riberalta,23,U.E.  San Juan,8006687,8,18,14,17,,3,0,2,13,3,,9,22,62
+2,Vaca Diez,1,Riberalta,2540,Riberalta,23,U.E.  San Juan,8006697,9,23,10,14,,3,0,5,17,2,,10,21,58
+2,Vaca Diez,1,Riberalta,2540,Riberalta,23,U.E.  San Juan,8006707,10,18,11,18,,0,0,8,11,1,,10,17,53
+2,Vaca Diez,1,Riberalta,2540,Riberalta,23,U.E.  San Juan,8006717,11,10,8,24,,5,0,7,13,3,,15,14,61
+2,Vaca Diez,1,Riberalta,2540,Riberalta,23,U.E.  San Juan,8006727,12,18,8,20,,3,0,7,16,1,,9,21,58
+2,Vaca Diez,1,Riberalta,2540,Riberalta,23,U.E.  San Juan,8006737,13,15,20,17,,2,0,7,13,5,,8,16,51
+2,Vaca Diez,1,Riberalta,2540,Riberalta,23,U.E.  San Juan,8006747,14,11,11,27,,0,0,11,22,3,,10,14,54
+2,Vaca Diez,1,Riberalta,2540,Riberalta,23,U.E.  San Juan,8006757,15,13,7,24,,2,0,10,9,7,,16,17,30
+2,Vaca Diez,1,Riberalta,2540,Riberalta,23,U.E.  San Juan,8006767,16,17,10,17,,2,0,9,16,3,,17,16,52
+2,Vaca Diez,1,Riberalta,2540,Riberalta,23,U.E.  San Juan,8006777,17,18,10,32,,2,0,10,12,0,,9,18,53
+2,Vaca Diez,1,Riberalta,2540,Riberalta,23,U.E.  San Juan,8006787,18,10,12,27,,5,0,5,17,6,,9,11,58
+2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8005897,1,12,1,20,,2,0,10,18,0,,16,18,62
+2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8005907,2,9,2,31,,1,0,6,24,1,,22,21,59
+2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8005917,3,12,5,25,,2,0,3,14,0,,23,28,53
+2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8005927,4,8,2,34,,1,0,6,24,3,,11,15,61
+2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8005937,5,11,1,36,,3,0,6,17,3,,21,24,54
+2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8005947,6,12,2,22,,3,0,3,22,2,,20,17,55
+2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8005957,7,12,1,37,,0,0,10,15,3,,17,20,74
+2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8005967,8,11,0,24,,0,0,2,11,2,,16,30,61
+2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8005977,9,14,4,17,,5,0,4,16,4,,16,33,56
+2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8005987,10,13,2,31,,2,0,1,14,4,,21,21,66
+2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8005997,11,12,1,27,,0,0,2,20,1,,21,24,51
+2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8006007,12,12,3,24,,4,0,3,17,1,,20,12,73
+2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8006017,13,9,2,18,,8,0,2,18,0,,14,32,65
+2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8006027,14,12,2,32,,2,0,4,12,2,,19,22,59
+2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8006037,15,19,1,25,,1,0,3,18,1,,15,14,55
+2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8006047,16,9,3,29,,2,0,3,14,0,,14,27,70
+2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8006057,17,7,4,29,,4,0,7,17,2,,21,11,52
+2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8006067,18,10,1,30,,2,0,5,19,3,,17,22,63
+2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8006077,19,12,4,26,,3,0,1,24,4,,14,21,53
+2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8006087,20,0,0,2,,1,0,1,2,1,,1,2,8
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8006917,1,16,13,18,,4,0,9,14,4,,13,25,49
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8006927,2,18,20,19,,4,0,3,18,4,,8,22,46
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8006937,3,20,18,17,,4,0,7,4,2,,14,21,53
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8006947,4,17,9,14,,3,0,8,11,2,,16,13,47
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8006957,5,15,12,26,,3,0,9,16,4,,8,18,54
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8006967,6,10,19,17,,5,0,3,13,5,,14,31,50
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8006977,7,13,10,18,,3,0,5,14,3,,11,18,59
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8006987,8,11,18,20,,4,0,10,10,2,,8,14,44
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8006997,9,16,11,29,,3,0,3,14,2,,13,27,57
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8007007,10,19,13,21,,5,0,3,20,0,,10,23,48
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8007017,11,22,16,18,,0,0,1,26,1,,11,12,55
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8007027,12,14,21,18,,5,0,7,14,3,,4,17,44
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8007037,13,21,11,22,,3,0,11,18,1,,12,27,49
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8007047,14,14,19,20,,2,0,10,11,1,,11,16,49
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26356,U.E. Barbarita Paz Yamane,8006797,1,16,2,20,,3,0,3,15,1,,21,34,68
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26356,U.E. Barbarita Paz Yamane,8006807,2,8,3,8,,6,0,6,17,2,,18,23,62
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26356,U.E. Barbarita Paz Yamane,8006817,3,15,10,23,,6,0,4,21,1,,19,22,30
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26356,U.E. Barbarita Paz Yamane,8006827,4,10,9,21,,2,0,11,15,5,,10,14,69
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26356,U.E. Barbarita Paz Yamane,8006837,5,21,5,22,,1,0,5,28,2,,9,17,49
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26356,U.E. Barbarita Paz Yamane,8006847,6,14,0,15,,4,0,7,18,2,,12,22,65
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26356,U.E. Barbarita Paz Yamane,8006857,7,11,10,18,,0,0,5,12,1,,9,19,53
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26357,U.E. Polo Palacios,8005127,1,13,4,29,,1,0,3,19,1,,21,27,52
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26357,U.E. Polo Palacios,8005137,2,18,3,34,,1,0,5,20,7,,21,15,47
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26357,U.E. Polo Palacios,8005147,3,9,1,38,,1,0,1,17,5,,26,37,50
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26357,U.E. Polo Palacios,8005157,4,19,4,22,,0,0,1,18,8,,15,29,58
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26357,U.E. Polo Palacios,8005167,5,10,2,31,,2,0,4,19,3,,22,28,52
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26357,U.E. Polo Palacios,8005177,6,7,2,20,,1,0,1,7,1,,7,19,16
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26358,U.E. Guido Gutierrez Moreno,8006867,1,20,3,19,,1,0,11,10,2,,14,25,56
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26358,U.E. Guido Gutierrez Moreno,8006877,2,15,0,28,,2,0,5,18,5,,10,17,55
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26358,U.E. Guido Gutierrez Moreno,8006887,3,20,5,32,,2,0,3,21,2,,16,13,54
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26358,U.E. Guido Gutierrez Moreno,8006897,4,14,7,24,,1,0,5,11,2,,19,10,46
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26358,U.E. Guido Gutierrez Moreno,8006907,5,12,8,27,,2,0,8,15,2,,10,15,46
+2,Vaca Diez,1,Riberalta,2540,Riberalta,32016,U.E. Arca Maranatha,8005557,1,19,2,31,,0,0,4,19,4,,12,30,56
+2,Vaca Diez,1,Riberalta,2540,Riberalta,32016,U.E. Arca Maranatha,8005567,2,22,2,37,,4,0,3,13,6,,18,27,63
+2,Vaca Diez,1,Riberalta,2540,Riberalta,32016,U.E. Arca Maranatha,8005577,3,19,1,42,,1,0,1,21,4,,14,31,62
+2,Vaca Diez,1,Riberalta,2540,Riberalta,32016,U.E. Arca Maranatha,8005587,4,12,5,41,,0,0,5,22,6,,15,22,66
+2,Vaca Diez,1,Riberalta,2540,Riberalta,32016,U.E. Arca Maranatha,8005597,5,11,5,39,,0,0,2,21,3,,17,27,68
+2,Vaca Diez,1,Riberalta,2540,Riberalta,32016,U.E. Arca Maranatha,8005607,6,4,0,10,,0,0,1,10,1,,3,9,9
+2,Vaca Diez,1,Riberalta,2540,Riberalta,32119,(Cárcel) Penal Nuevo Riberalta,8007057,1,22,1,3,,1,0,16,5,4,,6,9,6
+2,Vaca Diez,1,Riberalta,2543,Nazareth,1,Escuela Nazareth,8004137,1,6,1,16,,1,0,27,5,2,,10,13,23
+2,Vaca Diez,1,Riberalta,2546,Tumichucua,1,U.E. Zaida Gosalvez Alarcón,8004147,1,22,3,26,,1,0,4,13,2,,16,16,53
+2,Vaca Diez,1,Riberalta,2546,Tumichucua,1,U.E. Zaida Gosalvez Alarcón,8004157,2,13,1,11,,0,0,0,15,6,,7,10,25
+2,Vaca Diez,1,Riberalta,2749,Warnes,1,U.E.   Warnes,8004167,1,25,11,12,,3,0,23,14,4,,12,19,40
+2,Vaca Diez,1,Riberalta,2749,Warnes,1,U.E.   Warnes,8004177,2,20,6,14,,5,0,36,18,7,,13,24,39
+2,Vaca Diez,1,Riberalta,2749,Warnes,1,U.E.   Warnes,8004187,3,20,0,1,,0,0,6,10,3,,7,6,15
+2,Vaca Diez,1,Riberalta,3096,Bolivar,1,U.E. Bolívar,8004197,1,16,12,19,,3,0,15,18,6,,13,22,35
+2,Vaca Diez,1,Riberalta,3096,Bolivar,1,U.E. Bolívar,8004207,2,29,6,12,,6,0,6,17,12,,24,24,30
+2,Vaca Diez,1,Riberalta,3096,Bolivar,1,U.E. Bolívar,8004217,3,19,2,8,,3,0,4,16,1,,13,5,15
+2,Vaca Diez,1,Riberalta,3097,12 de Octubre,1,Escuela 12 de Octubre,8004227,1,15,5,22,,3,0,33,7,4,,21,16,29
+2,Vaca Diez,1,Riberalta,3097,12 de Octubre,1,Escuela 12 de Octubre,8004237,2,14,4,30,,2,0,13,4,1,,6,17,14
+2,Vaca Diez,1,Riberalta,3098,Mariposa,1,Escuela Mariposa,8004247,1,3,0,3,,2,0,10,3,1,,2,9,19
+2,Vaca Diez,1,Riberalta,3099,Alto Ivon,1,Escuela Alto Ivon,8004257,1,8,11,10,,15,0,8,34,0,,6,11,14
+2,Vaca Diez,1,Riberalta,3099,Alto Ivon,1,Escuela Alto Ivon,8004267,2,6,6,33,,7,0,4,55,1,,16,9,11
+2,Vaca Diez,1,Riberalta,3099,Alto Ivon,1,Escuela Alto Ivon,8004277,3,18,7,13,,20,0,19,23,4,,14,9,9
+2,Vaca Diez,1,Riberalta,3100,Santuario,1,Escuela Santuario,8004287,1,2,1,13,,1,0,1,27,3,,1,2,14
+2,Vaca Diez,1,Riberalta,3101,Santa María  de Vaca Diez,1,U.E. Santa Maria,8004297,1,21,12,28,,1,0,0,10,2,,25,21,41
+2,Vaca Diez,1,Riberalta,3101,Santa María  de Vaca Diez,1,U.E. Santa Maria,8004307,2,13,12,28,,9,0,9,11,7,,20,22,37
+2,Vaca Diez,1,Riberalta,4003,La Esperanza,25317,U.E. La Esperanza,8004317,1,15,7,31,,3,0,8,18,7,,16,27,26
+2,Vaca Diez,1,Riberalta,4003,La Esperanza,25317,U.E. La Esperanza,8004327,2,15,6,34,,0,0,8,16,4,,21,25,44
+2,Vaca Diez,1,Riberalta,4003,La Esperanza,25317,U.E. La Esperanza,8004337,3,5,2,3,,2,0,0,4,3,,6,8,20
+2,Vaca Diez,1,Riberalta,4004,Popechi,25318,U.E. Popechi,8004347,1,12,9,23,,2,0,13,14,1,,17,14,52
+2,Vaca Diez,1,Riberalta,4004,Popechi,25318,U.E. Popechi,8004357,2,10,5,11,,3,0,7,17,4,,19,20,38
+2,Vaca Diez,1,Riberalta,4005,Bella Flor,25319,U.E. Bella Flor,8004367,1,4,3,22,,3,0,74,7,2,,14,18,8
+2,Vaca Diez,1,Riberalta,4005,Bella Flor,25319,U.E. Bella Flor,8004377,2,1,2,3,,2,0,7,2,0,,2,4,3
+2,Vaca Diez,1,Riberalta,4419,Recreo,26176,U.E. Recreo,8004387,1,4,2,2,,1,0,2,11,0,,28,7,32
+2,Vaca Diez,1,Riberalta,4420,Alta Gracia,26177,U.E. 23 de Marzo,8004397,1,13,3,18,,1,0,9,9,2,,39,7,45
+2,Vaca Diez,1,Riberalta,4509,Los Cayuses,32144,U.E. Los Cayuses,8004407,1,4,1,9,,0,0,3,4,2,,1,1,10
+2,Vaca Diez,1,Riberalta,4576,Nueva Unión,32286,U.E. Nueva Unión I,8004417,1,4,9,14,,1,0,3,10,1,,7,35,21
+2,Vaca Diez,2,Guayaramerín,2548,Villa Bella,1,Esc. Antofagasta,8007067,1,5,0,14,0,4,26,0,12,1,16,,,
+2,Vaca Diez,2,Guayaramerín,2549,Cachuela Esperanza,1,Esc. Juddi De Suarez,8007077,1,8,8,68,1,1,68,2,6,3,3,,,
+2,Vaca Diez,2,Guayaramerín,2549,Cachuela Esperanza,1,Esc. Juddi De Suarez,8007087,2,7,11,37,2,4,60,0,4,4,2,,,
+2,Vaca Diez,2,Guayaramerín,2551,Rosario del Yata,1,Esc. Rosario Del Yata,8007097,1,9,4,72,2,9,44,1,17,2,6,,,
+2,Vaca Diez,2,Guayaramerín,2551,Rosario del Yata,1,Esc. Rosario Del Yata,8007107,2,11,6,36,0,4,42,1,28,4,0,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,3,U.E.  Evangélico Nacional,8007137,1,17,11,46,4,9,69,0,8,6,14,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,3,U.E.  Evangélico Nacional,8007147,2,16,9,56,5,11,49,3,14,12,13,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,3,U.E.  Evangélico Nacional,8007157,3,19,18,38,8,17,55,2,6,6,17,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,3,U.E.  Evangélico Nacional,8007167,4,10,9,57,3,14,49,3,8,5,14,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,3,U.E.  Evangélico Nacional,8007177,5,18,5,41,3,7,61,3,14,6,10,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,3,U.E.  Evangélico Nacional,8007187,6,22,9,49,1,14,67,6,9,5,9,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,3,U.E.  Evangélico Nacional,8007197,7,22,18,46,3,3,69,0,9,4,3,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,3,U.E.  Evangélico Nacional,8007207,8,22,12,40,5,5,60,2,13,7,14,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,3,U.E.  Evangélico Nacional,8007217,9,1,3,2,0,1,6,0,2,0,0,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,5,U.E.  Manuel Antonio Ojopi,8007227,1,21,13,37,5,15,46,3,8,14,19,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,5,U.E.  Manuel Antonio Ojopi,8007237,2,23,21,43,1,9,63,5,14,6,13,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,5,U.E.  Manuel Antonio Ojopi,8007247,3,12,22,53,3,13,58,3,8,7,13,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,5,U.E.  Manuel Antonio Ojopi,8007257,4,19,21,45,0,8,40,5,11,9,19,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,5,U.E.  Manuel Antonio Ojopi,8007267,5,15,17,53,2,17,49,1,10,9,14,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,5,U.E.  Manuel Antonio Ojopi,8007277,6,28,27,41,3,5,48,0,13,2,16,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,5,U.E.  Manuel Antonio Ojopi,8007287,7,21,18,32,2,10,61,1,16,4,19,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,5,U.E.  Manuel Antonio Ojopi,8007297,8,20,20,26,2,16,43,1,17,4,20,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,6,U.E.  Elmer Botsford,8007307,1,33,22,40,1,16,55,0,13,1,9,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,6,U.E.  Elmer Botsford,8007317,2,44,15,31,4,8,64,0,15,1,8,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,6,U.E.  Elmer Botsford,8007327,3,26,22,44,4,6,58,0,12,0,11,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,6,U.E.  Elmer Botsford,8007337,4,4,5,13,4,1,25,1,9,1,7,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,7,U.E.  San Jose,8007547,1,29,14,57,2,8,48,1,11,3,10,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,7,U.E.  San Jose,8007557,2,19,24,46,2,3,59,4,15,1,12,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,7,U.E.  San Jose,8007567,3,18,15,61,2,8,62,3,13,1,8,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,7,U.E.  San Jose,8007577,4,13,13,51,1,12,52,7,22,3,15,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,7,U.E.  San Jose,8007587,5,18,20,46,2,7,55,2,16,5,9,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,7,U.E.  San Jose,8007597,6,18,24,54,3,7,56,4,7,7,12,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,7,U.E.  San Jose,8007607,7,2,0,6,1,0,6,0,2,1,2,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,8,U.E.  Mejillones,8007687,1,20,18,50,1,8,67,0,7,4,14,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,8,U.E.  Mejillones,8007697,2,14,4,49,4,6,58,5,16,4,16,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,8,U.E.  Mejillones,8007707,3,24,18,43,5,4,63,2,21,6,11,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,8,U.E.  Mejillones,8007717,4,16,20,46,1,13,49,0,10,2,15,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,8,U.E.  Mejillones,8007727,5,4,1,2,0,0,11,0,0,1,6,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,9,U.E.  6 de Junio,8007737,1,9,13,49,6,4,60,5,16,2,15,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,9,U.E.  6 de Junio,8007747,2,10,19,46,7,10,53,2,19,5,9,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,9,U.E.  6 de Junio,8007757,3,9,20,48,0,9,75,0,15,7,8,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,9,U.E.  6 de Junio,8007767,4,11,25,56,1,5,55,3,10,1,12,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,9,U.E.  6 de Junio,8007777,5,20,19,48,3,12,56,0,17,2,11,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,9,U.E.  6 de Junio,8007787,6,7,19,35,4,15,69,3,15,1,14,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,9,U.E.  6 de Junio,8007797,7,12,19,48,1,7,68,2,10,4,8,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,9,U.E.  6 de Junio,8007807,8,11,23,54,0,9,61,1,21,2,11,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,9,U.E.  6 de Junio,8007817,9,5,15,49,3,7,66,1,17,2,14,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,10,U.E.  Alto de la Alianza,8008117,1,15,13,44,3,13,61,1,5,2,17,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,10,U.E.  Alto de la Alianza,8008127,2,21,14,53,1,8,69,1,10,4,12,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,10,U.E.  Alto de la Alianza,8008137,3,12,18,54,1,10,62,2,12,5,14,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,10,U.E.  Alto de la Alianza,8008147,4,25,9,35,1,11,62,5,12,5,10,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,10,U.E.  Alto de la Alianza,8008157,5,20,12,37,2,20,54,2,11,4,16,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,10,U.E.  Alto de la Alianza,8008167,6,17,15,45,2,11,58,0,16,5,17,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,10,U.E.  Alto de la Alianza,8008177,7,23,15,41,4,17,57,0,6,3,15,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,10,U.E.  Alto de la Alianza,8008187,8,15,10,54,1,13,65,0,5,4,20,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,10,U.E.  Alto de la Alianza,8008197,9,18,21,50,1,17,63,2,11,5,12,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,11,U.E.   Los Almendros,8007827,1,15,12,49,0,10,60,3,13,1,8,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,11,U.E.   Los Almendros,8007837,2,14,12,46,5,7,42,1,14,2,9,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,11,U.E.   Los Almendros,8007847,3,11,15,51,3,18,49,0,14,2,16,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,11,U.E.   Los Almendros,8007857,4,10,23,54,2,7,61,0,15,2,12,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,11,U.E.   Los Almendros,8007867,5,10,25,52,0,5,51,1,15,1,8,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,11,U.E.   Los Almendros,8007877,6,15,12,57,2,15,61,3,10,2,6,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,11,U.E.   Los Almendros,8007887,7,8,16,42,3,9,69,2,17,4,11,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,11,U.E.   Los Almendros,8007897,8,12,13,57,2,20,47,2,8,1,12,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,11,U.E.   Los Almendros,8007907,9,10,9,49,2,5,65,2,7,4,9,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,11,U.E.   Los Almendros,8007917,10,14,21,47,3,11,51,0,13,2,11,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,11,U.E.   Los Almendros,8007927,11,12,10,58,4,11,57,0,14,4,12,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,11,U.E.   Los Almendros,8007937,12,7,3,17,0,3,27,1,11,2,5,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,13,U.E.   Antonio Vaca Diez,8007347,1,10,14,41,2,13,52,2,14,6,17,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,13,U.E.   Antonio Vaca Diez,8007357,2,14,18,59,2,15,42,0,10,8,13,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,13,U.E.   Antonio Vaca Diez,8007367,3,21,13,61,3,8,51,2,10,7,16,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,13,U.E.   Antonio Vaca Diez,8007377,4,17,14,45,1,15,73,1,11,9,11,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,13,U.E.   Antonio Vaca Diez,8007387,5,11,22,46,3,8,59,0,10,10,17,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,13,U.E.   Antonio Vaca Diez,8007397,6,20,15,52,0,14,52,3,13,5,24,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,13,U.E.   Antonio Vaca Diez,8007407,7,9,8,25,1,10,36,2,8,4,10,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,14,U.E.   Manuel Vicente Ballivian,8007617,1,19,10,39,0,11,44,3,6,8,15,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,14,U.E.   Manuel Vicente Ballivian,8007627,2,15,12,33,2,6,47,4,10,1,12,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,14,U.E.   Manuel Vicente Ballivian,8007637,3,18,15,32,0,9,61,0,7,2,11,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,14,U.E.   Manuel Vicente Ballivian,8007647,4,11,2,13,0,3,19,1,1,0,3,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,15,U.E. Miguel Antelo,8007657,1,11,13,49,1,8,58,0,13,2,16,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,15,U.E. Miguel Antelo,8007667,2,17,26,54,3,7,52,3,7,1,8,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,15,U.E. Miguel Antelo,8007677,3,7,17,38,1,4,45,1,14,0,8,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,16,U.E.   Brasil,8007947,1,14,16,35,5,13,64,5,11,2,12,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,16,U.E.   Brasil,8007957,2,14,17,43,2,8,74,1,11,5,13,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,16,U.E.   Brasil,8007967,3,18,23,56,2,12,62,0,10,5,9,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,16,U.E.   Brasil,8007977,4,26,14,46,5,13,63,1,9,3,7,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,16,U.E.   Brasil,8007987,5,17,17,40,5,15,69,3,16,6,9,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,16,U.E.   Brasil,8007997,6,13,14,47,4,6,80,3,19,3,9,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,16,U.E.   Brasil,8008007,7,14,7,62,1,13,74,1,9,3,16,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,16,U.E.   Brasil,8008017,8,18,13,49,4,7,67,0,13,2,18,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,16,U.E.   Brasil,8008027,9,18,25,43,6,4,63,2,22,2,14,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,16,U.E.   Brasil,8008037,10,20,18,44,2,13,76,3,9,3,6,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,16,U.E.   Brasil,8008047,11,19,14,34,0,3,56,2,7,2,13,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,17,U.E. Belen,8008057,1,10,14,48,1,10,69,1,9,1,6,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,17,U.E. Belen,8008067,2,17,15,38,4,12,66,3,10,3,4,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,17,U.E. Belen,8008077,3,16,14,35,2,12,69,2,14,3,5,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,17,U.E. Belen,8008087,4,7,25,49,2,7,63,6,13,2,9,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,17,U.E. Belen,8008097,5,11,22,39,2,11,65,3,18,2,11,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,17,U.E. Belen,8008107,6,11,18,40,2,8,39,0,13,3,16,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,18,U.E. Simón Bolívar,8008207,1,9,21,42,1,17,70,3,6,4,14,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,18,U.E. Simón Bolívar,8008217,2,18,12,55,1,9,52,0,6,2,16,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,18,U.E. Simón Bolívar,8008227,3,13,9,63,2,10,47,0,13,1,16,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,18,U.E. Simón Bolívar,8008237,4,3,8,32,0,4,31,0,7,2,7,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,19,(Cárcel) Penal Guayaramerin,8007417,1,19,38,12,0,2,14,0,16,3,5,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,25320,U.E. 9 de Abril,8008247,1,22,22,50,5,6,47,2,6,3,15,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,25320,U.E. 9 de Abril,8008257,2,12,13,36,2,6,81,2,9,0,12,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,25320,U.E. 9 de Abril,8008267,3,18,15,58,3,10,65,3,3,3,15,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,25320,U.E. 9 de Abril,8008277,4,12,16,45,3,8,62,4,13,2,12,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,25320,U.E. 9 de Abril,8008287,5,13,23,42,1,8,71,3,13,4,19,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,25320,U.E. 9 de Abril,8008297,6,5,4,19,1,3,26,0,1,1,0,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,26359,U.E.  Mariscal Andres de Santa Cruz,8007427,1,23,11,39,2,17,53,1,10,4,10,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,26359,U.E.  Mariscal Andres de Santa Cruz,8007437,2,18,9,30,1,14,53,3,5,7,15,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,26359,U.E.  Mariscal Andres de Santa Cruz,8007447,3,18,14,38,2,3,61,4,8,3,15,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,26359,U.E.  Mariscal Andres de Santa Cruz,8007457,4,23,13,45,1,6,39,1,7,2,11,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,26359,U.E.  Mariscal Andres de Santa Cruz,8007467,5,25,19,44,1,6,46,1,17,3,17,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,26359,U.E.  Mariscal Andres de Santa Cruz,8007477,6,20,7,34,0,8,53,2,8,2,14,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,26359,U.E.  Mariscal Andres de Santa Cruz,8007487,7,20,7,48,1,18,45,0,9,2,17,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,26359,U.E.  Mariscal Andres de Santa Cruz,8007497,8,6,3,12,0,1,16,0,9,1,4,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,32115,U.E.  Guayaraguazu,8007507,1,13,15,32,1,14,35,3,13,6,3,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,32115,U.E.  Guayaraguazu,8007517,2,9,14,35,1,12,45,1,17,7,8,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,32115,U.E.  Guayaraguazu,8007527,3,4,13,27,3,10,42,2,9,5,8,,,
+2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,32115,U.E.  Guayaraguazu,8007537,4,5,2,5,1,2,9,0,0,2,3,,,
+2,Vaca Diez,2,Guayaramerín,2785,San Lorenzo  de Vaca Diez,1,Esc. Central San Lorenzo,8007117,1,4,0,0,2,2,21,0,2,2,3,,,
+2,Vaca Diez,2,Guayaramerín,2816,San Francisco del Yata,1,Esc. San Francisco Del Yata,8007127,1,3,1,14,0,5,19,17,1,0,3,,,
+3,General José Ballivián,1,Reyes,2542,Peña Amarilla,1,Esc. Peña Amarilla,8008307,1,15,1,68,,,,,,,,2,,
+3,General José Ballivián,1,Reyes,2555,Reyes,1,U.E. Rene Barrientos Ortuño,8008317,1,19,4,69,,,,,,,,91,,
+3,General José Ballivián,1,Reyes,2555,Reyes,1,U.E. Rene Barrientos Ortuño,8008327,2,18,0,67,,,,,,,,94,,
+3,General José Ballivián,1,Reyes,2555,Reyes,1,U.E. Rene Barrientos Ortuño,8008337,3,17,4,73,,,,,,,,82,,
+3,General José Ballivián,1,Reyes,2555,Reyes,1,U.E. Rene Barrientos Ortuño,8008347,4,10,3,55,,,,,,,,88,,
+3,General José Ballivián,1,Reyes,2555,Reyes,2,U.E. Nacional de Reyes,8008447,1,18,6,59,,,,,,,,99,,
+3,General José Ballivián,1,Reyes,2555,Reyes,2,U.E. Nacional de Reyes,8008457,2,18,5,85,,,,,,,,90,,
+3,General José Ballivián,1,Reyes,2555,Reyes,2,U.E. Nacional de Reyes,8008467,3,15,6,70,,,,,,,,106,,
+3,General José Ballivián,1,Reyes,2555,Reyes,2,U.E. Nacional de Reyes,8008477,4,21,5,76,,,,,,,,82,,
+3,General José Ballivián,1,Reyes,2555,Reyes,2,U.E. Nacional de Reyes,8008487,5,15,10,87,,,,,,,,74,,
+3,General José Ballivián,1,Reyes,2555,Reyes,2,U.E. Nacional de Reyes,8008497,6,6,3,79,,,,,,,,93,,
+3,General José Ballivián,1,Reyes,2555,Reyes,2,U.E. Nacional de Reyes,8008507,7,14,3,66,,,,,,,,101,,
+3,General José Ballivián,1,Reyes,2555,Reyes,2,U.E. Nacional de Reyes,8008517,8,21,7,74,,,,,,,,87,,
+3,General José Ballivián,1,Reyes,2555,Reyes,3,U.E. Jesus Alvarez Rodriguez,8008527,1,24,8,70,,,,,,,,100,,
+3,General José Ballivián,1,Reyes,2555,Reyes,3,U.E. Jesus Alvarez Rodriguez,8008537,2,10,6,68,,,,,,,,95,,
+3,General José Ballivián,1,Reyes,2555,Reyes,3,U.E. Jesus Alvarez Rodriguez,8008547,3,21,3,71,,,,,,,,94,,
+3,General José Ballivián,1,Reyes,2555,Reyes,3,U.E. Jesus Alvarez Rodriguez,8008557,4,16,9,64,,,,,,,,103,,
+3,General José Ballivián,1,Reyes,2555,Reyes,3,U.E. Jesus Alvarez Rodriguez,8008567,5,16,4,81,,,,,,,,100,,
+3,General José Ballivián,1,Reyes,2555,Reyes,3,U.E. Jesus Alvarez Rodriguez,8008577,6,22,8,64,,,,,,,,105,,
+3,General José Ballivián,1,Reyes,2555,Reyes,3,U.E. Jesus Alvarez Rodriguez,8008587,7,12,6,87,,,,,,,,89,,
+3,General José Ballivián,1,Reyes,2555,Reyes,3,U.E. Jesus Alvarez Rodriguez,8008597,8,20,6,74,,,,,,,,96,,
+3,General José Ballivián,1,Reyes,2555,Reyes,3,U.E. Jesus Alvarez Rodriguez,8008607,9,20,4,69,,,,,,,,76,,
+3,General José Ballivián,1,Reyes,2556,Puerto Cavinas,1,Esc. Central Puerto Cavinas,8008357,1,4,0,77,,,,,,,,55,,
+3,General José Ballivián,1,Reyes,2885,San Marcos,1,Esc. San Marcos,8008367,1,4,0,15,,,,,,,,7,,
+3,General José Ballivián,1,Reyes,3076,Baqueti,1,U. E. 9 de Agosto,8008377,1,17,8,20,,,,,,,,52,,
+3,General José Ballivián,1,Reyes,3077,Buen Destino,1,Esc. Buen Destino,8008387,1,14,7,33,,,,,,,,45,,
+3,General José Ballivián,1,Reyes,3078,Soraida,1,Esc. Soraida,8008397,1,0,4,22,,,,,,,,14,,
+3,General José Ballivián,1,Reyes,3384,California,1,Escuela De California,8008407,1,3,1,14,,,,,,,,82,,
+3,General José Ballivián,1,Reyes,3516,San Jose Maropa,1,Esc. San Jose,8008417,1,7,3,56,,,,,,,,70,,
+3,General José Ballivián,1,Reyes,3676,El Triunfo Rio Biata,1,Esc. Constanza Vargas,8008427,1,6,0,21,,,,,,,,36,,
+3,General José Ballivián,1,Reyes,3868,Carmen Alto,1,U.E. Carmen Alto,8008437,1,16,8,46,,,,,,,,78,,
+3,General José Ballivián,1,Reyes,4233,Gualaguagua,25865,U.E. Gualaguagua,8008617,1,7,1,9,,,,,,,,44,,
+3,General José Ballivián,1,Reyes,4234,Ratije,25866,U.E. Ratije,8008627,1,7,0,18,,,,,,,,65,,
+3,General José Ballivián,1,Reyes,4614,Santa Catalina,32369,U.E. Santa Catalina,8008637,1,2,1,22,,,,,,,,37,,
+3,General José Ballivián,2,San Borja,2559,San Borja,1,U.E. San Francisco De Borja,8009297,1,3,6,119,20,,,2,,,,43,,
+3,General José Ballivián,2,San Borja,2559,San Borja,1,U.E. San Francisco De Borja,8009307,2,1,2,95,42,,,0,,,,47,,
+3,General José Ballivián,2,San Borja,2559,San Borja,1,U.E. San Francisco De Borja,8009317,3,0,2,108,35,,,1,,,,52,,
+3,General José Ballivián,2,San Borja,2559,San Borja,1,U.E. San Francisco De Borja,8009327,4,4,3,101,39,,,1,,,,43,,
+3,General José Ballivián,2,San Borja,2559,San Borja,1,U.E. San Francisco De Borja,8009337,5,2,7,98,26,,,0,,,,62,,
+3,General José Ballivián,2,San Borja,2559,San Borja,1,U.E. San Francisco De Borja,8009347,6,4,6,83,50,,,5,,,,48,,
+3,General José Ballivián,2,San Borja,2559,San Borja,1,U.E. San Francisco De Borja,8009357,7,2,2,104,33,,,1,,,,46,,
+3,General José Ballivián,2,San Borja,2559,San Borja,1,U.E. San Francisco De Borja,8009367,8,3,3,80,41,,,0,,,,39,,
+3,General José Ballivián,2,San Borja,2559,San Borja,2,U.E. German Busch,8009467,1,4,3,108,41,,,3,,,,44,,
+3,General José Ballivián,2,San Borja,2559,San Borja,2,U.E. German Busch,8009477,2,3,3,98,34,,,2,,,,51,,
+3,General José Ballivián,2,San Borja,2559,San Borja,2,U.E. German Busch,8009487,3,4,9,103,40,,,0,,,,37,,
+3,General José Ballivián,2,San Borja,2559,San Borja,2,U.E. German Busch,8009497,4,1,7,96,41,,,1,,,,41,,
+3,General José Ballivián,2,San Borja,2559,San Borja,2,U.E. German Busch,8009507,5,6,6,91,25,,,0,,,,55,,
+3,General José Ballivián,2,San Borja,2559,San Borja,2,U.E. German Busch,8009517,6,6,4,101,26,,,0,,,,39,,
+3,General José Ballivián,2,San Borja,2559,San Borja,2,U.E. German Busch,8009527,7,7,8,82,27,,,6,,,,57,,
+3,General José Ballivián,2,San Borja,2559,San Borja,2,U.E. German Busch,8009537,8,3,6,98,34,,,2,,,,46,,
+3,General José Ballivián,2,San Borja,2559,San Borja,2,U.E. German Busch,8009547,9,0,4,110,41,,,1,,,,35,,
+3,General José Ballivián,2,San Borja,2559,San Borja,2,U.E. German Busch,8009557,10,5,2,37,9,,,0,,,,21,,
+3,General José Ballivián,2,San Borja,2559,San Borja,3,U.E. Arnulfo Martínez,8009567,1,4,4,97,38,,,4,,,,44,,
+3,General José Ballivián,2,San Borja,2559,San Borja,3,U.E. Arnulfo Martínez,8009577,2,4,0,80,37,,,2,,,,54,,
+3,General José Ballivián,2,San Borja,2559,San Borja,3,U.E. Arnulfo Martínez,8009587,3,4,5,81,36,,,5,,,,55,,
+3,General José Ballivián,2,San Borja,2559,San Borja,3,U.E. Arnulfo Martínez,8009597,4,2,3,89,36,,,3,,,,46,,
+3,General José Ballivián,2,San Borja,2559,San Borja,3,U.E. Arnulfo Martínez,8009607,5,3,6,79,43,,,2,,,,53,,
+3,General José Ballivián,2,San Borja,2559,San Borja,3,U.E. Arnulfo Martínez,8009617,6,8,10,104,39,,,2,,,,45,,
+3,General José Ballivián,2,San Borja,2559,San Borja,3,U.E. Arnulfo Martínez,8009627,7,0,5,89,50,,,2,,,,37,,
+3,General José Ballivián,2,San Borja,2559,San Borja,3,U.E. Arnulfo Martínez,8009637,8,0,2,28,19,,,1,,,,11,,
+3,General José Ballivián,2,San Borja,2559,San Borja,4,U.E. Villa San Antonio,8009017,1,3,3,61,66,,,4,,,,45,,
+3,General José Ballivián,2,San Borja,2559,San Borja,4,U.E. Villa San Antonio,8009027,2,2,9,79,48,,,5,,,,40,,
+3,General José Ballivián,2,San Borja,2559,San Borja,4,U.E. Villa San Antonio,8009037,3,2,4,64,57,,,2,,,,42,,
+3,General José Ballivián,2,San Borja,2559,San Borja,4,U.E. Villa San Antonio,8009047,4,3,11,79,57,,,2,,,,25,,
+3,General José Ballivián,2,San Borja,2559,San Borja,4,U.E. Villa San Antonio,8009057,5,0,2,83,48,,,2,,,,43,,
+3,General José Ballivián,2,San Borja,2559,San Borja,4,U.E. Villa San Antonio,8009067,6,1,2,36,22,,,0,,,,27,,
+3,General José Ballivián,2,San Borja,2559,San Borja,5,U.E. San Ignacio Del Maniqui,8009647,1,4,5,68,51,,,1,,,,41,,
+3,General José Ballivián,2,San Borja,2559,San Borja,5,U.E. San Ignacio Del Maniqui,8009657,2,3,6,57,44,,,2,,,,45,,
+3,General José Ballivián,2,San Borja,2559,San Borja,5,U.E. San Ignacio Del Maniqui,8009667,3,8,8,64,54,,,1,,,,41,,
+3,General José Ballivián,2,San Borja,2559,San Borja,5,U.E. San Ignacio Del Maniqui,8009677,4,6,10,76,47,,,1,,,,35,,
+3,General José Ballivián,2,San Borja,2559,San Borja,5,U.E. San Ignacio Del Maniqui,8009687,5,3,6,45,17,,,0,,,,29,,
+3,General José Ballivián,2,San Borja,2559,San Borja,6,U.E. 18 de Noviembre,8009377,1,0,4,73,38,,,2,,,,51,,
+3,General José Ballivián,2,San Borja,2559,San Borja,6,U.E. 18 de Noviembre,8009387,2,0,2,88,39,,,0,,,,44,,
+3,General José Ballivián,2,San Borja,2559,San Borja,6,U.E. 18 de Noviembre,8009397,3,3,7,80,40,,,0,,,,45,,
+3,General José Ballivián,2,San Borja,2559,San Borja,6,U.E. 18 de Noviembre,8009407,4,2,10,92,27,,,1,,,,54,,
+3,General José Ballivián,2,San Borja,2559,San Borja,6,U.E. 18 de Noviembre,8009417,5,5,6,67,35,,,11,,,,52,,
+3,General José Ballivián,2,San Borja,2559,San Borja,6,U.E. 18 de Noviembre,8009427,6,5,8,76,38,,,0,,,,48,,
+3,General José Ballivián,2,San Borja,2559,San Borja,6,U.E. 18 de Noviembre,8009437,7,2,6,97,30,,,2,,,,49,,
+3,General José Ballivián,2,San Borja,2559,San Borja,6,U.E. 18 de Noviembre,8009447,8,1,1,87,43,,,0,,,,45,,
+3,General José Ballivián,2,San Borja,2559,San Borja,6,U.E. 18 de Noviembre,8009457,9,3,1,88,41,,,0,,,,46,,
+3,General José Ballivián,2,San Borja,2559,San Borja,25860,U.E. Cochabamba,8009697,1,7,5,94,34,,,1,,,,40,,
+3,General José Ballivián,2,San Borja,2559,San Borja,25860,U.E. Cochabamba,8009707,2,3,6,84,47,,,1,,,,30,,
+3,General José Ballivián,2,San Borja,2559,San Borja,25860,U.E. Cochabamba,8009717,3,1,5,82,43,,,0,,,,50,,
+3,General José Ballivián,2,San Borja,2559,San Borja,25860,U.E. Cochabamba,8009727,4,3,8,88,29,,,1,,,,58,,
+3,General José Ballivián,2,San Borja,2559,San Borja,25860,U.E. Cochabamba,8009737,5,1,6,78,42,,,4,,,,50,,
+3,General José Ballivián,2,San Borja,2559,San Borja,25860,U.E. Cochabamba,8009747,6,4,10,93,44,,,2,,,,50,,
+3,General José Ballivián,2,San Borja,2559,San Borja,25860,U.E. Cochabamba,8009757,7,3,5,80,44,,,0,,,,48,,
+3,General José Ballivián,2,San Borja,2559,San Borja,25860,U.E. Cochabamba,8009767,8,1,1,99,35,,,0,,,,52,,
+3,General José Ballivián,2,San Borja,2559,San Borja,25860,U.E. Cochabamba,8009777,9,0,0,14,11,,,0,,,,11,,
+3,General José Ballivián,2,San Borja,2560,Santa Elena del Caripo,1,Esc. Santa Elena del Caripo,8008647,1,3,1,61,49,,,2,,,,16,,
+3,General José Ballivián,2,San Borja,2562,Junreno,1,Esc. Junrreno,8008657,1,1,0,28,9,,,0,,,,21,,
+3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009147,1,8,2,45,74,,,7,,,,35,,
+3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009157,2,6,2,45,92,,,15,,,,19,,
+3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009167,3,9,1,35,81,,,17,,,,11,,
+3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009177,4,7,4,33,86,,,17,,,,16,,
+3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009187,5,5,3,35,68,,,13,,,,20,,
+3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009197,6,5,5,32,86,,,16,,,,19,,
+3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009207,7,6,5,34,101,,,21,,,,14,,
+3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009217,8,6,6,33,87,,,16,,,,13,,
+3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009227,9,8,4,36,80,,,10,,,,27,,
+3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009237,10,5,5,29,89,,,20,,,,17,,
+3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009247,11,8,2,37,76,,,18,,,,13,,
+3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009257,12,2,6,44,84,,,5,,,,18,,
+3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009267,13,11,7,32,89,,,20,,,,14,,
+3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009277,14,6,7,42,82,,,6,,,,28,,
+3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009287,15,1,1,19,29,,,15,,,,11,,
+3,General José Ballivián,2,San Borja,2564,La Embocada,1,Esc. La Embocada,8008667,1,3,4,66,55,,,16,,,,23,,
+3,General José Ballivián,2,San Borja,2564,La Embocada,1,Esc. La Embocada,8008677,2,3,3,53,86,,,6,,,,20,,
+3,General José Ballivián,2,San Borja,2564,La Embocada,1,Esc. La Embocada,8008687,3,0,0,14,7,,,1,,,,7,,
+3,General José Ballivián,2,San Borja,2565,El Palmar,1,Esc. El Palmar,8008697,1,20,3,43,64,,,30,,,,19,,
+3,General José Ballivián,2,San Borja,2565,El Palmar,1,Esc. El Palmar,8008707,2,20,1,36,63,,,26,,,,23,,
+3,General José Ballivián,2,San Borja,2565,El Palmar,1,Esc. El Palmar,8008717,3,9,3,33,67,,,35,,,,18,,
+3,General José Ballivián,2,San Borja,2565,El Palmar,1,Esc. El Palmar,8008727,4,8,1,17,49,,,26,,,,11,,
+3,General José Ballivián,2,San Borja,2568,Remanso del Maniqui,1,Esc. S. Juan Del Remanzo,8008737,1,1,4,20,67,,,2,,,,2,,
+3,General José Ballivián,2,San Borja,2569,La Cruz,1,Esc. La Cruz,8008747,1,3,9,49,71,,,1,,,,47,,
+3,General José Ballivián,2,San Borja,2569,La Cruz,1,Esc. La Cruz,8008757,2,5,0,43,82,,,2,,,,43,,
+3,General José Ballivián,2,San Borja,2569,La Cruz,1,Esc. La Cruz,8008767,3,2,3,70,78,,,0,,,,40,,
+3,General José Ballivián,2,San Borja,2569,La Cruz,1,Esc. La Cruz,8008777,4,5,10,62,54,,,0,,,,26,,
+3,General José Ballivián,2,San Borja,2570,Puerto Yucumo,1,U. E. Puerto Yucumo,8008787,1,4,3,12,129,,,8,,,,6,,
+3,General José Ballivián,2,San Borja,2570,Puerto Yucumo,1,U. E. Puerto Yucumo,8008797,2,4,3,32,131,,,4,,,,15,,
+3,General José Ballivián,2,San Borja,2571,El Chacal,1,Esc. El Chacal,8008807,1,1,1,78,97,,,1,,,,9,,
+3,General José Ballivián,2,San Borja,2571,El Chacal,1,Esc. El Chacal,8008817,2,8,2,68,82,,,4,,,,13,,
+3,General José Ballivián,2,San Borja,2571,El Chacal,1,Esc. El Chacal,8008827,3,3,0,29,17,,,0,,,,2,,
+3,General José Ballivián,2,San Borja,2788,Las Habras,1,Esc. Las Abras,8008837,1,4,4,32,48,,,0,,,,9,,
+3,General José Ballivián,2,San Borja,3074,Oriente,1,Escuela El Oriente Del Yacuma,8008847,1,7,0,51,24,,,8,,,,55,,
+3,General José Ballivián,2,San Borja,3517,Tacuaral de Mattos,1,Esc. Tacuaral De Mattos,8008857,1,11,5,76,43,,,7,,,,14,,
+3,General José Ballivián,2,San Borja,3517,Tacuaral de Mattos,1,Esc. Tacuaral De Mattos,8008867,2,6,3,86,55,,,4,,,,17,,
+3,General José Ballivián,2,San Borja,3517,Tacuaral de Mattos,1,Esc. Tacuaral De Mattos,8008877,3,8,3,79,61,,,8,,,,8,,
+3,General José Ballivián,2,San Borja,3517,Tacuaral de Mattos,1,Esc. Tacuaral De Mattos,8008887,4,4,5,19,21,,,0,,,,10,,
+3,General José Ballivián,2,San Borja,3518,Indígenas Arenales,1,Esc. Indigena Arenales,8008897,1,11,27,46,85,,,9,,,,10,,
+3,General José Ballivián,2,San Borja,3518,Indígenas Arenales,1,Esc. Indigena Arenales,8008907,2,5,40,30,90,,,13,,,,8,,
+3,General José Ballivián,2,San Borja,3518,Indígenas Arenales,1,Esc. Indigena Arenales,8008917,3,7,17,17,40,,,4,,,,5,,
+3,General José Ballivián,2,San Borja,3519,Misión Fatima,1,Esc. Mision Fatima,8008927,1,5,3,6,105,,,3,,,,36,,
+3,General José Ballivián,2,San Borja,3519,Misión Fatima,1,Esc. Mision Fatima,8008937,2,4,2,5,128,,,4,,,,18,,
+3,General José Ballivián,2,San Borja,3870,Quiquibey,1,U.E. Quiquibey,8008947,1,4,16,58,74,,,7,,,,6,,
+3,General José Ballivián,2,San Borja,3870,Quiquibey,1,U.E. Quiquibey,8008957,2,3,6,15,35,,,1,,,,5,,
+3,General José Ballivián,2,San Borja,3871,Manguito,1,U.E. Manguito,8008967,1,1,12,40,83,,,3,,,,47,,
+3,General José Ballivián,2,San Borja,3871,Manguito,1,U.E. Manguito,8008977,2,17,5,30,87,,,2,,,,38,,
+3,General José Ballivián,2,San Borja,3871,Manguito,1,U.E. Manguito,8008987,3,4,7,51,29,,,3,,,,21,,
+3,General José Ballivián,2,San Borja,3873,Marca Coroico,1,U.E. Marca Coroico,8008997,1,4,0,25,96,,,10,,,,5,,
+3,General José Ballivián,2,San Borja,3873,Marca Coroico,1,U.E. Marca Coroico,8009007,2,1,1,5,19,,,3,,,,2,,
+3,General José Ballivián,2,San Borja,4230,Galilea,25862,U.E. Galilea,8009077,1,0,14,98,60,,,2,,,,31,,
+3,General José Ballivián,2,San Borja,4230,Galilea,25862,U.E. Galilea,8009087,2,8,9,84,64,,,0,,,,26,,
+3,General José Ballivián,2,San Borja,4230,Galilea,25862,U.E. Galilea,8009097,3,11,11,75,71,,,1,,,,37,,
+3,General José Ballivián,2,San Borja,4231,Puente Yucumo,25863,U.E. Cooperativa Chimane,8009107,1,8,31,38,77,,,8,,,,21,,
+3,General José Ballivián,2,San Borja,4231,Puente Yucumo,25863,U.E. Cooperativa Chimane,8009117,2,4,0,13,27,,,0,,,,8,,
+3,General José Ballivián,2,San Borja,4418,Cosincho,26175,U.E. Cosincho,8009127,1,4,5,18,135,,,4,,,,13,,
+3,General José Ballivián,2,San Borja,4418,Cosincho,26175,U.E. Cosincho,8009137,2,2,15,19,80,,,3,,,,9,,
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,1,U.E. Gerardo Reyes,8009787,1,98,14,50,13,6,,,,,,6,,
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,1,U.E. Gerardo Reyes,8009797,2,72,9,87,17,7,,,,,,7,,
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,1,U.E. Gerardo Reyes,8009807,3,87,8,60,17,7,,,,,,16,,
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,1,U.E. Gerardo Reyes,8009817,4,89,9,77,11,3,,,,,,16,,
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,1,U.E. Gerardo Reyes,8009827,5,90,19,64,16,6,,,,,,8,,
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,1,U.E. Gerardo Reyes,8009837,6,82,15,81,6,10,,,,,,10,,
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,1,U.E. Gerardo Reyes,8009847,7,99,17,68,13,2,,,,,,8,,
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,1,U.E. Gerardo Reyes,8009857,8,91,19,60,15,7,,,,,,7,,
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,1,U.E. Gerardo Reyes,8009867,9,74,16,89,12,5,,,,,,23,,
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,1,U.E. Gerardo Reyes,8009877,10,87,14,79,12,6,,,,,,9,,
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,1,U.E. Gerardo Reyes,8009887,11,66,33,57,20,5,,,,,,18,,
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,1,U.E. Gerardo Reyes,8009897,12,29,3,25,8,4,,,,,,1,,
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,25859,U.E. Umbelina Claure de Cuellar,8010007,1,72,7,56,27,2,,,,,,13,,
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,25859,U.E. Umbelina Claure de Cuellar,8010017,2,63,14,71,15,13,,,,,,12,,
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,25859,U.E. Umbelina Claure de Cuellar,8010027,3,99,7,60,16,1,,,,,,10,,
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,25859,U.E. Umbelina Claure de Cuellar,8010037,4,66,11,73,12,7,,,,,,10,,
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,25859,U.E. Umbelina Claure de Cuellar,8010047,5,70,9,70,24,4,,,,,,15,,
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,25859,U.E. Umbelina Claure de Cuellar,8010057,6,70,12,71,12,4,,,,,,16,,
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,25859,U.E. Umbelina Claure de Cuellar,8010067,7,67,15,59,17,10,,,,,,7,,
+3,General José Ballivián,3,Santa Rosa,2574,Palma Flor,1,Esc. Central Palma Flor,8009907,1,50,4,20,13,8,,,,,,5,,
+3,General José Ballivián,3,Santa Rosa,2575,El Triunfo Las Petas,1,Esc. El Triunfo,8009917,1,101,7,43,4,8,,,,,,15,,
+3,General José Ballivián,3,Santa Rosa,2575,El Triunfo Las Petas,1,Esc. El Triunfo,8009927,2,109,11,37,12,3,,,,,,8,,
+3,General José Ballivián,3,Santa Rosa,2576,El Candado,1,Esc. El Candado,8009937,1,30,1,19,3,6,,,,,,15,,
+3,General José Ballivián,3,Santa Rosa,2577,Puerto Yata,1,Esc. Puerto Yata,8009947,1,36,1,18,0,1,,,,,,7,,
+3,General José Ballivián,3,Santa Rosa,3088,El Rosario,1,Escuela El Rosario,8009957,1,57,2,85,2,10,,,,,,2,,
+3,General José Ballivián,3,Santa Rosa,3315,Australia,1,Escuela Australia,8009967,1,71,41,10,6,16,,,,,,14,,
+3,General José Ballivián,3,Santa Rosa,3315,Australia,1,Escuela Australia,8009977,2,70,21,10,6,19,,,,,,8,,
+3,General José Ballivián,3,Santa Rosa,3733,Puerto Teresa,1,Esc. Puerto Teresa,8009987,1,37,1,18,1,3,,,,,,4,,
+3,General José Ballivián,3,Santa Rosa,3737,El Cerrito,1,Esc. El Cerrito,8009997,1,23,10,18,19,7,,,,,,6,,
+3,General José Ballivián,3,Santa Rosa,4510,Tacuaral,32146,U.E. Tacuaral,8010077,1,24,8,29,11,16,,,,,,70,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2566,Piedras Blancas,1,Esc. Central Piedras Blancas,8010087,1,84,,14,,23,,14,,27,,18,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2566,Piedras Blancas,1,Esc. Central Piedras Blancas,8010097,2,30,,13,,20,,5,,14,,28,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,1,Esc. Gualberto Villarruel,8010107,1,86,,21,,3,,2,,19,,55,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,1,Esc. Gualberto Villarruel,8010117,2,77,,22,,3,,2,,15,,75,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,1,Esc. Gualberto Villarruel,8010127,3,63,,38,,11,,1,,17,,53,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,1,Esc. Gualberto Villarruel,8010137,4,70,,22,,6,,4,,21,,63,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,1,Esc. Gualberto Villarruel,8010147,5,93,,22,,4,,1,,15,,55,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,1,Esc. Gualberto Villarruel,8010157,6,80,,33,,5,,0,,23,,52,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,1,Esc. Gualberto Villarruel,8010167,7,69,,25,,6,,2,,15,,59,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,1,Esc. Gualberto Villarruel,8010177,8,31,,13,,3,,0,,7,,25,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,3,Unidad Educativa Lucio Lens,8010237,1,58,,27,,6,,2,,24,,48,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,3,Unidad Educativa Lucio Lens,8010247,2,64,,24,,4,,3,,20,,65,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,3,Unidad Educativa Lucio Lens,8010257,3,51,,35,,6,,0,,22,,55,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,3,Unidad Educativa Lucio Lens,8010267,4,60,,33,,4,,1,,17,,39,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,3,Unidad Educativa Lucio Lens,8010277,5,43,,28,,7,,2,,19,,61,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,3,Unidad Educativa Lucio Lens,8010287,6,61,,35,,3,,3,,19,,58,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,3,Unidad Educativa Lucio Lens,8010297,7,80,,27,,2,,2,,14,,58,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,3,Unidad Educativa Lucio Lens,8010307,8,56,,36,,3,,3,,24,,47,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,3,Unidad Educativa Lucio Lens,8010317,9,57,,20,,9,,1,,21,,47,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,3,Unidad Educativa Lucio Lens,8010327,10,66,,25,,5,,2,,19,,55,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,3,Unidad Educativa Lucio Lens,8010337,11,47,,26,,2,,2,,15,,65,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,3,Unidad Educativa Lucio Lens,8010347,12,43,,23,,2,,4,,12,,40,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,3,Unidad Educativa Lucio Lens,8010357,13,20,,2,,2,,0,,2,,11,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,4,Escuela Villa Lourdes,8010367,1,57,,27,,9,,4,,29,,61,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,4,Escuela Villa Lourdes,8010377,2,52,,24,,11,,3,,23,,67,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,4,Escuela Villa Lourdes,8010387,3,65,,29,,6,,1,,27,,60,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,4,Escuela Villa Lourdes,8010397,4,57,,14,,14,,6,,25,,64,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,4,Escuela Villa Lourdes,8010407,5,36,,35,,9,,3,,24,,63,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,4,Escuela Villa Lourdes,8010417,6,64,,26,,12,,2,,20,,68,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,4,Escuela Villa Lourdes,8010427,7,55,,35,,6,,6,,28,,51,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,4,Escuela Villa Lourdes,8010437,8,38,,13,,1,,3,,20,,25,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,26362,U.E. Melvin Jonnes,8010537,1,73,,28,,9,,0,,23,,52,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,26362,U.E. Melvin Jonnes,8010547,2,75,,20,,7,,2,,21,,57,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,26362,U.E. Melvin Jonnes,8010557,3,72,,27,,4,,4,,25,,57,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,26362,U.E. Melvin Jonnes,8010567,4,9,,2,,0,,0,,4,,8,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,32019,U.E. Filadelfia,8010577,1,58,,29,,2,,1,,19,,54,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,32019,U.E. Filadelfia,8010587,2,64,,45,,5,,4,,14,,53,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,32019,U.E. Filadelfia,8010597,3,72,,28,,4,,0,,23,,50,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,32019,U.E. Filadelfia,8010607,4,76,,25,,5,,1,,23,,46,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,32019,U.E. Filadelfia,8010617,5,58,,36,,5,,4,,14,,75,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,32019,U.E. Filadelfia,8010627,6,55,,37,,2,,1,,29,,52,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,32020,U.E. Obispo Juan Claudel Fe y Alegria,8010637,1,61,,26,,2,,3,,8,,67,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,32020,U.E. Obispo Juan Claudel Fe y Alegria,8010647,2,75,,33,,5,,6,,15,,56,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,32020,U.E. Obispo Juan Claudel Fe y Alegria,8010657,3,67,,34,,11,,4,,22,,51,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,32020,U.E. Obispo Juan Claudel Fe y Alegria,8010667,4,49,,35,,2,,7,,11,,66,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,32020,U.E. Obispo Juan Claudel Fe y Alegria,8010677,5,74,,24,,6,,5,,12,,59,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,32020,U.E. Obispo Juan Claudel Fe y Alegria,8010687,6,17,,6,,1,,1,,5,,13,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2787,Nuevos Horizontes,1,Esc. Central Nuevos Horizontes,8010187,1,58,,18,,3,,4,,50,,34,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2787,Nuevos Horizontes,1,Esc. Central Nuevos Horizontes,8010197,2,50,,17,,3,,4,,39,,40,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2787,Nuevos Horizontes,1,Esc. Central Nuevos Horizontes,8010207,3,42,,17,,14,,5,,33,,35,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,3520,Asunción de Quiquibey,1,Esc. Asuncion Del Quiquibey,8010217,1,16,,22,,3,,2,,45,,60,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,3734,Playa Ancha,1,Esc. Playa Ancha,8010227,1,29,,12,,4,,15,,94,,15,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,4171,Ticala Linares,25566,U.E. Collana Linares,8010447,1,56,,15,,27,,21,,57,,9,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,4171,Ticala Linares,25566,U.E. Collana Linares,8010457,2,48,,6,,19,,16,,57,,12,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,4171,Ticala Linares,25566,U.E. Collana Linares,8010467,3,64,,9,,24,,9,,51,,20,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,4171,Ticala Linares,25566,U.E. Collana Linares,8010477,4,10,,1,,5,,4,,8,,3,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,4232,Bajo Colorado,25864,U.E. Bajo Colorado,8010487,1,16,,11,,50,,6,,78,,4,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,4232,Bajo Colorado,25864,U.E. Bajo Colorado,8010497,2,28,,4,,47,,14,,70,,6,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,4232,Bajo Colorado,25864,U.E. Bajo Colorado,8010507,3,2,,1,,5,,2,,5,,0,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,4421,El Cebu,26178,U.E. El Cebu,8010517,1,81,,17,,3,,0,,33,,33,,
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,4421,El Cebu,26178,U.E. El Cebu,8010527,2,18,,5,,1,,0,,9,,8,,
+4,Yacuma,1,Santa Ana,2561,Totaisal,1,Esc. Cec. El Totaisal,8010697,1,,,35,85,18,,,,,,23,,
+4,Yacuma,1,Santa Ana,2561,Totaisal,1,Esc. Cec. El Totaisal,8010707,2,,,25,66,23,,,,,,12,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,1,U.E. Andrés Alberdi Salegui,8010827,1,,,70,26,31,,,,,,49,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,1,U.E. Andrés Alberdi Salegui,8010837,2,,,80,24,29,,,,,,50,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,1,U.E. Andrés Alberdi Salegui,8010847,3,,,83,20,39,,,,,,58,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,1,U.E. Andrés Alberdi Salegui,8010857,4,,,63,28,23,,,,,,62,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,1,U.E. Andrés Alberdi Salegui,8010867,5,,,64,15,32,,,,,,76,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,1,U.E. Andrés Alberdi Salegui,8010877,6,,,83,14,26,,,,,,66,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,1,U.E. Andrés Alberdi Salegui,8010887,7,,,81,26,38,,,,,,51,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,1,U.E. Andrés Alberdi Salegui,8010897,8,,,87,15,30,,,,,,63,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,1,U.E. Andrés Alberdi Salegui,8010907,9,,,68,32,26,,,,,,55,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,1,U.E. Andrés Alberdi Salegui,8010917,10,,,84,34,31,,,,,,50,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,1,U.E. Andrés Alberdi Salegui,8010927,11,,,64,18,28,,,,,,68,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,1,U.E. Andrés Alberdi Salegui,8010937,12,,,13,4,3,,,,,,6,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,2,U.E. Monseñor Daniel Rivero,8011017,1,,,68,17,30,,,,,,79,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,2,U.E. Monseñor Daniel Rivero,8011027,2,,,72,22,40,,,,,,75,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,2,U.E. Monseñor Daniel Rivero,8011037,3,,,64,9,37,,,,,,89,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,2,U.E. Monseñor Daniel Rivero,8011047,4,,,70,15,37,,,,,,71,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,2,U.E. Monseñor Daniel Rivero,8011057,5,,,63,24,34,,,,,,73,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,2,U.E. Monseñor Daniel Rivero,8011067,6,,,69,22,40,,,,,,66,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,2,U.E. Monseñor Daniel Rivero,8011077,7,,,64,18,37,,,,,,85,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,2,U.E. Monseñor Daniel Rivero,8011087,8,,,43,15,31,,,,,,40,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,3,U.E. Guillermo Searle,8010947,1,,,78,20,39,,,,,,43,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,3,U.E. Guillermo Searle,8010957,2,,,70,20,40,,,,,,51,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,3,U.E. Guillermo Searle,8010967,3,,,83,14,27,,,,,,55,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,3,U.E. Guillermo Searle,8010977,4,,,82,24,36,,,,,,47,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,3,U.E. Guillermo Searle,8010987,5,,,78,21,24,,,,,,62,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,3,U.E. Guillermo Searle,8010997,6,,,44,15,20,,,,,,44,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,25861,U.E. John Fitzgerald Kennedy,8011097,1,,,71,13,33,,,,,,51,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,25861,U.E. John Fitzgerald Kennedy,8011107,2,,,79,19,30,,,,,,43,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,25861,U.E. John Fitzgerald Kennedy,8011117,3,,,69,19,24,,,,,,40,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,25861,U.E. John Fitzgerald Kennedy,8011127,4,,,85,22,27,,,,,,38,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,25861,U.E. John Fitzgerald Kennedy,8011137,5,,,9,8,7,,,,,,8,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,32021,U.E. Monseñor Carlos Anasagasti Zulueta,8010757,1,,,64,18,34,,,,,,45,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,32021,U.E. Monseñor Carlos Anasagasti Zulueta,8010767,2,,,60,22,26,,,,,,65,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,32021,U.E. Monseñor Carlos Anasagasti Zulueta,8010777,3,,,68,18,34,,,,,,65,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,32021,U.E. Monseñor Carlos Anasagasti Zulueta,8010787,4,,,72,19,35,,,,,,70,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,32021,U.E. Monseñor Carlos Anasagasti Zulueta,8010797,5,,,67,26,33,,,,,,57,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,32021,U.E. Monseñor Carlos Anasagasti Zulueta,8010807,6,,,55,19,32,,,,,,87,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,32021,U.E. Monseñor Carlos Anasagasti Zulueta,8010817,7,,,45,14,27,,,,,,69,,
+4,Yacuma,1,Santa Ana,2581,Santa Ana,32116,U.E. Antonio Carvalho Urey,8011007,1,,,86,25,24,,,,,,56,,
+4,Yacuma,1,Santa Ana,2587,Los Montes de Oro,1,Esc. Los Montes De Oro,8010717,1,,,1,1,2,,,,,,1,,
+4,Yacuma,1,Santa Ana,2681,El Peru Rio Apere,1,Esc. Wenceslao Añez,8010727,1,,,49,42,40,,,,,,49,,
+4,Yacuma,1,Santa Ana,2681,El Peru Rio Apere,1,Esc. Wenceslao Añez,8010737,2,,,37,19,19,,,,,,32,,
+4,Yacuma,1,Santa Ana,4579,Carmen del Matto,32291,U.E. Carmen del Matto,8010747,1,,,13,15,9,,,,,,9,,
+4,Yacuma,2,Exaltación,2582,Exaltación,1,Esc. Jose Max Paredes,8011147,1,,,0,0,,,,,,,,,
+4,Yacuma,2,Exaltación,2582,Exaltación,1,Esc. Jose Max Paredes,8011157,2,,,0,0,,,,,,,,,
+4,Yacuma,2,Exaltación,2582,Exaltación,1,Esc. Jose Max Paredes,8011167,3,,,0,0,,,,,,,,,
+4,Yacuma,2,Exaltación,2582,Exaltación,1,Esc. Jose Max Paredes,8011177,4,,,0,0,,,,,,,,,
+4,Yacuma,2,Exaltación,2583,Coquinal,1,Esc. Coquinal,8011187,1,,,70,112,,,,,,,,,
+4,Yacuma,2,Exaltación,2584,San Carlos,1,Esc. San Carlos,8011197,1,,,36,17,,,,,,,,,
+4,Yacuma,2,Exaltación,2585,El Trompillo Mamoré,1,Esc. El Trompillo,8011207,1,,,6,4,,,,,,,,,
+4,Yacuma,2,Exaltación,2586,Rancho Ginebra,1,Esc. El Motacusal,8011217,1,,,74,27,,,,,,,,,
+4,Yacuma,2,Exaltación,3102,Cooperativa,1,Esc. Cooperativa,8011227,1,,,29,14,,,,,,,,,
+4,Yacuma,2,Exaltación,3103,San Juan del Jordán,1,Escuela San Juan del Jordan,8011237,1,,,32,34,,,,,,,,,
+4,Yacuma,2,Exaltación,3521,Nueva Esperanza,1,Esc. Nueva Esperanza,8011247,1,,,8,28,,,,,,,,,
+4,Yacuma,2,Exaltación,3522,Campo Ana Maria,1,Esc. Campo Ana Maria,8011257,1,,,19,12,,,,,,,,,
+4,Yacuma,2,Exaltación,4117,Las Abras de Yacuma,1,U.E. Las Abras De Yacuma,8011267,1,,,21,95,,,,,,,,,
+4,Yacuma,2,Exaltación,4486,Bienvenido,32117,U.E. Bienvenido,8011277,1,,,27,85,,,,,,,,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,2,L. Gilfredo Cortez Candia,8011517,1,38,9,22,63,3,,,,55,,5,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,2,L. Gilfredo Cortez Candia,8011527,2,24,17,4,72,4,,,,40,,10,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,2,L. Gilfredo Cortez Candia,8011537,3,30,14,11,58,6,,,,62,,4,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,2,L. Gilfredo Cortez Candia,8011547,4,43,9,15,55,3,,,,50,,9,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,2,L. Gilfredo Cortez Candia,8011557,5,33,16,16,65,2,,,,55,,4,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,2,L. Gilfredo Cortez Candia,8011567,6,28,12,16,62,2,,,,58,,10,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,2,L. Gilfredo Cortez Candia,8011577,7,13,11,17,67,8,,,,57,,14,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,2,L. Gilfredo Cortez Candia,8011587,8,28,15,12,77,2,,,,48,,4,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,2,L. Gilfredo Cortez Candia,8011597,9,22,12,14,77,4,,,,33,,7,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,2,L. Gilfredo Cortez Candia,8011607,10,14,4,6,34,3,,,,29,,3,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,26360,U.E. Estanislau de Marchena,8011767,1,26,8,13,73,4,,,,42,,6,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,26360,U.E. Estanislau de Marchena,8011777,2,21,9,12,53,4,,,,62,,5,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,26360,U.E. Estanislau de Marchena,8011787,3,25,13,5,73,4,,,,46,,9,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,26360,U.E. Estanislau de Marchena,8011797,4,15,8,7,77,17,,,,48,,9,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,26360,U.E. Estanislau de Marchena,8011807,5,34,18,25,47,1,,,,39,,13,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,26360,U.E. Estanislau de Marchena,8011817,6,39,12,19,42,2,,,,58,,12,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,26360,U.E. Estanislau de Marchena,8011827,7,28,6,18,75,11,,,,38,,13,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,26360,U.E. Estanislau de Marchena,8011837,8,41,10,13,58,4,,,,56,,7,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,26360,U.E. Estanislau de Marchena,8011847,9,23,10,13,65,4,,,,57,,13,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,26360,U.E. Estanislau de Marchena,8011857,10,9,0,4,15,0,,,,2,,4,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,32433,U.E. Sócrates Parada Eguez,8011637,1,43,10,17,68,6,,,,51,,5,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,32433,U.E. Sócrates Parada Eguez,8011647,2,33,12,18,68,4,,,,49,,10,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,32433,U.E. Sócrates Parada Eguez,8011657,3,32,13,15,69,6,,,,46,,8,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,32433,U.E. Sócrates Parada Eguez,8011667,4,28,12,13,73,4,,,,48,,4,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,32433,U.E. Sócrates Parada Eguez,8011677,5,30,12,22,67,3,,,,48,,10,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,32433,U.E. Sócrates Parada Eguez,8011687,6,27,9,14,58,3,,,,72,,4,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,32433,U.E. Sócrates Parada Eguez,8011697,7,26,12,11,71,6,,,,48,,4,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,32433,U.E. Sócrates Parada Eguez,8011707,8,19,7,10,82,11,,,,54,,7,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,32433,U.E. Sócrates Parada Eguez,8011717,9,40,16,13,59,5,,,,50,,8,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,32433,U.E. Sócrates Parada Eguez,8011727,10,36,8,17,69,4,,,,44,,9,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,32433,U.E. Sócrates Parada Eguez,8011737,11,22,9,26,75,4,,,,39,,14,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,32433,U.E. Sócrates Parada Eguez,8011747,12,27,9,13,68,5,,,,63,,6,,
+5,Moxos,1,San Ignacio,2596,San Ignacio,32433,U.E. Sócrates Parada Eguez,8011757,13,18,4,7,27,2,,,,22,,3,,
+5,Moxos,1,San Ignacio,2597,San Ignacito,1,Esc. Central San Ignacito,8011287,1,0,1,5,1,0,,,,3,,0,,
+5,Moxos,1,San Ignacio,2598,Fatima,1,Esc. Fatima,8011297,1,6,4,8,25,3,,,,71,,7,,
+5,Moxos,1,San Ignacio,2600,Argentina,1,Esc. La Argentina,8011307,1,1,3,0,26,17,,,,39,,13,,
+5,Moxos,1,San Ignacio,2601,Desengaño,1,Esc. El Desengaño,8011317,1,56,4,5,7,0,,,,33,,2,,
+5,Moxos,1,San Ignacio,2604,San Francisco,1,Esc. San Francisco,8011327,1,4,66,4,34,2,,,,19,,5,,
+5,Moxos,1,San Ignacio,2604,San Francisco,1,Esc. San Francisco,8011337,2,1,8,3,20,1,,,,2,,1,,
+5,Moxos,1,San Ignacio,2605,San Lorenzo de Moxos,1,Esc. Ovidio Roca C.,8011347,1,30,16,17,52,1,,,,54,,4,,
+5,Moxos,1,San Ignacio,2605,San Lorenzo de Moxos,1,Esc. Ovidio Roca C.,8011357,2,12,12,9,53,0,,,,78,,1,,
+5,Moxos,1,San Ignacio,2605,San Lorenzo de Moxos,1,Esc. Ovidio Roca C.,8011367,3,16,9,6,45,2,,,,42,,2,,
+5,Moxos,1,San Ignacio,2608,San José de Patrocinio,1,Esc. San Jose De Patrocinio,8011377,1,7,2,3,9,3,,,,0,,2,,
+5,Moxos,1,San Ignacio,2609,Santisima Trinidad,1,Escuela Santísima Trinidad,8011387,1,9,10,61,39,12,,,,12,,8,,
+5,Moxos,1,San Ignacio,2609,Santisima Trinidad,1,Escuela Santísima Trinidad,8011397,2,3,4,12,13,0,,,,4,,2,,
+5,Moxos,1,San Ignacio,2610,Puerto San Lorenzo de Moxos,1,Esc. Pto. San Lorenzo,8011407,1,46,4,2,3,9,,,,7,,3,,
+5,Moxos,1,San Ignacio,2611,San Miguelito del Isiboro,1,Esc. San Miguelito Isiboro,8011417,1,8,9,36,18,2,,,,4,,6,,
+5,Moxos,1,San Ignacio,2824,Litoral,1,Esc. Litoral,8011427,1,9,9,4,42,9,,,,60,,7,,
+5,Moxos,1,San Ignacio,2827,Monte Mae,1,Esc. Monte Mae,8011437,1,8,14,22,28,0,,,,4,,3,,
+5,Moxos,1,San Ignacio,3108,San Antonio de Imose,1,Esc. San Antonio De Imose,8011447,1,32,2,5,2,4,,,,6,,5,,
+5,Moxos,1,San Ignacio,3110,Mercedes de Lojojota,1,Esc. Mercedes De Lojojota,8011457,1,10,8,30,51,8,,,,7,,6,,
+5,Moxos,1,San Ignacio,3127,Trinidacito,1,Esc. Trinidacito,8011467,1,3,5,5,4,9,,,,4,,3,,
+5,Moxos,1,San Ignacio,3406,Bermeo,1,Escuela De Bermeo,8011477,1,3,10,4,26,11,,,,12,,15,,
+5,Moxos,1,San Ignacio,3757,Oromomo,1,Esc. Oromomo,8011487,1,5,5,53,6,8,,,,40,,9,,
+5,Moxos,1,San Ignacio,3757,Oromomo,1,Esc. Oromomo,8011497,2,9,5,22,10,6,,,,24,,10,,
+5,Moxos,1,San Ignacio,3875,San Bernardo,1,U.E. San Bernardo,8011507,1,50,3,6,7,8,,,,8,,6,,
+5,Moxos,1,San Ignacio,4358,San José del Secure,26060,U.E. San José del Secure,8011617,1,16,3,1,7,5,,,,41,,5,,
+5,Moxos,1,San Ignacio,4595,Comunidad Indígena San Ramoncito Rio Ichoa Tipnis,32337,U.E. San Mateo de San Ramoncito,8011627,1,0,3,3,15,2,,,,18,,4,,
+6,Marbán,1,Loreto,2624,Loreto,1,Esc. Perfecta Vda. De Bejarano,8011947,1,,,73,133,0,,,,,,1,,
+6,Marbán,1,Loreto,2624,Loreto,1,Esc. Perfecta Vda. De Bejarano,8011957,2,,,62,139,3,,,,,,2,,
+6,Marbán,1,Loreto,2624,Loreto,1,Esc. Perfecta Vda. De Bejarano,8011967,3,,,24,31,1,,,,,,0,,
+6,Marbán,1,Loreto,2625,San Antonio de Loras,1,Esc. San Antonio,8011977,1,,,14,6,9,,,,,,0,,
+6,Marbán,1,Loreto,2626,Camiaco,1,Esc. Camiaco,8011987,1,,,28,39,110,,,,,,1,,
+6,Marbán,1,Loreto,2626,Camiaco,1,Esc. Camiaco,8011997,2,,,13,32,70,,,,,,0,,
+6,Marbán,1,Loreto,2630,Gundonovia,1,Esc. Gundonovia,8012007,1,,,21,57,18,,,,,,1,,
+6,Marbán,1,Loreto,2631,Sachojere,1,Esc. Sachojere,8012017,1,,,93,97,3,,,,,,1,,
+6,Marbán,1,Loreto,2631,Sachojere,1,Esc. Sachojere,8012027,2,,,76,48,3,,,,,,0,,
+6,Marbán,1,Loreto,2747,San Pablo del Isiboro,1,Esc. San Pablo Isiboro,8012037,1,,,47,77,12,,,,,,1,,
+6,Marbán,1,Loreto,3105,Santa Rosa del Isiboro,1,Santa Rosa del Isiboro,8012047,1,,,104,4,3,,,,,,1,,
+6,Marbán,1,Loreto,3316,Santa Rosa del Chapare,1,Escuela Santa Rosa del Chapare,8012057,1,,,28,0,1,,,,,,0,,
+6,Marbán,1,Loreto,3876,Palermo,1,U.E. Palermo,8012067,1,,,26,15,7,,,,,,0,,
+6,Marbán,1,Loreto,3878,Villa El Carmen del Remanzo,1,U.E. Villa El Carmen del Remanzo,8012077,1,,,11,15,44,,,,,,0,,
+6,Marbán,2,San Andrés,2633,San Andrés,1,Esc. Humberto Velarde,8012087,1,74,59,37,5,,,3,,0,,,,
+6,Marbán,2,San Andrés,2633,San Andrés,1,Esc. Humberto Velarde,8012097,2,7,11,2,0,,,0,,0,,,,
+6,Marbán,2,San Andrés,2634,Perotó,1,Esc. Peroto,8012107,1,77,78,9,3,,,1,,2,,,,
+6,Marbán,2,San Andrés,2635,Villa Banzer,1,Esc.Villa Banzer,8012117,1,34,22,6,7,,,25,,1,,,,
+6,Marbán,2,San Andrés,2636,Santa Rosa Km.100,1,Esc. Santa Rosa,8012127,1,24,61,15,21,,,38,,17,,,,
+6,Marbán,2,San Andrés,2636,Santa Rosa Km.100,1,Esc. Santa Rosa,8012137,2,18,61,17,14,,,30,,21,,,,
+6,Marbán,2,San Andrés,2636,Santa Rosa Km.100,1,Esc. Santa Rosa,8012147,3,1,14,0,1,,,0,,1,,,,
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012327,1,11,38,59,10,,,36,,15,,,,
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012337,2,18,26,51,10,,,33,,30,,,,
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012347,3,14,26,54,8,,,50,,19,,,,
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012357,4,15,47,48,7,,,39,,20,,,,
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012367,5,11,63,40,5,,,41,,16,,,,
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012377,6,23,30,46,2,,,42,,22,,,,
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012387,7,16,50,43,4,,,33,,22,,,,
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012397,8,23,87,33,6,,,28,,21,,,,
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012407,9,15,27,44,12,,,36,,27,,,,
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012417,10,13,33,47,9,,,55,,21,,,,
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012427,11,21,44,36,7,,,36,,24,,,,
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012437,12,13,34,37,8,,,48,,21,,,,
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012447,13,12,40,61,12,,,41,,21,,,,
+6,Marbán,2,San Andrés,2638,Caimanes,1,Esc. Caimanes,8012157,1,52,16,48,19,,,25,,10,,,,
+6,Marbán,2,San Andrés,2642,San Lorenzo de Marban,1,Esc. San Lorenzo,8012167,1,20,38,11,15,,,4,,0,,,,
+6,Marbán,2,San Andrés,2643,Villa Alba,1,Esc. Villa Alba,8012177,1,39,81,11,3,,,3,,2,,,,
+6,Marbán,2,San Andrés,2683,Somopae,1,Esc. Somopae,8012187,1,91,43,21,11,,,11,,2,,,,
+6,Marbán,2,San Andrés,2683,Somopae,1,Esc. Somopae,8012197,2,23,11,7,3,,,4,,0,,,,
+6,Marbán,2,San Andrés,2748,Buen Jesús,1,Esc. Buen Jesus,8012207,1,70,70,17,4,,,11,,9,,,,
+6,Marbán,2,San Andrés,2748,Buen Jesús,1,Esc. Buen Jesus,8012217,2,65,51,7,10,,,7,,4,,,,
+6,Marbán,2,San Andrés,3072,Monte Cristo,1,Esc. Monte Cristo,8012227,1,13,3,7,6,,,8,,2,,,,
+6,Marbán,2,San Andrés,3073,La Isiga Perseverancia,1,Esc. La Isiga Persevera,8012237,1,2,7,1,3,,,0,,0,,,,
+6,Marbán,2,San Andrés,3113,4 de Julio,1,Escuela 4 de Julio,8012247,1,22,18,6,12,,,96,,9,,,,
+6,Marbán,2,San Andrés,3113,4 de Julio,1,Escuela 4 de Julio,8012257,2,6,4,2,1,,,15,,1,,,,
+6,Marbán,2,San Andrés,3276,Elvira,1,Escuela Elvira,8012267,1,83,30,26,17,,,7,,4,,,,
+6,Marbán,2,San Andrés,3276,Elvira,1,Escuela Elvira,8012277,2,42,18,17,0,,,0,,0,,,,
+6,Marbán,2,San Andrés,3341,Nueva Magdalena,1,Escuela Nueva Magdalena,8012287,1,14,35,16,36,,,54,,20,,,,
+6,Marbán,2,San Andrés,3341,Nueva Magdalena,1,Escuela Nueva Magdalena,8012297,2,7,26,5,16,,,23,,7,,,,
+6,Marbán,2,San Andrés,3385,Nueva Betania,1,Escuela de Nueva Betania,8012307,1,88,60,17,5,,,6,,5,,,,
+6,Marbán,2,San Andrés,3385,Nueva Betania,1,Escuela de Nueva Betania,8012317,2,73,42,6,2,,,3,,6,,,,
+6,Marbán,2,San Andrés,4115,Villa San Pedro,25525,U.E. Canaan,8012457,1,92,13,5,6,,,26,,19,,,,
+6,Marbán,2,San Andrés,4115,Villa San Pedro,25525,U.E. Canaan,8012467,2,85,13,13,11,,,28,,5,,,,
+6,Marbán,2,San Andrés,4422,Unión y Fe,26179,U.E. Unión y Fe,8012477,1,44,53,7,11,,,51,,6,,,,
+6,Marbán,2,San Andrés,4422,Unión y Fe,26179,U.E. Unión y Fe,8012487,2,7,4,2,1,,,6,,1,,,,
+7,Mamoré,1,San Joaquín,2612,San Joaquín,2,U.E. Arturo Cuellar Rea,8012527,1,66,,8,,,,,,,,84,,
+7,Mamoré,1,San Joaquín,2612,San Joaquín,2,U.E. Arturo Cuellar Rea,8012537,2,69,,7,,,,,,,,92,,
+7,Mamoré,1,San Joaquín,2612,San Joaquín,2,U.E. Arturo Cuellar Rea,8012547,3,80,,8,,,,,,,,65,,
+7,Mamoré,1,San Joaquín,2612,San Joaquín,2,U.E. Arturo Cuellar Rea,8012557,4,71,,6,,,,,,,,72,,
+7,Mamoré,1,San Joaquín,2612,San Joaquín,2,U.E. Arturo Cuellar Rea,8012567,5,60,,12,,,,,,,,94,,
+7,Mamoré,1,San Joaquín,2612,San Joaquín,2,U.E. Arturo Cuellar Rea,8012577,6,81,,2,,,,,,,,86,,
+7,Mamoré,1,San Joaquín,2612,San Joaquín,2,U.E. Arturo Cuellar Rea,8012587,7,67,,6,,,,,,,,101,,
+7,Mamoré,1,San Joaquín,2612,San Joaquín,2,U.E. Arturo Cuellar Rea,8012597,8,44,,4,,,,,,,,64,,
+7,Mamoré,1,San Joaquín,2612,San Joaquín,3,Unidad Educativa 21 de Agosto,8012607,1,88,,10,,,,,,,,94,,
+7,Mamoré,1,San Joaquín,2612,San Joaquín,3,Unidad Educativa 21 de Agosto,8012617,2,93,,10,,,,,,,,87,,
+7,Mamoré,1,San Joaquín,2612,San Joaquín,3,Unidad Educativa 21 de Agosto,8012627,3,64,,13,,,,,,,,118,,
+7,Mamoré,1,San Joaquín,2612,San Joaquín,3,Unidad Educativa 21 de Agosto,8012637,4,64,,7,,,,,,,,120,,
+7,Mamoré,1,San Joaquín,2612,San Joaquín,3,Unidad Educativa 21 de Agosto,8012647,5,83,,9,,,,,,,,98,,
+7,Mamoré,1,San Joaquín,2612,San Joaquín,3,Unidad Educativa 21 de Agosto,8012657,6,66,,7,,,,,,,,116,,
+7,Mamoré,1,San Joaquín,2612,San Joaquín,3,Unidad Educativa 21 de Agosto,8012667,7,23,,3,,,,,,,,46,,
+7,Mamoré,1,San Joaquín,2620,Chaco Lejos,1,Esc. Chaco Lejos,8012497,1,4,,2,,,,,,,,35,,
+7,Mamoré,1,San Joaquín,2621,Puerto Ustarez,1,Esc. Puerto Ustarez,8012507,1,27,,3,,,,,,,,67,,
+7,Mamoré,1,San Joaquín,3079,Moré Monte Azul,1,Esc. More Monte Azul,8012517,1,26,,1,,,,,,,,71,,
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012677,1,143,,,,,,,,,,60,,
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012687,2,126,,,,,,,,,,62,,
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012697,3,127,,,,,,,,,,67,,
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012707,4,133,,,,,,,,,,74,,
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012717,5,119,,,,,,,,,,78,,
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012727,6,115,,,,,,,,,,85,,
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012737,7,116,,,,,,,,,,87,,
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012747,8,107,,,,,,,,,,92,,
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012757,9,131,,,,,,,,,,69,,
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012767,10,117,,,,,,,,,,96,,
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012777,11,117,,,,,,,,,,76,,
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012787,12,63,,,,,,,,,,52,,
+7,Mamoré,2,San Ramón,2617,Poyori,1,Esc. El Poyori,8012797,1,30,,,,,,,,,,15,,
+7,Mamoré,2,San Ramón,3173,El Carmen de Guacayane,1,Esc. El Carmen de Guacayane,8012807,1,39,,,,,,,,,,14,,
+7,Mamoré,3,Puerto Siles,2618,Puerto Siles,1,Esc. Antofagasta,8012817,1,141,,28,,,,,,,,27,,
+7,Mamoré,3,Puerto Siles,2618,Puerto Siles,1,Esc. Antofagasta,8012827,2,27,,9,,,,,,,,5,,
+7,Mamoré,3,Puerto Siles,2619,Santa Rosa de Vigo,1,Esc. Santa Rosa,8012837,1,13,,23,,,,,,,,116,,
+7,Mamoré,3,Puerto Siles,2622,Alejandría,1,Esc. Alejandria,8012847,1,1,,8,,,,,,,,28,,
+8,Iténez,1,Magdalena,2644,Magdalena,1,U.E. Mcal. Jose Ballivian,8012857,1,55,35,105,,,,,,,,,,
+8,Iténez,1,Magdalena,2644,Magdalena,1,U.E. Mcal. Jose Ballivian,8012867,2,68,38,84,,,,,,,,,,
+8,Iténez,1,Magdalena,2644,Magdalena,1,U.E. Mcal. Jose Ballivian,8012877,3,44,33,113,,,,,,,,,,
+8,Iténez,1,Magdalena,2644,Magdalena,1,U.E. Mcal. Jose Ballivian,8012887,4,64,31,94,,,,,,,,,,
+8,Iténez,1,Magdalena,2644,Magdalena,1,U.E. Mcal. Jose Ballivian,8012897,5,50,37,88,,,,,,,,,,
+8,Iténez,1,Magdalena,2644,Magdalena,1,U.E. Mcal. Jose Ballivian,8012907,6,49,28,118,,,,,,,,,,
+8,Iténez,1,Magdalena,2644,Magdalena,1,U.E. Mcal. Jose Ballivian,8012917,7,59,31,96,,,,,,,,,,
+8,Iténez,1,Magdalena,2644,Magdalena,1,U.E. Mcal. Jose Ballivian,8012927,8,5,0,21,,,,,,,,,,
+8,Iténez,1,Magdalena,2644,Magdalena,32118,U.E. Carmen Urdininea Rivero,8013087,1,62,19,111,,,,,,,,,,
+8,Iténez,1,Magdalena,2644,Magdalena,32118,U.E. Carmen Urdininea Rivero,8013097,2,55,43,87,,,,,,,,,,
+8,Iténez,1,Magdalena,2644,Magdalena,32118,U.E. Carmen Urdininea Rivero,8013107,3,91,29,82,,,,,,,,,,
+8,Iténez,1,Magdalena,2644,Magdalena,32118,U.E. Carmen Urdininea Rivero,8013117,4,57,22,123,,,,,,,,,,
+8,Iténez,1,Magdalena,2644,Magdalena,32118,U.E. Carmen Urdininea Rivero,8013127,5,72,31,87,,,,,,,,,,
+8,Iténez,1,Magdalena,2644,Magdalena,32118,U.E. Carmen Urdininea Rivero,8013137,6,73,33,87,,,,,,,,,,
+8,Iténez,1,Magdalena,2644,Magdalena,32118,U.E. Carmen Urdininea Rivero,8013147,7,55,34,109,,,,,,,,,,
+8,Iténez,1,Magdalena,2644,Magdalena,32118,U.E. Carmen Urdininea Rivero,8013157,8,69,33,92,,,,,,,,,,
+8,Iténez,1,Magdalena,2644,Magdalena,32118,U.E. Carmen Urdininea Rivero,8013167,9,68,30,99,,,,,,,,,,
+8,Iténez,1,Magdalena,2644,Magdalena,32118,U.E. Carmen Urdininea Rivero,8013177,10,33,11,37,,,,,,,,,,
+8,Iténez,1,Magdalena,2645,Nueva Calama,1,Esc. Angel Chavez Arza,8012937,1,17,24,77,,,,,,,,,,
+8,Iténez,1,Magdalena,2646,La Cayoba,1,Esc. La Cayoba,8012947,1,59,5,54,,,,,,,,,,
+8,Iténez,1,Magdalena,2647,Santa María del Itenez,1,Esc. Santa Maria,8012957,1,38,0,33,,,,,,,,,,
+8,Iténez,1,Magdalena,2648,Versalles,1,Esc. Central 1o. De Mayo,8012967,1,15,5,37,,,,,,,,,,
+8,Iténez,1,Magdalena,2649,Orobayaya,1,U.E. Cnel. Carmelo Cuellar J.,8012977,1,81,14,90,,,,,,,,,,
+8,Iténez,1,Magdalena,2649,Orobayaya,1,U.E. Cnel. Carmelo Cuellar J.,8012987,2,13,2,25,,,,,,,,,,
+8,Iténez,1,Magdalena,2650,Bella Vista,1,U.E. Macedonio Paz Pino,8012997,1,63,15,102,,,,,,,,,,
+8,Iténez,1,Magdalena,2650,Bella Vista,1,U.E. Macedonio Paz Pino,8013007,2,63,21,100,,,,,,,,,,
+8,Iténez,1,Magdalena,2650,Bella Vista,1,U.E. Macedonio Paz Pino,8013017,3,58,8,103,,,,,,,,,,
+8,Iténez,1,Magdalena,2650,Bella Vista,1,U.E. Macedonio Paz Pino,8013027,4,70,9,111,,,,,,,,,,
+8,Iténez,1,Magdalena,2650,Bella Vista,1,U.E. Macedonio Paz Pino,8013037,5,73,15,98,,,,,,,,,,
+8,Iténez,1,Magdalena,2650,Bella Vista,1,U.E. Macedonio Paz Pino,8013047,6,34,15,82,,,,,,,,,,
+8,Iténez,1,Magdalena,2682,Buena Vista,1,Esc. Buena Vista,8013057,1,51,14,89,,,,,,,,,,
+8,Iténez,1,Magdalena,2682,Buena Vista,1,Esc. Buena Vista,8013067,2,7,1,17,,,,,,,,,,
+8,Iténez,1,Magdalena,3129,San Borja Río Blanco,1,Esc. San Borja Rio Blanco,8013077,1,60,12,80,,,,,,,,,,
+8,Iténez,1,Magdalena,4578,Nueva Brema,32289,U.E. Nueva Brema,8013187,1,12,11,65,,,,,,,,,,
+8,Iténez,2,Baures,2651,Baures,1,U.E. Carmelo López,8013197,1,64,72,55,,,,,,,,,,
+8,Iténez,2,Baures,2651,Baures,1,U.E. Carmelo López,8013207,2,62,53,48,,,,,,,,,,
+8,Iténez,2,Baures,2651,Baures,1,U.E. Carmelo López,8013217,3,54,75,64,,,,,,,,,,
+8,Iténez,2,Baures,2651,Baures,1,U.E. Carmelo López,8013227,4,86,50,66,,,,,,,,,,
+8,Iténez,2,Baures,2651,Baures,1,U.E. Carmelo López,8013237,5,61,72,59,,,,,,,,,,
+8,Iténez,2,Baures,2651,Baures,1,U.E. Carmelo López,8013247,6,68,50,89,,,,,,,,,,
+8,Iténez,2,Baures,2651,Baures,1,U.E. Carmelo López,8013257,7,22,23,20,,,,,,,,,,
+8,Iténez,2,Baures,2652,El Cairo,1,U.E. El Cairo,8013267,1,18,57,18,,,,,,,,,,
+8,Iténez,2,Baures,2654,El Remanzo del Itenez,1,Esc. El Remanzo,8013277,1,104,10,51,,,,,,,,,,
+8,Iténez,2,Baures,2654,El Remanzo del Itenez,1,Esc. El Remanzo,8013287,2,56,6,75,,,,,,,,,,
+8,Iténez,2,Baures,2656,Cafetal,1,Esc. Seccional Cafetal,8013297,1,28,43,58,,,,,,,,,,
+8,Iténez,2,Baures,2656,Cafetal,1,Esc. Seccional Cafetal,8013307,2,6,15,13,,,,,,,,,,
+8,Iténez,2,Baures,2819,San Simon,1,Esc. San Simon,8013317,1,53,71,22,,,,,,,,,,
+8,Iténez,2,Baures,2819,San Simon,1,Esc. San Simon,8013327,2,6,9,3,,,,,,,,,,
+8,Iténez,2,Baures,3174,Jasiaquiri,1,U.E. Jasiaquiri,8013337,1,54,37,58,,,,,,,,,,
+8,Iténez,2,Baures,3523,Alta Gracia,1,Esc. Alta Gracia,8013347,1,30,33,42,,,,,,,,,,
+8,Iténez,2,Baures,3524,Monte Cristo del Tiquin,1,Esc. Monte Cristo Del Tiquin,8013357,1,38,43,46,,,,,,,,,,
+8,Iténez,2,Baures,3525,El Cairo II,1,Esc. Cairo II,8013367,1,2,17,7,,,,,,,,,,
+8,Iténez,2,Baures,4417,Mategua,26174,U.E. Mategua,8013377,1,21,20,14,,,,,,,,,,
+8,Iténez,3,Huacaraje,2657,Huacaraje,1,U.E. Juan Alberto Orellana,8013387,1,72,,134,,,,,,,,,,
+8,Iténez,3,Huacaraje,2657,Huacaraje,1,U.E. Juan Alberto Orellana,8013397,2,88,,120,,,,,,,,,,
+8,Iténez,3,Huacaraje,2657,Huacaraje,1,U.E. Juan Alberto Orellana,8013407,3,68,,136,,,,,,,,,,
+8,Iténez,3,Huacaraje,2657,Huacaraje,1,U.E. Juan Alberto Orellana,8013417,4,114,,94,,,,,,,,,,
+8,Iténez,3,Huacaraje,2657,Huacaraje,1,U.E. Juan Alberto Orellana,8013427,5,96,,116,,,,,,,,,,
+8,Iténez,3,Huacaraje,2657,Huacaraje,1,U.E. Juan Alberto Orellana,8013437,6,71,,99,,,,,,,,,,
+8,Iténez,3,Huacaraje,2658,El Carmen del Itenez,1,Esc. El Carmen,8013447,1,100,,97,,,,,,,,,,
+8,Iténez,3,Huacaraje,2658,El Carmen del Itenez,1,Esc. El Carmen,8013457,2,57,,122,,,,,,,,,,
+8,Iténez,3,Huacaraje,2658,El Carmen del Itenez,1,Esc. El Carmen,8013467,3,50,,106,,,,,,,,,,
+8,Iténez,3,Huacaraje,3130,La Embrolla,1,U.E. Juan Antonio Velarde Guerra,8013477,1,28,,41,,,,,,,,,,

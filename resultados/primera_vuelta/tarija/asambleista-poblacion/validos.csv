@@ -1,0 +1,1767 @@
+CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,NombreLocalidad,CodigoRecinto,NombreRecinto,CodigoMesa,NumeroMesa,PATRIA,MTS,CDC,PDC,ISA,APB-SUMATE,A-UPP,NGP
+1,Cercado,1,Tarija,1860,San Mateo,1,U.E. San Mateo,6000011,1,42,2,28,22,7,1,8,2
+1,Cercado,1,Tarija,1860,San Mateo,1,U.E. San Mateo,6000021,2,39,8,48,22,3,1,4,5
+1,Cercado,1,Tarija,1860,San Mateo,1,U.E. San Mateo,6000031,3,34,5,39,22,3,2,5,4
+1,Cercado,1,Tarija,1860,San Mateo,1,U.E. San Mateo,6000041,4,28,5,38,20,12,0,5,7
+1,Cercado,1,Tarija,1860,San Mateo,1,U.E. San Mateo,6000051,5,24,4,41,14,2,2,8,6
+1,Cercado,1,Tarija,1860,San Mateo,1,U.E. San Mateo,6000061,6,27,5,29,24,4,2,2,11
+1,Cercado,1,Tarija,1860,San Mateo,1,U.E. San Mateo,6000071,7,30,5,37,12,5,1,7,2
+1,Cercado,1,Tarija,1860,San Mateo,1,U.E. San Mateo,6000081,8,30,3,39,15,2,1,7,6
+1,Cercado,1,Tarija,1860,San Mateo,1,U.E. San Mateo,6000091,9,25,7,40,14,7,3,3,4
+1,Cercado,1,Tarija,1860,San Mateo,1,U.E. San Mateo,6000101,10,38,7,38,23,6,0,4,4
+1,Cercado,1,Tarija,1860,San Mateo,1,U.E. San Mateo,6000111,11,34,5,43,16,6,1,4,5
+1,Cercado,1,Tarija,1860,San Mateo,1,U.E. San Mateo,6000121,12,22,3,55,12,0,0,1,5
+1,Cercado,1,Tarija,1861,Monte Cercado,1,U.E. Monte Cercado,6000131,1,24,11,53,6,7,0,4,3
+1,Cercado,1,Tarija,1861,Monte Cercado,1,U.E. Monte Cercado,6000141,2,7,3,17,2,0,2,0,0
+1,Cercado,1,Tarija,1862,Sella Quebrada,1,U.E. Sella Quebrada,6000151,1,20,2,32,16,4,3,3,2
+1,Cercado,1,Tarija,1864,Yesera Norte,1,U.E. Yesera Norte,6000161,1,21,0,39,8,3,1,0,4
+1,Cercado,1,Tarija,1864,Yesera Norte,1,U.E. Yesera Norte,6000171,2,3,2,18,1,1,3,0,1
+1,Cercado,1,Tarija,1865,Yesera Centro,1,U.E. Yesera Centro,6000181,1,28,0,23,5,2,0,0,2
+1,Cercado,1,Tarija,1865,Yesera Centro,1,U.E. Yesera Centro,6000191,2,6,0,15,1,0,0,0,0
+1,Cercado,1,Tarija,1866,Yesera Sud,1,U.E. Yesera Sud,6000201,1,16,1,44,2,1,1,0,3
+1,Cercado,1,Tarija,1866,Yesera Sud,1,U.E. Yesera Sud,6000211,2,2,1,18,4,0,2,1,1
+1,Cercado,1,Tarija,1868,Junacas Sud,1,U.E. Junacas Sud,6000221,1,11,21,22,10,9,1,3,1
+1,Cercado,1,Tarija,1868,Junacas Sud,1,U.E. Junacas Sud,6000231,2,2,3,5,2,1,0,0,0
+1,Cercado,1,Tarija,1869,Carlazo Centro,1,U.E. Carlazo Centro,6000241,1,12,0,10,5,2,0,10,5
+1,Cercado,1,Tarija,1870,Papachacra,1,U.E. Papachacra,6000251,1,16,2,41,9,2,0,3,1
+1,Cercado,1,Tarija,1871,San Agustin Sud,1,U.E. San Agustin Sud,6000261,1,10,7,22,6,3,2,1,2
+1,Cercado,1,Tarija,1873,Santa Ana La Nueva,1,U.E. Santa Ana La Nueva,6000271,1,17,4,55,9,5,0,2,5
+1,Cercado,1,Tarija,1873,Santa Ana La Nueva,1,U.E. Santa Ana La Nueva,6000281,2,17,1,49,13,7,0,4,3
+1,Cercado,1,Tarija,1873,Santa Ana La Nueva,1,U.E. Santa Ana La Nueva,6000291,3,7,1,30,7,2,0,0,1
+1,Cercado,1,Tarija,1874,Gamoneda,1,U.E. Gamoneda,6000301,1,7,3,18,5,2,0,3,4
+1,Cercado,1,Tarija,1875,La Pintada,1,U.E. La Pintada,6000311,1,25,2,45,6,3,2,4,3
+1,Cercado,1,Tarija,1875,La Pintada,1,U.E. La Pintada,6000321,2,34,2,57,11,3,1,1,0
+1,Cercado,1,Tarija,1875,La Pintada,1,U.E. La Pintada,6000331,3,33,6,47,17,0,2,6,6
+1,Cercado,1,Tarija,1875,La Pintada,1,U.E. La Pintada,6000341,4,35,7,42,17,5,1,1,5
+1,Cercado,1,Tarija,1875,La Pintada,1,U.E. La Pintada,6000351,5,30,8,58,4,3,1,1,3
+1,Cercado,1,Tarija,1875,La Pintada,1,U.E. La Pintada,6000361,6,13,0,24,3,1,1,1,3
+1,Cercado,1,Tarija,1876,Tolomosa Grande,1,U.E. Oscar Zamora,6000371,1,13,14,24,14,6,0,1,6
+1,Cercado,1,Tarija,1876,Tolomosa Grande,1,U.E. Oscar Zamora,6000381,2,14,10,37,4,5,0,4,2
+1,Cercado,1,Tarija,1876,Tolomosa Grande,1,U.E. Oscar Zamora,6000391,3,25,8,21,13,9,0,3,3
+1,Cercado,1,Tarija,1876,Tolomosa Grande,1,U.E. Oscar Zamora,6000401,4,10,4,23,4,5,0,0,0
+1,Cercado,1,Tarija,1877,Tolomosita Centro,1,U.E. Tolomosita,6000411,1,38,2,25,10,2,0,6,1
+1,Cercado,1,Tarija,1877,Tolomosita Centro,1,U.E. Tolomosita,6000421,2,13,1,26,5,3,0,2,3
+1,Cercado,1,Tarija,1878,San Jacinto Sud,1,U.E. San Jacinto Sud,6000431,1,25,1,48,12,3,0,7,4
+1,Cercado,1,Tarija,1878,San Jacinto Sud,1,U.E. San Jacinto Sud,6000441,2,16,0,50,9,3,1,4,1
+1,Cercado,1,Tarija,1880,Pampa Redonda Centro,1,U.E. Luis De Fuentes,6000451,1,38,5,35,12,0,0,4,4
+1,Cercado,1,Tarija,1880,Pampa Redonda Centro,1,U.E. Luis De Fuentes,6000461,2,20,5,30,6,2,3,4,0
+1,Cercado,1,Tarija,1882,Guerra Huayco,1,U.E. San Lazaro de Guerra Huayco,6000471,1,18,3,24,12,4,2,4,15
+1,Cercado,1,Tarija,1882,Guerra Huayco,1,U.E. San Lazaro de Guerra Huayco,6000481,2,23,3,23,10,7,2,1,14
+1,Cercado,1,Tarija,1882,Guerra Huayco,1,U.E. San Lazaro de Guerra Huayco,6000491,3,17,5,25,5,4,0,6,10
+1,Cercado,1,Tarija,1882,Guerra Huayco,1,U.E. San Lazaro de Guerra Huayco,6000501,4,22,1,18,12,1,2,6,8
+1,Cercado,1,Tarija,1882,Guerra Huayco,1,U.E. San Lazaro de Guerra Huayco,6000511,5,17,5,15,13,10,2,6,10
+1,Cercado,1,Tarija,1882,Guerra Huayco,1,U.E. San Lazaro de Guerra Huayco,6000521,6,21,2,27,8,5,1,4,9
+1,Cercado,1,Tarija,1882,Guerra Huayco,1,U.E. San Lazaro de Guerra Huayco,6000531,7,19,7,19,14,2,1,2,4
+1,Cercado,1,Tarija,1882,Guerra Huayco,1,U.E. San Lazaro de Guerra Huayco,6000541,8,1,2,1,0,1,0,0,2
+1,Cercado,1,Tarija,1883,San Andrés,1,U.E. San Andres,6000551,1,40,8,50,7,3,1,1,8
+1,Cercado,1,Tarija,1883,San Andrés,1,U.E. San Andres,6000561,2,20,13,42,0,1,2,2,7
+1,Cercado,1,Tarija,1883,San Andrés,1,U.E. San Andres,6000571,3,18,12,45,9,2,2,4,3
+1,Cercado,1,Tarija,1883,San Andrés,1,U.E. San Andres,6000581,4,23,17,26,10,5,0,2,2
+1,Cercado,1,Tarija,1883,San Andrés,1,U.E. San Andres,6000591,5,30,12,38,6,6,0,9,3
+1,Cercado,1,Tarija,1883,San Andrés,1,U.E. San Andres,6000601,6,33,12,30,10,3,0,4,2
+1,Cercado,1,Tarija,1883,San Andrés,1,U.E. San Andres,6000611,7,47,9,24,1,4,0,2,7
+1,Cercado,1,Tarija,1884,Bella Vista,1,U.E. Bella Vista,6000621,1,16,11,26,2,4,2,0,2
+1,Cercado,1,Tarija,1884,Bella Vista,1,U.E. Bella Vista,6000631,2,16,11,23,8,4,2,1,7
+1,Cercado,1,Tarija,1884,Bella Vista,1,U.E. Bella Vista,6000641,3,2,1,4,1,1,0,0,0
+1,Cercado,1,Tarija,1885,Pinos Sud,1,U.E. Pinos Sud,6000651,1,24,1,15,7,6,2,4,12
+1,Cercado,1,Tarija,1885,Pinos Sud,1,U.E. Pinos Sud,6000661,2,17,0,12,7,3,0,3,12
+1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000821,1,70,9,65,9,2,0,1,1
+1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000831,2,58,7,75,10,2,7,2,3
+1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000841,3,57,6,67,13,2,2,0,6
+1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000851,4,65,10,70,11,2,3,1,3
+1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000861,5,61,9,65,14,2,3,1,2
+1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000871,6,70,2,70,14,0,2,1,3
+1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000881,7,52,4,68,17,1,2,4,4
+1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000891,8,62,13,71,6,1,1,1,1
+1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000901,9,37,3,46,11,2,0,2,2
+1,Cercado,1,Tarija,2680,Tarija,2,U.E. Maria Laura Justiniano,6001201,1,60,6,77,10,1,0,4,2
+1,Cercado,1,Tarija,2680,Tarija,2,U.E. Maria Laura Justiniano,6001211,2,45,6,68,10,1,5,1,3
+1,Cercado,1,Tarija,2680,Tarija,2,U.E. Maria Laura Justiniano,6001221,3,47,6,83,20,0,2,1,3
+1,Cercado,1,Tarija,2680,Tarija,2,U.E. Maria Laura Justiniano,6001231,4,43,5,88,18,1,4,1,4
+1,Cercado,1,Tarija,2680,Tarija,2,U.E. Maria Laura Justiniano,6001241,5,57,3,79,11,4,2,4,5
+1,Cercado,1,Tarija,2680,Tarija,2,U.E. Maria Laura Justiniano,6001251,6,62,11,68,13,0,3,3,3
+1,Cercado,1,Tarija,2680,Tarija,2,U.E. Maria Laura Justiniano,6001261,7,50,3,76,15,0,4,2,4
+1,Cercado,1,Tarija,2680,Tarija,2,U.E. Maria Laura Justiniano,6001271,8,54,4,83,11,4,0,2,3
+1,Cercado,1,Tarija,2680,Tarija,2,U.E. Maria Laura Justiniano,6001281,9,33,3,31,5,1,1,1,0
+1,Cercado,1,Tarija,2680,Tarija,4,U.E. Rosa Arce,6001351,1,61,11,64,16,2,2,0,2
+1,Cercado,1,Tarija,2680,Tarija,4,U.E. Rosa Arce,6001361,2,54,2,67,14,0,5,1,6
+1,Cercado,1,Tarija,2680,Tarija,4,U.E. Rosa Arce,6001371,3,45,9,52,17,4,2,3,8
+1,Cercado,1,Tarija,2680,Tarija,4,U.E. Rosa Arce,6001381,4,57,6,59,23,4,2,1,5
+1,Cercado,1,Tarija,2680,Tarija,4,U.E. Rosa Arce,6001391,5,62,5,64,15,2,0,2,8
+1,Cercado,1,Tarija,2680,Tarija,4,U.E. Rosa Arce,6001401,6,60,3,67,21,1,2,1,5
+1,Cercado,1,Tarija,2680,Tarija,4,U.E. Rosa Arce,6001411,7,65,8,52,19,3,3,1,4
+1,Cercado,1,Tarija,2680,Tarija,4,U.E. Rosa Arce,6001421,8,53,5,74,17,5,1,2,3
+1,Cercado,1,Tarija,2680,Tarija,4,U.E. Rosa Arce,6001431,9,63,8,56,20,3,0,1,5
+1,Cercado,1,Tarija,2680,Tarija,4,U.E. Rosa Arce,6001441,10,29,3,30,4,0,1,1,5
+1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6000951,1,60,4,80,15,3,3,2,3
+1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6000961,2,50,8,72,19,1,2,0,6
+1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6000971,3,56,6,61,13,3,3,2,5
+1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6000981,4,55,8,81,14,1,0,0,6
+1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6000991,5,64,8,84,17,3,2,2,6
+1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6001001,6,50,4,90,4,3,7,2,4
+1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6001011,7,49,8,62,17,2,2,3,7
+1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6001021,8,41,4,71,15,2,3,2,7
+1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6001031,9,59,9,61,22,3,1,1,3
+1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6001041,10,46,9,69,15,3,4,2,4
+1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6001051,11,59,9,70,13,4,2,2,3
+1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6001061,12,61,10,69,14,0,4,3,7
+1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6001071,13,51,10,74,15,2,3,0,1
+1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6001081,14,9,1,14,2,0,0,0,1
+1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002071,1,43,7,56,26,4,1,3,9
+1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002081,2,51,7,53,6,5,1,0,3
+1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002091,3,51,6,56,14,3,1,5,4
+1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002101,4,43,6,68,15,6,0,2,4
+1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002111,5,65,3,67,28,6,0,1,5
+1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002121,6,38,10,62,16,4,1,3,8
+1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002131,7,55,8,52,16,7,2,3,10
+1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002141,8,57,7,56,13,3,1,5,5
+1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002151,9,36,7,78,18,6,3,3,3
+1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002161,10,51,5,55,10,4,1,2,6
+1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002171,11,46,5,57,23,1,1,2,6
+1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002181,12,27,10,31,14,1,0,2,2
+1,Cercado,1,Tarija,2680,Tarija,8,U.E. Carmen Echazu,6001451,1,59,6,67,21,3,2,2,2
+1,Cercado,1,Tarija,2680,Tarija,8,U.E. Carmen Echazu,6001461,2,44,10,68,19,2,4,3,5
+1,Cercado,1,Tarija,2680,Tarija,8,U.E. Carmen Echazu,6001471,3,63,4,66,19,5,0,1,4
+1,Cercado,1,Tarija,2680,Tarija,8,U.E. Carmen Echazu,6001481,4,44,8,70,16,3,1,2,11
+1,Cercado,1,Tarija,2680,Tarija,8,U.E. Carmen Echazu,6001491,5,54,11,60,11,7,7,3,3
+1,Cercado,1,Tarija,2680,Tarija,8,U.E. Carmen Echazu,6001501,6,72,5,62,10,3,0,0,5
+1,Cercado,1,Tarija,2680,Tarija,8,U.E. Carmen Echazu,6001511,7,47,6,55,13,2,2,2,1
+1,Cercado,1,Tarija,2680,Tarija,56,U.E. Narciso Campero,6000911,1,49,8,79,11,0,2,3,2
+1,Cercado,1,Tarija,2680,Tarija,56,U.E. Narciso Campero,6000921,2,73,4,71,11,2,4,1,1
+1,Cercado,1,Tarija,2680,Tarija,56,U.E. Narciso Campero,6000931,3,60,9,58,11,3,4,0,8
+1,Cercado,1,Tarija,2680,Tarija,56,U.E. Narciso Campero,6000941,4,58,3,64,8,1,2,1,3
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002841,1,34,3,30,17,8,0,10,6
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002851,2,27,3,25,20,7,3,1,3
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002861,3,29,1,38,23,9,2,10,2
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002871,4,38,2,29,26,7,2,11,11
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002881,5,27,5,36,26,5,4,3,6
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002891,6,27,9,20,20,9,2,12,11
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002901,7,25,6,24,36,5,2,5,5
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002911,8,26,6,38,17,11,0,5,8
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002921,9,25,6,39,9,9,4,10,8
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002931,10,39,5,28,17,4,1,1,5
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002941,11,29,7,28,21,11,3,2,8
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002951,12,29,5,30,18,5,1,3,7
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002961,13,29,5,40,20,11,2,3,10
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002971,14,39,11,33,8,9,1,2,3
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002981,15,43,7,37,26,4,1,4,7
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002991,16,34,6,36,22,9,3,6,6
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6003001,17,32,10,31,18,7,3,5,5
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6003011,18,28,3,31,21,13,3,3,8
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6003021,19,16,4,10,14,2,0,2,2
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002321,1,44,7,39,14,3,2,6,10
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002331,2,38,12,45,18,8,1,1,7
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002341,3,39,10,30,16,7,2,6,6
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002351,4,34,8,32,17,6,1,8,10
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002361,5,22,19,40,26,8,2,2,10
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002371,6,40,4,44,16,5,1,4,8
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002381,7,48,9,35,24,5,3,7,6
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002391,8,30,6,43,20,7,2,3,10
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002401,9,44,10,38,21,6,2,4,6
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002411,10,39,5,24,23,7,3,4,6
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002421,11,45,12,35,19,10,1,6,7
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002431,12,31,9,36,30,4,1,3,3
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002441,13,44,8,21,22,8,3,5,10
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002451,14,23,6,34,23,4,2,6,15
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002461,15,35,11,35,24,1,2,4,4
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002471,16,34,6,39,19,5,2,6,5
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002481,17,35,8,50,27,8,4,1,7
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002491,18,39,11,38,17,6,0,3,11
+1,Cercado,1,Tarija,2680,Tarija,69,U.E. Liceo Campero,6001291,1,42,12,74,13,2,1,1,2
+1,Cercado,1,Tarija,2680,Tarija,69,U.E. Liceo Campero,6001301,2,48,7,68,15,3,0,1,4
+1,Cercado,1,Tarija,2680,Tarija,69,U.E. Liceo Campero,6001311,3,58,11,70,16,0,1,4,1
+1,Cercado,1,Tarija,2680,Tarija,69,U.E. Liceo Campero,6001321,4,53,9,70,9,0,3,2,7
+1,Cercado,1,Tarija,2680,Tarija,69,U.E. Liceo Campero,6001331,5,55,4,74,16,2,2,0,7
+1,Cercado,1,Tarija,2680,Tarija,69,U.E. Liceo Campero,6001341,6,19,4,33,9,0,1,0,1
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005251,1,65,12,48,17,5,3,2,6
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005261,2,54,8,77,17,4,2,2,4
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005271,3,52,5,55,15,3,0,3,1
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005281,4,41,17,46,17,6,1,8,7
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005291,5,57,7,56,21,2,4,2,5
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005301,6,69,4,49,19,7,3,3,6
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005311,7,43,8,59,15,4,1,2,4
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005321,8,61,10,59,23,1,1,4,3
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005331,9,48,12,56,15,2,1,2,7
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005341,10,60,7,53,18,0,6,2,5
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005351,11,73,6,50,15,3,3,1,5
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005361,12,47,8,71,15,1,2,1,7
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005371,13,58,3,69,16,1,2,5,4
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005381,14,32,8,64,22,3,1,3,5
+1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004611,1,63,7,54,23,1,3,2,5
+1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004621,2,40,5,61,14,5,2,1,8
+1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004631,3,50,8,51,20,3,1,1,3
+1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004641,4,32,13,57,13,5,1,3,2
+1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004651,5,37,6,53,21,2,0,4,8
+1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004661,6,44,16,57,17,2,1,4,1
+1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004671,7,48,6,57,17,4,2,3,4
+1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004681,8,41,7,58,19,2,1,2,4
+1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004691,9,44,11,59,28,4,2,4,0
+1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004701,10,48,6,64,18,2,3,1,6
+1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004711,11,43,4,59,17,3,4,3,5
+1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004721,12,41,7,67,12,2,2,2,5
+1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004731,13,44,13,57,18,5,3,3,7
+1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004741,14,45,10,58,21,2,2,3,9
+1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004751,15,56,9,57,19,5,2,7,8
+1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004761,16,63,5,57,16,0,3,6,7
+1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004771,17,6,0,8,2,0,0,0,0
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004091,1,54,2,68,18,2,1,4,6
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004101,2,54,4,59,17,3,0,1,4
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004111,3,58,9,68,15,1,0,1,4
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004121,4,57,9,63,22,2,1,2,5
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004131,5,47,6,43,11,4,2,2,11
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004141,6,46,3,76,14,3,1,0,2
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004151,7,57,11,68,12,0,1,1,2
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004161,8,54,6,64,14,1,2,3,5
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004171,9,59,9,64,20,3,1,0,4
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004181,10,57,14,48,12,4,0,1,7
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004191,11,54,11,66,18,3,3,2,2
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004201,12,44,8,78,10,2,3,4,4
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004211,13,52,4,51,21,2,3,2,4
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004221,14,45,6,67,18,3,1,4,9
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004231,15,58,10,50,9,2,0,0,3
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004241,16,51,8,62,20,1,2,3,5
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004251,17,55,6,61,15,5,1,2,3
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004261,18,54,7,77,13,1,3,1,5
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004271,19,32,2,41,11,2,0,2,0
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6004981,1,48,8,47,19,5,2,7,6
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6004991,2,37,10,66,10,9,2,1,6
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005001,3,40,6,50,16,4,0,4,11
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005011,4,38,5,42,24,10,1,2,10
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005021,5,34,6,67,23,9,2,1,4
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005031,6,41,8,34,21,4,2,10,8
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005041,7,27,9,29,23,7,2,4,4
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005051,8,39,9,49,22,3,3,0,8
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005061,9,36,6,67,18,2,1,8,4
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005071,10,34,9,49,22,4,1,5,14
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005081,11,35,11,49,16,4,1,4,6
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005091,12,32,8,41,13,12,0,2,9
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005101,13,35,9,33,24,3,0,14,7
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005111,14,33,5,48,31,4,2,4,4
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005121,15,31,4,47,31,8,1,3,7
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005131,16,52,10,58,12,5,1,3,12
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005141,17,50,12,33,20,6,2,5,2
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005151,18,37,7,37,20,9,0,2,10
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005161,19,34,8,46,26,4,0,3,4
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005171,20,46,7,46,19,2,3,6,5
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005181,21,44,4,45,17,7,3,5,9
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005191,22,22,7,58,19,2,4,4,6
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005201,23,48,7,45,23,2,2,2,6
+1,Cercado,1,Tarija,2680,Tarija,74,U.E. Castelfort Castellanos,6005491,1,41,7,71,15,2,0,1,8
+1,Cercado,1,Tarija,2680,Tarija,74,U.E. Castelfort Castellanos,6005501,2,44,5,71,17,1,0,1,5
+1,Cercado,1,Tarija,2680,Tarija,74,U.E. Castelfort Castellanos,6005511,3,46,4,66,22,2,2,2,8
+1,Cercado,1,Tarija,2680,Tarija,74,U.E. Castelfort Castellanos,6005521,4,50,3,54,15,4,0,1,2
+1,Cercado,1,Tarija,2680,Tarija,74,U.E. Castelfort Castellanos,6005531,5,38,6,66,17,1,0,3,1
+1,Cercado,1,Tarija,2680,Tarija,74,U.E. Castelfort Castellanos,6005541,6,45,2,66,21,4,0,0,4
+1,Cercado,1,Tarija,2680,Tarija,74,U.E. Castelfort Castellanos,6005551,7,43,7,62,16,3,1,0,2
+1,Cercado,1,Tarija,2680,Tarija,74,U.E. Castelfort Castellanos,6005561,8,68,6,56,20,4,2,1,4
+1,Cercado,1,Tarija,2680,Tarija,74,U.E. Castelfort Castellanos,6005571,9,50,5,43,17,0,1,0,3
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001521,1,54,5,73,19,2,2,1,7
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001531,2,64,10,61,21,2,3,1,6
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001541,3,62,13,67,22,2,4,3,6
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001551,4,46,8,59,25,4,3,2,7
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001561,5,59,10,71,21,4,3,1,2
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001571,6,43,10,50,21,6,2,1,10
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001581,7,63,4,63,14,1,4,3,3
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001591,8,68,7,65,20,5,0,2,6
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001601,9,57,10,67,21,0,2,0,1
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001611,10,44,9,74,21,0,3,3,2
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001621,11,52,3,46,24,5,2,1,3
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001631,12,59,11,58,14,1,6,3,6
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001641,13,53,8,52,19,2,2,1,7
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001651,14,44,12,58,23,2,6,5,3
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001661,15,60,8,56,20,2,6,0,4
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001671,16,55,7,72,12,2,1,0,2
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001681,17,50,6,67,20,0,6,1,7
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001691,18,53,7,65,21,3,0,2,4
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001701,19,56,10,62,9,4,1,0,6
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001711,20,48,9,60,17,5,4,0,6
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001721,21,56,9,65,19,1,3,2,1
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001731,22,46,10,64,19,1,1,3,6
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001741,23,55,14,56,24,3,1,0,5
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001751,24,56,12,63,20,0,3,0,6
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001761,25,65,10,58,10,0,1,2,6
+1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001771,26,61,2,45,16,0,1,3,6
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005661,1,47,7,38,19,1,0,0,11
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005671,2,42,6,57,23,5,0,1,3
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005681,3,56,3,76,10,4,2,1,4
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005691,4,40,6,58,18,4,0,5,5
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005701,5,33,8,54,16,3,1,3,10
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005711,6,33,5,38,26,2,1,4,6
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005721,7,43,5,67,17,1,0,3,1
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005731,8,46,11,60,16,4,3,1,8
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005741,9,44,6,65,14,5,1,2,6
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005751,10,50,13,57,15,5,0,1,4
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005761,11,38,8,58,15,7,1,4,5
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005771,12,48,9,56,18,3,1,4,2
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005781,13,46,8,71,17,10,1,0,2
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005791,14,49,4,48,22,7,2,2,5
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005801,15,39,13,55,18,2,0,2,7
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005811,16,51,8,54,16,6,1,1,8
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005821,17,59,10,59,16,3,2,1,4
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005831,18,57,4,53,21,3,1,3,7
+1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007841,1,36,5,33,10,2,1,1,4
+1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007851,2,28,9,58,14,6,2,5,3
+1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007861,3,31,5,42,15,11,1,4,1
+1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007871,4,28,7,41,16,3,1,6,5
+1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007881,5,27,4,41,23,3,4,2,2
+1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007891,6,34,8,36,10,4,0,6,3
+1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007901,7,36,6,39,18,5,2,6,6
+1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007911,8,28,4,45,18,7,1,3,3
+1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007921,9,26,9,53,10,3,2,2,8
+1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007931,10,24,6,42,11,5,2,5,3
+1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007941,11,5,2,12,1,2,0,0,5
+1,Cercado,1,Tarija,2680,Tarija,78,(Cárcel) Penal de Morros Blancos,6005841,1,34,3,9,6,3,1,5,4
+1,Cercado,1,Tarija,2680,Tarija,78,(Cárcel) Penal de Morros Blancos,6005851,2,36,5,5,8,4,7,6,2
+1,Cercado,1,Tarija,2680,Tarija,78,(Cárcel) Penal de Morros Blancos,6005861,3,27,4,9,7,2,3,7,9
+1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006051,1,46,3,48,13,3,2,2,7
+1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006061,2,41,5,61,16,4,2,3,5
+1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006071,3,38,4,55,22,2,2,5,3
+1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006081,4,24,7,32,13,1,3,3,4
+1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006091,5,39,6,73,9,3,2,3,4
+1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006101,6,45,11,47,9,2,0,3,3
+1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006111,7,58,6,58,14,2,0,2,6
+1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006121,8,38,9,56,9,6,2,3,4
+1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006131,9,26,4,56,11,1,2,0,7
+1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006141,10,40,2,57,13,4,0,3,3
+1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006151,11,48,1,60,12,0,0,1,7
+1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006161,12,44,5,45,13,3,1,5,3
+1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006171,13,36,5,56,19,3,1,0,4
+1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006181,14,52,7,49,13,1,2,2,3
+1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006191,15,46,3,43,17,4,4,1,5
+1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006201,16,45,5,71,13,0,0,2,3
+1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006211,17,36,2,26,3,1,2,2,1
+1,Cercado,1,Tarija,2680,Tarija,80,U.A.J.M.S Campus,6005921,1,43,15,43,17,1,2,2,7
+1,Cercado,1,Tarija,2680,Tarija,80,U.A.J.M.S Campus,6005931,2,51,9,38,18,6,1,3,7
+1,Cercado,1,Tarija,2680,Tarija,80,U.A.J.M.S Campus,6005941,3,41,1,54,20,7,5,1,9
+1,Cercado,1,Tarija,2680,Tarija,80,U.A.J.M.S Campus,6005951,4,51,6,32,22,4,4,9,5
+1,Cercado,1,Tarija,2680,Tarija,80,U.A.J.M.S Campus,6005961,5,48,6,54,16,1,1,2,4
+1,Cercado,1,Tarija,2680,Tarija,80,U.A.J.M.S Campus,6005971,6,60,7,40,13,3,1,1,9
+1,Cercado,1,Tarija,2680,Tarija,80,U.A.J.M.S Campus,6005981,7,43,5,53,20,1,2,6,7
+1,Cercado,1,Tarija,2680,Tarija,80,U.A.J.M.S Campus,6005991,8,45,9,51,20,3,2,1,5
+1,Cercado,1,Tarija,2680,Tarija,80,U.A.J.M.S Campus,6006001,9,46,8,52,19,6,2,2,7
+1,Cercado,1,Tarija,2680,Tarija,80,U.A.J.M.S Campus,6006011,10,52,4,33,24,5,2,2,12
+1,Cercado,1,Tarija,2680,Tarija,80,U.A.J.M.S Campus,6006021,11,42,8,48,16,1,1,4,3
+1,Cercado,1,Tarija,2680,Tarija,80,U.A.J.M.S Campus,6006031,12,47,4,59,14,1,2,3,9
+1,Cercado,1,Tarija,2680,Tarija,80,U.A.J.M.S Campus,6006041,13,60,3,48,19,6,2,6,6
+1,Cercado,1,Tarija,2680,Tarija,81,U.E. San Luis,6006231,1,39,8,61,17,4,0,2,1
+1,Cercado,1,Tarija,2680,Tarija,81,U.E. San Luis,6006241,2,47,6,52,27,2,0,2,2
+1,Cercado,1,Tarija,2680,Tarija,81,U.E. San Luis,6006251,3,53,5,48,10,6,5,1,6
+1,Cercado,1,Tarija,2680,Tarija,81,U.E. San Luis,6006261,4,38,9,56,13,5,0,1,5
+1,Cercado,1,Tarija,2680,Tarija,81,U.E. San Luis,6006271,5,56,5,51,12,2,1,2,8
+1,Cercado,1,Tarija,2680,Tarija,81,U.E. San Luis,6006281,6,43,6,63,9,7,1,2,6
+1,Cercado,1,Tarija,2680,Tarija,81,U.E. San Luis,6006291,7,41,5,57,14,4,1,6,1
+1,Cercado,1,Tarija,2680,Tarija,81,U.E. San Luis,6006301,8,51,8,53,15,2,1,1,9
+1,Cercado,1,Tarija,2680,Tarija,81,U.E. San Luis,6006311,9,43,7,63,14,3,1,3,3
+1,Cercado,1,Tarija,2680,Tarija,81,U.E. San Luis,6006321,10,15,2,37,4,1,2,4,2
+1,Cercado,1,Tarija,2680,Tarija,82,U.E. Los Callejones,6006331,1,31,4,58,19,4,3,1,6
+1,Cercado,1,Tarija,2680,Tarija,82,U.E. Los Callejones,6006341,2,41,4,71,18,3,3,1,4
+1,Cercado,1,Tarija,2680,Tarija,82,U.E. Los Callejones,6006351,3,50,10,74,14,2,3,3,4
+1,Cercado,1,Tarija,2680,Tarija,82,U.E. Los Callejones,6006361,4,53,7,67,15,2,2,2,8
+1,Cercado,1,Tarija,2680,Tarija,82,U.E. Los Callejones,6006371,5,51,6,86,21,1,0,2,5
+1,Cercado,1,Tarija,2680,Tarija,82,U.E. Los Callejones,6006381,6,10,0,11,5,0,0,0,0
+1,Cercado,1,Tarija,2680,Tarija,83,U.E. San Blas,6006441,1,37,1,65,13,3,0,4,8
+1,Cercado,1,Tarija,2680,Tarija,83,U.E. San Blas,6006451,2,43,5,61,20,1,1,2,4
+1,Cercado,1,Tarija,2680,Tarija,83,U.E. San Blas,6006461,3,45,3,68,15,3,0,3,3
+1,Cercado,1,Tarija,2680,Tarija,83,U.E. San Blas,6006471,4,57,6,64,12,3,0,1,4
+1,Cercado,1,Tarija,2680,Tarija,84,U.E. 6 de Junio,6007701,1,42,5,63,11,2,2,3,3
+1,Cercado,1,Tarija,2680,Tarija,84,U.E. 6 de Junio,6007711,2,38,9,58,12,1,1,1,8
+1,Cercado,1,Tarija,2680,Tarija,84,U.E. 6 de Junio,6007721,3,47,6,72,13,2,1,1,6
+1,Cercado,1,Tarija,2680,Tarija,84,U.E. 6 de Junio,6007731,4,47,3,73,22,3,1,1,6
+1,Cercado,1,Tarija,2680,Tarija,84,U.E. 6 de Junio,6007741,5,41,10,69,12,1,3,4,7
+1,Cercado,1,Tarija,2680,Tarija,84,U.E. 6 de Junio,6007751,6,36,5,63,9,7,1,7,2
+1,Cercado,1,Tarija,2680,Tarija,84,U.E. 6 de Junio,6007761,7,50,5,82,11,4,0,3,4
+1,Cercado,1,Tarija,2680,Tarija,84,U.E. 6 de Junio,6007771,8,37,8,60,20,5,0,2,4
+1,Cercado,1,Tarija,2680,Tarija,84,U.E. 6 de Junio,6007781,9,8,2,5,1,1,1,0,1
+1,Cercado,1,Tarija,2680,Tarija,85,U.E. Fe y Alegria,6002191,1,45,7,52,15,6,0,1,10
+1,Cercado,1,Tarija,2680,Tarija,85,U.E. Fe y Alegria,6002201,2,35,7,46,15,10,0,4,8
+1,Cercado,1,Tarija,2680,Tarija,85,U.E. Fe y Alegria,6002211,3,50,6,52,20,3,1,6,9
+1,Cercado,1,Tarija,2680,Tarija,85,U.E. Fe y Alegria,6002221,4,54,9,49,16,4,0,6,3
+1,Cercado,1,Tarija,2680,Tarija,85,U.E. Fe y Alegria,6002231,5,37,13,42,22,8,2,4,8
+1,Cercado,1,Tarija,2680,Tarija,85,U.E. Fe y Alegria,6002241,6,36,5,51,24,2,2,2,10
+1,Cercado,1,Tarija,2680,Tarija,85,U.E. Fe y Alegria,6002251,7,37,5,64,19,1,1,4,7
+1,Cercado,1,Tarija,2680,Tarija,85,U.E. Fe y Alegria,6002261,8,51,4,53,16,6,2,3,4
+1,Cercado,1,Tarija,2680,Tarija,85,U.E. Fe y Alegria,6002271,9,38,8,41,17,8,0,6,8
+1,Cercado,1,Tarija,2680,Tarija,85,U.E. Fe y Alegria,6002281,10,45,6,43,19,4,2,3,10
+1,Cercado,1,Tarija,2680,Tarija,85,U.E. Fe y Alegria,6002291,11,38,9,43,12,2,0,3,13
+1,Cercado,1,Tarija,2680,Tarija,85,U.E. Fe y Alegria,6002301,12,45,5,44,18,8,1,6,6
+1,Cercado,1,Tarija,2680,Tarija,85,U.E. Fe y Alegria,6002311,13,22,2,20,5,2,0,3,4
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007001,1,43,3,55,17,2,2,3,4
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007011,2,45,7,52,18,0,0,9,17
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007021,3,51,1,63,19,5,3,3,2
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007031,4,55,6,63,14,3,4,4,10
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007041,5,46,9,45,18,9,0,6,7
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007051,6,50,8,48,14,5,2,4,12
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007061,7,46,4,58,17,9,1,2,9
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007071,8,51,7,54,18,6,0,1,7
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007081,9,51,6,53,15,3,2,2,7
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007091,10,40,2,50,23,5,0,3,5
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007101,11,61,10,52,18,1,1,4,10
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007111,12,45,5,39,18,3,1,1,7
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007121,13,54,8,56,20,4,0,1,7
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007131,14,54,4,57,17,7,3,3,4
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007141,15,51,4,42,14,3,2,4,4
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007151,16,63,4,56,19,2,0,3,3
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007161,17,49,2,67,22,1,2,4,4
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007171,18,16,2,20,4,0,1,4,3
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006801,1,63,7,66,17,6,0,0,2
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006811,2,62,16,64,6,1,3,0,3
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006821,3,37,11,73,9,4,2,3,2
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006831,4,71,7,58,9,2,3,2,7
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006841,5,46,6,51,17,7,2,8,1
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006851,6,59,10,84,16,4,2,2,4
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006861,7,52,3,63,12,3,2,4,2
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006871,8,58,9,59,11,2,3,6,2
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006881,9,58,10,61,16,2,3,6,3
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006891,10,45,3,43,18,3,1,6,4
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006901,11,69,3,63,9,0,1,3,6
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006911,12,44,7,78,20,3,2,2,6
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006921,13,52,8,63,7,0,3,2,5
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006931,14,58,7,67,20,3,0,2,5
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006941,15,11,0,11,5,0,1,1,2
+1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004781,1,38,8,59,21,5,3,2,8
+1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004791,2,46,18,47,15,3,0,6,3
+1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004801,3,48,8,59,18,6,0,3,10
+1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004811,4,37,9,45,13,6,2,0,4
+1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004821,5,36,11,58,15,3,0,2,8
+1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004831,6,26,12,71,19,5,0,2,3
+1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004841,7,25,11,50,10,5,2,3,4
+1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004851,8,41,10,55,4,3,0,3,3
+1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004861,9,31,10,64,12,4,1,2,5
+1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004871,10,36,7,63,13,5,0,3,3
+1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004881,11,34,13,55,14,5,3,5,3
+1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004891,12,52,8,53,17,5,3,0,6
+1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004901,13,42,12,55,19,6,2,3,10
+1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004911,14,48,15,50,18,5,2,1,5
+1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004921,15,40,7,45,17,1,2,1,2
+1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004931,16,35,7,54,14,3,0,2,5
+1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004941,17,45,10,51,10,2,1,2,7
+1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004951,18,48,5,63,6,2,1,3,4
+1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004961,19,21,4,65,20,9,2,2,5
+1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004971,20,9,3,20,6,3,1,0,4
+1,Cercado,1,Tarija,2680,Tarija,90,U.E. Bancario,6006391,1,57,2,81,22,0,2,0,1
+1,Cercado,1,Tarija,2680,Tarija,90,U.E. Bancario,6006401,2,72,3,62,17,3,2,1,3
+1,Cercado,1,Tarija,2680,Tarija,90,U.E. Bancario,6006411,3,59,14,65,11,1,2,2,8
+1,Cercado,1,Tarija,2680,Tarija,90,U.E. Bancario,6006421,4,46,4,91,11,2,0,2,8
+1,Cercado,1,Tarija,2680,Tarija,90,U.E. Bancario,6006431,5,39,5,36,11,0,0,1,2
+1,Cercado,1,Tarija,2680,Tarija,92,Salon Capacitacion Barrio Catedral,6006611,1,42,9,51,22,3,1,3,10
+1,Cercado,1,Tarija,2680,Tarija,92,Salon Capacitacion Barrio Catedral,6006621,2,37,18,50,21,5,2,6,4
+1,Cercado,1,Tarija,2680,Tarija,92,Salon Capacitacion Barrio Catedral,6006631,3,46,8,72,20,5,3,2,8
+1,Cercado,1,Tarija,2680,Tarija,92,Salon Capacitacion Barrio Catedral,6006641,4,52,14,49,23,4,3,2,7
+1,Cercado,1,Tarija,2680,Tarija,92,Salon Capacitacion Barrio Catedral,6006651,5,37,14,53,26,4,0,1,4
+1,Cercado,1,Tarija,2680,Tarija,92,Salon Capacitacion Barrio Catedral,6006661,6,34,6,41,13,1,0,2,0
+1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002501,1,29,7,46,16,10,1,4,8
+1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002511,2,24,9,55,23,2,2,4,7
+1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002521,3,38,10,28,24,5,0,4,4
+1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002531,4,35,9,40,39,5,1,6,9
+1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002541,5,25,6,31,20,9,2,7,8
+1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002551,6,27,5,31,26,9,1,3,9
+1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002561,7,41,6,41,18,11,2,3,1
+1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002571,8,24,3,41,23,5,4,1,5
+1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002581,9,37,8,39,22,8,1,3,9
+1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002591,10,30,9,48,19,3,1,5,7
+1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002601,11,33,8,28,17,11,2,6,10
+1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002611,12,38,6,40,8,9,0,7,2
+1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002621,13,43,9,28,14,5,1,4,11
+1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002631,14,37,4,37,24,9,3,7,3
+1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002641,15,46,7,29,24,8,4,5,10
+1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002651,16,36,5,44,18,6,4,4,4
+1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002661,17,37,7,41,15,9,0,4,7
+1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002671,18,37,9,44,19,5,0,4,1
+1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002681,19,34,8,42,9,6,4,6,6
+1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002691,20,25,3,25,22,5,0,6,9
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007461,1,27,9,44,16,6,3,4,4
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007471,2,47,4,53,17,3,0,4,4
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007481,3,42,6,52,11,4,1,4,3
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007491,4,36,7,53,16,6,1,2,3
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007501,5,40,7,54,16,3,2,5,6
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007511,6,45,4,47,18,4,1,5,1
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007521,7,26,5,42,31,4,4,9,5
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007531,8,38,6,45,14,4,4,5,1
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007541,9,25,19,31,13,6,0,3,6
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007551,10,44,6,53,16,5,1,1,0
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007561,11,44,11,55,16,3,0,1,2
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007571,12,45,6,57,15,6,1,6,3
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007581,13,22,5,39,18,3,1,3,6
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007231,1,41,3,68,7,1,2,1,5
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007241,2,43,6,52,19,2,1,6,10
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007251,3,40,10,51,16,2,2,3,6
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007261,4,24,9,58,19,5,1,4,7
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007271,5,47,5,46,20,3,1,5,6
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007281,6,51,3,51,30,2,0,5,5
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007291,7,53,11,55,12,5,0,3,4
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007301,8,35,5,57,22,11,1,2,11
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007311,9,42,8,44,17,2,1,1,8
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007321,10,43,6,47,17,11,3,5,9
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007331,11,33,4,62,16,4,1,3,4
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007341,12,39,9,52,18,8,0,4,10
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007351,13,44,6,59,16,4,3,2,6
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007361,14,45,4,59,11,3,0,2,8
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007371,15,35,4,70,19,2,2,1,6
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007381,16,36,4,65,16,6,0,2,3
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007391,17,28,6,39,17,8,4,4,4
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007401,18,17,4,19,2,2,0,0,3
+1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003391,1,31,10,41,23,7,3,3,5
+1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003401,2,33,8,42,12,8,2,8,8
+1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003411,3,33,8,43,25,3,2,4,5
+1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003421,4,46,11,33,21,12,0,4,7
+1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003431,5,42,6,44,10,4,1,8,3
+1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003441,6,41,6,49,15,7,0,5,9
+1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003451,7,32,10,31,16,11,2,2,14
+1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003461,8,36,6,36,12,10,1,3,9
+1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003471,9,43,6,39,15,4,2,2,12
+1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003481,10,36,4,42,17,12,1,5,5
+1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003491,11,43,12,48,18,7,1,5,8
+1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003501,12,34,3,51,18,8,1,5,9
+1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003511,13,41,11,40,16,7,0,7,3
+1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003521,14,48,8,40,19,14,1,7,5
+1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003531,15,41,8,32,21,22,2,9,7
+1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003541,16,46,8,36,14,5,0,12,7
+1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003551,17,35,7,54,22,5,0,1,9
+1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003561,18,44,12,47,12,7,1,3,9
+1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003571,19,35,5,34,18,12,1,6,5
+1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003581,20,46,7,44,26,4,1,3,8
+1,Cercado,1,Tarija,2680,Tarija,99,U.E. Nuestra Señora Del Rosario,6002701,1,40,9,57,19,7,1,3,8
+1,Cercado,1,Tarija,2680,Tarija,99,U.E. Nuestra Señora Del Rosario,6002711,2,44,5,43,31,7,2,4,8
+1,Cercado,1,Tarija,2680,Tarija,99,U.E. Nuestra Señora Del Rosario,6002721,3,39,10,46,16,7,2,4,7
+1,Cercado,1,Tarija,2680,Tarija,99,U.E. Nuestra Señora Del Rosario,6002731,4,29,5,46,16,8,2,2,11
+1,Cercado,1,Tarija,2680,Tarija,99,U.E. Nuestra Señora Del Rosario,6002741,5,42,7,34,24,2,0,7,6
+1,Cercado,1,Tarija,2680,Tarija,99,U.E. Nuestra Señora Del Rosario,6002751,6,34,7,47,24,7,1,3,6
+1,Cercado,1,Tarija,2680,Tarija,99,U.E. Nuestra Señora Del Rosario,6002761,7,53,12,44,24,2,1,5,9
+1,Cercado,1,Tarija,2680,Tarija,99,U.E. Nuestra Señora Del Rosario,6002771,8,44,8,38,30,5,2,8,9
+1,Cercado,1,Tarija,2680,Tarija,99,U.E. Nuestra Señora Del Rosario,6002781,9,55,5,40,22,10,2,3,5
+1,Cercado,1,Tarija,2680,Tarija,99,U.E. Nuestra Señora Del Rosario,6002791,10,33,8,36,36,7,4,4,10
+1,Cercado,1,Tarija,2680,Tarija,99,U.E. Nuestra Señora Del Rosario,6002801,11,43,5,53,23,7,1,2,5
+1,Cercado,1,Tarija,2680,Tarija,99,U.E. Nuestra Señora Del Rosario,6002811,12,31,4,50,22,6,2,5,5
+1,Cercado,1,Tarija,2680,Tarija,99,U.E. Nuestra Señora Del Rosario,6002821,13,44,13,26,16,8,2,2,7
+1,Cercado,1,Tarija,2680,Tarija,99,U.E. Nuestra Señora Del Rosario,6002831,14,13,4,10,8,7,0,2,2
+1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001781,1,43,9,40,17,5,2,5,7
+1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001791,2,47,6,42,19,12,0,7,3
+1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001801,3,36,8,41,16,5,0,2,10
+1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001811,4,22,9,35,19,6,0,6,5
+1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001821,5,38,6,53,16,2,0,6,7
+1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001831,6,36,9,44,10,6,0,2,11
+1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001841,7,39,7,38,18,7,3,3,6
+1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001851,8,34,11,46,14,9,2,5,9
+1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001861,9,29,4,49,20,4,1,3,1
+1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001871,10,5,2,8,3,2,0,0,1
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003801,1,42,5,67,17,1,0,3,6
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003811,2,57,11,49,13,2,1,2,3
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003821,3,43,10,63,10,5,1,2,6
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003831,4,48,11,64,14,2,3,4,5
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003841,5,39,5,49,13,8,2,0,7
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003851,6,54,10,63,24,10,1,1,11
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003861,7,44,8,65,9,5,0,1,4
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003871,8,53,11,44,22,5,1,6,5
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003881,9,49,9,62,19,3,2,1,9
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003891,10,45,11,62,16,3,3,2,2
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003901,11,37,3,58,26,6,1,2,8
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003911,12,60,7,56,14,3,0,1,3
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003921,13,45,7,67,17,2,0,2,7
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003931,14,46,4,52,26,2,2,5,7
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003941,15,35,6,63,25,3,0,3,4
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003951,16,45,6,39,18,10,3,1,7
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003961,17,40,7,64,16,7,1,4,5
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003971,18,46,5,59,11,1,5,3,7
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003981,19,65,4,48,22,1,4,4,7
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003991,20,32,1,29,4,0,1,0,4
+1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003081,1,33,3,40,13,5,3,4,10
+1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003091,2,45,3,37,17,5,5,7,3
+1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003101,3,32,1,50,22,6,0,1,7
+1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003111,4,26,1,49,17,5,1,5,11
+1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003121,5,21,4,32,22,9,2,9,2
+1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003131,6,36,6,32,21,11,3,7,16
+1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003141,7,35,6,49,20,6,4,11,10
+1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003151,8,41,11,32,17,10,1,3,6
+1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003161,9,47,9,32,18,3,2,4,5
+1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003171,10,31,5,39,22,11,1,7,8
+1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003181,11,30,11,42,20,3,2,4,2
+1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003191,12,42,8,33,15,9,4,3,2
+1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003201,13,30,8,45,31,3,1,7,7
+1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003211,14,37,10,33,25,2,2,6,11
+1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003221,15,28,8,43,29,9,1,7,1
+1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003231,16,29,6,38,18,5,1,2,8
+1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003241,17,25,4,48,26,4,0,5,11
+1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003251,18,36,6,40,25,7,1,4,6
+1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003261,19,33,10,37,19,6,0,11,6
+1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003271,20,39,8,53,10,4,0,2,2
+1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003281,21,26,7,30,18,3,1,3,4
+1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006671,1,58,7,36,25,3,1,4,6
+1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006681,2,50,3,58,22,2,5,2,6
+1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006691,3,45,8,56,14,3,1,6,6
+1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006701,4,42,8,48,15,3,3,2,9
+1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006711,5,40,6,60,24,2,0,3,8
+1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006721,6,48,10,44,12,4,3,4,11
+1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006731,7,51,5,40,20,2,0,4,10
+1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006741,8,58,4,62,15,1,3,6,4
+1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006751,9,41,5,66,19,5,1,3,4
+1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006761,10,50,8,43,16,7,0,2,3
+1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006771,11,6,1,4,1,1,2,0,2
+1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004471,1,43,9,40,13,9,3,5,5
+1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004481,2,48,9,40,16,3,3,2,5
+1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004491,3,42,8,42,15,4,1,3,4
+1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004501,4,45,17,51,20,10,1,6,8
+1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004511,5,43,5,55,18,2,1,4,7
+1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004521,6,44,9,58,15,2,1,3,6
+1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004531,7,30,8,56,15,6,2,3,2
+1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004541,8,39,5,43,22,8,1,5,6
+1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004551,9,42,6,35,17,5,3,2,3
+1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004561,10,49,13,44,12,5,3,2,3
+1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004571,11,33,4,57,23,5,1,2,6
+1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004581,12,40,17,54,13,4,1,2,4
+1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004591,13,42,12,43,20,3,1,7,5
+1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004601,14,13,4,13,8,2,0,0,1
+1,Cercado,1,Tarija,2680,Tarija,25548,Centro de Capacitacion Municipal,6006561,1,46,9,58,11,4,2,1,5
+1,Cercado,1,Tarija,2680,Tarija,25548,Centro de Capacitacion Municipal,6006571,2,48,13,65,13,2,5,1,10
+1,Cercado,1,Tarija,2680,Tarija,25548,Centro de Capacitacion Municipal,6006581,3,43,7,54,14,7,4,4,5
+1,Cercado,1,Tarija,2680,Tarija,25548,Centro de Capacitacion Municipal,6006591,4,39,7,66,17,3,2,3,5
+1,Cercado,1,Tarija,2680,Tarija,25548,Centro de Capacitacion Municipal,6006601,5,39,6,55,14,1,2,3,3
+1,Cercado,1,Tarija,2680,Tarija,25709,U.E. Humberto Portocarrero 1,6003291,1,33,4,28,29,9,1,4,4
+1,Cercado,1,Tarija,2680,Tarija,25709,U.E. Humberto Portocarrero 1,6003301,2,39,7,28,28,5,1,3,10
+1,Cercado,1,Tarija,2680,Tarija,25709,U.E. Humberto Portocarrero 1,6003311,3,31,13,28,22,11,2,7,6
+1,Cercado,1,Tarija,2680,Tarija,25709,U.E. Humberto Portocarrero 1,6003321,4,35,5,36,21,7,2,5,6
+1,Cercado,1,Tarija,2680,Tarija,25709,U.E. Humberto Portocarrero 1,6003331,5,39,5,23,27,10,2,9,5
+1,Cercado,1,Tarija,2680,Tarija,25709,U.E. Humberto Portocarrero 1,6003341,6,33,4,32,21,10,1,8,3
+1,Cercado,1,Tarija,2680,Tarija,25709,U.E. Humberto Portocarrero 1,6003351,7,30,4,29,25,12,0,5,4
+1,Cercado,1,Tarija,2680,Tarija,25709,U.E. Humberto Portocarrero 1,6003361,8,32,10,21,27,13,0,4,11
+1,Cercado,1,Tarija,2680,Tarija,25709,U.E. Humberto Portocarrero 1,6003371,9,29,3,38,21,9,1,3,6
+1,Cercado,1,Tarija,2680,Tarija,25709,U.E. Humberto Portocarrero 1,6003381,10,4,1,2,1,0,1,2,2
+1,Cercado,1,Tarija,2680,Tarija,25710,U.E. Carmen Mealla,6006481,1,57,10,65,16,1,1,0,6
+1,Cercado,1,Tarija,2680,Tarija,25710,U.E. Carmen Mealla,6006491,2,56,5,53,14,7,2,1,6
+1,Cercado,1,Tarija,2680,Tarija,25710,U.E. Carmen Mealla,6006501,3,62,5,47,21,4,6,3,2
+1,Cercado,1,Tarija,2680,Tarija,25710,U.E. Carmen Mealla,6006511,4,57,5,68,9,2,1,3,5
+1,Cercado,1,Tarija,2680,Tarija,25710,U.E. Carmen Mealla,6006521,5,54,4,54,10,5,7,4,4
+1,Cercado,1,Tarija,2680,Tarija,25710,U.E. Carmen Mealla,6006531,6,54,1,60,17,8,2,1,5
+1,Cercado,1,Tarija,2680,Tarija,25710,U.E. Carmen Mealla,6006541,7,55,7,58,10,6,1,4,4
+1,Cercado,1,Tarija,2680,Tarija,25710,U.E. Carmen Mealla,6006551,8,16,4,28,3,2,0,0,7
+1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003591,1,38,8,50,23,8,2,1,5
+1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003601,2,35,5,27,20,5,1,2,4
+1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003611,3,48,3,37,20,6,1,2,4
+1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003621,4,42,7,34,23,13,3,7,6
+1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003631,5,60,4,47,22,5,2,0,4
+1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003641,6,35,7,48,25,9,2,4,5
+1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003651,7,38,4,47,18,8,1,8,5
+1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003661,8,40,8,30,31,7,3,6,7
+1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003671,9,36,5,29,29,6,2,4,10
+1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003681,10,38,12,22,21,13,0,3,11
+1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003691,11,24,9,40,20,5,2,6,27
+1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003701,12,39,12,34,17,7,2,4,11
+1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003711,13,42,5,67,17,5,0,1,3
+1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003721,14,40,10,51,18,3,2,4,3
+1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003731,15,34,6,38,17,9,2,4,6
+1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003741,16,36,7,44,19,6,1,11,4
+1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003751,17,42,4,47,11,11,3,3,10
+1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003761,18,43,9,39,29,9,0,2,2
+1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003771,19,37,2,30,12,23,0,3,5
+1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003781,20,40,4,31,21,12,3,7,13
+1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003791,21,8,1,5,0,0,1,0,0
+1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004281,1,42,11,54,23,4,2,5,8
+1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004291,2,65,8,49,15,4,0,3,11
+1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004301,3,47,9,39,19,3,2,0,6
+1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004311,4,49,8,47,20,2,1,3,8
+1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004321,5,53,7,56,18,3,0,3,6
+1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004331,6,52,8,67,22,5,1,3,7
+1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004341,7,52,9,42,25,1,1,6,8
+1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004351,8,34,7,63,12,3,3,3,3
+1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004361,9,44,9,59,18,2,2,2,6
+1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004371,10,45,7,48,22,5,2,3,7
+1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004381,11,56,14,54,21,4,0,2,1
+1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004391,12,42,7,46,10,2,2,5,5
+1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004401,13,41,7,74,12,4,5,1,5
+1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004411,14,34,6,55,14,0,1,2,10
+1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004421,15,40,9,68,14,1,1,1,7
+1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004431,16,39,9,73,19,1,1,2,5
+1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004441,17,28,13,72,21,3,1,6,3
+1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004451,18,44,7,62,23,5,0,4,4
+1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004461,19,38,8,32,10,3,2,1,3
+1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005391,1,41,5,53,21,5,3,1,5
+1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005401,2,47,9,66,20,1,0,3,4
+1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005411,3,44,9,50,11,4,0,3,5
+1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005421,4,43,10,72,18,0,2,3,5
+1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005431,5,42,8,59,27,3,0,0,6
+1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005441,6,50,8,45,21,5,1,4,6
+1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005451,7,39,5,48,39,2,0,1,6
+1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005461,8,40,5,60,19,4,1,4,7
+1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005471,9,38,6,61,31,3,0,1,5
+1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005481,10,37,4,55,15,6,2,5,2
+1,Cercado,1,Tarija,2680,Tarija,25714,U.E. Aniceto Arce,6002001,1,69,10,58,16,0,0,6,5
+1,Cercado,1,Tarija,2680,Tarija,25714,U.E. Aniceto Arce,6002011,2,60,5,68,12,2,2,4,2
+1,Cercado,1,Tarija,2680,Tarija,25714,U.E. Aniceto Arce,6002021,3,48,10,65,23,1,1,1,11
+1,Cercado,1,Tarija,2680,Tarija,25714,U.E. Aniceto Arce,6002031,4,33,7,44,14,1,0,2,4
+1,Cercado,1,Tarija,2680,Tarija,25715,U.E. Alberto Baldivieso,6004031,1,30,9,31,18,6,1,3,11
+1,Cercado,1,Tarija,2680,Tarija,25715,U.E. Alberto Baldivieso,6004041,2,28,4,37,18,9,4,6,9
+1,Cercado,1,Tarija,2680,Tarija,25715,U.E. Alberto Baldivieso,6004051,3,37,5,34,31,4,0,5,12
+1,Cercado,1,Tarija,2680,Tarija,25715,U.E. Alberto Baldivieso,6004061,4,33,8,33,22,6,1,10,10
+1,Cercado,1,Tarija,2680,Tarija,25715,U.E. Alberto Baldivieso,6004071,5,25,4,50,27,9,1,6,6
+1,Cercado,1,Tarija,2680,Tarija,25715,U.E. Alberto Baldivieso,6004081,6,8,3,9,3,1,0,0,1
+1,Cercado,1,Tarija,2680,Tarija,26474,U.E. Santa Rosa,6007411,1,23,9,67,13,2,2,3,4
+1,Cercado,1,Tarija,2680,Tarija,26474,U.E. Santa Rosa,6007421,2,40,6,47,8,2,1,8,6
+1,Cercado,1,Tarija,2680,Tarija,26474,U.E. Santa Rosa,6007431,3,24,8,64,18,3,2,3,10
+1,Cercado,1,Tarija,2680,Tarija,26474,U.E. Santa Rosa,6007441,4,43,5,60,14,8,1,1,8
+1,Cercado,1,Tarija,2680,Tarija,26474,U.E. Santa Rosa,6007451,5,9,1,15,4,0,0,0,4
+1,Cercado,1,Tarija,2680,Tarija,26475,U.E. Valle Hermoso,6007591,1,30,10,33,23,9,1,3,11
+1,Cercado,1,Tarija,2680,Tarija,26475,U.E. Valle Hermoso,6007601,2,24,8,37,15,7,1,10,6
+1,Cercado,1,Tarija,2680,Tarija,26475,U.E. Valle Hermoso,6007611,3,31,8,32,19,10,2,11,11
+1,Cercado,1,Tarija,2680,Tarija,26475,U.E. Valle Hermoso,6007621,4,28,7,37,24,7,0,3,8
+1,Cercado,1,Tarija,2680,Tarija,26475,U.E. Valle Hermoso,6007631,5,34,7,26,18,11,0,3,4
+1,Cercado,1,Tarija,2680,Tarija,26475,U.E. Valle Hermoso,6007641,6,42,4,28,15,6,0,11,5
+1,Cercado,1,Tarija,2680,Tarija,26476,U.E. Moto Mendez,6007791,1,37,8,33,24,6,3,3,8
+1,Cercado,1,Tarija,2680,Tarija,26476,U.E. Moto Mendez,6007801,2,31,6,47,23,11,1,6,5
+1,Cercado,1,Tarija,2680,Tarija,26476,U.E. Moto Mendez,6007811,3,33,6,43,19,10,4,7,10
+1,Cercado,1,Tarija,2680,Tarija,26476,U.E. Moto Mendez,6007821,4,37,6,55,21,4,1,5,5
+1,Cercado,1,Tarija,2680,Tarija,26476,U.E. Moto Mendez,6007831,5,6,1,5,3,1,0,2,2
+1,Cercado,1,Tarija,2680,Tarija,26477,U.E. Los Laureles,6007651,1,43,8,40,29,2,1,2,4
+1,Cercado,1,Tarija,2680,Tarija,26477,U.E. Los Laureles,6007661,2,43,11,37,17,13,1,7,10
+1,Cercado,1,Tarija,2680,Tarija,26477,U.E. Los Laureles,6007671,3,21,3,8,14,2,0,2,2
+1,Cercado,1,Tarija,2680,Tarija,31053,Coliseo 15 de noviembre,6001881,1,39,4,39,17,7,1,5,0
+1,Cercado,1,Tarija,2680,Tarija,31053,Coliseo 15 de noviembre,6001891,2,40,4,46,17,3,1,7,5
+1,Cercado,1,Tarija,2680,Tarija,31053,Coliseo 15 de noviembre,6001901,3,28,6,48,20,3,0,4,6
+1,Cercado,1,Tarija,2680,Tarija,31053,Coliseo 15 de noviembre,6001911,4,34,11,36,21,6,1,5,5
+1,Cercado,1,Tarija,2680,Tarija,31053,Coliseo 15 de noviembre,6001921,5,38,5,35,16,13,1,2,7
+1,Cercado,1,Tarija,2680,Tarija,31054,U.E. Hermann Gmeiner Inicial (Kinder),6003031,1,36,6,32,19,5,0,4,9
+1,Cercado,1,Tarija,2680,Tarija,31054,U.E. Hermann Gmeiner Inicial (Kinder),6003041,2,29,7,26,22,15,1,6,3
+1,Cercado,1,Tarija,2680,Tarija,31054,U.E. Hermann Gmeiner Inicial (Kinder),6003051,3,23,1,29,18,13,3,8,2
+1,Cercado,1,Tarija,2680,Tarija,31054,U.E. Hermann Gmeiner Inicial (Kinder),6003061,4,37,3,40,17,4,0,3,4
+1,Cercado,1,Tarija,2680,Tarija,31054,U.E. Hermann Gmeiner Inicial (Kinder),6003071,5,15,3,23,6,9,0,2,1
+1,Cercado,1,Tarija,2680,Tarija,31055,Coliseo San Roque,6001091,1,38,7,62,19,4,0,4,4
+1,Cercado,1,Tarija,2680,Tarija,31055,Coliseo San Roque,6001101,2,46,12,68,15,2,5,1,3
+1,Cercado,1,Tarija,2680,Tarija,31055,Coliseo San Roque,6001111,3,50,7,57,14,7,3,4,11
+1,Cercado,1,Tarija,2680,Tarija,31055,Coliseo San Roque,6001121,4,41,7,66,19,3,5,1,2
+1,Cercado,1,Tarija,2680,Tarija,31055,Coliseo San Roque,6001131,5,62,5,43,12,2,3,2,3
+1,Cercado,1,Tarija,2680,Tarija,31055,Coliseo San Roque,6001141,6,44,3,62,10,3,2,2,9
+1,Cercado,1,Tarija,2680,Tarija,31055,Coliseo San Roque,6001151,7,46,6,61,11,4,2,2,5
+1,Cercado,1,Tarija,2680,Tarija,31055,Coliseo San Roque,6001161,8,50,4,63,13,2,1,3,7
+1,Cercado,1,Tarija,2680,Tarija,31055,Coliseo San Roque,6001171,9,53,9,65,7,3,0,3,2
+1,Cercado,1,Tarija,2680,Tarija,31055,Coliseo San Roque,6001181,10,42,8,68,14,5,0,4,8
+1,Cercado,1,Tarija,2680,Tarija,31055,Coliseo San Roque,6001191,11,25,3,13,4,1,1,1,2
+1,Cercado,1,Tarija,2680,Tarija,31056,U.E. Emma Rossel (Kinder),6005211,1,39,9,53,19,4,1,5,6
+1,Cercado,1,Tarija,2680,Tarija,31056,U.E. Emma Rossel (Kinder),6005221,2,42,6,51,13,6,3,4,1
+1,Cercado,1,Tarija,2680,Tarija,31056,U.E. Emma Rossel (Kinder),6005231,3,49,5,63,11,2,3,5,6
+1,Cercado,1,Tarija,2680,Tarija,31056,U.E. Emma Rossel (Kinder),6005241,4,27,2,27,13,3,1,6,5
+1,Cercado,1,Tarija,2680,Tarija,31058,U.E. San Jorge Inicial (Kinder),6005871,1,50,10,51,21,4,0,1,4
+1,Cercado,1,Tarija,2680,Tarija,31058,U.E. San Jorge Inicial (Kinder),6005881,2,38,4,49,16,3,0,0,4
+1,Cercado,1,Tarija,2680,Tarija,31058,U.E. San Jorge Inicial (Kinder),6005891,3,34,9,74,5,4,0,1,3
+1,Cercado,1,Tarija,2680,Tarija,31058,U.E. San Jorge Inicial (Kinder),6005901,4,47,7,58,14,7,0,5,10
+1,Cercado,1,Tarija,2680,Tarija,31058,U.E. San Jorge Inicial (Kinder),6005911,5,34,8,53,10,1,0,1,4
+1,Cercado,1,Tarija,2680,Tarija,31060,U.E. Bolivia Inicial (Kinder),6006951,1,48,11,78,17,5,1,1,5
+1,Cercado,1,Tarija,2680,Tarija,31060,U.E. Bolivia Inicial (Kinder),6006961,2,54,4,75,15,2,3,3,4
+1,Cercado,1,Tarija,2680,Tarija,31060,U.E. Bolivia Inicial (Kinder),6006971,3,60,3,60,13,2,6,1,3
+1,Cercado,1,Tarija,2680,Tarija,31060,U.E. Bolivia Inicial (Kinder),6006981,4,52,1,71,12,3,6,1,5
+1,Cercado,1,Tarija,2680,Tarija,31060,U.E. Bolivia Inicial (Kinder),6006991,5,1,0,9,3,0,0,0,0
+1,Cercado,1,Tarija,2680,Tarija,31061,Centro de educación Especial El Refugio,6007181,1,51,11,50,17,7,1,2,6
+1,Cercado,1,Tarija,2680,Tarija,31061,Centro de educación Especial El Refugio,6007191,2,49,6,39,17,7,3,3,10
+1,Cercado,1,Tarija,2680,Tarija,31061,Centro de educación Especial El Refugio,6007201,3,37,3,61,14,3,3,6,6
+1,Cercado,1,Tarija,2680,Tarija,31061,Centro de educación Especial El Refugio,6007211,4,46,9,63,11,5,2,2,6
+1,Cercado,1,Tarija,2680,Tarija,31061,Centro de educación Especial El Refugio,6007221,5,9,2,6,2,0,0,1,2
+1,Cercado,1,Tarija,2680,Tarija,32142,U. E. José Manuel Ávila 3 (KINDER),6004001,1,48,8,37,26,6,3,2,6
+1,Cercado,1,Tarija,2680,Tarija,32142,U. E. José Manuel Ávila 3 (KINDER),6004011,2,48,8,48,29,1,3,4,7
+1,Cercado,1,Tarija,2680,Tarija,32142,U. E. José Manuel Ávila 3 (KINDER),6004021,3,55,6,49,20,2,0,0,9
+1,Cercado,1,Tarija,2680,Tarija,32143,U. E. Prodat,6002041,1,55,4,48,24,2,0,0,7
+1,Cercado,1,Tarija,2680,Tarija,32143,U. E. Prodat,6002051,2,58,5,40,19,5,1,5,5
+1,Cercado,1,Tarija,2680,Tarija,32143,U. E. Prodat,6002061,3,45,5,35,21,1,0,5,4
+1,Cercado,1,Tarija,2680,Tarija,32338,U.E. Andalucía,6006221,1,45,5,51,12,2,0,3,3
+1,Cercado,1,Tarija,2680,Tarija,32339,U.E. José María Velaz 1,6001981,1,51,9,42,11,5,2,4,10
+1,Cercado,1,Tarija,2680,Tarija,32339,U.E. José María Velaz 1,6001991,2,21,4,33,6,6,0,1,2
+1,Cercado,1,Tarija,2680,Tarija,32414,U.E. San Antonio 2,6006781,1,45,8,65,23,3,3,6,4
+1,Cercado,1,Tarija,2680,Tarija,32414,U.E. San Antonio 2,6006791,2,27,4,37,7,2,2,2,2
+1,Cercado,1,Tarija,2680,Tarija,32459,U.E. Nueva Esperanza,6007681,1,43,8,38,19,5,1,9,10
+1,Cercado,1,Tarija,2680,Tarija,32459,U.E. Nueva Esperanza,6007691,2,34,11,40,29,4,0,7,7
+1,Cercado,1,Tarija,2680,Tarija,32460,U.E. Jesús Buen Pastor,6001931,1,44,12,54,18,8,2,1,6
+1,Cercado,1,Tarija,2680,Tarija,32460,U.E. Jesús Buen Pastor,6001941,2,36,11,42,8,5,2,6,4
+1,Cercado,1,Tarija,2680,Tarija,32460,U.E. Jesús Buen Pastor,6001951,3,40,2,46,18,4,1,4,9
+1,Cercado,1,Tarija,2680,Tarija,32460,U.E. Jesús Buen Pastor,6001961,4,50,12,46,19,3,1,0,4
+1,Cercado,1,Tarija,2680,Tarija,32460,U.E. Jesús Buen Pastor,6001971,5,19,5,25,7,6,2,0,3
+1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005581,1,54,4,63,19,6,2,4,6
+1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005591,2,38,9,52,18,2,2,5,6
+1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005601,3,59,6,55,20,6,1,2,4
+1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005611,4,52,6,60,18,1,1,2,1
+1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005621,5,40,8,44,16,2,0,6,6
+1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005631,6,38,7,62,19,0,3,0,4
+1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005641,7,62,5,64,10,2,5,0,3
+1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005651,8,40,5,36,19,4,1,1,4
+1,Cercado,1,Tarija,2927,Churquis,1,U.E. Churquis,6000671,1,20,1,47,3,1,0,5,2
+1,Cercado,1,Tarija,2927,Churquis,1,U.E. Churquis,6000681,2,4,1,25,5,3,1,1,1
+1,Cercado,1,Tarija,3196,Laderas Norte,1,U.E. Audelio Quifre,6000691,1,7,2,35,4,8,0,2,4
+1,Cercado,1,Tarija,3196,Laderas Norte,1,U.E. Audelio Quifre,6000701,2,8,2,14,1,4,0,1,0
+1,Cercado,1,Tarija,3201,Chaupicancha,2,U.E. Chaupicancha,6000761,1,9,1,15,10,5,0,2,2
+1,Cercado,1,Tarija,3288,Obrajes,1,U.E. San Francisco De Asis,6000711,1,38,7,38,21,4,1,1,6
+1,Cercado,1,Tarija,3288,Obrajes,1,U.E. San Francisco De Asis,6000721,2,32,8,53,15,5,1,5,5
+1,Cercado,1,Tarija,3288,Obrajes,1,U.E. San Francisco De Asis,6000731,3,8,1,22,4,0,0,0,1
+1,Cercado,1,Tarija,3423,Sella Cercado,1,U.E. 15 de Abril,6000741,1,49,8,60,10,0,2,4,2
+1,Cercado,1,Tarija,3423,Sella Cercado,1,U.E. 15 de Abril,6000751,2,11,0,19,1,1,0,2,0
+1,Cercado,1,Tarija,4207,San Pedro de Sola,25705,U.E. San Pedro de Sola,6000771,1,27,21,15,5,6,0,4,7
+1,Cercado,1,Tarija,4356,España Sur,26058,U.E. Alto de España Sud,6000781,1,13,6,31,13,6,1,4,6
+1,Cercado,1,Tarija,4644,Monte Centro,32453,U.E. Monte Centro,6000791,1,12,5,20,0,5,0,0,4
+1,Cercado,1,Tarija,4647,Turumayo,32456,U.E. Turumayo,6000801,1,30,7,46,19,5,1,5,8
+1,Cercado,1,Tarija,4647,Turumayo,32456,U.E. Turumayo,6000811,2,36,9,29,20,6,0,3,10
+2,Arce,1,Padcaya,1887,Padcaya,1,U.E. Aniceto Arce,6007951,1,46,8,53,5,15,,,
+2,Arce,1,Padcaya,1887,Padcaya,1,U.E. Aniceto Arce,6007961,2,50,4,48,3,15,,,
+2,Arce,1,Padcaya,1887,Padcaya,1,U.E. Aniceto Arce,6007971,3,77,1,49,6,10,,,
+2,Arce,1,Padcaya,1887,Padcaya,1,U.E. Aniceto Arce,6007981,4,60,3,73,7,12,,,
+2,Arce,1,Padcaya,1887,Padcaya,1,U.E. Aniceto Arce,6007991,5,57,1,64,10,14,,,
+2,Arce,1,Padcaya,1887,Padcaya,1,U.E. Aniceto Arce,6008001,6,64,4,66,4,12,,,
+2,Arce,1,Padcaya,1887,Padcaya,1,U.E. Aniceto Arce,6008011,7,56,6,93,3,5,,,
+2,Arce,1,Padcaya,1887,Padcaya,1,U.E. Aniceto Arce,6008021,8,35,4,83,11,10,,,
+2,Arce,1,Padcaya,1887,Padcaya,1,U.E. Aniceto Arce,6008031,9,52,4,63,7,13,,,
+2,Arce,1,Padcaya,1887,Padcaya,1,U.E. Aniceto Arce,6008041,10,37,1,47,4,8,,,
+2,Arce,1,Padcaya,1889,Abra de la Cruz,3,U.E. Eloy Aparicio,6008131,1,39,17,45,13,32,,,
+2,Arce,1,Padcaya,1889,Abra de la Cruz,3,U.E. Eloy Aparicio,6008141,2,33,19,35,7,27,,,
+2,Arce,1,Padcaya,1889,Abra de la Cruz,3,U.E. Eloy Aparicio,6008151,3,28,10,30,8,26,,,
+2,Arce,1,Padcaya,1891,Orozas Arriba,4,U.E. Orozas Arriba,6008171,1,28,11,39,6,15,,,
+2,Arce,1,Padcaya,1891,Orozas Arriba,4,U.E. Orozas Arriba,6008181,2,31,12,34,3,26,,,
+2,Arce,1,Padcaya,1891,Orozas Arriba,4,U.E. Orozas Arriba,6008191,3,14,1,17,1,8,,,
+2,Arce,1,Padcaya,1892,Rumy Cancha,5,U.E. Rumy Cancha,6008201,1,21,3,24,2,20,,,
+2,Arce,1,Padcaya,1894,La Merced,6,U.E. La Merced,6008211,1,19,18,67,7,25,,,
+2,Arce,1,Padcaya,1894,La Merced,6,U.E. La Merced,6008221,2,11,6,32,6,7,,,
+2,Arce,1,Padcaya,1895,Río Negro,7,U.E. Rio Negro,6008231,1,31,8,49,2,27,,,
+2,Arce,1,Padcaya,1895,Río Negro,7,U.E. Rio Negro,6008241,2,27,4,36,1,30,,,
+2,Arce,1,Padcaya,1896,La Mamora,8,U.E. Oscar Hiza Bastias,6008251,1,40,2,65,2,21,,,
+2,Arce,1,Padcaya,1896,La Mamora,8,U.E. Oscar Hiza Bastias,6008261,2,54,3,58,3,18,,,
+2,Arce,1,Padcaya,1896,La Mamora,8,U.E. Oscar Hiza Bastias,6008271,3,12,2,11,2,4,,,
+2,Arce,1,Padcaya,1899,Emborozú,10,U.E. Anzelmo Ontiveros,6008301,1,54,14,44,2,37,,,
+2,Arce,1,Padcaya,1899,Emborozú,10,U.E. Anzelmo Ontiveros,6008311,2,56,11,34,2,15,,,
+2,Arce,1,Padcaya,1900,El Limal,11,U.E. Limal,6008321,1,19,3,16,5,28,,,
+2,Arce,1,Padcaya,1901,Salado,12,U.E. Juan Pablo II,6008331,1,17,9,15,3,33,,,
+2,Arce,1,Padcaya,1902,San Telmo,13,Núcleo San Telmo Primero De Mayo,6008341,1,26,17,42,9,16,,,
+2,Arce,1,Padcaya,1902,San Telmo,13,Núcleo San Telmo Primero De Mayo,6008351,2,29,2,28,3,9,,,
+2,Arce,1,Padcaya,1903,Trementinal,14,Nucleo 9 de Octubre,6008361,1,15,14,28,4,24,,,
+2,Arce,1,Padcaya,1903,Trementinal,14,Nucleo 9 de Octubre,6008371,2,3,2,9,1,9,,,
+2,Arce,1,Padcaya,1904,Mecoya (Zona Centro),15,U.E. San Antonio de Macoya,6008381,1,44,3,46,6,9,,,
+2,Arce,1,Padcaya,1904,Mecoya (Zona Centro),15,U.E. San Antonio de Macoya,6008391,2,5,0,9,1,1,,,
+2,Arce,1,Padcaya,1906,San Francisco,16,U.E. San Francisco (Arce),6008401,1,31,6,15,2,11,,,
+2,Arce,1,Padcaya,1907,El Carmen,17,U.E. El Carmen,6008411,1,15,4,42,12,4,,,
+2,Arce,1,Padcaya,1908,Rejara,18,U.E. Simon Bolivar de Rejara,6008421,1,32,24,19,5,18,,,
+2,Arce,1,Padcaya,1908,Rejara,18,U.E. Simon Bolivar de Rejara,6008431,2,21,11,9,1,13,,,
+2,Arce,1,Padcaya,1909,Camacho,19,U.E. Camacho,6008441,1,52,8,44,10,32,,,
+2,Arce,1,Padcaya,1909,Camacho,19,U.E. Camacho,6008451,2,43,6,38,3,25,,,
+2,Arce,1,Padcaya,1909,Camacho,19,U.E. Camacho,6008461,3,2,2,6,0,1,,,
+2,Arce,1,Padcaya,1910,Queñahuayco,20,Esc. Seccional Queñahuayco,6008471,1,62,11,45,9,15,,,
+2,Arce,1,Padcaya,1910,Queñahuayco,20,Esc. Seccional Queñahuayco,6008481,2,13,2,11,2,14,,,
+2,Arce,1,Padcaya,1911,Cañas,21,U.E. Blanca Navajas,6008491,1,34,14,40,5,37,,,
+2,Arce,1,Padcaya,1911,Cañas,21,U.E. Blanca Navajas,6008501,2,43,12,43,4,40,,,
+2,Arce,1,Padcaya,1911,Cañas,21,U.E. Blanca Navajas,6008511,3,13,0,9,2,9,,,
+2,Arce,1,Padcaya,1912,Canchas Mayu,22,U.E. Canchas Mayu,6008521,1,39,30,28,1,19,,,
+2,Arce,1,Padcaya,1912,Canchas Mayu,22,U.E. Canchas Mayu,6008531,2,11,2,0,0,2,,,
+2,Arce,1,Padcaya,1913,Tacuara Arriba,23,Esc. Tacuara Simon Bolivar,6008541,1,21,3,43,3,13,,,
+2,Arce,1,Padcaya,1914,Chaguaya,24,U.E. Virgen De Chaguaya,6008551,1,51,6,36,5,30,,,
+2,Arce,1,Padcaya,1914,Chaguaya,24,U.E. Virgen De Chaguaya,6008561,2,18,8,15,2,19,,,
+2,Arce,1,Padcaya,1915,Rosillas,25,U.E. Rosillas II,6008571,1,71,4,39,4,19,,,
+2,Arce,1,Padcaya,1915,Rosillas,25,U.E. Rosillas II,6008581,2,95,3,43,3,12,,,
+2,Arce,1,Padcaya,1915,Rosillas,25,U.E. Rosillas II,6008591,3,33,0,21,4,13,,,
+2,Arce,1,Padcaya,2928,Pampa Grande,9,U.E. Pampa Grande,6008281,1,32,2,14,3,16,,,
+2,Arce,1,Padcaya,2928,Pampa Grande,9,U.E. Pampa Grande,6008291,2,27,4,13,4,8,,,
+2,Arce,1,Padcaya,3046,Marañuelo,27,U.E. San Jose de Marañuelo,6008601,1,45,3,31,5,9,,,
+2,Arce,1,Padcaya,3197,Naranjo Agrio,3,U.E. Naranjo Agrio,6008161,1,18,19,30,6,9,,,
+2,Arce,1,Padcaya,3287,Valle Dorado,1,U.E. 2 de Agosto,6008051,1,26,14,20,4,19,,,
+2,Arce,1,Padcaya,3287,Valle Dorado,1,U.E. 2 de Agosto,6008061,2,8,10,8,1,8,,,
+2,Arce,1,Padcaya,3289,La Huerta,1,U.E. La Huerta,6008071,1,23,11,12,9,28,,,
+2,Arce,1,Padcaya,3289,La Huerta,1,U.E. La Huerta,6008081,2,11,4,7,0,7,,,
+2,Arce,1,Padcaya,3333,Quebrada de Cañas,1,U.E. Quebrada De Cañas,6008091,1,18,5,29,8,20,,,
+2,Arce,1,Padcaya,3334,Salado Conchas,1,U.E. Salado Conchas,6008101,1,14,4,14,2,44,,,
+2,Arce,1,Padcaya,3752,Abra de San Miguel,1,U.E. Abra de San Miguel,6008111,1,41,6,50,3,37,,,
+2,Arce,1,Padcaya,3752,Abra de San Miguel,1,U.E. Abra de San Miguel,6008121,2,10,0,9,0,8,,,
+2,Arce,1,Padcaya,4210,San José,25708,U.E. San José,6008611,1,50,8,18,5,14,,,
+2,Arce,2,Bermejo,1916,Bermejo,9,U.E. Guido Villagomez,6008741,1,34,13,51,11,14,,,
+2,Arce,2,Bermejo,1916,Bermejo,9,U.E. Guido Villagomez,6008751,2,31,10,44,26,5,,,
+2,Arce,2,Bermejo,1916,Bermejo,9,U.E. Guido Villagomez,6008761,3,48,16,41,17,2,,,
+2,Arce,2,Bermejo,1916,Bermejo,9,U.E. Guido Villagomez,6008771,4,27,21,41,8,14,,,
+2,Arce,2,Bermejo,1916,Bermejo,9,U.E. Guido Villagomez,6008781,5,37,15,33,24,8,,,
+2,Arce,2,Bermejo,1916,Bermejo,9,U.E. Guido Villagomez,6008791,6,34,12,46,28,7,,,
+2,Arce,2,Bermejo,1916,Bermejo,9,U.E. Guido Villagomez,6008801,7,33,5,40,10,11,,,
+2,Arce,2,Bermejo,1916,Bermejo,9,U.E. Guido Villagomez,6008811,8,32,7,46,11,9,,,
+2,Arce,2,Bermejo,1916,Bermejo,9,U.E. Guido Villagomez,6008821,9,37,8,50,23,18,,,
+2,Arce,2,Bermejo,1916,Bermejo,9,U.E. Guido Villagomez,6008831,10,25,7,42,20,12,,,
+2,Arce,2,Bermejo,1916,Bermejo,9,U.E. Guido Villagomez,6008841,11,37,11,48,18,13,,,
+2,Arce,2,Bermejo,1916,Bermejo,9,U.E. Guido Villagomez,6008851,12,37,8,44,19,13,,,
+2,Arce,2,Bermejo,1916,Bermejo,9,U.E. Guido Villagomez,6008861,13,28,14,26,21,13,,,
+2,Arce,2,Bermejo,1916,Bermejo,9,U.E. Guido Villagomez,6008871,14,38,14,52,13,11,,,
+2,Arce,2,Bermejo,1916,Bermejo,9,U.E. Guido Villagomez,6008881,15,19,7,16,5,3,,,
+2,Arce,2,Bermejo,1916,Bermejo,10,U.E. 8 e Septiembre,6008891,1,32,13,44,8,9,,,
+2,Arce,2,Bermejo,1916,Bermejo,10,U.E. 8 e Septiembre,6008901,2,30,11,34,19,10,,,
+2,Arce,2,Bermejo,1916,Bermejo,10,U.E. 8 e Septiembre,6008911,3,29,15,31,14,9,,,
+2,Arce,2,Bermejo,1916,Bermejo,10,U.E. 8 e Septiembre,6008921,4,29,8,40,22,17,,,
+2,Arce,2,Bermejo,1916,Bermejo,10,U.E. 8 e Septiembre,6008931,5,29,15,45,24,8,,,
+2,Arce,2,Bermejo,1916,Bermejo,10,U.E. 8 e Septiembre,6008941,6,25,12,39,18,13,,,
+2,Arce,2,Bermejo,1916,Bermejo,10,U.E. 8 e Septiembre,6008951,7,26,11,42,27,11,,,
+2,Arce,2,Bermejo,1916,Bermejo,10,U.E. 8 e Septiembre,6008961,8,33,21,36,16,11,,,
+2,Arce,2,Bermejo,1916,Bermejo,10,U.E. 8 e Septiembre,6008971,9,34,14,40,23,8,,,
+2,Arce,2,Bermejo,1916,Bermejo,10,U.E. 8 e Septiembre,6008981,10,33,13,37,20,13,,,
+2,Arce,2,Bermejo,1916,Bermejo,10,U.E. 8 e Septiembre,6008991,11,5,1,13,4,2,,,
+2,Arce,2,Bermejo,1916,Bermejo,11,U.E. 25 de Mayo,6009001,1,44,12,47,16,13,,,
+2,Arce,2,Bermejo,1916,Bermejo,11,U.E. 25 de Mayo,6009011,2,35,10,54,20,12,,,
+2,Arce,2,Bermejo,1916,Bermejo,11,U.E. 25 de Mayo,6009021,3,47,8,47,16,8,,,
+2,Arce,2,Bermejo,1916,Bermejo,11,U.E. 25 de Mayo,6009031,4,40,9,41,22,8,,,
+2,Arce,2,Bermejo,1916,Bermejo,11,U.E. 25 de Mayo,6009041,5,39,15,45,20,8,,,
+2,Arce,2,Bermejo,1916,Bermejo,11,U.E. 25 de Mayo,6009051,6,45,5,37,24,8,,,
+2,Arce,2,Bermejo,1916,Bermejo,11,U.E. 25 de Mayo,6009061,7,45,9,54,9,9,,,
+2,Arce,2,Bermejo,1916,Bermejo,11,U.E. 25 de Mayo,6009071,8,44,12,51,18,13,,,
+2,Arce,2,Bermejo,1916,Bermejo,11,U.E. 25 de Mayo,6009081,9,34,16,41,22,11,,,
+2,Arce,2,Bermejo,1916,Bermejo,11,U.E. 25 de Mayo,6009091,10,33,19,37,20,12,,,
+2,Arce,2,Bermejo,1916,Bermejo,11,U.E. 25 de Mayo,6009101,11,42,13,34,20,20,,,
+2,Arce,2,Bermejo,1916,Bermejo,11,U.E. 25 de Mayo,6009111,12,48,9,48,17,11,,,
+2,Arce,2,Bermejo,1916,Bermejo,11,U.E. 25 de Mayo,6009121,13,33,20,42,19,12,,,
+2,Arce,2,Bermejo,1916,Bermejo,11,U.E. 25 de Mayo,6009131,14,40,17,49,17,16,,,
+2,Arce,2,Bermejo,1916,Bermejo,11,U.E. 25 de Mayo,6009141,15,14,6,13,5,4,,,
+2,Arce,2,Bermejo,1916,Bermejo,12,U.E. Eduardo Avaroa,6009151,1,33,10,42,20,10,,,
+2,Arce,2,Bermejo,1916,Bermejo,12,U.E. Eduardo Avaroa,6009161,2,36,4,31,23,16,,,
+2,Arce,2,Bermejo,1916,Bermejo,12,U.E. Eduardo Avaroa,6009171,3,37,9,39,21,17,,,
+2,Arce,2,Bermejo,1916,Bermejo,12,U.E. Eduardo Avaroa,6009181,4,30,13,21,22,16,,,
+2,Arce,2,Bermejo,1916,Bermejo,12,U.E. Eduardo Avaroa,6009191,5,31,16,38,28,10,,,
+2,Arce,2,Bermejo,1916,Bermejo,12,U.E. Eduardo Avaroa,6009201,6,32,17,44,20,9,,,
+2,Arce,2,Bermejo,1916,Bermejo,12,U.E. Eduardo Avaroa,6009211,7,36,13,24,22,11,,,
+2,Arce,2,Bermejo,1916,Bermejo,12,U.E. Eduardo Avaroa,6009221,8,27,6,25,29,20,,,
+2,Arce,2,Bermejo,1916,Bermejo,12,U.E. Eduardo Avaroa,6009231,9,38,9,41,20,12,,,
+2,Arce,2,Bermejo,1916,Bermejo,12,U.E. Eduardo Avaroa,6009241,10,45,15,35,19,14,,,
+2,Arce,2,Bermejo,1916,Bermejo,12,U.E. Eduardo Avaroa,6009251,11,32,8,38,18,11,,,
+2,Arce,2,Bermejo,1916,Bermejo,12,U.E. Eduardo Avaroa,6009261,12,29,13,39,18,12,,,
+2,Arce,2,Bermejo,1916,Bermejo,12,U.E. Eduardo Avaroa,6009271,13,29,11,39,34,15,,,
+2,Arce,2,Bermejo,1916,Bermejo,13,U.E. Mscal. Andres De Santa Cruz,6009281,1,36,13,28,22,13,,,
+2,Arce,2,Bermejo,1916,Bermejo,13,U.E. Mscal. Andres De Santa Cruz,6009291,2,40,17,32,18,10,,,
+2,Arce,2,Bermejo,1916,Bermejo,13,U.E. Mscal. Andres De Santa Cruz,6009301,3,39,15,44,22,12,,,
+2,Arce,2,Bermejo,1916,Bermejo,13,U.E. Mscal. Andres De Santa Cruz,6009311,4,31,14,40,28,7,,,
+2,Arce,2,Bermejo,1916,Bermejo,13,U.E. Mscal. Andres De Santa Cruz,6009321,5,36,14,43,20,8,,,
+2,Arce,2,Bermejo,1916,Bermejo,13,U.E. Mscal. Andres De Santa Cruz,6009331,6,47,13,41,20,7,,,
+2,Arce,2,Bermejo,1916,Bermejo,13,U.E. Mscal. Andres De Santa Cruz,6009341,7,25,25,50,21,10,,,
+2,Arce,2,Bermejo,1916,Bermejo,13,U.E. Mscal. Andres De Santa Cruz,6009351,8,37,17,36,22,10,,,
+2,Arce,2,Bermejo,1916,Bermejo,13,U.E. Mscal. Andres De Santa Cruz,6009361,9,28,12,55,17,10,,,
+2,Arce,2,Bermejo,1916,Bermejo,13,U.E. Mscal. Andres De Santa Cruz,6009371,10,26,19,40,19,17,,,
+2,Arce,2,Bermejo,1916,Bermejo,13,U.E. Mscal. Andres De Santa Cruz,6009381,11,14,3,15,15,1,,,
+2,Arce,2,Bermejo,1916,Bermejo,14,U.E. Octavio Campero Echazu (Bermejo),6009391,1,39,8,37,21,13,,,
+2,Arce,2,Bermejo,1916,Bermejo,14,U.E. Octavio Campero Echazu (Bermejo),6009401,2,34,6,45,13,12,,,
+2,Arce,2,Bermejo,1916,Bermejo,14,U.E. Octavio Campero Echazu (Bermejo),6009411,3,34,12,47,18,19,,,
+2,Arce,2,Bermejo,1916,Bermejo,14,U.E. Octavio Campero Echazu (Bermejo),6009421,4,39,14,47,14,14,,,
+2,Arce,2,Bermejo,1916,Bermejo,14,U.E. Octavio Campero Echazu (Bermejo),6009431,5,30,13,40,12,23,,,
+2,Arce,2,Bermejo,1916,Bermejo,14,U.E. Octavio Campero Echazu (Bermejo),6009441,6,47,6,31,20,20,,,
+2,Arce,2,Bermejo,1916,Bermejo,14,U.E. Octavio Campero Echazu (Bermejo),6009451,7,45,10,46,21,8,,,
+2,Arce,2,Bermejo,1916,Bermejo,14,U.E. Octavio Campero Echazu (Bermejo),6009461,8,34,16,37,22,10,,,
+2,Arce,2,Bermejo,1916,Bermejo,14,U.E. Octavio Campero Echazu (Bermejo),6009471,9,35,12,44,28,13,,,
+2,Arce,2,Bermejo,1916,Bermejo,14,U.E. Octavio Campero Echazu (Bermejo),6009481,10,38,10,51,15,13,,,
+2,Arce,2,Bermejo,1916,Bermejo,14,U.E. Octavio Campero Echazu (Bermejo),6009491,11,34,3,46,15,13,,,
+2,Arce,2,Bermejo,1916,Bermejo,14,U.E. Octavio Campero Echazu (Bermejo),6009501,12,22,11,54,16,14,,,
+2,Arce,2,Bermejo,1916,Bermejo,14,U.E. Octavio Campero Echazu (Bermejo),6009511,13,27,16,43,10,12,,,
+2,Arce,2,Bermejo,1916,Bermejo,14,U.E. Octavio Campero Echazu (Bermejo),6009521,14,33,9,55,19,9,,,
+2,Arce,2,Bermejo,1916,Bermejo,14,U.E. Octavio Campero Echazu (Bermejo),6009531,15,39,9,37,14,8,,,
+2,Arce,2,Bermejo,1916,Bermejo,14,U.E. Octavio Campero Echazu (Bermejo),6009541,16,24,7,34,17,15,,,
+2,Arce,2,Bermejo,1916,Bermejo,15,U.E. Aulio Araoz,6009551,1,23,9,39,24,16,,,
+2,Arce,2,Bermejo,1916,Bermejo,15,U.E. Aulio Araoz,6009561,2,39,13,31,22,11,,,
+2,Arce,2,Bermejo,1916,Bermejo,15,U.E. Aulio Araoz,6009571,3,41,13,32,21,16,,,
+2,Arce,2,Bermejo,1916,Bermejo,15,U.E. Aulio Araoz,6009581,4,36,18,41,14,13,,,
+2,Arce,2,Bermejo,1916,Bermejo,15,U.E. Aulio Araoz,6009591,5,35,7,37,18,14,,,
+2,Arce,2,Bermejo,1916,Bermejo,15,U.E. Aulio Araoz,6009601,6,45,8,34,20,18,,,
+2,Arce,2,Bermejo,1916,Bermejo,15,U.E. Aulio Araoz,6009611,7,25,10,34,20,12,,,
+2,Arce,2,Bermejo,1916,Bermejo,15,U.E. Aulio Araoz,6009621,8,31,10,29,32,12,,,
+2,Arce,2,Bermejo,1916,Bermejo,15,U.E. Aulio Araoz,6009631,9,33,17,30,20,9,,,
+2,Arce,2,Bermejo,1916,Bermejo,15,U.E. Aulio Araoz,6009641,10,30,16,48,17,9,,,
+2,Arce,2,Bermejo,1916,Bermejo,16,U.E. Antonio Jose De Sucre,6009651,1,30,16,36,19,15,,,
+2,Arce,2,Bermejo,1916,Bermejo,16,U.E. Antonio Jose De Sucre,6009661,2,31,20,41,14,18,,,
+2,Arce,2,Bermejo,1916,Bermejo,16,U.E. Antonio Jose De Sucre,6009671,3,34,16,35,18,10,,,
+2,Arce,2,Bermejo,1916,Bermejo,16,U.E. Antonio Jose De Sucre,6009681,4,41,16,28,22,4,,,
+2,Arce,2,Bermejo,1916,Bermejo,16,U.E. Antonio Jose De Sucre,6009691,5,35,10,34,15,7,,,
+2,Arce,2,Bermejo,1916,Bermejo,16,U.E. Antonio Jose De Sucre,6009701,6,30,11,41,12,10,,,
+2,Arce,2,Bermejo,1916,Bermejo,16,U.E. Antonio Jose De Sucre,6009711,7,41,14,31,25,15,,,
+2,Arce,2,Bermejo,1916,Bermejo,16,U.E. Antonio Jose De Sucre,6009721,8,20,4,13,7,2,,,
+2,Arce,2,Bermejo,1916,Bermejo,17,(Cárcel) Carceleta Bermejo,6009731,1,6,2,11,4,9,,,
+2,Arce,2,Bermejo,1916,Bermejo,25354,U.E. La Esperanza,6009741,1,28,14,36,15,7,,,
+2,Arce,2,Bermejo,1916,Bermejo,25354,U.E. La Esperanza,6009751,2,33,15,36,17,21,,,
+2,Arce,2,Bermejo,1916,Bermejo,25354,U.E. La Esperanza,6009761,3,36,12,42,21,14,,,
+2,Arce,2,Bermejo,1916,Bermejo,25354,U.E. La Esperanza,6009771,4,21,8,32,18,12,,,
+2,Arce,2,Bermejo,1916,Bermejo,25547,U.E. Bolivia,6009781,1,40,21,18,9,15,,,
+2,Arce,2,Bermejo,1916,Bermejo,25547,U.E. Bolivia,6009791,2,29,17,27,16,14,,,
+2,Arce,2,Bermejo,1916,Bermejo,25547,U.E. Bolivia,6009801,3,21,17,24,15,14,,,
+2,Arce,2,Bermejo,1916,Bermejo,25547,U.E. Bolivia,6009811,4,24,9,22,22,17,,,
+2,Arce,2,Bermejo,1916,Bermejo,25547,U.E. Bolivia,6009821,5,26,21,19,15,13,,,
+2,Arce,2,Bermejo,1916,Bermejo,25547,U.E. Bolivia,6009831,6,17,6,12,16,10,,,
+2,Arce,2,Bermejo,1916,Bermejo,32458,Centro de Capacitación Productiva,6009841,1,38,19,48,20,9,,,
+2,Arce,2,Bermejo,1916,Bermejo,32458,Centro de Capacitación Productiva,6009851,2,13,3,13,5,2,,,
+2,Arce,2,Bermejo,1918,Candado Grande,3,U.E. Moto Mendez,6008621,1,34,5,45,10,2,,,
+2,Arce,2,Bermejo,1918,Candado Grande,3,U.E. Moto Mendez,6008631,2,6,0,18,11,6,,,
+2,Arce,2,Bermejo,1919,Flor de Oro,4,U.E. Flor De Oro,6008661,1,7,6,42,8,8,,,
+2,Arce,2,Bermejo,1920,Arrozales,5,U.E. Arrozales,6008671,1,29,2,62,8,16,,,
+2,Arce,2,Bermejo,1921,Barredero,6,U.E. Barredero,6008681,1,10,13,34,10,22,,,
+2,Arce,2,Bermejo,1921,Barredero,6,U.E. Barredero,6008691,2,4,2,36,4,12,,,
+2,Arce,2,Bermejo,1922,Comunidad José Maria Linares,7,U.E. Colonia Linares,6008701,1,17,12,48,17,20,,,
+2,Arce,2,Bermejo,1922,Comunidad José Maria Linares,7,U.E. Colonia Linares,6008711,2,14,6,48,7,25,,,
+2,Arce,2,Bermejo,1922,Comunidad José Maria Linares,7,U.E. Colonia Linares,6008721,3,13,10,55,13,16,,,
+2,Arce,2,Bermejo,1923,Porcelana,8,U.E. Porcelana,6008731,1,10,6,49,7,10,,,
+2,Arce,2,Bermejo,3168,Campo Grande,3,U.E. Campo Grande (Arce),6008641,1,30,5,38,11,9,,,
+2,Arce,2,Bermejo,3168,Campo Grande,3,U.E. Campo Grande (Arce),6008651,2,11,8,39,10,14,,,
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,1,U.E. 27 de Mayo,6012511,1,24,5,8,7,6,6,5,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,1,U.E. 27 de Mayo,6012521,2,31,8,10,5,6,2,16,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,1,U.E. 27 de Mayo,6012531,3,26,6,17,12,10,2,11,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,1,U.E. 27 de Mayo,6012541,4,31,8,11,19,8,2,5,1
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,1,U.E. 27 de Mayo,6012551,5,23,6,2,12,4,1,4,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,1,U.E. 27 de Mayo,6012561,6,34,10,6,13,4,2,6,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,1,U.E. 27 de Mayo,6012571,7,29,14,11,18,6,1,7,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,1,U.E. 27 de Mayo,6012581,8,26,6,10,15,6,3,5,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,1,U.E. 27 de Mayo,6012591,9,4,1,2,1,2,0,1,0
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010481,1,39,9,9,10,9,4,7,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010491,2,24,20,4,10,22,1,10,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010501,3,49,10,4,7,13,7,7,12
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010511,4,32,11,8,9,16,9,5,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010521,5,40,12,10,16,18,5,2,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010531,6,36,7,3,13,20,5,4,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010541,7,44,16,5,24,9,2,5,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010551,8,44,9,14,4,13,4,5,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010561,9,32,4,8,11,6,4,5,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010571,10,28,5,15,8,17,4,5,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010581,11,44,8,12,9,23,3,5,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010591,12,44,8,7,9,13,6,7,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010601,13,23,9,9,12,22,8,7,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010611,14,36,9,10,4,16,7,4,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010621,15,47,7,9,11,25,5,3,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010631,16,6,0,2,0,5,0,1,0
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012351,1,40,13,13,13,12,5,3,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012361,2,28,10,14,19,12,7,7,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012371,3,33,7,14,9,15,2,5,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012381,4,36,12,10,16,10,8,4,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012391,5,48,8,13,23,12,1,4,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012401,6,41,11,22,19,11,1,7,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012411,7,47,6,13,20,13,1,4,1
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012421,8,40,9,9,18,11,2,8,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012431,9,41,10,8,18,18,3,3,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012441,10,34,8,14,23,8,3,4,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012451,11,40,7,13,10,6,4,5,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,8,U.E. 12 de Agosto,6012461,1,50,3,15,11,8,7,3,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,8,U.E. 12 de Agosto,6012471,2,49,9,23,15,4,2,3,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,8,U.E. 12 de Agosto,6012481,3,68,8,12,23,16,3,7,9
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,8,U.E. 12 de Agosto,6012491,4,63,4,17,15,3,1,3,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,8,U.E. 12 de Agosto,6012501,5,9,2,6,6,2,3,2,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011181,1,47,8,19,17,6,5,2,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011191,2,51,6,29,20,14,1,5,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011201,3,58,6,29,14,8,6,3,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011211,4,48,8,18,16,7,9,1,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011221,5,47,11,11,15,10,8,1,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011231,6,52,4,16,13,8,0,6,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011241,7,58,8,21,11,11,2,4,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011251,8,44,12,20,14,9,0,4,9
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011261,9,47,12,25,7,6,0,6,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011271,10,49,11,23,12,9,9,3,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011281,11,53,11,17,12,12,1,4,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011291,12,48,11,21,19,9,4,3,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011301,13,49,15,23,15,12,4,1,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011711,1,38,8,24,20,14,3,6,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011721,2,43,7,16,17,19,3,8,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011731,3,62,8,17,16,21,7,9,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011741,4,45,4,13,15,20,5,9,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011751,5,46,9,18,15,12,7,3,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011761,6,41,11,17,16,11,5,3,1
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011771,7,38,14,13,18,14,5,6,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011781,8,39,10,11,16,12,1,2,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011791,9,43,9,20,11,19,1,5,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011801,10,50,10,27,12,9,1,9,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011811,11,41,14,20,17,13,3,4,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011821,12,41,6,19,11,6,10,2,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011831,13,25,7,15,9,3,2,2,1
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,16,U.E. Liceo Gran Chaco,6011311,1,51,10,33,11,13,2,5,11
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,16,U.E. Liceo Gran Chaco,6011321,2,46,12,21,17,7,2,3,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,16,U.E. Liceo Gran Chaco,6011331,3,56,15,23,17,12,3,4,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,16,U.E. Liceo Gran Chaco,6011341,4,52,14,29,12,12,3,4,1
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,16,U.E. Liceo Gran Chaco,6011351,5,35,12,22,8,10,2,6,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,16,U.E. Liceo Gran Chaco,6011361,6,58,19,14,10,8,3,5,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,16,U.E. Liceo Gran Chaco,6011371,7,48,8,13,13,17,5,5,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,16,U.E. Liceo Gran Chaco,6011381,8,46,9,17,12,12,0,1,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,17,U.E. Miguel Estensoro,6011391,1,53,14,18,10,8,3,4,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,17,U.E. Miguel Estensoro,6011401,2,53,17,26,12,11,4,2,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,17,U.E. Miguel Estensoro,6011411,3,64,6,27,11,12,2,4,1
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,17,U.E. Miguel Estensoro,6011421,4,56,11,22,7,9,7,0,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,17,U.E. Miguel Estensoro,6011431,5,54,14,30,8,3,4,4,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,17,U.E. Miguel Estensoro,6011441,6,53,14,19,12,6,5,1,0
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,17,U.E. Miguel Estensoro,6011451,7,55,23,18,11,3,1,1,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,17,U.E. Miguel Estensoro,6011461,8,54,12,22,8,12,2,6,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,17,U.E. Miguel Estensoro,6011471,9,77,17,15,9,4,8,0,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,17,U.E. Miguel Estensoro,6011481,10,61,11,17,10,6,1,1,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011841,1,37,5,16,16,14,4,5,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011851,2,44,10,10,19,9,1,4,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011861,3,38,4,15,29,11,1,2,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011871,4,46,8,16,17,13,4,6,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011881,5,55,7,15,17,7,3,3,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011891,6,54,5,11,20,5,1,5,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011901,7,47,8,10,16,9,4,4,1
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011911,8,39,12,15,16,9,2,2,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011921,9,53,4,8,20,12,7,5,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011931,10,32,8,19,10,11,2,9,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011941,11,44,10,14,24,5,2,0,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011951,12,44,8,9,18,9,5,3,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011961,13,48,15,11,19,10,3,6,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011971,14,7,1,1,2,1,2,1,0
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6011981,1,27,4,20,22,6,2,4,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6011991,2,25,7,14,34,15,2,4,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012001,3,37,3,11,19,9,2,4,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012011,4,36,7,18,29,13,7,8,0
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012021,5,37,6,8,19,11,6,4,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012031,6,41,8,19,26,8,5,0,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012041,7,45,9,17,25,12,1,3,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012051,8,39,7,7,18,12,4,5,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012061,9,49,4,17,25,7,1,7,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012071,10,36,12,14,24,10,3,4,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012081,11,38,6,16,21,8,0,4,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012091,12,36,10,9,17,19,3,4,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012101,13,40,7,14,17,9,1,5,9
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012111,14,36,8,15,24,18,4,3,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012121,15,47,11,15,22,6,5,7,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012131,16,21,7,5,11,2,3,5,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011491,1,56,12,27,12,9,2,5,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011501,2,58,17,26,19,9,2,1,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011511,3,52,7,24,16,9,4,2,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011521,4,48,15,25,10,7,8,3,9
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011531,5,51,14,18,13,12,6,2,11
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011541,6,56,14,27,11,8,5,3,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011551,7,60,5,14,20,14,5,2,9
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011561,8,51,14,29,11,8,4,8,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011571,9,58,12,17,12,12,4,5,9
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011581,10,53,17,15,9,10,5,1,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011591,11,43,14,15,13,8,7,5,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011601,12,59,10,30,15,7,4,4,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011611,13,52,10,15,14,10,5,2,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011621,14,66,14,17,14,9,4,3,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011631,15,60,6,22,9,9,3,3,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011641,16,15,2,8,2,1,0,2,1
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,21,(Cárcel) Carceleta Pública,6012811,1,31,8,3,12,19,0,4,0
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,21,(Cárcel) Carceleta Pública,6012821,2,7,3,0,3,5,0,2,0
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,22,U.E. Mariscal Sucre,6012141,1,53,9,16,25,10,2,2,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,22,U.E. Mariscal Sucre,6012151,2,43,9,9,15,13,4,8,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,22,U.E. Mariscal Sucre,6012161,3,57,13,8,15,11,0,6,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,22,U.E. Mariscal Sucre,6012171,4,39,12,19,19,18,4,8,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,22,U.E. Mariscal Sucre,6012181,5,37,10,13,21,17,7,8,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,22,U.E. Mariscal Sucre,6012191,6,55,8,18,16,11,2,8,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,22,U.E. Mariscal Sucre,6012201,7,50,5,19,20,12,5,9,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010831,1,62,10,32,11,5,6,1,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010841,2,75,14,12,12,5,6,5,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010851,3,66,15,16,18,13,3,2,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010861,4,58,14,15,14,9,4,1,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010871,5,64,15,14,12,5,6,5,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010881,6,59,8,15,21,15,7,4,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010891,7,68,9,18,11,17,2,4,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010901,8,74,12,14,10,7,3,5,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010911,9,73,11,10,14,8,2,3,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010921,10,70,8,18,9,10,2,1,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010931,11,29,4,4,6,8,1,1,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,24,U.E. Oliverio Pelichelli,6010941,1,50,6,9,12,9,5,1,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,24,U.E. Oliverio Pelichelli,6010951,2,48,8,15,15,11,6,5,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,24,U.E. Oliverio Pelichelli,6010961,3,43,9,17,13,7,4,3,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,24,U.E. Oliverio Pelichelli,6010971,4,51,14,22,14,12,4,3,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,24,U.E. Oliverio Pelichelli,6010981,5,50,7,16,20,9,4,3,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,24,U.E. Oliverio Pelichelli,6010991,6,48,13,11,11,10,7,4,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,24,U.E. Oliverio Pelichelli,6011001,7,48,9,13,17,5,4,4,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,24,U.E. Oliverio Pelichelli,6011011,8,16,4,4,4,8,1,0,0
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25706,U.E. Campo Grande A,6012601,1,20,13,10,11,5,0,4,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25706,U.E. Campo Grande A,6012611,2,30,12,8,12,8,1,6,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25706,U.E. Campo Grande A,6012621,3,46,15,13,9,6,3,8,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25706,U.E. Campo Grande A,6012631,4,9,4,4,3,0,0,0,1
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25707,U.E. Bella Vista de Caipitandy,6012301,1,56,11,20,10,14,2,7,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25707,U.E. Bella Vista de Caipitandy,6012311,2,49,9,20,24,15,10,7,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25707,U.E. Bella Vista de Caipitandy,6012321,3,34,11,14,28,11,2,9,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25707,U.E. Bella Vista de Caipitandy,6012331,4,50,9,18,19,16,3,3,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25707,U.E. Bella Vista de Caipitandy,6012341,5,18,2,14,10,11,2,3,1
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25716,U.E. José Mariano Serrano,6011021,1,57,11,29,12,11,1,3,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25716,U.E. José Mariano Serrano,6011031,2,58,16,20,5,8,2,3,1
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25716,U.E. José Mariano Serrano,6011041,3,54,5,25,11,10,6,10,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25716,U.E. José Mariano Serrano,6011051,4,54,11,25,9,6,7,2,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25716,U.E. José Mariano Serrano,6011061,5,41,8,22,8,18,2,4,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25716,U.E. José Mariano Serrano,6011071,6,60,7,25,17,7,4,4,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25716,U.E. José Mariano Serrano,6011081,7,56,8,37,9,10,4,0,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25716,U.E. José Mariano Serrano,6011091,8,58,13,23,8,8,4,1,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25716,U.E. José Mariano Serrano,6011101,9,54,9,20,12,4,4,6,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25716,U.E. José Mariano Serrano,6011111,10,8,3,4,3,5,0,0,1
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25717,U.E. Simón Bolívar (Secundario),6010641,1,46,8,1,18,26,5,2,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25717,U.E. Simón Bolívar (Secundario),6010651,2,50,11,6,14,20,4,6,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25717,U.E. Simón Bolívar (Secundario),6010661,3,39,10,5,10,30,7,8,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25717,U.E. Simón Bolívar (Secundario),6010671,4,42,7,11,10,23,4,3,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25717,U.E. Simón Bolívar (Secundario),6010681,5,28,4,7,6,26,2,2,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012641,1,44,7,5,15,9,8,8,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012651,2,38,6,16,11,10,3,3,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012661,3,35,6,11,18,16,4,5,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012671,4,40,6,11,17,7,2,2,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012681,5,40,6,11,26,13,3,3,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012691,6,24,7,7,24,11,5,8,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012701,7,37,9,8,20,13,1,4,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012711,8,32,15,15,18,26,3,2,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012721,9,39,5,10,17,8,0,6,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012731,10,36,6,21,15,17,6,9,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012741,11,32,8,12,22,9,3,7,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012751,12,6,0,2,6,0,0,2,1
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31065,Coliseo 15 de Abril,6011651,1,48,10,36,18,18,2,3,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31065,Coliseo 15 de Abril,6011661,2,48,10,28,18,6,2,4,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31065,Coliseo 15 de Abril,6011671,3,52,12,32,10,10,4,5,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31065,Coliseo 15 de Abril,6011681,4,49,6,19,10,6,3,2,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31065,Coliseo 15 de Abril,6011691,5,58,15,21,13,6,4,7,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31065,Coliseo 15 de Abril,6011701,6,24,4,11,3,6,1,2,0
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31066,Instituto de Idiomas Juan Misael Saracho,6011121,1,58,13,23,6,10,2,4,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31066,Instituto de Idiomas Juan Misael Saracho,6011131,2,52,15,32,8,12,3,5,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31066,Instituto de Idiomas Juan Misael Saracho,6011141,3,66,14,29,9,6,2,1,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31066,Instituto de Idiomas Juan Misael Saracho,6011151,4,40,9,24,7,8,2,1,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31066,Instituto de Idiomas Juan Misael Saracho,6011161,5,59,12,22,13,5,2,1,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31066,Instituto de Idiomas Juan Misael Saracho,6011171,6,36,6,12,5,10,1,1,1
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31067,U.E. Yacuiba Inicial (Kinder),6012211,1,53,9,11,41,4,3,4,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31067,U.E. Yacuiba Inicial (Kinder),6012221,2,46,8,11,25,13,4,8,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31067,U.E. Yacuiba Inicial (Kinder),6012231,3,47,4,17,31,11,5,2,2
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31067,U.E. Yacuiba Inicial (Kinder),6012241,4,30,10,14,22,14,1,4,1
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31067,U.E. Yacuiba Inicial (Kinder),6012251,5,33,4,13,26,16,6,7,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31067,U.E. Yacuiba Inicial (Kinder),6012261,6,32,14,12,22,8,3,3,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31067,U.E. Yacuiba Inicial (Kinder),6012271,7,24,10,3,15,8,2,4,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31068,U.E. Juana Azurduy De Padilla Inicial (Kinder),6012281,1,45,8,13,13,11,5,5,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31068,U.E. Juana Azurduy De Padilla Inicial (Kinder),6012291,2,38,8,22,11,12,4,4,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32095,U.E. San Juan,6012761,1,42,10,17,27,13,1,6,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32095,U.E. San Juan,6012771,2,37,8,14,30,13,3,5,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32095,U.E. San Juan,6012781,3,34,2,18,25,14,1,8,10
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32095,U.E. San Juan,6012791,4,38,7,25,30,10,2,8,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32095,U.E. San Juan,6012801,5,9,3,4,4,3,1,1,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010691,1,64,11,13,15,11,5,2,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010701,2,49,13,8,12,17,10,3,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010711,3,37,8,15,14,10,5,7,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010721,4,52,10,16,12,15,10,5,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010731,5,45,12,13,12,8,8,0,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010741,6,55,16,15,11,13,10,7,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010751,7,39,11,10,11,22,6,3,7
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010761,8,48,9,13,19,14,5,4,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010771,9,47,10,10,16,11,12,4,4
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010781,10,36,10,3,13,10,7,3,9
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010791,11,50,12,11,13,15,8,6,1
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010801,12,41,9,17,9,22,7,4,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010811,13,53,10,12,9,7,6,1,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010821,14,14,6,1,3,7,3,1,1
+3,Gran Chaco,1,Yacuiba,1956,Palmar Chico,7,U.E. Nacional Mixto El Palmar,6010031,1,41,7,16,11,4,4,6,2
+3,Gran Chaco,1,Yacuiba,1956,Palmar Chico,7,U.E. Nacional Mixto El Palmar,6010041,2,36,6,8,4,7,3,4,4
+3,Gran Chaco,1,Yacuiba,1956,Palmar Chico,7,U.E. Nacional Mixto El Palmar,6010051,3,35,4,13,11,8,4,2,5
+3,Gran Chaco,1,Yacuiba,1956,Palmar Chico,7,U.E. Nacional Mixto El Palmar,6010061,4,58,6,19,9,5,3,6,5
+3,Gran Chaco,1,Yacuiba,1956,Palmar Chico,7,U.E. Nacional Mixto El Palmar,6010071,5,27,7,10,13,5,5,3,2
+3,Gran Chaco,1,Yacuiba,1956,Palmar Chico,7,U.E. Nacional Mixto El Palmar,6010081,6,47,2,10,5,9,5,4,4
+3,Gran Chaco,1,Yacuiba,1956,Palmar Chico,7,U.E. Nacional Mixto El Palmar,6010091,7,37,6,12,10,5,3,7,6
+3,Gran Chaco,1,Yacuiba,1956,Palmar Chico,7,U.E. Nacional Mixto El Palmar,6010101,8,36,9,12,16,7,2,5,2
+3,Gran Chaco,1,Yacuiba,1956,Palmar Chico,7,U.E. Nacional Mixto El Palmar,6010111,9,33,8,15,10,11,3,5,6
+3,Gran Chaco,1,Yacuiba,1956,Palmar Chico,7,U.E. Nacional Mixto El Palmar,6010121,10,19,2,5,5,1,1,1,0
+3,Gran Chaco,1,Yacuiba,1958,Caiza J,9,U.E. Prof. Bautista Jurado,6010131,1,26,11,7,19,7,2,4,2
+3,Gran Chaco,1,Yacuiba,1958,Caiza J,9,U.E. Prof. Bautista Jurado,6010141,2,7,5,5,14,11,1,7,4
+3,Gran Chaco,1,Yacuiba,1958,Caiza J,9,U.E. Prof. Bautista Jurado,6010151,3,26,15,4,16,12,1,4,4
+3,Gran Chaco,1,Yacuiba,1958,Caiza J,9,U.E. Prof. Bautista Jurado,6010161,4,22,10,6,18,6,3,4,4
+3,Gran Chaco,1,Yacuiba,1958,Caiza J,9,U.E. Prof. Bautista Jurado,6010171,5,31,9,14,25,10,3,5,4
+3,Gran Chaco,1,Yacuiba,1958,Caiza J,9,U.E. Prof. Bautista Jurado,6010181,6,25,7,5,23,5,2,4,4
+3,Gran Chaco,1,Yacuiba,1958,Caiza J,32333,U.E. Isaac Maldonado Reque de Caiza J,6010461,1,7,2,5,4,1,0,1,1
+3,Gran Chaco,1,Yacuiba,1959,San Francisco de Inti,10,U.E. San Francisco De Inti,6010191,1,28,9,13,10,12,2,4,4
+3,Gran Chaco,1,Yacuiba,1959,San Francisco de Inti,10,U.E. San Francisco De Inti,6010201,2,34,12,22,10,16,3,4,3
+3,Gran Chaco,1,Yacuiba,1959,San Francisco de Inti,10,U.E. San Francisco De Inti,6010211,3,27,4,9,5,3,1,2,1
+3,Gran Chaco,1,Yacuiba,1960,Yaguacua,11,U.E. 4 de Mayo,6010221,1,9,6,4,6,23,2,1,9
+3,Gran Chaco,1,Yacuiba,1960,Yaguacua,11,U.E. 4 de Mayo,6010231,2,19,5,10,19,14,1,2,8
+3,Gran Chaco,1,Yacuiba,1960,Yaguacua,11,U.E. 4 de Mayo,6010241,3,16,1,2,5,24,2,10,9
+3,Gran Chaco,1,Yacuiba,1960,Yaguacua,11,U.E. 4 de Mayo,6010251,4,27,5,3,8,13,2,15,1
+3,Gran Chaco,1,Yacuiba,1960,Yaguacua,11,U.E. 4 de Mayo,6010261,5,15,1,9,9,11,2,4,4
+3,Gran Chaco,1,Yacuiba,1961,Sanandita,12,U.E. Heroes de Boqueron,6010271,1,22,10,4,10,8,0,1,4
+3,Gran Chaco,1,Yacuiba,1961,Sanandita,12,U.E. Heroes de Boqueron,6010281,2,21,7,7,16,10,1,4,2
+3,Gran Chaco,1,Yacuiba,1961,Sanandita,12,U.E. Heroes de Boqueron,6010291,3,18,4,8,16,7,2,5,4
+3,Gran Chaco,1,Yacuiba,1961,Sanandita,12,U.E. Heroes de Boqueron,6010301,4,19,2,12,11,6,3,3,4
+3,Gran Chaco,1,Yacuiba,1962,Sachapera,13,U.E. Sachapera,6010311,1,17,2,6,7,25,2,4,10
+3,Gran Chaco,1,Yacuiba,1962,Sachapera,13,U.E. Sachapera,6010321,2,17,6,7,8,24,2,5,18
+3,Gran Chaco,1,Yacuiba,1962,Sachapera,13,U.E. Sachapera,6010331,3,21,4,4,8,21,3,3,8
+3,Gran Chaco,1,Yacuiba,1962,Sachapera,13,U.E. Sachapera,6010341,4,14,4,9,6,25,1,8,6
+3,Gran Chaco,1,Yacuiba,1962,Sachapera,13,U.E. Sachapera,6010351,5,6,1,2,5,6,0,4,5
+3,Gran Chaco,1,Yacuiba,1963,Sunchal,14,U.E. Sunchal,6010361,1,15,4,11,3,9,2,2,0
+3,Gran Chaco,1,Yacuiba,1964,Crevaux,15,U.E. Crevaux Sud,6010371,1,21,3,3,10,37,0,1,1
+3,Gran Chaco,1,Yacuiba,1964,Crevaux,15,U.E. Crevaux Sud,6010381,2,28,8,4,9,43,1,3,4
+3,Gran Chaco,1,Yacuiba,1964,Crevaux,15,U.E. Crevaux Sud,6010391,3,28,5,20,6,27,0,1,3
+3,Gran Chaco,1,Yacuiba,1964,Crevaux,15,U.E. Crevaux Sud,6010401,4,32,7,24,5,23,0,0,0
+3,Gran Chaco,1,Yacuiba,1964,Crevaux,15,U.E. Crevaux Sud,6010411,5,1,1,3,2,7,0,1,1
+3,Gran Chaco,1,Yacuiba,1965,D'Orbigni,16,U.E. D'Orbigny,6010421,1,20,10,5,5,3,0,7,0
+3,Gran Chaco,1,Yacuiba,1965,D'Orbigni,16,U.E. D'Orbigny,6010431,2,14,5,4,5,7,1,0,1
+3,Gran Chaco,1,Yacuiba,1965,D'Orbigni,16,U.E. D'Orbigny,6010441,3,9,3,2,5,3,0,1,0
+3,Gran Chaco,1,Yacuiba,1966,Bagual,17,U.E. 21 de Septiembre,6010451,1,22,7,25,9,6,2,1,1
+3,Gran Chaco,1,Yacuiba,3162,Villa el Carmen,3,U.E. Villa El Carmen,6009941,1,23,7,7,6,18,3,5,8
+3,Gran Chaco,1,Yacuiba,3162,Villa el Carmen,3,U.E. Villa El Carmen,6009951,2,30,3,7,9,18,2,6,6
+3,Gran Chaco,1,Yacuiba,3162,Villa el Carmen,3,U.E. Villa El Carmen,6009961,3,19,3,4,5,24,3,4,6
+3,Gran Chaco,1,Yacuiba,3162,Villa el Carmen,3,U.E. Villa El Carmen,6009971,4,26,3,2,14,11,4,3,7
+3,Gran Chaco,1,Yacuiba,3162,Villa el Carmen,3,U.E. Villa El Carmen,6009981,5,24,7,4,9,16,6,3,7
+3,Gran Chaco,1,Yacuiba,3162,Villa el Carmen,3,U.E. Villa El Carmen,6009991,6,30,8,10,8,12,6,3,9
+3,Gran Chaco,1,Yacuiba,3162,Villa el Carmen,3,U.E. Villa El Carmen,6010001,7,28,3,7,4,6,1,4,0
+3,Gran Chaco,1,Yacuiba,3163,La Purisima,2,U.E. La Purisima,6009911,1,11,3,7,3,6,0,1,1
+3,Gran Chaco,1,Yacuiba,3164,Cañon Oculto,3,U.E. Cañon Oculto,6010011,1,22,7,7,16,12,3,13,6
+3,Gran Chaco,1,Yacuiba,3164,Cañon Oculto,3,U.E. Cañon Oculto,6010021,2,12,3,2,3,9,1,6,1
+3,Gran Chaco,1,Yacuiba,3271,Timboy Chaco,1,U.E. Timboy Tiguazu,6009861,1,9,6,7,17,37,7,11,2
+3,Gran Chaco,1,Yacuiba,3335,Tierras Nuevas,1,U.E. Tierras Nuevas,6009871,1,16,8,5,22,10,0,9,5
+3,Gran Chaco,1,Yacuiba,3335,Tierras Nuevas,1,U.E. Tierras Nuevas,6009881,2,13,10,3,11,9,2,6,10
+3,Gran Chaco,1,Yacuiba,3335,Tierras Nuevas,1,U.E. Tierras Nuevas,6009891,3,16,3,7,14,17,1,4,6
+3,Gran Chaco,1,Yacuiba,3335,Tierras Nuevas,1,U.E. Tierras Nuevas,6009901,4,12,7,3,7,13,1,5,5
+3,Gran Chaco,1,Yacuiba,3506,Aguayrenda,2,Escuela 27 de Mayo,6009921,1,45,1,14,5,5,2,3,8
+3,Gran Chaco,1,Yacuiba,3506,Aguayrenda,2,Escuela 27 de Mayo,6009931,2,12,2,1,1,1,0,4,0
+3,Gran Chaco,1,Yacuiba,4593,Pananty,32334,U.E. Arakuarenda,6010471,1,8,0,0,2,1,0,2,0
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012901,1,45,12,35,12,4,1,0,11
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012911,2,38,20,42,13,7,1,2,9
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012921,3,40,19,43,10,6,2,2,5
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012931,4,25,20,38,12,4,0,2,14
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012941,5,40,23,43,8,4,2,2,5
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012951,6,40,22,40,10,4,0,1,12
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012961,7,31,17,45,17,6,1,1,9
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012971,8,34,20,40,5,9,3,11,7
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012981,9,37,21,35,12,5,1,2,16
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012991,10,25,19,40,16,7,3,3,10
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6013001,11,43,14,46,17,1,4,3,8
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6013011,12,32,24,38,14,15,0,4,6
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6013021,13,28,22,33,16,6,0,3,11
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6013031,14,22,24,47,8,2,2,3,3
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6013041,15,27,16,45,12,3,2,1,14
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6013051,16,34,20,32,10,5,1,7,3
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6013061,17,13,2,14,8,1,1,0,1
+3,Gran Chaco,2,Caraparí,1968,Loma Alta,4,U.E. Celso Raffaelli,6013071,1,60,6,29,12,2,0,3,8
+3,Gran Chaco,2,Caraparí,1968,Loma Alta,4,U.E. Celso Raffaelli,6013081,2,71,18,20,12,2,1,0,2
+3,Gran Chaco,2,Caraparí,1969,Cortaderal,5,U.E. 15 de Abril,6013091,1,38,29,22,22,7,0,3,4
+3,Gran Chaco,2,Caraparí,1970,Saladillo,5,U.E. Lidia Galarza,6013101,1,52,5,35,9,6,3,0,9
+3,Gran Chaco,2,Caraparí,1970,Saladillo,5,U.E. Lidia Galarza,6013111,2,41,7,35,7,5,8,3,15
+3,Gran Chaco,2,Caraparí,1970,Saladillo,5,U.E. Lidia Galarza,6013121,3,35,5,18,4,4,3,2,6
+3,Gran Chaco,2,Caraparí,1970,Saladillo,32327,U.E. Antoniano de Saladillo,6013351,1,26,10,9,3,3,11,1,8
+3,Gran Chaco,2,Caraparí,1971,Campo Largo,6,U.E. Fray Quebracho,6013131,1,57,40,19,3,5,1,4,6
+3,Gran Chaco,2,Caraparí,1971,Campo Largo,6,U.E. Fray Quebracho,6013141,2,26,18,36,8,2,0,1,1
+3,Gran Chaco,2,Caraparí,1973,Itau,8,U.E. Fray Quebracho,6013151,1,67,5,25,3,9,1,3,9
+3,Gran Chaco,2,Caraparí,1973,Itau,8,U.E. Fray Quebracho,6013161,2,68,4,33,3,3,0,2,13
+3,Gran Chaco,2,Caraparí,1973,Itau,8,U.E. Fray Quebracho,6013171,3,22,1,29,3,2,0,1,6
+3,Gran Chaco,2,Caraparí,1973,Itau,32325,U.E. Eustaquio Méndez,6013331,1,12,3,5,4,1,0,1,1
+3,Gran Chaco,2,Caraparí,1974,Agua Blanca,9,U.E. Julio Ramos Valdez,6013181,1,54,23,39,10,2,1,1,6
+3,Gran Chaco,2,Caraparí,1974,Agua Blanca,9,U.E. Julio Ramos Valdez,6013191,2,67,16,29,4,2,0,1,2
+3,Gran Chaco,2,Caraparí,1975,Yacunda,10,U.E. 17 de Agosto,6013201,1,6,6,6,0,5,0,1,11
+3,Gran Chaco,2,Caraparí,1976,Zapatera Norte,11,U.E. Zapatera Norte,6013221,1,42,18,34,3,3,1,2,4
+3,Gran Chaco,2,Caraparí,1976,Zapatera Norte,11,U.E. Zapatera Norte,6013231,2,28,8,17,3,2,0,1,1
+3,Gran Chaco,2,Caraparí,1976,Zapatera Norte,32324,Centro Pan,6013321,1,3,3,4,1,1,0,6,0
+3,Gran Chaco,2,Caraparí,2934,Las Sidras,10,U.E. 2 de Agosto,6013211,1,24,5,24,6,6,1,1,2
+3,Gran Chaco,2,Caraparí,3047,Berety Chaco,16,U.E. Berety Chaco,6013241,1,40,20,32,18,10,3,1,9
+3,Gran Chaco,2,Caraparí,3047,Berety Chaco,16,U.E. Berety Chaco,6013251,2,1,3,1,4,1,0,3,1
+3,Gran Chaco,2,Caraparí,3330,Campo Largo Hito 22,1,U.E. Campo Largo Hito 22,6012831,1,47,6,12,7,3,0,2,1
+3,Gran Chaco,2,Caraparí,3507,Fuerte Viejo,2,U.E. 6 de Agosto,6012851,1,25,22,31,9,9,1,2,5
+3,Gran Chaco,2,Caraparí,3507,Fuerte Viejo,2,U.E. 6 de Agosto,6012861,2,15,9,18,3,3,0,0,2
+3,Gran Chaco,2,Caraparí,3508,San Alberto,2,U.E. San Alberto,6012871,1,52,22,17,9,5,3,6,15
+3,Gran Chaco,2,Caraparí,3508,San Alberto,2,U.E. San Alberto,6012881,2,45,18,22,13,13,3,3,9
+3,Gran Chaco,2,Caraparí,3508,San Alberto,2,U.E. San Alberto,6012891,3,20,14,9,8,2,2,0,7
+3,Gran Chaco,2,Caraparí,3730,Cañitas,1,U.E. Cañitas,6012841,1,27,5,7,6,6,1,0,1
+3,Gran Chaco,2,Caraparí,4022,Iñiguazu,25349,U.E. Bolivia,6013261,1,86,24,24,9,2,1,1,2
+3,Gran Chaco,2,Caraparí,4023,Sausalito,25350,U.E. San Juan,6013271,1,15,3,2,14,3,0,0,7
+3,Gran Chaco,2,Caraparí,4024,Itaparenda,25351,U.E. Bolivia De Carapari,6013281,1,15,19,15,6,7,1,1,1
+3,Gran Chaco,2,Caraparí,4025,San Nicolas,25352,U.E. San Nicolas,6013291,1,22,6,3,1,0,0,1,1
+3,Gran Chaco,2,Caraparí,4025,San Nicolas,25353,Posta Sanitaria Kereimba Renda (Indigena),6013301,1,1,7,2,1,2,0,0,1
+3,Gran Chaco,2,Caraparí,4075,Lecheronal Cañaveral,25477,U.E. José Antonio De Sucre,6013311,1,11,7,4,2,7,1,2,0
+3,Gran Chaco,2,Caraparí,4591,Laime,32326,Sede Comunal Laime,6013341,1,11,16,13,8,3,0,1,1
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6013951,1,36,9,27,26,5,8,2,2
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6013961,2,28,9,36,27,1,3,2,5
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6013971,3,31,7,28,16,6,3,5,9
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6013981,4,32,12,25,24,1,5,4,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6013991,5,31,11,41,21,4,2,4,4
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6014001,6,33,9,23,12,7,2,1,5
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6014011,7,32,8,19,21,7,6,1,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6014021,8,32,11,38,25,6,3,2,5
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6014031,9,29,8,36,21,5,14,0,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6014041,10,33,10,38,13,8,7,1,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6014051,11,26,4,16,18,5,2,0,4
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,2,U.E. Ismael Montes,6013791,1,40,12,48,10,6,6,2,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,2,U.E. Ismael Montes,6013801,2,36,3,24,22,8,2,2,13
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,2,U.E. Ismael Montes,6013811,3,33,5,34,21,3,5,3,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,2,U.E. Ismael Montes,6013821,4,40,3,37,20,5,5,0,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,2,U.E. Ismael Montes,6013831,5,27,6,43,19,2,6,1,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,2,U.E. Ismael Montes,6013841,6,36,11,17,19,7,3,3,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,2,U.E. Ismael Montes,6013851,7,43,12,38,22,6,8,1,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,2,U.E. Ismael Montes,6013861,8,34,9,30,11,9,5,1,5
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,2,U.E. Ismael Montes,6013871,9,32,14,34,16,3,7,2,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,2,U.E. Ismael Montes,6013881,10,38,7,27,24,8,2,0,9
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,2,U.E. Ismael Montes,6013891,11,16,5,23,13,2,0,3,3
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014101,1,41,9,51,16,3,3,0,5
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014111,2,47,10,27,28,4,4,3,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014121,3,42,16,30,23,6,4,0,9
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014131,4,33,9,34,16,6,0,2,9
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014141,5,29,15,35,24,5,1,1,3
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014151,6,48,11,34,16,8,1,0,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014161,7,37,7,24,27,12,1,1,0
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014171,8,38,16,32,15,5,4,0,9
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014181,9,44,5,28,37,14,5,5,2
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014191,10,35,11,42,24,4,4,4,5
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014201,11,35,10,36,20,9,5,1,9
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014211,12,39,16,36,10,5,2,1,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,3,U.E. Juana Azurduy De Padilla (V.M.),6014221,13,29,10,35,17,7,6,0,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,4,U.E. Adela Hoyos,6014231,1,37,11,30,20,9,4,0,5
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,4,U.E. Adela Hoyos,6014241,2,36,15,24,20,10,3,2,5
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,4,U.E. Adela Hoyos,6014251,3,36,7,23,16,15,1,3,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,4,U.E. Adela Hoyos,6014261,4,35,12,30,26,7,6,2,3
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,4,U.E. Adela Hoyos,6014271,5,31,5,32,25,9,3,0,5
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,4,U.E. Adela Hoyos,6014281,6,34,11,20,15,12,3,2,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,4,U.E. Adela Hoyos,6014291,7,44,9,28,12,6,3,1,4
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,4,U.E. Adela Hoyos,6014301,8,42,5,27,20,10,4,1,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,4,U.E. Adela Hoyos,6014311,9,42,7,27,26,5,4,4,4
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014611,1,26,17,18,15,8,5,2,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014621,2,26,23,26,10,7,3,4,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014631,3,25,14,17,23,8,4,2,9
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014641,4,37,12,15,18,13,2,0,9
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014651,5,30,11,17,30,6,5,1,5
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014661,6,29,19,14,19,12,1,2,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014671,7,21,20,19,23,13,3,2,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014681,8,22,14,15,30,14,4,3,1
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014691,9,31,21,19,22,8,3,4,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014701,10,35,15,9,14,16,6,1,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014711,11,28,14,14,28,15,3,4,3
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014321,1,26,6,17,25,6,2,0,5
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014331,2,24,18,15,10,8,3,2,5
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014341,3,30,11,19,23,7,6,3,4
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014351,4,26,13,17,15,9,2,5,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014361,5,33,17,15,23,6,4,1,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014371,6,23,13,19,10,7,2,4,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014381,7,35,15,23,18,20,5,5,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014391,8,26,17,6,17,11,5,4,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014401,9,28,19,15,16,7,3,1,9
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014411,10,30,18,10,22,8,4,4,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014421,11,28,9,18,22,11,3,4,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014431,12,22,18,9,18,8,1,4,9
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014441,13,30,14,18,15,11,5,4,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014451,14,21,7,20,13,7,4,3,11
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,9,Kinder Colorados de Bolivia,6014461,1,24,20,14,17,11,4,4,5
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,9,Kinder Colorados de Bolivia,6014471,2,38,23,28,28,17,6,4,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,9,Kinder Colorados de Bolivia,6014481,3,28,13,25,15,18,1,5,11
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,9,Kinder Colorados de Bolivia,6014491,4,31,13,15,31,19,3,2,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,9,Kinder Colorados de Bolivia,6014501,5,27,13,15,19,21,5,0,4
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,9,Kinder Colorados de Bolivia,6014511,6,45,11,28,33,15,4,1,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,9,Kinder Colorados de Bolivia,6014521,7,32,8,15,16,11,7,3,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,9,Kinder Colorados de Bolivia,6014531,8,12,5,13,12,7,4,2,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,10,(Cárcel) Carceleta De Villa Montes,6014061,1,9,12,3,6,18,2,1,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26478,U.E. Faustino Suarez Arnes,6014591,1,31,18,14,19,10,6,5,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26478,U.E. Faustino Suarez Arnes,6014601,2,40,9,15,36,10,3,2,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26479,U.E. Cristo Rey,6014721,1,26,14,16,23,19,7,1,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26479,U.E. Cristo Rey,6014731,2,27,20,20,24,19,6,4,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26479,U.E. Cristo Rey,6014741,3,32,14,16,27,14,5,3,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26479,U.E. Cristo Rey,6014751,4,21,11,15,25,14,4,6,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26479,U.E. Cristo Rey,6014761,5,23,18,20,23,9,5,1,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26479,U.E. Cristo Rey,6014771,6,10,8,4,8,3,4,2,4
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26480,U.E. Santa Clara,6013901,1,40,15,22,15,10,2,4,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26480,U.E. Santa Clara,6013911,2,43,8,22,15,13,2,3,11
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26480,U.E. Santa Clara,6013921,3,40,12,13,15,14,3,1,12
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26480,U.E. Santa Clara,6013931,4,37,14,20,17,14,5,2,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26480,U.E. Santa Clara,6013941,5,21,17,9,12,10,4,1,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26481,U.E. Defensores del Chaco,6014541,1,19,13,15,34,8,3,3,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26481,U.E. Defensores del Chaco,6014551,2,34,10,16,22,15,7,3,12
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26481,U.E. Defensores del Chaco,6014561,3,34,11,18,16,9,12,2,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26481,U.E. Defensores del Chaco,6014571,4,29,18,10,20,13,9,3,5
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26481,U.E. Defensores del Chaco,6014581,5,25,16,16,19,17,13,1,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31062,U.E. Aplicación Bilingüe Weenhayek,6014071,1,30,12,18,18,11,5,1,11
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31062,U.E. Aplicación Bilingüe Weenhayek,6014081,2,29,13,6,25,18,3,1,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31062,U.E. Aplicación Bilingüe Weenhayek,6014091,3,41,13,18,28,13,2,1,7
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31065,U.E. San Antonio,6014781,1,25,11,29,15,8,6,1,9
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31065,U.E. San Antonio,6014791,2,46,9,27,18,18,0,2,8
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31065,U.E. San Antonio,6014801,3,34,13,24,19,11,4,2,4
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31065,U.E. San Antonio,6014811,4,35,4,19,13,10,0,3,9
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31065,U.E. San Antonio,6014821,5,39,13,31,15,8,5,2,3
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31065,U.E. San Antonio,6014831,6,35,11,15,13,7,3,1,5
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31065,U.E. San Antonio,6014841,7,11,1,4,8,1,2,1,2
+3,Gran Chaco,3,Villa Montes,1979,Capirendita,5,U.E. Capirendita,6013501,1,40,7,4,14,14,0,1,9
+3,Gran Chaco,3,Villa Montes,1979,Capirendita,5,U.E. Capirendita,6013511,2,24,5,7,20,35,1,2,4
+3,Gran Chaco,3,Villa Montes,1979,Capirendita,5,U.E. Capirendita,6013521,3,29,5,4,20,10,3,1,11
+3,Gran Chaco,3,Villa Montes,1979,Capirendita,5,U.E. Capirendita,6013531,4,35,6,6,11,16,3,2,9
+3,Gran Chaco,3,Villa Montes,1979,Capirendita,5,U.E. Capirendita,6013541,5,1,1,2,3,4,0,0,1
+3,Gran Chaco,3,Villa Montes,1980,Caigua,5,U.E. Cabo Juan,6013551,1,26,3,18,7,7,3,3,8
+3,Gran Chaco,3,Villa Montes,1980,Caigua,5,U.E. Cabo Juan,6013561,2,25,5,25,11,5,1,0,5
+3,Gran Chaco,3,Villa Montes,1980,Caigua,5,U.E. Cabo Juan,6013571,3,16,8,3,5,4,1,1,3
+3,Gran Chaco,3,Villa Montes,1980,Caigua,32329,Sede APG Caigua,6013761,1,2,0,2,1,0,1,0,0
+3,Gran Chaco,3,Villa Montes,1981,Taihuati,6,U.E. 27 de Mayo,6013581,1,19,5,13,5,4,0,0,1
+3,Gran Chaco,3,Villa Montes,1981,Taihuati,32331,Sede APG Tahiguaty,6013781,1,7,4,7,4,1,0,0,0
+3,Gran Chaco,3,Villa Montes,1982,Tarairi,7,U.E. Tte. Victor Zeballos Claros,6013591,1,31,3,30,9,5,1,1,21
+3,Gran Chaco,3,Villa Montes,1982,Tarairi,7,U.E. Tte. Victor Zeballos Claros,6013601,2,12,4,6,5,3,0,1,13
+3,Gran Chaco,3,Villa Montes,1982,Tarairi,32328,U.E. Héroes del Chaco del Tarairi,6013751,1,8,0,11,6,2,3,0,13
+3,Gran Chaco,3,Villa Montes,1983,Tiguipa,8,U.E. Rebeca Aguirre,6013611,1,22,22,22,25,13,5,0,2
+3,Gran Chaco,3,Villa Montes,1983,Tiguipa,8,U.E. Rebeca Aguirre,6013621,2,11,24,20,26,11,7,2,5
+3,Gran Chaco,3,Villa Montes,1983,Tiguipa,8,U.E. Rebeca Aguirre,6013631,3,24,25,27,27,10,5,2,4
+3,Gran Chaco,3,Villa Montes,1983,Tiguipa,8,U.E. Rebeca Aguirre,6013641,4,12,9,3,11,3,1,2,3
+3,Gran Chaco,3,Villa Montes,1984,Capirenda,9,U.E. Capirenda,6013651,1,5,2,8,2,0,0,0,0
+3,Gran Chaco,3,Villa Montes,1985,Taringuiti,10,Sede Social de La Comunidad,6013661,1,20,3,2,1,0,0,1,0
+3,Gran Chaco,3,Villa Montes,1986,Ibibobo,11,U.E. Rafael Pabón,6013671,1,22,3,4,5,0,0,2,2
+3,Gran Chaco,3,Villa Montes,1986,Ibibobo,11,U.E. Rafael Pabón,6013681,2,15,3,5,8,6,1,2,3
+3,Gran Chaco,3,Villa Montes,1986,Ibibobo,11,U.E. Rafael Pabón,6013691,3,6,2,8,2,1,0,0,1
+3,Gran Chaco,3,Villa Montes,1987,Cutaiqui,12,U.E. Central Cutaiqui,6013701,1,21,2,10,1,1,1,1,1
+3,Gran Chaco,3,Villa Montes,2879,Palmar Grande,26484,U.E. 15 de Abril,6013721,1,10,4,19,19,18,1,2,12
+3,Gran Chaco,3,Villa Montes,2879,Palmar Grande,26484,U.E. 15 de Abril,6013731,2,9,6,17,12,16,3,3,4
+3,Gran Chaco,3,Villa Montes,2879,Palmar Grande,26484,U.E. 15 de Abril,6013741,3,8,2,5,3,2,2,0,1
+3,Gran Chaco,3,Villa Montes,3166,La Victoria,2,U.E. San Isidro La Victoria,6013461,1,4,2,2,5,1,0,2,1
+3,Gran Chaco,3,Villa Montes,3198,Resistencia,2,U.E. Resistencia,6013471,1,12,3,23,9,12,5,3,0
+3,Gran Chaco,3,Villa Montes,3336,El Toro,1,U.E. Chaco Boreal,6013361,1,6,2,0,0,0,0,1,0
+3,Gran Chaco,3,Villa Montes,3337,Ipa,1,U.E. Antonio Jose De Sucre,6013371,1,16,5,23,13,3,2,1,15
+3,Gran Chaco,3,Villa Montes,3360,Esmeralda,1,U.E. La Esmeralda,6013381,1,5,0,2,3,10,1,0,0
+3,Gran Chaco,3,Villa Montes,3509,Samayguate,25528,U.E. Samaiguate,6013711,1,13,0,5,2,2,0,1,0
+3,Gran Chaco,3,Villa Montes,3510,Algarrobal,2,U.E. Algarrobal,6013481,1,18,3,6,10,13,2,1,0
+3,Gran Chaco,3,Villa Montes,3511,La Central,2,U.E. Aguaragüe,6013491,1,16,2,8,6,11,0,1,5
+3,Gran Chaco,3,Villa Montes,3731,Puesto Garcia,1,U.E. 27 de Mayo,6013391,1,32,5,13,16,3,2,0,7
+3,Gran Chaco,3,Villa Montes,3731,Puesto Garcia,1,U.E. 27 de Mayo,6013401,2,10,2,1,2,1,0,1,4
+3,Gran Chaco,3,Villa Montes,3732,Nueva Esperanza,1,U.E. Nueva Esperanza,6013411,1,5,2,1,10,2,0,1,1
+3,Gran Chaco,3,Villa Montes,3753,Chimeo,1,U.E. Chimeo,6013421,1,25,6,16,12,6,1,3,17
+3,Gran Chaco,3,Villa Montes,3753,Chimeo,1,U.E. Chimeo,6013431,2,15,2,10,7,3,1,1,2
+3,Gran Chaco,3,Villa Montes,3754,Ibopeiti,1,U.E. Ibopeiti,6013441,1,10,7,5,46,6,2,1,3
+3,Gran Chaco,3,Villa Montes,3754,Ibopeiti,1,U.E. Ibopeiti,6013451,2,9,3,3,35,6,2,5,2
+3,Gran Chaco,3,Villa Montes,4592,Tucainty,32330,U.E. Tucainty,6013771,1,10,1,4,6,8,0,1,6
+4,Avilés,1,Uriondo,1925,Concepción (Uriondo),2,Col. Delfin Pino Ichazu,6014891,1,32,16,60,25,,11,,
+4,Avilés,1,Uriondo,1925,Concepción (Uriondo),2,Col. Delfin Pino Ichazu,6014901,2,41,20,48,11,,28,,
+4,Avilés,1,Uriondo,1925,Concepción (Uriondo),2,Col. Delfin Pino Ichazu,6014911,3,44,11,68,14,,10,,
+4,Avilés,1,Uriondo,1925,Concepción (Uriondo),2,Col. Delfin Pino Ichazu,6014921,4,50,20,44,31,,16,,
+4,Avilés,1,Uriondo,1925,Concepción (Uriondo),2,Col. Delfin Pino Ichazu,6014931,5,32,13,57,11,,17,,
+4,Avilés,1,Uriondo,1925,Concepción (Uriondo),2,Col. Delfin Pino Ichazu,6014941,6,40,15,56,21,,19,,
+4,Avilés,1,Uriondo,1925,Concepción (Uriondo),2,Col. Delfin Pino Ichazu,6014951,7,44,23,46,19,,22,,
+4,Avilés,1,Uriondo,1925,Concepción (Uriondo),2,Col. Delfin Pino Ichazu,6014961,8,48,9,54,18,,15,,
+4,Avilés,1,Uriondo,1925,Concepción (Uriondo),2,Col. Delfin Pino Ichazu,6014971,9,40,9,47,29,,21,,
+4,Avilés,1,Uriondo,1925,Concepción (Uriondo),2,Col. Delfin Pino Ichazu,6014981,10,20,18,34,21,,14,,
+4,Avilés,1,Uriondo,1926,Rujero,3,Esc. Nicolas Gareca,6014991,1,5,5,18,14,,7,,
+4,Avilés,1,Uriondo,1927,Ancon Chico,5,U.E. Ancon Chico,6015021,1,34,20,41,48,,8,,
+4,Avilés,1,Uriondo,1927,Ancon Chico,5,U.E. Ancon Chico,6015031,2,19,15,33,40,,7,,
+4,Avilés,1,Uriondo,1928,La Choza,6,U.E. La Choza,6015041,1,20,6,54,4,,16,,
+4,Avilés,1,Uriondo,1928,La Choza,6,U.E. La Choza,6015051,2,33,14,60,5,,13,,
+4,Avilés,1,Uriondo,1928,La Choza,6,U.E. La Choza,6015061,3,31,11,55,7,,30,,
+4,Avilés,1,Uriondo,1928,La Choza,6,U.E. La Choza,6015071,4,16,5,24,1,,7,,
+4,Avilés,1,Uriondo,1930,Calamuchita,8,U.E. Rosario Jaramillo,6015081,1,60,1,43,4,,44,,
+4,Avilés,1,Uriondo,1930,Calamuchita,8,U.E. Rosario Jaramillo,6015091,2,60,6,39,5,,51,,
+4,Avilés,1,Uriondo,1930,Calamuchita,8,U.E. Rosario Jaramillo,6015101,3,56,7,45,5,,47,,
+4,Avilés,1,Uriondo,1930,Calamuchita,8,U.E. Rosario Jaramillo,6015111,4,61,6,42,8,,33,,
+4,Avilés,1,Uriondo,1930,Calamuchita,8,U.E. Rosario Jaramillo,6015121,5,66,8,35,3,,35,,
+4,Avilés,1,Uriondo,1930,Calamuchita,8,U.E. Rosario Jaramillo,6015131,6,47,3,53,6,,45,,
+4,Avilés,1,Uriondo,1930,Calamuchita,8,U.E. Rosario Jaramillo,6015141,7,45,6,32,4,,71,,
+4,Avilés,1,Uriondo,1930,Calamuchita,8,U.E. Rosario Jaramillo,6015151,8,49,4,41,8,,44,,
+4,Avilés,1,Uriondo,1930,Calamuchita,8,U.E. Rosario Jaramillo,6015161,9,6,0,2,2,,8,,
+4,Avilés,1,Uriondo,1931,Colon Sud,9,U.E. Nuevo Amanecer,6015171,1,33,8,52,14,,17,,
+4,Avilés,1,Uriondo,1931,Colon Sud,9,U.E. Nuevo Amanecer,6015181,2,28,13,53,18,,9,,
+4,Avilés,1,Uriondo,1931,Colon Sud,9,U.E. Nuevo Amanecer,6015191,3,20,14,51,13,,7,,
+4,Avilés,1,Uriondo,1931,Colon Sud,9,U.E. Nuevo Amanecer,6015201,4,24,15,29,13,,17,,
+4,Avilés,1,Uriondo,1931,Colon Sud,9,U.E. Nuevo Amanecer,6015211,5,20,9,36,4,,11,,
+4,Avilés,1,Uriondo,1932,Chocloca,10,U.E. Aniceto Arce,6015221,1,37,10,71,14,,18,,
+4,Avilés,1,Uriondo,1932,Chocloca,10,U.E. Aniceto Arce,6015231,2,34,4,69,6,,16,,
+4,Avilés,1,Uriondo,1932,Chocloca,10,U.E. Aniceto Arce,6015241,3,37,8,62,3,,14,,
+4,Avilés,1,Uriondo,1932,Chocloca,10,U.E. Aniceto Arce,6015251,4,40,12,60,5,,10,,
+4,Avilés,1,Uriondo,1932,Chocloca,10,U.E. Aniceto Arce,6015261,5,43,5,61,11,,12,,
+4,Avilés,1,Uriondo,1933,Juntas,11,Esc. Felipe Araoz,6015271,1,31,12,72,8,,9,,
+4,Avilés,1,Uriondo,1933,Juntas,11,Esc. Felipe Araoz,6015281,2,6,1,17,0,,1,,
+4,Avilés,1,Uriondo,1934,Alizos,12,Esc. Walter Madalleno,6015291,1,17,3,51,4,,13,,
+4,Avilés,1,Uriondo,1935,Miscas Caldera,13,U.E. 15 de Octubre,6015301,1,33,8,43,8,,7,,
+4,Avilés,1,Uriondo,1935,Miscas Caldera,13,U.E. 15 de Octubre,6015311,2,34,6,28,6,,10,,
+4,Avilés,1,Uriondo,2684,La Compañia,4,U.E. La Compañia,6015001,1,29,25,44,11,,18,,
+4,Avilés,1,Uriondo,2684,La Compañia,4,U.E. La Compañia,6015011,2,31,14,54,8,,17,,
+4,Avilés,1,Uriondo,3272,San José de Charajas,1,U.E. 19 de Marzo,6014851,1,47,3,58,15,,4,,
+4,Avilés,1,Uriondo,3272,San José de Charajas,1,U.E. 19 de Marzo,6014861,2,6,0,13,1,,2,,
+4,Avilés,1,Uriondo,3338,Mulli Cancha,1,Esc. Mulli Cancha 27 De Mayo,6014871,1,2,4,3,16,,2,,
+4,Avilés,1,Uriondo,3339,Ancon Grande,1,U.E. Ancon Grande,6014881,1,23,2,57,9,,8,,
+4,Avilés,1,Uriondo,4206,La Ventolera,25704,U.E. Armando Gutierrez,6015321,1,70,7,39,3,,39,,
+4,Avilés,1,Uriondo,4206,La Ventolera,25704,U.E. Armando Gutierrez,6015331,2,42,5,35,7,,41,,
+4,Avilés,1,Uriondo,4206,La Ventolera,25704,U.E. Armando Gutierrez,6015341,3,19,7,18,4,,14,,
+4,Avilés,1,Uriondo,4648,San Isidro,32457,U.E. San Juan,6015351,1,40,9,68,10,,14,,
+4,Avilés,1,Uriondo,4648,San Isidro,32457,U.E. San Juan,6015361,2,9,8,21,5,,5,,
+4,Avilés,2,Yunchará,1936,Yunchara,2,Col. 6 de Abril,6015371,1,35,3,73,0,,6,,
+4,Avilés,2,Yunchará,1936,Yunchara,2,Col. 6 de Abril,6015381,2,4,2,6,0,,0,,
+4,Avilés,2,Yunchará,1937,Buena Vista,3,U.E. Felix Ramos,6015411,1,10,3,21,2,,6,,
+4,Avilés,2,Yunchará,1938,Tojo,4,U.E. Narciso Campero,6015421,1,15,10,29,1,,12,,
+4,Avilés,2,Yunchará,1939,San José de Churquis,5,U.E. San Jose de Churquis,6015431,1,10,1,18,0,,1,,
+4,Avilés,2,Yunchará,1940,Atacama,6,U.E. 15 de Abril,6015441,1,2,10,16,6,,5,,
+4,Avilés,2,Yunchará,1941,San Pedro,7,U.E. Saturnino Urzagaste,6015451,1,12,9,27,6,,11,,
+4,Avilés,2,Yunchará,1942,Arteza,8,U.E. Hugo Amable Hoyos,6015461,1,8,6,8,2,,2,,
+4,Avilés,2,Yunchará,1943,Belén,9,U.E. Jose Maria Aviles,6015471,1,9,8,21,4,,1,,
+4,Avilés,2,Yunchará,1944,San Luis de Palqui,10,U.E.  25 de Mayo,6015481,1,20,43,51,4,,1,,
+4,Avilés,2,Yunchará,1945,Ñoquera,11,U.E. Ñoquera,6015491,1,5,6,80,1,,0,,
+4,Avilés,2,Yunchará,1946,Copacabana,12,U.E. Jose Ballivian,6015501,1,12,12,64,3,,8,,
+4,Avilés,2,Yunchará,1947,Pasajes,13,U.E. Pasajes,6015511,1,15,7,68,5,,3,,
+4,Avilés,2,Yunchará,1948,Quebrada Honda,14,U.E. Quebrada Honda,6015521,1,2,6,62,5,,2,,
+4,Avilés,2,Yunchará,3512,Chorcoya Avilés,2,U.E. Chorcoya Aviles,6015391,1,6,1,34,2,,2,,
+4,Avilés,2,Yunchará,3513,Huayllajara,2,U.E. 13 de Abril,6015401,1,2,6,68,5,,2,,
+4,Avilés,2,Yunchará,4021,Yuticancha,25348,U.E. Yuticancha,6015531,1,4,3,42,3,,7,,
+5,Méndez,1,San Lorenzo,1990,San Lorenzo,2,U.E. Eustaquio Mendez,6015631,1,55,21,47,,3,12,,21
+5,Méndez,1,San Lorenzo,1990,San Lorenzo,2,U.E. Eustaquio Mendez,6015641,2,47,32,48,,5,9,,12
+5,Méndez,1,San Lorenzo,1990,San Lorenzo,2,U.E. Eustaquio Mendez,6015651,3,54,17,52,,9,6,,20
+5,Méndez,1,San Lorenzo,1990,San Lorenzo,2,U.E. Eustaquio Mendez,6015661,4,45,27,58,,4,6,,8
+5,Méndez,1,San Lorenzo,1990,San Lorenzo,2,U.E. Eustaquio Mendez,6015671,5,72,31,49,,4,6,,10
+5,Méndez,1,San Lorenzo,1990,San Lorenzo,2,U.E. Eustaquio Mendez,6015681,6,54,29,54,,5,5,,15
+5,Méndez,1,San Lorenzo,1990,San Lorenzo,2,U.E. Eustaquio Mendez,6015691,7,43,24,51,,11,8,,11
+5,Méndez,1,San Lorenzo,1990,San Lorenzo,2,U.E. Eustaquio Mendez,6015701,8,50,14,51,,4,9,,20
+5,Méndez,1,San Lorenzo,1990,San Lorenzo,2,U.E. Eustaquio Mendez,6015711,9,46,21,42,,5,9,,16
+5,Méndez,1,San Lorenzo,1990,San Lorenzo,2,U.E. Eustaquio Mendez,6015721,10,32,17,42,,8,8,,23
+5,Méndez,1,San Lorenzo,1990,San Lorenzo,2,U.E. Eustaquio Mendez,6015731,11,51,20,40,,9,4,,11
+5,Méndez,1,San Lorenzo,1990,San Lorenzo,2,U.E. Eustaquio Mendez,6015741,12,41,21,51,,7,7,,10
+5,Méndez,1,San Lorenzo,1990,San Lorenzo,2,U.E. Eustaquio Mendez,6015751,13,27,17,17,,2,1,,13
+5,Méndez,1,San Lorenzo,1991,Tarija Cancha,3,U.E. Tarija Cancha Sud,6015771,1,58,18,45,,3,4,,4
+5,Méndez,1,San Lorenzo,1991,Tarija Cancha,3,U.E. Tarija Cancha Sud,6015781,2,51,20,53,,3,4,,9
+5,Méndez,1,San Lorenzo,1991,Tarija Cancha,3,U.E. Tarija Cancha Sud,6015791,3,67,24,52,,6,7,,6
+5,Méndez,1,San Lorenzo,1991,Tarija Cancha,3,U.E. Tarija Cancha Sud,6015801,4,36,19,49,,6,9,,9
+5,Méndez,1,San Lorenzo,1992,Lajas Merced,4,U.E. Nestor Paz Zamora,6015811,1,42,40,35,,12,3,,1
+5,Méndez,1,San Lorenzo,1992,Lajas Merced,4,U.E. Nestor Paz Zamora,6015821,2,36,40,40,,8,3,,6
+5,Méndez,1,San Lorenzo,1992,Lajas Merced,4,U.E. Nestor Paz Zamora,6015831,3,45,41,25,,13,10,,11
+5,Méndez,1,San Lorenzo,1992,Lajas Merced,4,U.E. Nestor Paz Zamora,6015841,4,17,20,24,,7,3,,2
+5,Méndez,1,San Lorenzo,1993,La Victoria,5,U.E. Simon Bolivar,6015961,1,58,11,59,,2,13,,9
+5,Méndez,1,San Lorenzo,1993,La Victoria,5,U.E. Simon Bolivar,6015971,2,39,9,59,,8,13,,5
+5,Méndez,1,San Lorenzo,1993,La Victoria,5,U.E. Simon Bolivar,6015981,3,50,6,47,,8,11,,5
+5,Méndez,1,San Lorenzo,1993,La Victoria,5,U.E. Simon Bolivar,6015991,4,47,8,69,,4,16,,5
+5,Méndez,1,San Lorenzo,1993,La Victoria,5,U.E. Simon Bolivar,6016001,5,56,4,58,,4,9,,9
+5,Méndez,1,San Lorenzo,1993,La Victoria,5,U.E. Simon Bolivar,6016011,6,32,3,41,,3,5,,7
+5,Méndez,1,San Lorenzo,1994,Coimata,6,U.E. Juan Misael Saracho,6016021,1,70,2,56,,9,9,,8
+5,Méndez,1,San Lorenzo,1994,Coimata,6,U.E. Juan Misael Saracho,6016031,2,60,6,46,,4,16,,6
+5,Méndez,1,San Lorenzo,1994,Coimata,6,U.E. Juan Misael Saracho,6016041,3,42,5,43,,4,14,,8
+5,Méndez,1,San Lorenzo,1995,Erquis,7,U.E. 15 de Abril Erquis,6016051,1,76,10,38,,2,2,,5
+5,Méndez,1,San Lorenzo,1995,Erquis,7,U.E. 15 de Abril Erquis,6016061,2,49,9,54,,4,6,,11
+5,Méndez,1,San Lorenzo,1995,Erquis,7,U.E. 15 de Abril Erquis,6016071,3,62,8,42,,7,5,,6
+5,Méndez,1,San Lorenzo,1995,Erquis,7,U.E. 15 de Abril Erquis,6016081,4,50,2,49,,13,6,,5
+5,Méndez,1,San Lorenzo,1995,Erquis,7,U.E. 15 de Abril Erquis,6016091,5,57,7,41,,8,6,,5
+5,Méndez,1,San Lorenzo,1995,Erquis,7,U.E. 15 de Abril Erquis,6016101,6,74,4,28,,8,5,,6
+5,Méndez,1,San Lorenzo,1995,Erquis,7,U.E. 15 de Abril Erquis,6016111,7,12,0,3,,0,2,,0
+5,Méndez,1,San Lorenzo,1997,Rancho Norte,8,U.E. Serapio Martinez,6016121,1,56,17,57,,6,10,,11
+5,Méndez,1,San Lorenzo,1997,Rancho Norte,8,U.E. Serapio Martinez,6016131,2,40,22,53,,18,6,,8
+5,Méndez,1,San Lorenzo,1997,Rancho Norte,8,U.E. Serapio Martinez,6016141,3,66,9,46,,13,9,,11
+5,Méndez,1,San Lorenzo,1997,Rancho Norte,8,U.E. Serapio Martinez,6016151,4,48,11,46,,12,13,,9
+5,Méndez,1,San Lorenzo,1997,Rancho Norte,8,U.E. Serapio Martinez,6016161,5,44,29,46,,11,8,,5
+5,Méndez,1,San Lorenzo,1997,Rancho Norte,8,U.E. Serapio Martinez,6016171,6,39,13,54,,18,9,,8
+5,Méndez,1,San Lorenzo,1998,Rancho Sud,9,U.E. Rancho Sud,6016181,1,33,11,57,,7,11,,7
+5,Méndez,1,San Lorenzo,1998,Rancho Sud,9,U.E. Rancho Sud,6016191,2,54,16,37,,16,6,,12
+5,Méndez,1,San Lorenzo,1998,Rancho Sud,9,U.E. Rancho Sud,6016201,3,40,13,37,,16,10,,10
+5,Méndez,1,San Lorenzo,1998,Rancho Sud,9,U.E. Rancho Sud,6016211,4,10,4,9,,0,5,,0
+5,Méndez,1,San Lorenzo,1999,Tucumilla,10,U.E. Tucumillas,6016221,1,22,5,19,,4,4,,5
+5,Méndez,1,San Lorenzo,2000,Calama,11,U.E. Osvaldo Galvez,6016231,1,53,29,23,,9,8,,7
+5,Méndez,1,San Lorenzo,2000,Calama,11,U.E. Osvaldo Galvez,6016241,2,43,33,6,,11,7,,6
+5,Méndez,1,San Lorenzo,2000,Calama,11,U.E. Osvaldo Galvez,6016251,3,68,26,29,,10,2,,3
+5,Méndez,1,San Lorenzo,2000,Calama,11,U.E. Osvaldo Galvez,6016261,4,7,1,2,,1,0,,2
+5,Méndez,1,San Lorenzo,2001,Canasmoro,12,U.E. Eustaquio Mendez,6016271,1,88,12,38,,2,6,,10
+5,Méndez,1,San Lorenzo,2001,Canasmoro,12,U.E. Eustaquio Mendez,6016281,2,70,14,44,,9,6,,9
+5,Méndez,1,San Lorenzo,2001,Canasmoro,12,U.E. Eustaquio Mendez,6016291,3,65,7,44,,11,3,,10
+5,Méndez,1,San Lorenzo,2001,Canasmoro,12,U.E. Eustaquio Mendez,6016301,4,49,12,35,,8,4,,7
+5,Méndez,1,San Lorenzo,2002,Tomatas Grande,14,U.E. Tomatas Grande,6016311,1,72,11,43,,7,3,,4
+5,Méndez,1,San Lorenzo,2002,Tomatas Grande,14,U.E. Tomatas Grande,6016321,2,92,12,43,,6,3,,4
+5,Méndez,1,San Lorenzo,2002,Tomatas Grande,14,U.E. Tomatas Grande,6016331,3,52,3,14,,4,2,,2
+5,Méndez,1,San Lorenzo,2003,León Cancha,14,U.E. Leon Cancha,6016341,1,16,12,34,,25,5,,7
+5,Méndez,1,San Lorenzo,2003,León Cancha,14,U.E. Leon Cancha,6016351,2,4,1,2,,4,0,,0
+5,Méndez,1,San Lorenzo,2006,Camarón Zona El Morro,16,U.E. Eustaquio Mendez,6016371,1,12,6,14,,10,4,,16
+5,Méndez,1,San Lorenzo,2008,San Lorencito,18,U.E. San Lorencito,6016381,1,6,2,13,,13,1,,2
+5,Méndez,1,San Lorenzo,2009,Alto de Cajas,19,U.E. Alto De Cajas,6016391,1,8,1,19,,0,2,,9
+5,Méndez,1,San Lorenzo,2011,Sella Mendez,20,U.E. Julio Sucre Sella Mendez,6016401,1,51,7,50,,10,8,,5
+5,Méndez,1,San Lorenzo,2011,Sella Mendez,20,U.E. Julio Sucre Sella Mendez,6016411,2,51,19,61,,10,3,,13
+5,Méndez,1,San Lorenzo,2011,Sella Mendez,20,U.E. Julio Sucre Sella Mendez,6016421,3,32,12,30,,5,12,,3
+5,Méndez,1,San Lorenzo,2012,Carachimayo,21,U.E. Carachimayo Centro,6016431,1,58,8,36,,6,6,,7
+5,Méndez,1,San Lorenzo,2012,Carachimayo,21,U.E. Carachimayo Centro,6016441,2,57,6,19,,10,4,,5
+5,Méndez,1,San Lorenzo,2012,Carachimayo,21,U.E. Carachimayo Centro,6016451,3,25,5,16,,5,2,,2
+5,Méndez,1,San Lorenzo,2842,La Hoja,25029,U.E. 1o. de Mayo,6016471,1,15,12,10,,12,7,,6
+5,Méndez,1,San Lorenzo,2881,San Pedro de las Peñas,15,U.E. San Pedro de Las Peñas,6016361,1,4,1,7,,4,1,,2
+5,Méndez,1,San Lorenzo,3048,Trancas,23,U.E. Trancas,6016461,1,19,15,35,,2,2,,14
+5,Méndez,1,San Lorenzo,3049,Pajonalcito,1,U.E. Pajonalcito,6015541,1,19,4,4,,3,3,,1
+5,Méndez,1,San Lorenzo,3177,Tomatitas,4,U.E. Angel Calabi Pasolinni,6015851,1,51,9,47,,5,15,,7
+5,Méndez,1,San Lorenzo,3177,Tomatitas,4,U.E. Angel Calabi Pasolinni,6015861,2,51,6,54,,7,7,,10
+5,Méndez,1,San Lorenzo,3177,Tomatitas,4,U.E. Angel Calabi Pasolinni,6015871,3,49,13,44,,10,8,,8
+5,Méndez,1,San Lorenzo,3177,Tomatitas,4,U.E. Angel Calabi Pasolinni,6015881,4,40,15,55,,2,8,,13
+5,Méndez,1,San Lorenzo,3177,Tomatitas,4,U.E. Angel Calabi Pasolinni,6015891,5,42,15,56,,9,8,,7
+5,Méndez,1,San Lorenzo,3177,Tomatitas,4,U.E. Angel Calabi Pasolinni,6015901,6,43,12,53,,7,17,,10
+5,Méndez,1,San Lorenzo,3177,Tomatitas,4,U.E. Angel Calabi Pasolinni,6015911,7,53,11,48,,2,4,,7
+5,Méndez,1,San Lorenzo,3177,Tomatitas,4,U.E. Angel Calabi Pasolinni,6015921,8,56,14,42,,6,8,,7
+5,Méndez,1,San Lorenzo,3177,Tomatitas,4,U.E. Angel Calabi Pasolinni,6015931,9,45,10,47,,7,5,,5
+5,Méndez,1,San Lorenzo,3177,Tomatitas,4,U.E. Angel Calabi Pasolinni,6015941,10,38,11,69,,2,8,,3
+5,Méndez,1,San Lorenzo,3177,Tomatitas,4,U.E. Angel Calabi Pasolinni,6015951,11,63,13,66,,3,1,,7
+5,Méndez,1,San Lorenzo,3199,Colorado Norte,2,U.E. Colorado Norte,6015761,1,8,6,12,,7,10,,7
+5,Méndez,1,San Lorenzo,3200,Peñaderia,1,U.E. Peñaderia,6015551,1,1,3,6,,5,1,,1
+5,Méndez,1,San Lorenzo,3290,Bordo El Mollar,1,U.E. Bordo El Mollar,6015561,1,28,29,49,,19,4,,2
+5,Méndez,1,San Lorenzo,3290,Bordo El Mollar,1,U.E. Bordo El Mollar,6015571,2,30,34,37,,27,5,,10
+5,Méndez,1,San Lorenzo,3290,Bordo El Mollar,1,U.E. Bordo El Mollar,6015581,3,39,28,34,,17,5,,7
+5,Méndez,1,San Lorenzo,3290,Bordo El Mollar,1,U.E. Bordo El Mollar,6015591,4,10,11,27,,7,2,,1
+5,Méndez,1,San Lorenzo,3318,El Puesto,1,U.E. El Puesto,6015601,1,9,4,16,,5,1,,6
+5,Méndez,1,San Lorenzo,3514,Jarcas,26057,U.E. 1o. de Mayo Jarcas,6016481,1,10,1,12,,5,3,,8
+5,Méndez,1,San Lorenzo,3671,Huancoiro,1,U.E. Huancoiro,6015611,1,10,1,14,,5,1,,8
+5,Méndez,1,San Lorenzo,3755,Cochas,1,U.E. Cochas,6015621,1,9,9,14,,6,1,,1
+5,Méndez,1,San Lorenzo,4357,Quirusillas,26059,U.E. Quirusillas,6016491,1,2,2,10,,3,2,,2
+5,Méndez,1,San Lorenzo,4645,Monte Méndez,32454,U.E. Monte Méndez,6016501,1,33,2,63,,21,9,,13
+5,Méndez,1,San Lorenzo,4645,Monte Méndez,32454,U.E. Monte Méndez,6016511,2,42,6,43,,20,10,,9
+5,Méndez,1,San Lorenzo,4646,Santa Bárbara,32455,U.E. Santa Bárbara,6016521,1,33,20,25,,12,10,,5
+5,Méndez,1,San Lorenzo,4646,Santa Bárbara,32455,U.E. Santa Bárbara,6016531,2,15,7,6,,4,3,,2
+5,Méndez,2,El Puente,2013,El Puente,2,U.E. 1o. de Julio,6016571,1,36,7,41,,7,42,,14
+5,Méndez,2,El Puente,2013,El Puente,2,U.E. 1o. de Julio,6016581,2,36,7,44,,5,41,,22
+5,Méndez,2,El Puente,2013,El Puente,2,U.E. 1o. de Julio,6016591,3,39,11,48,,6,41,,18
+5,Méndez,2,El Puente,2013,El Puente,2,U.E. 1o. de Julio,6016601,4,44,9,49,,6,37,,7
+5,Méndez,2,El Puente,2013,El Puente,2,U.E. 1o. de Julio,6016611,5,28,7,47,,0,26,,18
+5,Méndez,2,El Puente,2014,Santa Ana de Belén,3,Centro Comunal,6016631,1,36,3,49,,7,29,,6
+5,Méndez,2,El Puente,2015,Ircalaya,4,U.E. Ircalaya,6016641,1,10,0,23,,0,18,,3
+5,Méndez,2,El Puente,2017,Paicho Norte,26485,Sede Huerta Huayco,6016891,1,5,3,10,,2,12,,4
+5,Méndez,2,El Puente,2020,La Parroquia,7,U.E. Lic. Segundino Ugarte Duran,6016651,1,17,6,32,,5,6,,3
+5,Méndez,2,El Puente,2021,San Francisco,8,U.E. Monte Grande,6016661,1,12,19,30,,4,6,,6
+5,Méndez,2,El Puente,2023,Iscayachi,9,U.E. Franz Tamayo,6016671,1,20,9,29,,8,20,,19
+5,Méndez,2,El Puente,2023,Iscayachi,9,U.E. Franz Tamayo,6016681,2,21,4,33,,7,14,,15
+5,Méndez,2,El Puente,2023,Iscayachi,9,U.E. Franz Tamayo,6016691,3,16,3,28,,9,26,,22
+5,Méndez,2,El Puente,2023,Iscayachi,9,U.E. Franz Tamayo,6016701,4,12,9,35,,10,13,,23
+5,Méndez,2,El Puente,2023,Iscayachi,9,U.E. Franz Tamayo,6016711,5,12,7,29,,6,12,,29
+5,Méndez,2,El Puente,2024,San Antonio,10,U.E. San Antonio (Mendez),6016721,1,10,12,17,,31,22,,38
+5,Méndez,2,El Puente,2024,San Antonio,10,U.E. San Antonio (Mendez),6016731,2,1,2,5,,3,2,,8
+5,Méndez,2,El Puente,2025,El Molino,11,U.E. El Molino,6016741,1,18,6,13,,37,20,,15
+5,Méndez,2,El Puente,2025,El Molino,11,U.E. El Molino,6016751,2,16,5,5,,10,29,,6
+5,Méndez,2,El Puente,2026,Sama,12,U.E. Cumbre de Sama,6016761,1,21,12,15,,8,8,,32
+5,Méndez,2,El Puente,2026,Sama,12,U.E. Cumbre de Sama,6016771,2,1,2,4,,2,1,,5
+5,Méndez,2,El Puente,2027,Pueblo Nuevo,13,U.E. Pueblo Nuevo,6016781,1,9,5,24,,9,13,,21
+5,Méndez,2,El Puente,2027,Pueblo Nuevo,13,U.E. Pueblo Nuevo,6016791,2,5,0,12,,2,2,,2
+5,Méndez,2,El Puente,2028,Curqui,14,U.E. San Antonio de Curqui,6016801,1,29,4,49,,6,21,,12
+5,Méndez,2,El Puente,2029,Huarmachi,15,U.E. Huarmachi,6016811,1,17,5,35,,0,17,,6
+5,Méndez,2,El Puente,2030,Carrizal,16,Nucleo Andres Zamora,6016821,1,30,2,30,,6,12,,8
+5,Méndez,2,El Puente,2031,Ovando,17,Sede Club De Madres,6016831,1,6,4,26,,0,1,,3
+5,Méndez,2,El Puente,2032,Chayaza,18,U.E. Jesus Zamora,6016841,1,33,5,42,,3,4,,21
+5,Méndez,2,El Puente,2882,Obispo El Carmen,19,U.E. Obispo El Carmen,6016851,1,4,2,8,,9,0,,5
+5,Méndez,2,El Puente,2883,Chorcoya Mendez,20,U.E. Chorcoya Mendez,6016861,1,9,9,8,,4,19,,17
+5,Méndez,2,El Puente,3050,Caña Cruz,21,Sede Comunal,6016871,1,27,17,38,,17,8,,7
+5,Méndez,2,El Puente,3170,Paicho Centro,1,U.E. Geraldino Guerrero,6016541,1,29,7,64,,2,11,,6
+5,Méndez,2,El Puente,3170,Paicho Centro,1,U.E. Geraldino Guerrero,6016551,2,3,2,12,,0,3,,0
+5,Méndez,2,El Puente,3202,Santa Rosa,2,U.E. Santa Rosa,6016621,1,6,4,10,,1,7,,9
+5,Méndez,2,El Puente,3291,Villa Nueva,26486,Sede Comunal,6016901,1,6,22,10,,15,19,,9
+5,Méndez,2,El Puente,3672,Chinchilla,1,U.E. Chinchilla,6016561,1,8,2,9,,2,9,,6
+5,Méndez,2,El Puente,4020,Pirca Cancha,25347,U.E. Eduardo Abaroa,6016881,1,8,2,15,,3,5,,17
+6,O' Connor,1,Entre Ríos,2034,Entre Rios,2,U.E. Franz Tamayo,6016961,1,107,11,34,13,,,,8
+6,O' Connor,1,Entre Ríos,2034,Entre Rios,2,U.E. Franz Tamayo,6016971,2,86,9,37,15,,,,11
+6,O' Connor,1,Entre Ríos,2034,Entre Rios,2,U.E. Franz Tamayo,6016981,3,104,6,21,4,,,,6
+6,O' Connor,1,Entre Ríos,2034,Entre Rios,2,U.E. Franz Tamayo,6016991,4,82,10,26,25,,,,17
+6,O' Connor,1,Entre Ríos,2034,Entre Rios,2,U.E. Franz Tamayo,6017001,5,96,5,29,14,,,,16
+6,O' Connor,1,Entre Ríos,2034,Entre Rios,2,U.E. Franz Tamayo,6017011,6,82,15,37,24,,,,8
+6,O' Connor,1,Entre Ríos,2034,Entre Rios,2,U.E. Franz Tamayo,6017021,7,87,9,46,16,,,,6
+6,O' Connor,1,Entre Ríos,2034,Entre Rios,2,U.E. Franz Tamayo,6017031,8,97,19,20,16,,,,8
+6,O' Connor,1,Entre Ríos,2034,Entre Rios,2,U.E. Franz Tamayo,6017041,9,74,22,26,17,,,,8
+6,O' Connor,1,Entre Ríos,2034,Entre Rios,2,U.E. Franz Tamayo,6017051,10,74,17,39,17,,,,13
+6,O' Connor,1,Entre Ríos,2034,Entre Rios,2,U.E. Franz Tamayo,6017061,11,74,10,22,23,,,,14
+6,O' Connor,1,Entre Ríos,2034,Entre Rios,2,U.E. Franz Tamayo,6017071,12,94,13,34,13,,,,17
+6,O' Connor,1,Entre Ríos,2034,Entre Rios,2,U.E. Franz Tamayo,6017081,13,78,12,30,7,,,,8
+6,O' Connor,1,Entre Ríos,2034,Entre Rios,2,U.E. Franz Tamayo,6017091,14,87,13,18,13,,,,12
+6,O' Connor,1,Entre Ríos,2034,Entre Rios,2,U.E. Franz Tamayo,6017101,15,80,14,25,8,,,,12
+6,O' Connor,1,Entre Ríos,2034,Entre Rios,2,U.E. Franz Tamayo,6017111,16,91,16,25,19,,,,10
+6,O' Connor,1,Entre Ríos,2034,Entre Rios,2,U.E. Franz Tamayo,6017121,17,82,14,29,21,,,,4
+6,O' Connor,1,Entre Ríos,2034,Entre Rios,2,U.E. Franz Tamayo,6017131,18,89,9,30,22,,,,14
+6,O' Connor,1,Entre Ríos,2034,Entre Rios,2,U.E. Franz Tamayo,6017141,19,48,8,8,13,,,,11
+6,O' Connor,1,Entre Ríos,2034,Entre Rios,26482,U.E. Gral. Francisco Bourth O'connor,6017581,1,84,11,15,19,,,,14
+6,O' Connor,1,Entre Ríos,2034,Entre Rios,26482,U.E. Gral. Francisco Bourth O'connor,6017591,2,87,17,26,13,,,,16
+6,O' Connor,1,Entre Ríos,2034,Entre Rios,26482,U.E. Gral. Francisco Bourth O'connor,6017601,3,78,7,29,22,,,,11
+6,O' Connor,1,Entre Ríos,2034,Entre Rios,26482,U.E. Gral. Francisco Bourth O'connor,6017611,4,37,3,7,11,,,,3
+6,O' Connor,1,Entre Ríos,2035,Pajonal,3,U.E. Pajonal,6017191,1,88,8,19,17,,,,11
+6,O' Connor,1,Entre Ríos,2036,San Simon,4,U.E. San Simon,6017201,1,45,9,22,7,,,,6
+6,O' Connor,1,Entre Ríos,2037,Valle del Medio,5,U.E. Remigio Vaca,6017211,1,44,9,18,11,,,,11
+6,O' Connor,1,Entre Ríos,2038,Narvaez,6,U.E. Cnl. Eustaquio Mendez,6017221,1,76,24,21,27,,,,16
+6,O' Connor,1,Entre Ríos,2038,Narvaez,6,U.E. Cnl. Eustaquio Mendez,6017231,2,31,27,16,15,,,,6
+6,O' Connor,1,Entre Ríos,2039,Canaletas,7,U.E. Canaletas Centro,6017241,1,44,4,22,9,,,,13
+6,O' Connor,1,Entre Ríos,2040,Huayco,8,U.E. Huaico Acerradero,6017251,1,28,41,33,22,,,,15
+6,O' Connor,1,Entre Ríos,2040,Huayco,8,U.E. Huaico Acerradero,6017261,2,20,13,11,6,,,,4
+6,O' Connor,1,Entre Ríos,2041,San Josecito Centro,9,U.E. Profesor Rene Avila Bayon,6017271,1,53,20,13,18,,,,13
+6,O' Connor,1,Entre Ríos,2041,San Josecito Centro,9,U.E. Profesor Rene Avila Bayon,6017281,2,41,13,23,17,,,,10
+6,O' Connor,1,Entre Ríos,2041,San Josecito Centro,9,U.E. Profesor Rene Avila Bayon,6017291,3,45,21,23,18,,,,9
+6,O' Connor,1,Entre Ríos,2041,San Josecito Centro,9,U.E. Profesor Rene Avila Bayon,6017301,4,3,2,3,10,,,,7
+6,O' Connor,1,Entre Ríos,2042,San Diego Centro,10,U.E. San Diego Centro,6017311,1,49,13,49,22,,,,12
+6,O' Connor,1,Entre Ríos,2042,San Diego Centro,10,U.E. San Diego Centro,6017321,2,16,1,19,6,,,,4
+6,O' Connor,1,Entre Ríos,2043,Tarupayo,11,U.E. Tarupayo,6017331,1,26,17,22,10,,,,4
+6,O' Connor,1,Entre Ríos,2043,Tarupayo,32322,Centro OTB Tarupayo,6017651,1,15,4,22,8,,,,5
+6,O' Connor,1,Entre Ríos,2044,Taquillos,12,U.E. Taquillos,6017341,1,14,28,11,4,,,,3
+6,O' Connor,1,Entre Ríos,2045,Saladito Centro,13,U.E. Luis Vaca Gallardo,6017351,1,34,11,48,19,,,,12
+6,O' Connor,1,Entre Ríos,2045,Saladito Centro,13,U.E. Luis Vaca Gallardo,6017361,2,6,0,6,8,,,,0
+6,O' Connor,1,Entre Ríos,2046,Potrerillos,14,U.E. Potrerillos (O Connor),6017371,1,43,12,33,20,,,,13
+6,O' Connor,1,Entre Ríos,2046,Potrerillos,14,U.E. Potrerillos (O Connor),6017381,2,2,4,3,3,,,,4
+6,O' Connor,1,Entre Ríos,2046,Potrerillos,32321,Centro Sentir Potrerillos 2,6017641,1,13,1,8,2,,,,5
+6,O' Connor,1,Entre Ríos,2047,Timboy,15,U.E. Timboy,6017391,1,26,18,22,15,,,,20
+6,O' Connor,1,Entre Ríos,2047,Timboy,15,U.E. Timboy,6017401,2,25,17,23,17,,,,6
+6,O' Connor,1,Entre Ríos,2047,Timboy,32320,Centro Avatirenda,6017631,1,37,4,12,14,,,,0
+6,O' Connor,1,Entre Ríos,2048,Ñaurenda,16,U.E. Ñaurenda,6017411,1,86,11,8,5,,,,1
+6,O' Connor,1,Entre Ríos,2048,Ñaurenda,16,U.E. Ñaurenda,6017421,2,58,4,9,4,,,,11
+6,O' Connor,1,Entre Ríos,2050,Palos Blancos,17,U.E. 12 de Abril,6017431,1,47,20,35,13,,,,11
+6,O' Connor,1,Entre Ríos,2050,Palos Blancos,17,U.E. 12 de Abril,6017441,2,28,8,29,7,,,,9
+6,O' Connor,1,Entre Ríos,2050,Palos Blancos,32323,Posta Sanitaria de Palos Blancos,6017661,1,16,6,1,4,,,,1
+6,O' Connor,1,Entre Ríos,2051,Zapaterambia,18,U.E. Puerto Margarita,6017451,1,49,7,13,33,,,,10
+6,O' Connor,1,Entre Ríos,2052,Lagunitas,19,U.E. Lagunitas,6017461,1,15,9,3,6,,,,6
+6,O' Connor,1,Entre Ríos,2053,Suaruro,20,U.E. Prof. Emiliano Villarrubia,6017471,1,36,22,25,45,,,,13
+6,O' Connor,1,Entre Ríos,2054,Cañadas,21,U.E. Seccional Cañadas,6017481,1,9,0,4,13,,,,1
+6,O' Connor,1,Entre Ríos,2055,Berety,22,U.E. Seccional Berety,6017491,1,15,6,36,24,,,,7
+6,O' Connor,1,Entre Ríos,2056,Chiquiaca,24,U.E. Chiquiaca Centro,6017501,1,49,24,16,18,,,,15
+6,O' Connor,1,Entre Ríos,2056,Chiquiaca,24,U.E. Chiquiaca Centro,6017511,2,52,13,26,15,,,,14
+6,O' Connor,1,Entre Ríos,2056,Chiquiaca,24,U.E. Chiquiaca Centro,6017521,3,39,18,16,17,,,,16
+6,O' Connor,1,Entre Ríos,2057,Salinas,25,U.E. Juan Saavedra Mealla,6017531,1,71,14,15,20,,,,17
+6,O' Connor,1,Entre Ríos,2057,Salinas,25,U.E. Juan Saavedra Mealla,6017541,2,11,7,8,5,,,,2
+6,O' Connor,1,Entre Ríos,2058,La Cueva,25,U.E. Tte. Gualberto Villarroel,6017551,1,80,29,24,14,,,,10
+6,O' Connor,1,Entre Ríos,2058,La Cueva,25,U.E. Tte. Gualberto Villarroel,6017561,2,10,8,1,1,,,,2
+6,O' Connor,1,Entre Ríos,3051,Tentaguazu,2,Centro P.A.N Tentaguazu,6017151,1,80,1,10,5,,,,6
+6,O' Connor,1,Entre Ríos,3052,Yuati,2,U.E. Mistolar,6017161,1,87,4,19,6,,,,11
+6,O' Connor,1,Entre Ríos,3052,Yuati,2,U.E. Mistolar,6017171,2,30,4,5,3,,,,4
+6,O' Connor,1,Entre Ríos,3293,Vallecito de los Lapachos,1,U.E. Vallecito de los Lapachos,6016911,1,29,14,18,38,,,,15
+6,O' Connor,1,Entre Ríos,3294,Pampa Redonda,1,U.E. Pampa Redonda,6016921,1,36,38,18,6,,,,15
+6,O' Connor,1,Entre Ríos,3515,Tentapiao,2,U.E. Tentapiau,6017181,1,55,2,19,0,,,,4
+6,O' Connor,1,Entre Ríos,3670,Sivingal,1,U.E. Sivingal,6016931,1,112,11,27,5,,,,12
+6,O' Connor,1,Entre Ríos,3670,Sivingal,1,U.E. Sivingal,6016941,2,31,5,3,3,,,,0
+6,O' Connor,1,Entre Ríos,3756,Yukimbia,1,U.E. Yukimbia,6016951,1,92,16,3,7,,,,7
+6,O' Connor,1,Entre Ríos,4116,Alto Ipaguazu,25527,U.E. Alto Ipaguazu,6017571,1,15,12,2,4,,,,5
+6,O' Connor,1,Entre Ríos,4590,Alto los Sarzos,32319,U.E. Alto los Zarzos,6017621,1,13,7,5,2,,,,3

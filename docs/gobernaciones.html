@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="generator" content="Observable Framework v1.13.3">
+<title>Gobernaciones 2026 | Elecciones Subnacionales 2026</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&amp;display=swap" crossorigin>
+<link rel="preload" as="style" href="./_observablehq/theme-air,near-midnight,alt,wide.db1cdf55.css">
+<link rel="preload" as="style" href="./_observablehq/stdlib/inputs.ea9fd553.css">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&amp;display=swap" crossorigin>
+<link rel="stylesheet" type="text/css" href="./_observablehq/theme-air,near-midnight,alt,wide.db1cdf55.css">
+<link rel="stylesheet" type="text/css" href="./_observablehq/stdlib/inputs.ea9fd553.css">
+<link rel="modulepreload" href="./_observablehq/client.2f027edd.js">
+<link rel="modulepreload" href="./_observablehq/runtime.e080113b.js">
+<link rel="modulepreload" href="./_observablehq/stdlib.73a8ec5a.js">
+<link rel="modulepreload" href="./_npm/d3@7.9.0/66d82917.js">
+<link rel="modulepreload" href="./_npm/@observablehq/plot@0.6.17/a96a6bbb.js">
+<link rel="modulepreload" href="./_npm/maplibre-gl@5.23.0/67fd5c26.js">
+<link rel="modulepreload" href="./_import/components/definiciones.e08fdf72.js">
+<link rel="modulepreload" href="./_import/components/gobernaciones_definiciones.ea2a20a3.js">
+<link rel="modulepreload" href="./_import/components/mapa.62089a06.js">
+<link rel="modulepreload" href="./_observablehq/stdlib/inputs.4ef1d259.js">
+<link rel="modulepreload" href="./_npm/htl@0.3.1/72f4716c.js">
+<link rel="modulepreload" href="./_npm/isoformat@0.2.1/18cbf477.js">
+<link rel="modulepreload" href="./_npm/d3-array@3.2.4/e93ca09f.js">
+<link rel="modulepreload" href="./_npm/d3-axis@3.0.0/0f2de24d.js">
+<link rel="modulepreload" href="./_npm/d3-brush@3.0.0/65eb105b.js">
+<link rel="modulepreload" href="./_npm/d3-chord@3.0.1/7ef8fb2e.js">
+<link rel="modulepreload" href="./_npm/d3-color@3.1.0/aeb57b94.js">
+<link rel="modulepreload" href="./_npm/d3-contour@4.0.2/1d2aed74.js">
+<link rel="modulepreload" href="./_npm/d3-delaunay@6.0.4/87adea64.js">
+<link rel="modulepreload" href="./_npm/d3-dispatch@3.0.1/9ba9c7f3.js">
+<link rel="modulepreload" href="./_npm/d3-drag@3.0.0/4202580c.js">
+<link rel="modulepreload" href="./_npm/d3-dsv@3.0.1/9cffc2bd.js">
+<link rel="modulepreload" href="./_npm/d3-ease@3.0.1/cdd7e898.js">
+<link rel="modulepreload" href="./_npm/d3-fetch@3.0.1/b4e2ad9a.js">
+<link rel="modulepreload" href="./_npm/d3-force@3.0.0/5e804d15.js">
+<link rel="modulepreload" href="./_npm/d3-format@3.1.2/3785bf2d.js">
+<link rel="modulepreload" href="./_npm/d3-geo@3.1.1/40599fb3.js">
+<link rel="modulepreload" href="./_npm/d3-hierarchy@3.1.2/e49e792c.js">
+<link rel="modulepreload" href="./_npm/d3-interpolate@3.0.1/8d1e5425.js">
+<link rel="modulepreload" href="./_npm/d3-path@3.1.0/20d3f133.js">
+<link rel="modulepreload" href="./_npm/d3-polygon@3.0.1/7553081f.js">
+<link rel="modulepreload" href="./_npm/d3-quadtree@3.0.1/0dfd751c.js">
+<link rel="modulepreload" href="./_npm/d3-random@3.0.1/3c90ee06.js">
+<link rel="modulepreload" href="./_npm/d3-scale@4.0.2/720b7f0a.js">
+<link rel="modulepreload" href="./_npm/d3-scale-chromatic@3.1.0/ba24c2e7.js">
+<link rel="modulepreload" href="./_npm/d3-selection@3.0.0/4d94e5b7.js">
+<link rel="modulepreload" href="./_npm/d3-shape@3.2.0/6d3a6726.js">
+<link rel="modulepreload" href="./_npm/d3-time@3.1.0/9f03c579.js">
+<link rel="modulepreload" href="./_npm/d3-time-format@4.1.0/07c9626f.js">
+<link rel="modulepreload" href="./_npm/d3-timer@3.0.1/b58a267d.js">
+<link rel="modulepreload" href="./_npm/d3-transition@3.0.1/004da2ac.js">
+<link rel="modulepreload" href="./_npm/d3-zoom@3.0.0/b5786b3f.js">
+<link rel="modulepreload" href="./_npm/interval-tree-1d@1.0.4/53fe8176.js">
+<link rel="modulepreload" href="./_npm/internmap@2.0.3/e08981d9.js">
+<link rel="modulepreload" href="./_npm/delaunator@5.1.0/d4ec0aa1.js">
+<link rel="modulepreload" href="./_npm/binary-search-bounds@2.0.5/cbf6ba23.js">
+<link rel="modulepreload" href="./_npm/robust-predicates@3.0.3/42820bfa.js">
+<link rel="icon" href="https://mauforonda.github.io/images/icon.svg" type="image/svg" sizes="32x32">
+<script type="module">
+
+import {define} from "./_observablehq/client.2f027edd.js";
+import {registerFile} from "./_observablehq/stdlib.73a8ec5a.js";
+
+registerFile("./imagenes/adrian_alcazar.png", {"name":"./imagenes/adrian_alcazar.png","mimeType":"image/png","path":"./_file/imagenes/adrian_alcazar.f99bde71.png","lastModified":1776054213660,"size":16735});
+registerFile("./imagenes/alejandro_mostajo.png", {"name":"./imagenes/alejandro_mostajo.png","mimeType":"image/png","path":"./_file/imagenes/alejandro_mostajo.381152f1.png","lastModified":1776054213661,"size":15118});
+registerFile("./imagenes/alejandro_unzueta.png", {"name":"./imagenes/alejandro_unzueta.png","mimeType":"image/png","path":"./_file/imagenes/alejandro_unzueta.4d0dff7a.png","lastModified":1776054213661,"size":14887});
+registerFile("./imagenes/andres_gomez.png", {"name":"./imagenes/andres_gomez.png","mimeType":"image/png","path":"./_file/imagenes/andres_gomez.22a0fdfc.png","lastModified":1776054213661,"size":16967});
+registerFile("./imagenes/antonio_riveros.png", {"name":"./imagenes/antonio_riveros.png","mimeType":"image/png","path":"./_file/imagenes/antonio_riveros.449859d7.png","lastModified":1776054213661,"size":11640});
+registerFile("./imagenes/edgar_sanchez.png", {"name":"./imagenes/edgar_sanchez.png","mimeType":"image/png","path":"./_file/imagenes/edgar_sanchez.a8db6bcf.png","lastModified":1776054213662,"size":21760});
+registerFile("./imagenes/eva_luz_humerez.png", {"name":"./imagenes/eva_luz_humerez.png","mimeType":"image/png","path":"./_file/imagenes/eva_luz_humerez.0357b0ce.png","lastModified":1776054213662,"size":17935});
+registerFile("./imagenes/felix_patzi.png", {"name":"./imagenes/felix_patzi.png","mimeType":"image/png","path":"./_file/imagenes/felix_patzi.b391e84e.png","lastModified":1776054213662,"size":17087});
+registerFile("./imagenes/fernando_camacho.png", {"name":"./imagenes/fernando_camacho.png","mimeType":"image/png","path":"./_file/imagenes/fernando_camacho.d782370c.png","lastModified":1776054213663,"size":18956});
+registerFile("./imagenes/franz_garcia.png", {"name":"./imagenes/franz_garcia.png","mimeType":"image/png","path":"./_file/imagenes/franz_garcia.9c682ca1.png","lastModified":1776054213663,"size":18474});
+registerFile("./imagenes/gabriela_de_paiva.png", {"name":"./imagenes/gabriela_de_paiva.png","mimeType":"image/png","path":"./_file/imagenes/gabriela_de_paiva.e1249502.png","lastModified":1776054213663,"size":20347});
+registerFile("./imagenes/gregorio_merlo.png", {"name":"./imagenes/gregorio_merlo.png","mimeType":"image/png","path":"./_file/imagenes/gregorio_merlo.15e72078.png","lastModified":1776054213663,"size":18313});
+registerFile("./imagenes/hugo_vargas.png", {"name":"./imagenes/hugo_vargas.png","mimeType":"image/png","path":"./_file/imagenes/hugo_vargas.5092fef5.png","lastModified":1776054213664,"size":16400});
+registerFile("./imagenes/ingvar_ellefsen.png", {"name":"./imagenes/ingvar_ellefsen.png","mimeType":"image/png","path":"./_file/imagenes/ingvar_ellefsen.f35dc357.png","lastModified":1776054213664,"size":13730});
+registerFile("./imagenes/jesus_eguez.png", {"name":"./imagenes/jesus_eguez.png","mimeType":"image/png","path":"./_file/imagenes/jesus_eguez.c5bde04e.png","lastModified":1776054213664,"size":19237});
+registerFile("./imagenes/johnny_vedia.png", {"name":"./imagenes/johnny_vedia.png","mimeType":"image/png","path":"./_file/imagenes/johnny_vedia.9fe04609.png","lastModified":1776054213664,"size":19958});
+registerFile("./imagenes/jp_velasco.png", {"name":"./imagenes/jp_velasco.png","mimeType":"image/png","path":"./_file/imagenes/jp_velasco.9fb08e68.png","lastModified":1776054213665,"size":22808});
+registerFile("./imagenes/juan_garcia.png", {"name":"./imagenes/juan_garcia.png","mimeType":"image/png","path":"./_file/imagenes/juan_garcia.a3fcbe36.png","lastModified":1776054213665,"size":19469});
+registerFile("./imagenes/leonardo_loza.png", {"name":"./imagenes/leonardo_loza.png","mimeType":"image/png","path":"./_file/imagenes/leonardo_loza.d034b416.png","lastModified":1776054213665,"size":15715});
+registerFile("./imagenes/luis_ayllon.png", {"name":"./imagenes/luis_ayllon.png","mimeType":"image/png","path":"./_file/imagenes/luis_ayllon.e810666c.png","lastModified":1776054213665,"size":19164});
+registerFile("./imagenes/luis_revilla.png", {"name":"./imagenes/luis_revilla.png","mimeType":"image/png","path":"./_file/imagenes/luis_revilla.d295e337.png","lastModified":1776054213666,"size":17860});
+registerFile("./imagenes/marco_antonio_copa.png", {"name":"./imagenes/marco_antonio_copa.png","mimeType":"image/png","path":"./_file/imagenes/marco_antonio_copa.13282c9e.png","lastModified":1776054213666,"size":18522});
+registerFile("./imagenes/marco_antonio_pumari.png", {"name":"./imagenes/marco_antonio_pumari.png","mimeType":"image/png","path":"./_file/imagenes/marco_antonio_pumari.fa3025d3.png","lastModified":1776054213666,"size":17776});
+registerFile("./imagenes/maria_renee_soruco.png", {"name":"./imagenes/maria_renee_soruco.png","mimeType":"image/png","path":"./_file/imagenes/maria_renee_soruco.57d7356d.png","lastModified":1776054213666,"size":17295});
+registerFile("./imagenes/oscar_chambi.png", {"name":"./imagenes/oscar_chambi.png","mimeType":"image/png","path":"./_file/imagenes/oscar_chambi.45843e87.png","lastModified":1776054213667,"size":14097});
+registerFile("./imagenes/otto_ritter.png", {"name":"./imagenes/otto_ritter.png","mimeType":"image/png","path":"./_file/imagenes/otto_ritter.51ee106c.png","lastModified":1776054213667,"size":14205});
+registerFile("./imagenes/regis_richter.png", {"name":"./imagenes/regis_richter.png","mimeType":"image/png","path":"./_file/imagenes/regis_richter.1102215f.png","lastModified":1776054213667,"size":13414});
+registerFile("./imagenes/rene_joaquino.png", {"name":"./imagenes/rene_joaquino.png","mimeType":"image/png","path":"./_file/imagenes/rene_joaquino.f7df71e8.png","lastModified":1776054213667,"size":17569});
+registerFile("./imagenes/rene_yahuasi.png", {"name":"./imagenes/rene_yahuasi.png","mimeType":"image/png","path":"./_file/imagenes/rene_yahuasi.89593413.png","lastModified":1776054213668,"size":20140});
+registerFile("./imagenes/ricardo_zarate.png", {"name":"./imagenes/ricardo_zarate.png","mimeType":"image/png","path":"./_file/imagenes/ricardo_zarate.7b71a562.png","lastModified":1776054213668,"size":16079});
+registerFile("./imagenes/richard_rocha.png", {"name":"./imagenes/richard_rocha.png","mimeType":"image/png","path":"./_file/imagenes/richard_rocha.860af837.png","lastModified":1776054213668,"size":11750});
+registerFile("./imagenes/ruben_gutierrez.png", {"name":"./imagenes/ruben_gutierrez.png","mimeType":"image/png","path":"./_file/imagenes/ruben_gutierrez.03935a81.png","lastModified":1776054213669,"size":14535});
+registerFile("./imagenes/santos_quispe.png", {"name":"./imagenes/santos_quispe.png","mimeType":"image/png","path":"./_file/imagenes/santos_quispe.01035daa.png","lastModified":1776054213669,"size":18776});
+registerFile("./imagenes/sergio_rodriguez.png", {"name":"./imagenes/sergio_rodriguez.png","mimeType":"image/png","path":"./_file/imagenes/sergio_rodriguez.0035a4c2.png","lastModified":1776054213669,"size":15315});
+
+define({id: "a62d09e8", outputs: ["d3","Plot","maplibregl","getStorage","obtenerDefinicionesDepartamento","circleHoverRadiusExpr","circleRadiusExpr","crearMapa","leerMapaInicial","limpiarResaltado","persistirMapa","resaltarFeature"], body: async () => {
+const [d3, Plot, {default: maplibregl}, {getStorage}, {obtenerDefinicionesDepartamento}, {circleHoverRadiusExpr, circleRadiusExpr, crearMapa, leerMapaInicial, limpiarResaltado, persistirMapa, resaltarFeature}] = await Promise.all([import("./_npm/d3@7.9.0/66d82917.js"), import("./_npm/@observablehq/plot@0.6.17/a96a6bbb.js"), import("./_npm/maplibre-gl@5.23.0/67fd5c26.js"), import("./_import/components/definiciones.e08fdf72.js"), import("./_import/components/gobernaciones_definiciones.ea2a20a3.js"), import("./_import/components/mapa.62089a06.js")]);
+
+return {d3,Plot,maplibregl,getStorage,obtenerDefinicionesDepartamento,circleHoverRadiusExpr,circleRadiusExpr,crearMapa,leerMapaInicial,limpiarResaltado,persistirMapa,resaltarFeature};
+}});
+
+define({id: "1fb98e7d", inputs: ["getStorage","d3","Inputs","leerMapaInicial"], outputs: ["DATA_BASE","TIMESTAMP_URL","STORAGE_DEPARTAMENTO_KEY","STORAGE_MAP_KEY","MAPA_FALLBACK","DEPARTAMENTOS","storage","manifiesto","timestampRaw","timestamp","departamentoGuardado","departamentoInicial","departamentoInput","mapaInicial","datasetsCache","formatearTimestamp"], body: async (getStorage,d3,Inputs,leerMapaInicial) => {
+const DATA_BASE =
+  "https://raw.githubusercontent.com/mauforonda/subnacionales2026/refs/heads/main/resultados/primera_vuelta/vista_gobernaciones/";
+const TIMESTAMP_URL =
+  "https://raw.githubusercontent.com/mauforonda/subnacionales2026/refs/heads/main/resultados/primera_vuelta/timestamp";
+const STORAGE_DEPARTAMENTO_KEY = "subnacionales2026_gobernaciones_departamento";
+const STORAGE_MAP_KEY = "subnacionales2026_gobernaciones_mapa";
+const MAPA_FALLBACK = {
+  center: [-63.2, -17.82],
+  zoom: 6.4,
+};
+const DEPARTAMENTOS = {
+  1: "Chuquisaca",
+  2: "La Paz",
+  3: "Cochabamba",
+  4: "Oruro",
+  5: "Potosí",
+  6: "Tarija",
+  7: "Santa Cruz",
+  8: "Beni",
+  9: "Pando",
+};
+const storage = getStorage();
+const manifiesto = await d3.json(`${DATA_BASE}manifiesto.json`);
+const timestampRaw = await d3.text(TIMESTAMP_URL).catch(() => "");
+const timestamp = formatearTimestamp(timestampRaw);
+const departamentoGuardado = storage?.getItem(STORAGE_DEPARTAMENTO_KEY);
+const departamentoInicial =
+  departamentoGuardado && manifiesto[departamentoGuardado]
+    ? departamentoGuardado
+    : "7";
+const departamentoInput = Inputs.select(Object.keys(DEPARTAMENTOS), {
+  value: departamentoInicial,
+  format: (d) => DEPARTAMENTOS[d] ?? d,
+  label: null,
+});
+const mapaInicial = leerMapaInicial(storage, STORAGE_MAP_KEY, MAPA_FALLBACK);
+const datasetsCache = new Map();
+
+function formatearTimestamp(value) {
+  const timestamp = value?.trim();
+  if (!timestamp) return null;
+  const [fecha, hora] = timestamp.split(" ");
+  if (!fecha || !hora) return null;
+  const [year, month, day] = fecha.split("-");
+  const [hours, minutes] = hora.split(":");
+  return {
+    fecha: `${day}/${month}/${year}`,
+    hora: `${hours}:${minutes}`,
+  };
+}
+return {DATA_BASE,TIMESTAMP_URL,STORAGE_DEPARTAMENTO_KEY,STORAGE_MAP_KEY,MAPA_FALLBACK,DEPARTAMENTOS,storage,manifiesto,timestampRaw,timestamp,departamentoGuardado,departamentoInicial,departamentoInput,mapaInicial,datasetsCache,formatearTimestamp};
+}});
+
+define({id: "a2514149", mode: "inline", inputs: ["departamentoInput","display"], body: async (departamentoInput,display) => {
+display(await(
+departamentoInput
+))
+}});
+
+define({id: "d6f5b653", inputs: ["timestamp"], body: (timestamp) => {
+{
+  const container = document.querySelector("#timestamp-container");
+  container.textContent = timestamp
+    ? `actualizado el ${timestamp.fecha} a las ${timestamp.hora}`
+    : "";
+}
+}});
+
+define({id: "f7fdc021", inputs: ["invalidation"], body: (invalidation) => {
+{
+  const header = document.querySelector(".header--gobernaciones");
+  const scrollContainer = document.querySelector("#header-collapsible");
+  const toggle = document.querySelector("#header-toggle");
+  if (header) {
+    const actualizarIndicadorScroll = () => {
+      if (!scrollContainer) return;
+      const scrollable =
+        scrollContainer.scrollHeight - scrollContainer.clientHeight > 12;
+      const atBottom =
+        scrollContainer.scrollTop + scrollContainer.clientHeight >=
+        scrollContainer.scrollHeight - 4;
+      header.classList.toggle("header--scrollable", scrollable);
+      header.classList.toggle("header--at-bottom", !scrollable || atBottom);
+    };
+
+    const rafActualizar = () => requestAnimationFrame(actualizarIndicadorScroll);
+    header.__updateScrollIndicator = rafActualizar;
+
+    scrollContainer?.addEventListener("scroll", actualizarIndicadorScroll);
+    window.addEventListener("resize", rafActualizar);
+
+    const actualizarColapso = () => {
+      if (!toggle) return;
+      const collapsed = header.classList.contains("header--collapsed");
+      toggle.setAttribute("aria-expanded", collapsed ? "false" : "true");
+      toggle.setAttribute(
+        "aria-label",
+        collapsed ? "Expandir panel" : "Ocultar panel",
+      );
+      rafActualizar();
+    };
+
+    const alternarColapso = () => {
+      if (window.innerWidth > 720) return;
+      header.classList.toggle("header--collapsed");
+      actualizarColapso();
+    };
+
+    toggle?.addEventListener("click", alternarColapso);
+    rafActualizar();
+    actualizarColapso();
+
+    invalidation.then(() => {
+      scrollContainer?.removeEventListener("scroll", actualizarIndicadorScroll);
+      window.removeEventListener("resize", rafActualizar);
+      toggle?.removeEventListener("click", alternarColapso);
+      delete header.__updateScrollIndicator;
+    });
+  }
+}
+}});
+
+define({id: "8f80b27b", inputs: ["crearMapa","mapaInicial","maplibregl","persistirMapa","storage","STORAGE_MAP_KEY","invalidation"], outputs: ["map","popup"], body: (crearMapa,mapaInicial,maplibregl,persistirMapa,storage,STORAGE_MAP_KEY,invalidation) => {
+const map = crearMapa("#mapa", mapaInicial);
+const popup = new maplibregl.Popup({
+  closeButton: true,
+  closeOnClick: false,
+});
+persistirMapa(map, storage, STORAGE_MAP_KEY);
+
+invalidation.then(() => {
+  popup.remove();
+  map.remove();
+});
+return {map,popup};
+}});
+
+define({id: "3c04c232", inputs: ["Plot","d3","obtenerDefinicionesDepartamento","maplibregl","datasetsCache","DATA_BASE","manifiesto","DEPARTAMENTOS"], outputs: ["fotoPartido","ordenarResultados","plotResultado","popupNode","resumenNode","boundsFromRecintos","cargarDepartamento","colorExpr"], body: (Plot,d3,obtenerDefinicionesDepartamento,maplibregl,datasetsCache,DATA_BASE,manifiesto,DEPARTAMENTOS) => {
+function fotoPartido(meta, id) {
+  const foto = meta?.[id]?.foto;
+  if (typeof foto === "string" && foto) return foto;
+  const color = meta?.[id]?.color ?? "#b8b8b8";
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"><circle cx="50" cy="50" r="49" fill="${color}" fill-opacity="0.22" stroke="${color}" stroke-opacity="0.38" stroke-width="1.5"/></svg>`;
+  return `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`;
+}
+
+function ordenarResultados(resultado, meta) {
+  const total = Object.values(resultado ?? {}).reduce(
+    (acc, value) => acc + value,
+    0,
+  );
+  const partidos = Object.entries(resultado ?? {})
+    .map(([id, votos]) => ({
+      id,
+      votos,
+      porcentaje: total ? votos / total : 0,
+      ...(meta[id] ?? {
+        nombre: id,
+        color: "#b8b8b8",
+        candidato: "",
+        foto: null,
+      }),
+    }))
+    .sort((a, b) => {
+      if (a.id === "otros") return 1;
+      if (b.id === "otros") return -1;
+      return b.votos - a.votos;
+    });
+  return { total, partidos };
+}
+
+function plotResultado(resultado, meta, { fontSizeMultiplier = 1 } = {}) {
+  const { partidos } = ordenarResultados(resultado, meta);
+  if (!partidos.length) return document.createElement("div");
+  const data = partidos.map((partido) => ({
+    ...partido,
+    foto: fotoPartido(meta, partido.id),
+  }));
+  const chart = Plot.plot({
+    className: "resultado-chart",
+    margin: 0,
+    marginLeft: 78,
+    marginRight: 10,
+    height: data.length * 70,
+    x: { axis: null, domain: [0, 1] },
+    y: { axis: null, domain: data.map((d) => d.id) },
+    marks: [
+      Plot.image(data, {
+        x: 0,
+        y: "id",
+        src: "foto",
+        dx: -42,
+        dy: 5,
+        r: 22,
+        width: 56,
+      }),
+      Plot.barX(data, {
+        x: 1,
+        y: "id",
+        fill: "var(--chart-bar-bg)",
+        insetTop: 30,
+        insetBottom: 8,
+        r: 12,
+      }),
+      Plot.barX(data, {
+        x: "porcentaje",
+        y: "id",
+        fill: (d) => d.color ?? "#b8b8b8",
+        fillOpacity: (d) => (d.id === "otros" ? .5 : 0.82),
+        insetTop: 30,
+        insetBottom: 8,
+        r: 12,
+      }),
+      Plot.barX(data, {
+        x: 1,
+        y: "id",
+        fill: null,
+        stroke: "rgba(17,17,17,0.16)",
+        strokeWidth: 1,
+        insetTop: 30,
+        insetBottom: 8,
+        r: 12,
+      }),
+      Plot.text(data, {
+        x: 0,
+        y: "id",
+        text: (d) => d.candidato ?? d.id,
+        fill: "var(--text-soft)",
+        fontSize: 17 * fontSizeMultiplier,
+        fontWeight: 600,
+        fillOpacity: 0.9,
+        textAnchor: "start",
+        lineAnchor: "bottom",
+        dx: 6,
+        dy: -12,
+      }),
+      Plot.text(data, {
+        x: 1,
+        y: "id",
+        text: (d) => d3.format(".2%")(d.porcentaje),
+        fill: "var(--text-soft)",
+        fontSize: 15 * fontSizeMultiplier,
+        fontWeight: 500,
+        textAnchor: "end",
+        lineAnchor: "bottom",
+        dx: -6,
+        dy: -12,
+      }),
+    ],
+  });
+  chart.removeAttribute("height");
+  chart.style.width = "100%";
+  chart.style.height = "auto";
+  return chart;
+}
+
+function popupNode(recinto, meta, departamentoNombre) {
+  const node = document.createElement("div");
+  node.className = "popup popup--gobernaciones";
+  const votosEmitidos = Object.values(recinto.resultados ?? {}).reduce(
+    (sum, value) => sum + (Number.isFinite(+value) ? +value : 0),
+    0,
+  );
+
+  const title = document.createElement("div");
+  title.className = "popup__title";
+  title.textContent = recinto.recinto ?? "Recinto sin nombre";
+
+  const subtitle = document.createElement("div");
+  subtitle.className = "popup__subtitle";
+  subtitle.textContent = recinto.municipio ?? departamentoNombre ?? "";
+
+  const info = document.createElement("div");
+  info.className = "popup__meta";
+  info.textContent = `${d3.format(",")(recinto.habilitados ?? 0)} votantes habilitados`;
+
+  const emitidos = document.createElement("div");
+  emitidos.className = "popup__meta";
+  emitidos.textContent = `${d3.format(",")(votosEmitidos)} votos emitidos`;
+
+  const ganador = document.createElement("div");
+  ganador.className = "popup__meta";
+  ganador.textContent = `Ganó: ${meta?.[recinto.ganador]?.nombre ?? recinto.ganador ?? "s/d"}`;
+
+  const chartWrap = document.createElement("div");
+  chartWrap.className = "popup__chart";
+  chartWrap.append(
+    plotResultado(recinto.resultados, meta, { fontSizeMultiplier: 1.2 }),
+  );
+
+  node.append(title, subtitle, info, emitidos, chartWrap);
+  return node;
+}
+
+function resumenNode(metaDepartamento) {
+  const container = document.createElement("div");
+  const definiciones = obtenerDefinicionesDepartamento(
+    metaDepartamento.codigo,
+    metaDepartamento.partidos,
+  );
+  container.append(
+    plotResultado(metaDepartamento.partidos, definiciones, {
+      fontSizeMultiplier: 1.1,
+    }),
+  );
+  return container;
+}
+
+function boundsFromRecintos(recintos) {
+  const bounds = new maplibregl.LngLatBounds();
+  Object.values(recintos).forEach((recinto) => {
+    bounds.extend([+recinto.x, +recinto.y]);
+  });
+  return bounds;
+}
+
+async function cargarDepartamento(codigo) {
+  if (datasetsCache.has(codigo)) return datasetsCache.get(codigo);
+  const recintos = await d3.json(`${DATA_BASE}${codigo}.json`);
+  const departamentoNombre =
+    manifiesto[codigo]?.nombre ?? DEPARTAMENTOS[codigo] ?? codigo;
+  const features = Object.entries(recintos).map(([codigoRecinto, recinto]) => ({
+    type: "Feature",
+    geometry: {
+      type: "Point",
+      coordinates: [+recinto.x, +recinto.y],
+    },
+    properties: {
+      codigo: codigoRecinto,
+      codigo_hover: codigoRecinto,
+      recinto: recinto.recinto,
+      municipio: recinto.municipio,
+      departamento: departamentoNombre,
+      habilitados: +recinto.habilitados || 0,
+      ganador: recinto.ganador,
+    },
+  }));
+  const data = {
+    codigo,
+    recintos,
+    featureCollection: {
+      type: "FeatureCollection",
+      features,
+    },
+    bounds: boundsFromRecintos(recintos),
+  };
+  datasetsCache.set(codigo, data);
+  return data;
+}
+
+function colorExpr(partidos) {
+  const pares = Object.entries(partidos).map(([id, meta]) => [
+    id,
+    meta.color ?? "#b8b8b8",
+  ]);
+  return ["match", ["get", "ganador"], ...pares.flat(), "#b8b8b8"];
+}
+return {fotoPartido,ordenarResultados,plotResultado,popupNode,resumenNode,boundsFromRecintos,cargarDepartamento,colorExpr};
+}});
+
+define({id: "2a4c1ea2", inputs: ["map","circleRadiusExpr","circleHoverRadiusExpr"], outputs: ["ready"], body: (map,circleRadiusExpr,circleHoverRadiusExpr) => {
+const ready = new Promise((resolve) => {
+  map.on("load", () => {
+    map.addSource("recintos", {
+      type: "geojson",
+      data: { type: "FeatureCollection", features: [] },
+      promoteId: "codigo_hover",
+    });
+    map.addSource("etiquetas", {
+      type: "raster",
+      tiles: [
+        "https://a.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}.png",
+      ],
+      tileSize: 256,
+    });
+    map.addLayer({
+      id: "recintos",
+      type: "circle",
+      source: "recintos",
+      paint: {
+        "circle-radius": circleRadiusExpr("habilitados"),
+        "circle-color": "#b8b8b8",
+        "circle-opacity": 0.68,
+      },
+    });
+    map.addLayer({
+      id: "recintos_selected",
+      type: "circle",
+      source: "recintos",
+      paint: {
+        "circle-radius": circleHoverRadiusExpr("habilitados"),
+        "circle-color": "rgba(0,0,0,0)",
+        "circle-stroke-color": "rgba(68, 67, 66, 0.5)",
+        "circle-stroke-width": [
+          "case",
+          ["boolean", ["feature-state", "hover"], false],
+          1,
+          0,
+        ],
+      },
+    });
+    map.addLayer({
+      id: "etiquetas",
+      type: "raster",
+      source: "etiquetas",
+      paint: { "raster-opacity": 0.8 },
+    });
+    map.addLayer({
+      id: "recintos_hover",
+      type: "circle",
+      source: "recintos",
+      paint: {
+        "circle-color": "rgba(0,0,0,0)",
+        "circle-radius": circleHoverRadiusExpr("habilitados"),
+      },
+    });
+    resolve();
+  });
+});
+return {ready};
+}});
+
+define({id: "078532ad", inputs: ["ready","popup","map","limpiarResaltado","resumenNode","manifiesto","cargarDepartamento","colorExpr","obtenerDefinicionesDepartamento","storage","STORAGE_DEPARTAMENTO_KEY","departamentoInput","popupNode","resaltarFeature","invalidation"], body: async (ready,popup,map,limpiarResaltado,resumenNode,manifiesto,cargarDepartamento,colorExpr,obtenerDefinicionesDepartamento,storage,STORAGE_DEPARTAMENTO_KEY,departamentoInput,popupNode,resaltarFeature,invalidation) => {
+{
+  await ready;
+  let locked = false;
+  let suppressPopupClose = false;
+  let currentCodigo = null;
+  let currentData = null;
+  let requestId = 0;
+
+  const actualizarInteractividadPopup = () => {
+    const el = popup.getElement();
+    if (!el) return;
+    el.classList.toggle("popup--interactive", locked);
+  };
+
+  const limpiarInteraccion = () => {
+    locked = false;
+    map.__activePopupFeature = null;
+    limpiarResaltado(map);
+    popup.remove();
+  };
+
+  const renderResumen = (codigo) => {
+    const container = document.querySelector("#resumen-departamento");
+    if (!container) return;
+    container.replaceChildren(resumenNode({ codigo, ...manifiesto[codigo] }));
+    document.querySelector(".header--gobernaciones")
+      ?.__updateScrollIndicator?.();
+  };
+
+  const aplicarDepartamento = async (codigo, { ajustarVista = false } = {}) => {
+    requestId += 1;
+    const currentRequestId = requestId;
+    const data = await cargarDepartamento(codigo);
+    if (currentRequestId !== requestId) return;
+    currentCodigo = codigo;
+    currentData = data;
+    map.getSource("recintos")?.setData(data.featureCollection);
+    map.setPaintProperty(
+      "recintos",
+      "circle-color",
+      colorExpr(
+        obtenerDefinicionesDepartamento(codigo, manifiesto[codigo].partidos),
+      ),
+    );
+    renderResumen(codigo);
+    if (storage) storage.setItem(STORAGE_DEPARTAMENTO_KEY, codigo);
+    if (ajustarVista && !data.bounds.isEmpty()) {
+      map.fitBounds(data.bounds, {
+        padding: { top: 120, right: 40, bottom: 40, left: 40 },
+        duration: 900,
+        maxZoom: 10,
+      });
+    }
+  };
+
+  const codigoInicial = departamentoInput.value;
+  const savedDepartamento = storage?.getItem(STORAGE_DEPARTAMENTO_KEY);
+  await aplicarDepartamento(codigoInicial, {
+    ajustarVista: !savedDepartamento || savedDepartamento !== codigoInicial,
+  });
+
+  const actualizarPopup = (feature) => {
+    const codigo = feature?.properties?.codigo;
+    if (!codigo || !currentData?.recintos?.[codigo]) return;
+    popup.setDOMContent(
+      popupNode(
+        currentData.recintos[codigo],
+        obtenerDefinicionesDepartamento(
+          currentCodigo,
+          manifiesto[currentCodigo].partidos,
+        ),
+        manifiesto[currentCodigo].nombre,
+      ),
+    );
+    actualizarInteractividadPopup();
+  };
+
+  const sameHoverTarget = (feature) =>
+    map.__activePopupFeature?.properties?.codigo_hover ===
+    feature?.properties?.codigo_hover;
+
+  const mousemoveRecintos = (e) => {
+    if (locked) return;
+    map.getCanvas().style.cursor = "pointer";
+    const feature = e.features?.[0];
+    if (!feature) return;
+    if (sameHoverTarget(feature)) return;
+    map.__activePopupFeature = feature;
+    resaltarFeature(map, "recintos", feature);
+    suppressPopupClose = true;
+    popup.setLngLat(feature.geometry.coordinates);
+    actualizarPopup(feature);
+    popup.addTo(map);
+    suppressPopupClose = false;
+  };
+
+  const mouseleaveRecintos = () => {
+    map.getCanvas().style.cursor = "";
+    if (!locked) limpiarInteraccion();
+  };
+
+  const clickRecintos = (e) => {
+    const feature = e.features?.[0];
+    if (!feature) return;
+    locked = true;
+    map.__activePopupFeature = feature;
+    resaltarFeature(map, "recintos", feature);
+    suppressPopupClose = true;
+    popup.setLngLat(feature.geometry.coordinates);
+    actualizarPopup(feature);
+    popup.addTo(map);
+    suppressPopupClose = false;
+  };
+
+  const clickAny = (e) => {
+    const hit = map.queryRenderedFeatures(e.point, {
+      layers: ["recintos_hover"],
+    }).length;
+    if (!hit) limpiarInteraccion();
+  };
+
+  const closePopup = () => {
+    if (suppressPopupClose) return;
+    limpiarInteraccion();
+  };
+
+  map.on("mousemove", "recintos_hover", mousemoveRecintos);
+  map.on("mouseleave", "recintos_hover", mouseleaveRecintos);
+  map.on("click", "recintos_hover", clickRecintos);
+  map.on("click", clickAny);
+  popup.on("close", closePopup);
+
+  const actualizarDepartamento = async () => {
+    limpiarInteraccion();
+    await aplicarDepartamento(departamentoInput.value, { ajustarVista: true });
+  };
+
+  departamentoInput.addEventListener("input", actualizarDepartamento);
+
+  invalidation.then(() => {
+    departamentoInput.removeEventListener("input", actualizarDepartamento);
+    map.off("mousemove", "recintos_hover", mousemoveRecintos);
+    map.off("mouseleave", "recintos_hover", mouseleaveRecintos);
+    map.off("click", "recintos_hover", clickRecintos);
+    map.off("click", clickAny);
+    popup.off("close", closePopup);
+  });
+}
+}});
+
+</script>
+</head>
+<body>
+<div id="observablehq-center">
+<main id="observablehq-main" class="observablehq">
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/maplibre-gl@4.0.2/dist/maplibre-gl.css">
+<link rel="stylesheet" type="text/css" href="./_file/index.4eec6a17.css">
+<link rel="stylesheet" type="text/css" href="./_file/gobernaciones.16016034.css">
+<div class="observablehq observablehq--block"><!--:a62d09e8:--></div>
+<div class="observablehq observablehq--block"><!--:1fb98e7d:--></div>
+<div class="app">
+  <header class="header header--gobernaciones">
+    <div class="header__eyebrow">Elecciones subnacionales 2026</div>
+    <div class="header__subtitle">Resultados para gobernador</div>
+    <div class="header__timestamp" id="timestamp-container"></div>
+    <button class="header__toggle" id="header-toggle" type="button" aria-expanded="true" aria-label="Ocultar panel"><span class="header__toggle_icon" aria-hidden="true"></span></button>
+    <div class="header__collapsible" id="header-collapsible">
+      <div class="header__selector">
+        <div class="header__selector_label">Selecciona un departamento</div>
+        <observablehq-loading></observablehq-loading><!--:a2514149:-->
+      </div>
+      <div class="header__summary" id="resumen-departamento"></div>
+    </div>
+  </header>
+  <div id="mapa"></div>
+  <div class="credito">
+    <img class="credito__logo" src="https://mauforonda.github.io/images/icon.svg" alt="">
+    <span class="credito__text">Creado por Mauricio Foronda</span>
+  </div>
+</div>
+<div class="observablehq observablehq--block"><!--:d6f5b653:--></div>
+<div class="observablehq observablehq--block"><!--:f7fdc021:--></div>
+<div class="observablehq observablehq--block"><!--:8f80b27b:--></div>
+<div class="observablehq observablehq--block"><!--:3c04c232:--></div>
+<div class="observablehq observablehq--block"><!--:2a4c1ea2:--></div>
+<div class="observablehq observablehq--block"><!--:078532ad:--></div>
+</main>
+</div>
+</body>
+</html>

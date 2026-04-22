@@ -1,0 +1,399 @@
+CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,NombreLocalidad,CodigoRecinto,NombreRecinto,CodigoMesa,NumeroMesa,InscritosHabilitados,VotoValido,VotoBlanco,VotoNulo,VotoEmitido,VotoValidoReal,VotoEmitidoReal
+1,Nicolás Suárez,1,Cobija,2751,Nueva Esperanza,13,U.E. Nueva Esperanza,9000067,1,170,89,52,9,150,89,150
+1,Nicolás Suárez,1,Cobija,2773,Cobija,3,U. E. Instituto Americano,9000777,1,240,142,39,18,199,142,199
+1,Nicolás Suárez,1,Cobija,2773,Cobija,3,U. E. Instituto Americano,9000787,2,240,154,39,13,206,154,206
+1,Nicolás Suárez,1,Cobija,2773,Cobija,3,U. E. Instituto Americano,9000797,3,240,140,42,16,198,140,198
+1,Nicolás Suárez,1,Cobija,2773,Cobija,3,U. E. Instituto Americano,9000807,4,62,32,12,4,48,32,48
+1,Nicolás Suárez,1,Cobija,2773,Cobija,8,U.E. Mariano Baptista,9000817,1,240,128,45,19,192,128,192
+1,Nicolás Suárez,1,Cobija,2773,Cobija,8,U.E. Mariano Baptista,9000827,2,240,122,49,16,187,122,187
+1,Nicolás Suárez,1,Cobija,2773,Cobija,8,U.E. Mariano Baptista,9000837,3,240,106,48,22,176,106,176
+1,Nicolás Suárez,1,Cobija,2773,Cobija,8,U.E. Mariano Baptista,9000847,4,240,110,53,17,180,110,180
+1,Nicolás Suárez,1,Cobija,2773,Cobija,8,U.E. Mariano Baptista,9000857,5,92,49,18,4,71,49,71
+1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000217,1,240,100,64,24,188,100,188
+1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000227,2,240,115,52,22,189,115,189
+1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000237,3,240,102,67,11,180,102,180
+1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000247,4,240,117,58,14,189,117,189
+1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000257,5,240,111,54,18,183,111,183
+1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000267,6,240,102,62,19,183,102,183
+1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000277,7,240,106,68,20,194,106,194
+1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000287,8,240,117,50,12,179,117,179
+1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000297,9,240,122,51,16,189,122,189
+1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000307,10,240,109,60,11,180,109,180
+1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000317,11,158,82,37,13,132,82,132
+1,Nicolás Suárez,1,Cobija,2773,Cobija,12,U.E. German Busch,9000017,1,240,103,56,30,189,103,189
+1,Nicolás Suárez,1,Cobija,2773,Cobija,12,U.E. German Busch,9000027,2,240,98,72,21,191,98,191
+1,Nicolás Suárez,1,Cobija,2773,Cobija,12,U.E. German Busch,9000037,3,240,99,71,24,194,99,194
+1,Nicolás Suárez,1,Cobija,2773,Cobija,12,U.E. German Busch,9000047,4,240,117,55,18,190,117,190
+1,Nicolás Suárez,1,Cobija,2773,Cobija,12,U.E. German Busch,9000057,5,191,77,44,15,136,77,136
+1,Nicolás Suárez,1,Cobija,2773,Cobija,13,(Cárcel) Cárcel Pública (Villa Busch),9000077,1,240,68,130,7,205,68,205
+1,Nicolás Suárez,1,Cobija,2773,Cobija,13,(Cárcel) Cárcel Pública (Villa Busch),9000087,2,240,75,106,8,189,75,189
+1,Nicolás Suárez,1,Cobija,2773,Cobija,13,(Cárcel) Cárcel Pública (Villa Busch),9000097,3,28,11,13,1,25,11,25
+1,Nicolás Suárez,1,Cobija,2773,Cobija,14,U.E. De Bella Vista,9000107,1,240,125,59,24,208,125,208
+1,Nicolás Suárez,1,Cobija,2773,Cobija,14,U.E. De Bella Vista,9000117,2,240,99,66,29,194,99,194
+1,Nicolás Suárez,1,Cobija,2773,Cobija,14,U.E. De Bella Vista,9000127,3,240,112,65,17,194,112,194
+1,Nicolás Suárez,1,Cobija,2773,Cobija,14,U.E. De Bella Vista,9000137,4,240,88,69,41,198,88,198
+1,Nicolás Suárez,1,Cobija,2773,Cobija,14,U.E. De Bella Vista,9000147,5,240,106,72,17,195,106,195
+1,Nicolás Suárez,1,Cobija,2773,Cobija,14,U.E. De Bella Vista,9000157,6,240,106,60,16,182,106,182
+1,Nicolás Suárez,1,Cobija,2773,Cobija,14,U.E. De Bella Vista,9000167,7,117,51,42,7,100,51,100
+1,Nicolás Suárez,1,Cobija,2773,Cobija,23,U. E. Vaca Diez (Intermedio),9000867,1,240,111,32,12,155,111,155
+1,Nicolás Suárez,1,Cobija,2773,Cobija,23,U. E. Vaca Diez (Intermedio),9000877,2,240,95,37,10,142,95,142
+1,Nicolás Suárez,1,Cobija,2773,Cobija,23,U. E. Vaca Diez (Intermedio),9000887,3,240,115,45,10,170,115,170
+1,Nicolás Suárez,1,Cobija,2773,Cobija,23,U. E. Vaca Diez (Intermedio),9000897,4,240,116,26,12,154,116,154
+1,Nicolás Suárez,1,Cobija,2773,Cobija,23,U. E. Vaca Diez (Intermedio),9000907,5,240,103,43,15,161,103,161
+1,Nicolás Suárez,1,Cobija,2773,Cobija,23,U. E. Vaca Diez (Intermedio),9000917,6,240,122,30,13,165,122,165
+1,Nicolás Suárez,1,Cobija,2773,Cobija,23,U. E. Vaca Diez (Intermedio),9000927,7,240,112,47,6,165,112,165
+1,Nicolás Suárez,1,Cobija,2773,Cobija,23,U. E. Vaca Diez (Intermedio),9000937,8,20,11,5,1,17,11,17
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25028,U. E. Cobija,9000947,1,240,114,58,10,182,114,182
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25028,U. E. Cobija,9000957,2,240,121,49,16,186,121,186
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25028,U. E. Cobija,9000967,3,240,91,48,16,155,91,155
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25028,U. E. Cobija,9000977,4,240,104,51,22,177,104,177
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25028,U. E. Cobija,9000987,5,240,107,35,22,164,107,164
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25028,U. E. Cobija,9000997,6,240,110,49,19,178,110,178
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25028,U. E. Cobija,9001007,7,240,88,53,22,163,88,163
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25028,U. E. Cobija,9001017,8,240,107,59,18,184,107,184
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25028,U. E. Cobija,9001027,9,240,115,61,14,190,115,190
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25028,U. E. Cobija,9001037,10,240,106,51,20,177,106,177
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25028,U. E. Cobija,9001047,11,240,120,51,14,185,120,185
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25028,U. E. Cobija,9001057,12,240,112,52,13,177,112,177
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25028,U. E. Cobija,9001067,13,153,74,37,12,123,74,123
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25029,U. E. Mariscal Sucre,9000327,1,240,110,63,26,199,110,199
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25029,U. E. Mariscal Sucre,9000337,2,240,106,70,28,204,106,204
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25029,U. E. Mariscal Sucre,9000347,3,240,106,58,27,191,106,191
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25029,U. E. Mariscal Sucre,9000357,4,240,118,65,15,198,118,198
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25029,U. E. Mariscal Sucre,9000367,5,240,117,54,29,200,117,200
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25029,U. E. Mariscal Sucre,9000377,6,240,132,47,27,206,132,206
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25029,U. E. Mariscal Sucre,9000387,7,240,111,62,32,205,111,205
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25029,U. E. Mariscal Sucre,9000397,8,240,119,58,13,190,119,190
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25029,U. E. Mariscal Sucre,9000407,9,240,105,69,23,197,105,197
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25029,U. E. Mariscal Sucre,9000417,10,240,127,56,21,204,127,204
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25029,U. E. Mariscal Sucre,9000427,11,240,106,62,25,193,106,193
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25029,U. E. Mariscal Sucre,9000437,12,161,74,37,17,128,74,128
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25031,U. E. Rogelia Menacho De Balcazar,9000447,1,240,109,62,22,193,109,193
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25031,U. E. Rogelia Menacho De Balcazar,9000457,2,240,122,61,24,207,122,207
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25031,U. E. Rogelia Menacho De Balcazar,9000467,3,240,102,58,28,188,102,188
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25031,U. E. Rogelia Menacho De Balcazar,9000477,4,240,106,65,23,194,106,194
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25031,U. E. Rogelia Menacho De Balcazar,9000487,5,240,102,63,24,189,102,189
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25031,U. E. Rogelia Menacho De Balcazar,9000497,6,240,126,59,16,201,126,201
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25031,U. E. Rogelia Menacho De Balcazar,9000507,7,240,116,69,14,199,116,199
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25031,U. E. Rogelia Menacho De Balcazar,9000517,8,199,83,60,20,163,83,163
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25032,U. E. José Manuel Pando,9000527,1,240,120,56,20,196,120,196
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25032,U. E. José Manuel Pando,9000537,2,240,115,72,20,207,115,207
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25032,U. E. José Manuel Pando,9000547,3,240,105,71,24,200,105,200
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25032,U. E. José Manuel Pando,9000557,4,240,105,59,24,188,105,188
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25032,U. E. José Manuel Pando,9000567,5,240,102,65,29,196,102,196
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25032,U. E. José Manuel Pando,9000577,6,240,95,58,31,184,95,184
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25032,U. E. José Manuel Pando,9000587,7,240,97,78,18,193,97,193
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25032,U. E. José Manuel Pando,9000597,8,240,118,62,23,203,118,203
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25032,U. E. José Manuel Pando,9000607,9,240,121,51,23,195,121,195
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25032,U. E. José Manuel Pando,9000617,10,240,110,66,17,193,110,193
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25032,U. E. José Manuel Pando,9000627,11,240,99,75,18,192,99,192
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25032,U. E. José Manuel Pando,9000637,12,192,86,59,16,161,86,161
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25033,U. E. Sofia Calpiñeiro,9001287,1,240,138,55,13,206,138,206
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25033,U. E. Sofia Calpiñeiro,9001297,2,240,167,7,20,194,167,194
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25033,U. E. Sofia Calpiñeiro,9001307,3,240,132,49,12,193,132,193
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25033,U. E. Sofia Calpiñeiro,9001317,4,240,129,52,10,191,129,191
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25033,U. E. Sofia Calpiñeiro,9001327,5,255,129,44,15,188,129,188
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25034,U. E. Juana Azurduy De Padilla,9001077,1,240,131,29,22,182,131,182
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25034,U. E. Juana Azurduy De Padilla,9001087,2,240,124,53,17,194,124,194
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25034,U. E. Juana Azurduy De Padilla,9001097,3,192,98,49,14,161,98,161
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000647,1,240,103,75,22,200,103,200
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000657,2,240,97,78,23,198,97,198
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000667,3,240,101,68,33,202,101,202
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000677,4,240,101,80,17,198,101,198
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000687,5,240,108,64,15,187,108,187
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000697,6,240,90,79,19,188,90,188
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000707,7,240,104,66,28,198,104,198
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000717,8,240,122,62,14,198,122,198
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000727,9,240,117,60,13,190,117,190
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000737,10,240,120,56,20,196,120,196
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000747,11,244,114,65,24,203,114,203
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25036,U. E. Vaca Diez (Medio),9001117,1,240,133,39,13,185,133,185
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25036,U. E. Vaca Diez (Medio),9001127,2,240,117,49,25,191,117,191
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25036,U. E. Vaca Diez (Medio),9001137,3,240,123,48,13,184,123,184
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25036,U. E. Vaca Diez (Medio),9001147,4,240,120,57,11,188,120,188
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25036,U. E. Vaca Diez (Medio),9001157,5,240,117,66,22,205,117,205
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25036,U. E. Vaca Diez (Medio),9001167,6,230,113,57,15,185,113,185
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25037,Kínder Víctor León Arueta,9001107,1,221,127,40,11,178,127,178
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25040,U. E. Manuela Rojas,9001377,1,240,132,55,23,210,132,210
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25040,U. E. Manuela Rojas,9001387,2,240,125,47,23,195,125,195
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25040,U. E. Manuela Rojas,9001397,3,240,101,87,15,203,101,203
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25040,U. E. Manuela Rojas,9001407,4,240,127,50,25,202,127,202
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25040,U. E. Manuela Rojas,9001417,5,240,137,47,17,201,137,201
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25040,U. E. Manuela Rojas,9001427,6,240,103,67,34,204,103,204
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25040,U. E. Manuela Rojas,9001437,7,240,126,68,9,203,126,203
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25040,U. E. Manuela Rojas,9001447,8,240,105,72,27,204,105,204
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25040,U. E. Manuela Rojas,9001457,9,240,101,77,19,197,101,197
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25040,U. E. Manuela Rojas,9001467,10,240,118,65,17,200,118,200
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25040,U. E. Manuela Rojas,9001477,11,240,108,71,19,198,108,198
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25040,U. E. Manuela Rojas,9001487,12,240,117,72,19,208,117,208
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25040,U. E. Manuela Rojas,9001497,13,240,115,64,24,203,115,203
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25040,U. E. Manuela Rojas,9001507,14,240,124,55,19,198,124,198
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25040,U. E. Manuela Rojas,9001517,15,240,110,65,22,197,110,197
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25040,U. E. Manuela Rojas,9001527,16,142,73,34,10,117,73,117
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25041,U. E. Simon Bolivar,9001537,1,240,117,74,15,206,117,206
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25041,U. E. Simon Bolivar,9001547,2,240,109,65,23,197,109,197
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25041,U. E. Simon Bolivar,9001557,3,240,95,93,23,211,95,211
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25041,U. E. Simon Bolivar,9001567,4,240,91,80,23,194,91,194
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25041,U. E. Simon Bolivar,9001577,5,240,107,73,24,204,107,204
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25041,U. E. Simon Bolivar,9001587,6,240,100,69,23,192,100,192
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25041,U. E. Simon Bolivar,9001597,7,240,113,64,21,198,113,198
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25041,U. E. Simon Bolivar,9001607,8,240,106,78,15,199,106,199
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25041,U. E. Simon Bolivar,9001617,9,240,130,63,17,210,130,210
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25041,U. E. Simon Bolivar,9001627,10,240,107,69,18,194,107,194
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25041,U. E. Simon Bolivar,9001637,11,240,104,62,16,182,104,182
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25041,U. E. Simon Bolivar,9001647,12,240,102,67,21,190,102,190
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25041,U. E. Simon Bolivar,9001657,13,240,103,76,19,198,103,198
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25041,U. E. Simon Bolivar,9001667,14,178,74,56,18,148,74,148
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25042,U.E. Villa Cruz,9001177,1,240,131,50,16,197,131,197
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25042,U.E. Villa Cruz,9001187,2,244,151,50,17,218,151,218
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25938,U.E. Héroes de la Distancia,9001337,1,240,113,49,21,183,113,183
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25938,U.E. Héroes de la Distancia,9001347,2,240,124,51,23,198,124,198
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25938,U.E. Héroes de la Distancia,9001357,3,240,132,60,15,207,132,207
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25938,U.E. Héroes de la Distancia,9001367,4,62,41,11,2,54,41,54
+1,Nicolás Suárez,1,Cobija,2773,Cobija,26074,U. E. Abaroa,9000197,1,240,118,68,21,207,118,207
+1,Nicolás Suárez,1,Cobija,2773,Cobija,26074,U. E. Abaroa,9000207,2,165,79,44,20,143,79,143
+1,Nicolás Suárez,1,Cobija,2773,Cobija,26076,U. E. Juan Evo Morales Ayma,9000757,1,240,121,53,29,203,121,203
+1,Nicolás Suárez,1,Cobija,2773,Cobija,26076,U. E. Juan Evo Morales Ayma,9000767,2,218,112,46,25,183,112,183
+1,Nicolás Suárez,1,Cobija,2773,Cobija,26077,U. E. Marcelo Quiroga Santa Cruz,9001677,1,240,110,66,25,201,110,201
+1,Nicolás Suárez,1,Cobija,2773,Cobija,26077,U. E. Marcelo Quiroga Santa Cruz,9001687,2,89,42,24,8,74,42,74
+1,Nicolás Suárez,1,Cobija,2773,Cobija,26078,U. E. Alfredo Ovando Candia,9001697,1,240,68,50,13,131,68,131
+1,Nicolás Suárez,1,Cobija,2773,Cobija,26078,U. E. Alfredo Ovando Candia,9001707,2,240,64,41,9,114,64,114
+1,Nicolás Suárez,1,Cobija,2773,Cobija,26078,U. E. Alfredo Ovando Candia,9001717,3,113,44,14,7,65,44,65
+1,Nicolás Suárez,1,Cobija,2773,Cobija,32002,INCOS Pando,9001197,1,240,126,59,15,200,126,200
+1,Nicolás Suárez,1,Cobija,2773,Cobija,32002,INCOS Pando,9001207,2,240,135,54,10,199,135,199
+1,Nicolás Suárez,1,Cobija,2773,Cobija,32002,INCOS Pando,9001217,3,240,109,66,17,192,109,192
+1,Nicolás Suárez,1,Cobija,2773,Cobija,32002,INCOS Pando,9001227,4,240,135,60,10,205,135,205
+1,Nicolás Suárez,1,Cobija,2773,Cobija,32002,INCOS Pando,9001237,5,240,123,48,25,196,123,196
+1,Nicolás Suárez,1,Cobija,2773,Cobija,32002,INCOS Pando,9001247,6,240,139,43,20,202,139,202
+1,Nicolás Suárez,1,Cobija,2773,Cobija,32002,INCOS Pando,9001257,7,240,133,56,21,210,133,210
+1,Nicolás Suárez,1,Cobija,2773,Cobija,32002,INCOS Pando,9001267,8,240,129,47,30,206,129,206
+1,Nicolás Suárez,1,Cobija,2773,Cobija,32002,INCOS Pando,9001277,9,54,34,5,7,46,34,46
+1,Nicolás Suárez,1,Cobija,2773,Cobija,32492,U.E. El Castañal,9001727,1,240,144,58,18,220,144,220
+1,Nicolás Suárez,1,Cobija,2773,Cobija,32492,U.E. El Castañal,9001737,2,41,24,9,6,39,24,39
+1,Nicolás Suárez,1,Cobija,4277,Mejillones,25963,U.E. Mejillones,9000177,1,255,131,68,13,212,131,212
+1,Nicolás Suárez,1,Cobija,4278,Villa Rosario,25964,U. E. María Barzola,9000187,1,194,128,40,4,172,128,172
+1,Nicolás Suárez,2,Porvenir,1113,Porvenir,14,U.E. Mons. Santisteban,9001747,1,240,155,40,4,199,155,199
+1,Nicolás Suárez,2,Porvenir,1113,Porvenir,14,U.E. Mons. Santisteban,9001757,2,240,141,46,12,199,141,199
+1,Nicolás Suárez,2,Porvenir,1113,Porvenir,14,U.E. Mons. Santisteban,9001767,3,240,155,47,9,211,155,211
+1,Nicolás Suárez,2,Porvenir,1113,Porvenir,14,U.E. Mons. Santisteban,9001777,4,240,148,42,8,198,148,198
+1,Nicolás Suárez,2,Porvenir,1113,Porvenir,14,U.E. Mons. Santisteban,9001787,5,240,156,48,13,217,156,217
+1,Nicolás Suárez,2,Porvenir,1113,Porvenir,14,U.E. Mons. Santisteban,9001797,6,240,126,64,12,202,126,202
+1,Nicolás Suárez,2,Porvenir,1113,Porvenir,14,U.E. Mons. Santisteban,9001807,7,180,111,36,13,160,111,160
+1,Nicolás Suárez,2,Porvenir,1113,Porvenir,15,U.E. Bruno Racua,9001817,1,240,154,49,13,216,154,216
+1,Nicolás Suárez,2,Porvenir,1113,Porvenir,15,U.E. Bruno Racua,9001827,2,240,153,51,8,212,153,212
+1,Nicolás Suárez,2,Porvenir,1113,Porvenir,15,U.E. Bruno Racua,9001837,3,240,153,60,7,220,153,220
+1,Nicolás Suárez,2,Porvenir,1113,Porvenir,15,U.E. Bruno Racua,9001847,4,240,151,40,11,202,151,202
+1,Nicolás Suárez,2,Porvenir,1113,Porvenir,15,U.E. Bruno Racua,9001857,5,240,142,61,7,210,142,210
+1,Nicolás Suárez,2,Porvenir,1113,Porvenir,15,U.E. Bruno Racua,9001867,6,199,132,38,6,176,132,176
+1,Nicolás Suárez,2,Porvenir,1115,Villa Bella (km 6),15,U.E. Villa Bella,9001877,1,240,156,45,10,211,156,211
+1,Nicolás Suárez,2,Porvenir,1115,Villa Bella (km 6),15,U.E. Villa Bella,9001887,2,240,141,62,17,220,141,220
+1,Nicolás Suárez,2,Porvenir,1115,Villa Bella (km 6),15,U.E. Villa Bella,9001897,3,240,142,58,19,219,142,219
+1,Nicolás Suárez,2,Porvenir,1115,Villa Bella (km 6),15,U.E. Villa Bella,9001907,4,233,135,60,16,211,135,211
+1,Nicolás Suárez,2,Porvenir,2798,Campoana,16,U.E.  Gutembert Cruz,9001917,1,240,145,52,9,206,145,206
+1,Nicolás Suárez,2,Porvenir,2798,Campoana,16,U.E.  Gutembert Cruz,9001927,2,98,65,22,3,90,65,90
+1,Nicolás Suárez,2,Porvenir,4276,Trinchera,25962,U. E. Maranguapi,9001937,1,68,36,19,7,62,36,62
+1,Nicolás Suárez,2,Porvenir,4446,Comunidad Campesina  5 de Agosto,26366,U.E. 23 de Marzo,9001947,1,93,60,23,2,85,60,85
+1,Nicolás Suárez,3,Bolpebra,1116,San Pedro de Bolpebra,19,U.E. De Bolpebra,9002017,1,79,52,12,4,68,52,68
+1,Nicolás Suárez,3,Bolpebra,1118,Nareuda,20,U.E.  Genoveva Rios,9002047,1,240,135,67,8,210,135,210
+1,Nicolás Suárez,3,Bolpebra,1118,Nareuda,20,U.E.  Genoveva Rios,9002057,2,79,30,20,3,53,30,53
+1,Nicolás Suárez,3,Bolpebra,1119,Mukden,19,U.E. De Mukden,9002027,1,240,150,48,6,204,150,204
+1,Nicolás Suárez,3,Bolpebra,1119,Mukden,19,U.E. De Mukden,9002037,2,185,103,35,8,146,103,146
+1,Nicolás Suárez,3,Bolpebra,3260,Bioceánica,1,U.E. Bioceanica,9001957,1,97,53,19,1,73,53,73
+1,Nicolás Suárez,3,Bolpebra,3261,3 Arroyos,1,U.E. Tres Estrellas,9001967,1,98,57,19,1,77,57,77
+1,Nicolás Suárez,3,Bolpebra,3407,Litoral,1,U.E.  Santa Lucia,9001977,1,173,79,34,5,118,79,118
+1,Nicolás Suárez,3,Bolpebra,3526,Yaminahua,1,U.E. De Yaminahua,9001987,1,83,29,31,3,63,29,63
+1,Nicolás Suárez,3,Bolpebra,3869,San Miguel de Machineri,1,U.E. San Miguel,9001997,1,33,15,9,6,30,15,30
+1,Nicolás Suárez,3,Bolpebra,3872,Nueva Canaán,1,U.E. Nueva Canaán,9002007,1,152,72,45,7,124,72,124
+1,Nicolás Suárez,3,Bolpebra,4264,Vera Cruz,25950,U. E. Vera Cruz,9002067,1,149,89,35,8,132,89,132
+1,Nicolás Suárez,3,Bolpebra,4447,Comunidad Campesina Turística Ecológica  Arca de Noé,26367,U.E. Arca de Noé,9002077,1,111,67,19,7,93,67,93
+1,Nicolás Suárez,4,Bella Flor,1125,Villa el Carmen,23,U.E. Buena Vista,9002167,1,175,108,36,12,156,108,156
+1,Nicolás Suárez,4,Bella Flor,1126,Karamanu Km 35,25,U.E.  Km. 35 de Karamanu,9002187,1,240,123,62,8,193,123,193
+1,Nicolás Suárez,4,Bella Flor,1126,Karamanu Km 35,25,U.E.  Km. 35 de Karamanu,9002197,2,140,80,27,5,112,80,112
+1,Nicolás Suárez,4,Bella Flor,1127,San Antonio Km 60,24,U.E.  Km. 60 de San Antonio,9002177,1,198,115,45,10,170,115,170
+1,Nicolás Suárez,4,Bella Flor,1129,Mapajo (Samahuma),26,U.E. Mapajo,9002207,1,102,43,41,4,88,43,88
+1,Nicolás Suárez,4,Bella Flor,3262,Santa Lucía,1,U.E.  Hugo Antequera,9002087,1,240,133,63,8,204,133,204
+1,Nicolás Suárez,4,Bella Flor,3262,Santa Lucía,1,U.E.  Hugo Antequera,9002097,2,240,149,41,6,196,149,196
+1,Nicolás Suárez,4,Bella Flor,3262,Santa Lucía,1,U.E.  Hugo Antequera,9002107,3,123,68,19,3,90,68,90
+1,Nicolás Suárez,4,Bella Flor,3386,Montevideo,1,U.E. Jorge Benito Vera,9002117,1,240,118,33,6,157,118,157
+1,Nicolás Suárez,4,Bella Flor,3386,Montevideo,1,U.E. Jorge Benito Vera,9002127,2,194,96,26,11,133,96,133
+1,Nicolás Suárez,4,Bella Flor,3527,Florida (TCO),1,U.E. De Florida,9002137,1,20,7,8,4,19,7,19
+1,Nicolás Suárez,4,Bella Flor,3874,San Pedro,1,U.E. Simon Bolívar,9002147,1,170,95,48,5,148,95,148
+1,Nicolás Suárez,4,Bella Flor,3890,Santa Lourdes,1,U.E. Santa Lourdes,9002157,1,191,109,41,6,156,109,156
+1,Nicolás Suárez,4,Bella Flor,4367,Castañera Campoana,26079,U. E. 24 de Septiembre,9002217,1,139,50,54,7,111,50,111
+1,Nicolás Suárez,4,Bella Flor,4663,Comunidad Campesina El Fortín,32490,U.E. Fortín,9002227,1,81,44,23,8,75,44,75
+2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002277,1,240,115,56,15,186,115,186
+2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002287,2,240,118,53,16,187,118,187
+2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002297,3,240,104,69,14,187,104,187
+2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002307,4,240,121,64,12,197,121,197
+2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002317,5,240,116,48,16,180,116,180
+2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002327,6,240,102,64,12,178,102,178
+2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002337,7,240,116,56,12,184,116,184
+2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002347,8,240,105,66,8,179,105,179
+2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002357,9,240,115,56,14,185,115,185
+2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002367,10,161,87,34,9,130,87,130
+2,Manuripi,1,Puerto Rico,1130,Puerto Rico,25572,U.E. Puerto Rico,9002437,1,240,76,36,12,124,76,124
+2,Manuripi,1,Puerto Rico,1130,Puerto Rico,25572,U.E. Puerto Rico,9002447,2,240,64,31,7,102,64,102
+2,Manuripi,1,Puerto Rico,1130,Puerto Rico,25572,U.E. Puerto Rico,9002457,3,180,48,24,6,78,48,78
+2,Manuripi,1,Puerto Rico,1134,Conquista,28,U.E.  German Busch,9002377,1,240,105,91,10,206,105,206
+2,Manuripi,1,Puerto Rico,1134,Conquista,28,U.E.  German Busch,9002387,2,240,117,93,8,218,117,218
+2,Manuripi,1,Puerto Rico,1134,Conquista,28,U.E.  German Busch,9002397,3,34,20,12,1,33,20,33
+2,Manuripi,1,Puerto Rico,1136,Batraja,29,U.E. Batraja,9002407,1,240,67,127,9,203,67,203
+2,Manuripi,1,Puerto Rico,1136,Batraja,29,U.E. Batraja,9002417,2,152,52,61,19,132,52,132
+2,Manuripi,1,Puerto Rico,2753,Manchester,40,U.E. Manchester,9002427,1,126,43,36,3,82,43,82
+2,Manuripi,1,Puerto Rico,3066,Palestina (Rio Orthon),1,U.E. De Palestina,9002237,1,118,46,51,3,100,46,100
+2,Manuripi,1,Puerto Rico,3256,San Antonio del Maty,1,U.E.  San Antonio,9002247,1,150,82,44,5,131,82,131
+2,Manuripi,1,Puerto Rico,3399,Puerto Madre de Dios,1,U.E.  Silverio Rojas Gonzales,9002257,1,183,54,78,26,158,54,158
+2,Manuripi,1,Puerto Rico,3528,Mandarino,1,U.E.  Los Mandarinos,9002267,1,96,34,40,5,79,34,79
+2,Manuripi,1,Puerto Rico,4273,Abaroa Km. 10,25959,U. E. Carmelo Mojica,9002467,1,85,22,51,6,79,22,79
+2,Manuripi,2,San Pedro,1140,Loma Velarde,34,U.E.  12 de Abril,9002507,1,240,87,98,15,200,87,200
+2,Manuripi,2,San Pedro,1140,Loma Velarde,34,U.E.  12 de Abril,9002517,2,158,40,69,13,122,40,122
+2,Manuripi,2,San Pedro,3401,3 Estrellas (TCO),1,U.E.  Jorge Haensel,9002477,1,240,99,96,2,197,99,197
+2,Manuripi,2,San Pedro,3401,3 Estrellas (TCO),1,U.E.  Jorge Haensel,9002487,2,149,64,63,0,127,64,127
+2,Manuripi,2,San Pedro,3879,Fortaleza,1,U.E. Fortaleza,9002497,1,225,120,53,5,178,120,178
+2,Manuripi,3,Filadelfia,1143,Filadelfia,36,U.E. Filadelfia,9002637,1,240,133,64,14,211,133,211
+2,Manuripi,3,Filadelfia,1143,Filadelfia,36,U.E. Filadelfia,9002647,2,240,119,65,23,207,119,207
+2,Manuripi,3,Filadelfia,1143,Filadelfia,36,U.E. Filadelfia,9002657,3,240,122,70,19,211,122,211
+2,Manuripi,3,Filadelfia,1143,Filadelfia,36,U.E. Filadelfia,9002667,4,22,16,4,1,21,16,21
+2,Manuripi,3,Filadelfia,1145,Villa Bella (Purisima),37,U.E. Villa Bella,9002677,1,240,118,85,14,217,118,217
+2,Manuripi,3,Filadelfia,1145,Villa Bella (Purisima),37,U.E. Villa Bella,9002687,2,35,21,10,3,34,21,34
+2,Manuripi,3,Filadelfia,1146,Empresiña,38,U.E. Nueva Empresa,9002697,1,240,117,92,4,213,117,213
+2,Manuripi,3,Filadelfia,1146,Empresiña,38,U.E. Nueva Empresa,9002707,2,167,87,62,3,152,87,152
+2,Manuripi,3,Filadelfia,1147,Buyuyo,39,U.E. Buyuyo,9002717,1,240,143,61,9,213,143,213
+2,Manuripi,3,Filadelfia,1147,Buyuyo,39,U.E. Buyuyo,9002727,2,31,22,5,0,27,22,27
+2,Manuripi,3,Filadelfia,1149,Chive,41,U.E. Chive,9002737,1,240,122,56,7,185,122,185
+2,Manuripi,3,Filadelfia,1149,Chive,41,U.E. Chive,9002747,2,192,100,50,4,154,100,154
+2,Manuripi,3,Filadelfia,1151,Curichon,42,U.E. Curichon,9002757,1,211,97,88,3,188,97,188
+2,Manuripi,3,Filadelfia,2802,San Antonio (Chive),46,U.E. San Antonio,9002767,1,82,53,16,2,71,53,71
+2,Manuripi,3,Filadelfia,2897,Luz de America,80,U.E. Luz De America,9002777,1,189,101,71,2,174,101,174
+2,Manuripi,3,Filadelfia,3257,Alta Gracia,1,U.E. Alta Gracia,9002527,1,102,52,35,0,87,52,87
+2,Manuripi,3,Filadelfia,3298,Holanda,1,U.E. De Holanda,9002537,1,240,138,77,9,224,138,224
+2,Manuripi,3,Filadelfia,3298,Holanda,1,U.E. De Holanda,9002547,2,225,125,61,7,193,125,193
+2,Manuripi,3,Filadelfia,3299,Soberania,1,U.E.  Juancito Pinto,9002557,1,240,123,55,14,192,123,192
+2,Manuripi,3,Filadelfia,3299,Soberania,1,U.E.  Juancito Pinto,9002567,2,236,107,74,9,190,107,190
+2,Manuripi,3,Filadelfia,3402,La Cruz,1,U.E. De La Cruz,9002577,1,49,14,25,2,41,14,41
+2,Manuripi,3,Filadelfia,3529,Florida (Chive),1,U.E.  Florida,9002587,1,147,95,35,1,131,95,131
+2,Manuripi,3,Filadelfia,3758,Nueva Alianza,1,U.E. Nueva Alianza,9002597,1,240,154,51,10,215,154,215
+2,Manuripi,3,Filadelfia,3758,Nueva Alianza,1,U.E. Nueva Alianza,9002607,2,131,72,37,5,114,72,114
+2,Manuripi,3,Filadelfia,3880,Villa Primero de Mayo,1,U.E. Villa America,9002617,1,114,53,48,5,106,53,106
+2,Manuripi,3,Filadelfia,3909,Ucia,1,U.E. Ucia,9002627,1,157,59,62,13,134,59,134
+2,Manuripi,3,Filadelfia,4269,Puerto Sucre,25955,U. E. Puerto Sucre,9002787,1,240,115,76,11,202,115,202
+2,Manuripi,3,Filadelfia,4269,Puerto Sucre,25955,U. E. Puerto Sucre,9002797,2,74,40,20,5,65,40,65
+2,Manuripi,3,Filadelfia,4270,11 de Septiembre,25956,U. E. Arnoldo Gonzales,9002807,1,176,102,43,7,152,102,152
+2,Manuripi,3,Filadelfia,4271,18 de Noviembre,25957,U. E. Bernardino Racua,9002817,1,150,76,54,4,134,76,134
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1155,Gonzalo Moreno,47,U.E. Luz En El Camino,9002837,1,240,133,52,8,193,133,193
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1155,Gonzalo Moreno,47,U.E. Luz En El Camino,9002847,2,240,132,54,6,192,132,192
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1155,Gonzalo Moreno,47,U.E. Luz En El Camino,9002857,3,240,133,68,2,203,133,203
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1155,Gonzalo Moreno,47,U.E. Luz En El Camino,9002867,4,240,130,61,6,197,130,197
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1155,Gonzalo Moreno,47,U.E. Luz En El Camino,9002877,5,219,127,52,4,183,127,183
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1157,Portachuelo Centro,51,U.E.  Portachuelo Dios Es Amor,9002947,1,240,111,97,1,209,111,209
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1157,Portachuelo Centro,51,U.E.  Portachuelo Dios Es Amor,9002957,2,65,35,25,1,61,35,61
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1157,Portachuelo Centro,26075,Sede Portachuelo Medio (Tacana),9002967,1,197,119,51,3,173,119,173
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1159,Agua Dulce,49,U.E. Agua Dulce,9002917,1,247,159,46,5,210,159,210
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1160,Las Piedras,48,U.E. Pedro Herrera,9002887,1,240,127,67,8,202,127,202
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1160,Las Piedras,48,U.E. Pedro Herrera,9002897,2,240,126,55,5,186,126,186
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1160,Las Piedras,48,U.E. Pedro Herrera,9002907,3,221,123,57,4,184,123,184
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1161,Miraflores,50,U.E. Miraflores,9002927,1,240,106,65,23,194,106,194
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1161,Miraflores,50,U.E. Miraflores,9002937,2,56,33,9,4,46,33,46
+3,Madre de Dios,1,Puerto Gonzalo Moreno,3881,Contravaricia,1,U.E. 2 de Agosto,9002827,1,212,141,41,3,185,141,185
+3,Madre de Dios,2,San Lorenzo,1142,Loreto,35,U.E.  6 de Junio,9003057,1,121,36,60,6,102,36,102
+3,Madre de Dios,2,San Lorenzo,1164,Palestina (M.de Dios),55,U.E.  Genoveva Rios,9003137,1,93,52,25,1,78,52,78
+3,Madre de Dios,2,San Lorenzo,1166,Trinidacito,54,U.E. Gregoria Destre Maturana,9003117,1,240,117,80,10,207,117,207
+3,Madre de Dios,2,San Lorenzo,1166,Trinidacito,54,U.E. Gregoria Destre Maturana,9003127,2,24,14,7,0,21,14,21
+3,Madre de Dios,2,San Lorenzo,1172,Blanca Flor,52,U.E.  24 de Septiembre,9003067,1,240,122,75,10,207,122,207
+3,Madre de Dios,2,San Lorenzo,1172,Blanca Flor,52,U.E.  24 de Septiembre,9003077,2,240,138,52,6,196,138,196
+3,Madre de Dios,2,San Lorenzo,1172,Blanca Flor,52,U.E.  24 de Septiembre,9003087,3,240,116,75,2,193,116,193
+3,Madre de Dios,2,San Lorenzo,1172,Blanca Flor,52,U.E.  24 de Septiembre,9003097,4,240,133,70,5,208,133,208
+3,Madre de Dios,2,San Lorenzo,1172,Blanca Flor,52,U.E.  24 de Septiembre,9003107,5,34,19,9,0,28,19,28
+3,Madre de Dios,2,San Lorenzo,2754,Vista Alegre,56,U.E. Vista Alegre,9003147,1,240,97,99,9,205,97,205
+3,Madre de Dios,2,San Lorenzo,2754,Vista Alegre,56,U.E. Vista Alegre,9003157,2,51,24,19,1,44,24,44
+3,Madre de Dios,2,San Lorenzo,2800,Galilea,57,U.E. Galilea,9003167,1,215,100,87,6,193,100,193
+3,Madre de Dios,2,San Lorenzo,3067,Sinaí,1,U.E.  Bruno Racua,9002977,1,80,31,33,4,68,31,68
+3,Madre de Dios,2,San Lorenzo,3068,Ibéria,1,U.E. De Iberia,9002987,1,56,24,22,1,47,24,47
+3,Madre de Dios,2,San Lorenzo,3253,Naranjal,1,U.E.  Soledad,9002997,1,240,149,63,4,216,149,216
+3,Madre de Dios,2,San Lorenzo,3253,Naranjal,1,U.E.  Soledad,9003007,2,26,15,9,0,24,15,24
+3,Madre de Dios,2,San Lorenzo,3428,San Salvador,25028,Escuela Eduardo Abaroa,9003177,1,120,46,55,6,107,46,107
+3,Madre de Dios,2,San Lorenzo,3882,Samaria,1,U.E. 21 de Septiembre,9003017,1,113,40,58,0,98,40,98
+3,Madre de Dios,2,San Lorenzo,3883,Genechiquia,1,U.E. 6 de Agosto,9003027,1,189,81,94,4,179,81,179
+3,Madre de Dios,2,San Lorenzo,3884,Exaltación,1,U.E. 27 de Mayo,9003037,1,191,80,81,4,165,80,165
+3,Madre de Dios,2,San Lorenzo,3885,Nuevo Horizonte,1,U.E. Nuevo Horizonte,9003047,1,105,42,31,2,75,42,75
+3,Madre de Dios,2,San Lorenzo,4173,Charal,25573,U.E. Charal,9003187,1,226,65,93,17,175,65,175
+3,Madre de Dios,2,San Lorenzo,4251,El Retorno,25934,U.E. Simón Bolivar,9003197,1,112,36,52,11,99,36,99
+3,Madre de Dios,2,San Lorenzo,4252,Brigida,25935,U.E. Samuel Guillen,9003207,1,73,37,22,4,63,37,63
+3,Madre de Dios,2,San Lorenzo,4254,Navidad,25937,U.E. 12 de Abril,9003217,1,80,40,35,0,75,40,75
+3,Madre de Dios,2,San Lorenzo,4275,Nueva Esperanza,25961,U. E. 21 de Septiembre,9003227,1,133,51,61,5,117,51,117
+3,Madre de Dios,3,Sena,1173,El Sena,62,U.E. El Sena,9003307,1,240,121,56,14,191,121,191
+3,Madre de Dios,3,Sena,1173,El Sena,62,U.E. El Sena,9003317,2,240,101,73,15,189,101,189
+3,Madre de Dios,3,Sena,1173,El Sena,62,U.E. El Sena,9003327,3,240,112,58,8,178,112,178
+3,Madre de Dios,3,Sena,1173,El Sena,62,U.E. El Sena,9003337,4,240,116,66,6,188,116,188
+3,Madre de Dios,3,Sena,1173,El Sena,62,U.E. El Sena,9003347,5,240,111,61,10,182,111,182
+3,Madre de Dios,3,Sena,1173,El Sena,62,U.E. El Sena,9003357,6,240,103,74,9,186,103,186
+3,Madre de Dios,3,Sena,1173,El Sena,62,U.E. El Sena,9003367,7,240,106,70,8,184,106,184
+3,Madre de Dios,3,Sena,1173,El Sena,62,U.E. El Sena,9003377,8,240,125,55,8,188,125,188
+3,Madre de Dios,3,Sena,1173,El Sena,62,U.E. El Sena,9003387,9,240,116,64,10,190,116,190
+3,Madre de Dios,3,Sena,1173,El Sena,62,U.E. El Sena,9003397,10,240,120,69,12,201,120,201
+3,Madre de Dios,3,Sena,1173,El Sena,62,U.E. El Sena,9003407,11,240,127,56,9,192,127,192
+3,Madre de Dios,3,Sena,1173,El Sena,62,U.E. El Sena,9003417,12,183,83,53,6,142,83,142
+3,Madre de Dios,3,Sena,1173,El Sena,32491,U.E. Mariano Justiniano Orbe,9003537,1,91,45,21,2,68,45,68
+3,Madre de Dios,3,Sena,1176,Santa Rosa del Manupare,65,U.E. Santa Rosa,9003437,1,138,59,43,5,107,59,107
+3,Madre de Dios,3,Sena,1177,Las Mercedes,64,U.E. Las Mercedes,9003427,1,95,51,34,3,88,51,88
+3,Madre de Dios,3,Sena,1179,Palma Real,66,U.E. Palma Real,9003447,1,240,86,87,8,181,86,181
+3,Madre de Dios,3,Sena,1179,Palma Real,66,U.E. Palma Real,9003457,2,240,71,93,16,180,71,180
+3,Madre de Dios,3,Sena,1179,Palma Real,66,U.E. Palma Real,9003467,3,203,78,66,14,158,78,158
+3,Madre de Dios,3,Sena,3252,Remanzo,1,U.E. Remanso,9003237,1,77,33,31,1,65,33,65
+3,Madre de Dios,3,Sena,3300,El Turi (Carretera),2,U.E.  2 de Agosto,9003287,1,109,63,27,6,96,63,96
+3,Madre de Dios,3,Sena,3317,Pekin,2,U.E. De Pekin,9003297,1,89,28,36,9,73,28,73
+3,Madre de Dios,3,Sena,3530,El Turi (Comunidad Indígena),1,U.E. El Turi (Rio Manurape),9003247,1,240,94,95,14,203,94,203
+3,Madre de Dios,3,Sena,3530,El Turi (Comunidad Indígena),1,U.E. El Turi (Rio Manurape),9003257,2,38,6,23,1,30,6,30
+3,Madre de Dios,3,Sena,3886,San Salvador,1,U.E. San Francisco,9003267,1,191,59,68,1,128,59,128
+3,Madre de Dios,3,Sena,3891,Santa Elena,1,U.E. Santa Elena,9003277,1,190,83,69,6,158,83,158
+3,Madre de Dios,3,Sena,4014,Copacabana,25330,U.E. 4 de Agosto,9003477,1,186,86,61,5,152,86,152
+3,Madre de Dios,3,Sena,4103,Villa Cotoca,25512,U.E. 1ro. de Mayo,9003487,1,109,72,21,2,95,72,95
+3,Madre de Dios,3,Sena,4104,Brígida II,25513,U.E. Mahanain,9003497,1,77,56,12,0,68,56,68
+3,Madre de Dios,3,Sena,4105,Monte Sinai,25514,U.E. Juana Azurduy De Padilla,9003507,1,156,95,31,10,136,95,136
+3,Madre de Dios,3,Sena,4106,San Antonio,25515,U.E. San Antonio,9003547,1,119,38,29,7,74,38,74
+3,Madre de Dios,3,Sena,4274,Girado,25960,U. E. Nuestra Señora del Carmen,9003517,1,240,109,75,7,191,109,191
+3,Madre de Dios,3,Sena,4274,Girado,25960,U. E. Nuestra Señora del Carmen,9003527,2,66,29,20,5,54,29,54
+4,Abuná,1,Santa Rosa,1181,Santa Rosa del Abuna,69,U.E. Abuna,9003607,1,254,109,55,8,172,109,172
+4,Abuná,1,Santa Rosa,3301,1 de Mayo,1,U.E.  Zacarias Moreno,9003557,1,240,111,86,9,206,111,206
+4,Abuná,1,Santa Rosa,3301,1 de Mayo,1,U.E.  Zacarias Moreno,9003567,2,217,93,80,5,178,93,178
+4,Abuná,1,Santa Rosa,3697,Villa El Carmen,1,U.E. Augusto Gutierrez Banzer,9003577,1,142,78,39,4,121,78,121
+4,Abuná,1,Santa Rosa,3759,Nueva Esperanza(Urbanización Puerto Morales),1,U.E. Genoveva Ríos,9003587,1,233,110,76,24,210,110,210
+4,Abuná,1,Santa Rosa,3910,Mariscal Antonio José de Sucre Bernardino Racua,1,U.E. Pedro Domingo Murrillo,9003597,1,169,68,32,19,119,68,119
+4,Abuná,1,Santa Rosa,4253,Nacebe,25936,U.E. Benito Tirina Suarez,9003617,1,109,55,37,3,95,55,95
+4,Abuná,1,Santa Rosa,4443,Comunidad  Alto Bahia,26363,U.E. Walter Melgar Mejía,9003627,1,97,66,23,3,92,66,92
+4,Abuná,2,Ingavi,1185,Humaita,73,U.E. Humaita,9003647,1,240,109,70,3,182,109,182
+4,Abuná,2,Ingavi,1185,Humaita,73,U.E. Humaita,9003657,2,240,104,90,3,197,104,197
+4,Abuná,2,Ingavi,1185,Humaita,73,U.E. Humaita,9003667,3,106,38,36,2,76,38,76
+4,Abuná,2,Ingavi,1186,Ingavi,74,U.E. Ingavi,9003677,1,244,81,63,9,153,81,153
+4,Abuná,2,Ingavi,1187,Derrepente,75,U.E. Derrepente,9003687,1,60,24,25,1,50,24,50
+4,Abuná,2,Ingavi,3531,Las Amalias,1,U.E. Las Amalias,9003637,1,50,23,19,2,44,23,44
+4,Abuná,2,Ingavi,4265,Mapiri,25951,U. E. San Antonio,9003697,1,208,78,52,19,149,78,149
+4,Abuná,2,Ingavi,4266,Barro Alto,25952,U. E. 10 de Marzo,9003707,1,86,14,26,17,57,14,57
+4,Abuná,2,Ingavi,4662,Nuevo Milenio,32489,U.E. Nuevo Milenio,9003717,1,87,15,44,18,77,15,77
+5,Federico Román,1,Nueva Esperanza,2796,Nueva Esperanza,76,U.E.  Manuel Estremadoiro Martinez,9003767,1,240,96,34,44,174,96,174
+5,Federico Román,1,Nueva Esperanza,2796,Nueva Esperanza,76,U.E.  Manuel Estremadoiro Martinez,9003777,2,158,63,23,18,104,63,104
+5,Federico Román,1,Nueva Esperanza,3259,Arca de Israel,1,U.E.  Monte Sinai,9003727,1,246,87,59,57,203,87,203
+5,Federico Román,1,Nueva Esperanza,3302,Puerto Consuelo,1,U.E. Rufino Chao,9003737,1,75,18,38,3,59,18,59
+5,Federico Román,1,Nueva Esperanza,3404,Puerto Consuelo Area 2,1,U.E. Gral. Federico Román,9003747,1,144,50,41,16,107,50,107
+5,Federico Román,1,Nueva Esperanza,3911,Gran Cruz,1,U.E. La Gran Cruz,9003757,1,98,35,15,17,67,35,67
+5,Federico Román,1,Nueva Esperanza,4107,Nueva Unión,25516,U.E. Bruno Racua,9003787,1,152,92,23,6,121,92,121
+5,Federico Román,1,Nueva Esperanza,4268,La Selva,25954,U. E. San Andrés,9003797,1,58,41,4,0,45,41,45
+5,Federico Román,2,Villa Nueva,1192,Loma Alta,77,U.E.  Andres Idagua,9003827,1,240,147,52,2,201,147,201
+5,Federico Román,2,Villa Nueva,1192,Loma Alta,77,U.E.  Andres Idagua,9003837,2,240,126,49,4,179,126,179
+5,Federico Román,2,Villa Nueva,1192,Loma Alta,77,U.E.  Andres Idagua,9003847,3,151,78,49,0,127,78,127
+5,Federico Román,2,Villa Nueva,1195,Enarevena,78,U.E. Enarevena,9003857,1,143,65,53,1,119,65,119
+5,Federico Román,2,Villa Nueva,3303,Santa Fé,1,U.E. Juana Azurduy De Padilla,9003807,1,108,41,39,1,81,41,81
+5,Federico Román,2,Villa Nueva,3405,Santa Crucito,1,U.E.  Roberto Gonzales,9003817,1,191,108,48,4,160,108,160
+5,Federico Román,2,Villa Nueva,4101,San Ignacio,25510,U.E. Mariscal Sucre,9003867,1,84,56,16,0,72,56,72
+5,Federico Román,2,Villa Nueva,4102,Perseverancia,25511,U.E. 24 de Junio,9003877,1,98,47,35,2,84,47,84
+5,Federico Román,2,Villa Nueva,4444,Comunidad Campesina  Bella Brisa,26364,U.E. Mario Cortez Vaca,9003887,1,85,39,30,7,76,39,76
+5,Federico Román,2,Villa Nueva,4445,Comunidad Campesina  Triunfo,26365,U.E. 24 de Septiembre,9003897,1,72,38,27,1,66,38,66
+5,Federico Román,3,Santos Mercado,3065,Reserva,1,19 de Octubre,9003907,1,240,143,39,5,187,143,187
+5,Federico Román,3,Santos Mercado,3065,Reserva,1,19 de Octubre,9003917,2,199,106,35,2,143,106,143
+5,Federico Román,3,Santos Mercado,3532,San Martin del Pacahuara,1,U.E.  23 de Marzo,9003927,1,240,89,78,4,171,89,171
+5,Federico Román,3,Santos Mercado,3532,San Martin del Pacahuara,1,U.E.  23 de Marzo,9003937,2,169,77,43,3,123,77,123
+5,Federico Román,3,Santos Mercado,3888,Villa Victoria,1,U.E. 11 de Septiembre,9003947,1,240,113,46,6,165,113,165
+5,Federico Román,3,Santos Mercado,3888,Villa Victoria,1,U.E. 11 de Septiembre,9003957,2,33,17,8,1,26,17,26
+5,Federico Román,3,Santos Mercado,4267,Chiripa,25953,U. E. 25 de Mayo,9003967,1,104,65,17,3,85,65,85
+5,Federico Román,3,Santos Mercado,4660,Comunidad San Martin de Pacahuara,32506,U.E. 1 de Abril,9003987,1,70,36,21,1,58,36,58
+5,Federico Román,3,Santos Mercado,4661,Puerto Bolívar,32488,U.E. 1 de Mayo,9003977,1,50,27,12,0,39,27,39
