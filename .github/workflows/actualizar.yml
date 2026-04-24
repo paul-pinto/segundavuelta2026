@@ -27,12 +27,11 @@ jobs:
           pip install -r resultados/primera_vuelta/requirements.txt
       - name: Actualizar
         run: |
-          python resultados/primera_vuelta/actualizar.py
+          python resultados/segunda_vuelta/actualizar.py
 
       - name: Preparar
         run: |
-          python resultados/primera_vuelta/preparar.py
-          python resultados/primera_vuelta/preparar_gobernaciones.py
+          python resultados/segunda_vuelta/preparar.py
 
       - name: Commit
         run: |

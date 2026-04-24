@@ -2,8 +2,10 @@
 
 import base64
 import os
+import time
 from io import BytesIO
 from pathlib import Path
+from datetime import datetime, timezone
 
 import pandas as pd
 import requests
@@ -25,20 +27,52 @@ def actualizar():
             "content-type": "application/json",
         }
 
-        response = requests.post(
-            "https://computo.oep.org.bo/api/v1/descargar",
-            headers=headers,
-            json={"tipoArchivo": "excel", "idDepartamento": codigo_departamento},
-            timeout=120,
-        )
-        response.raise_for_status()
+        payload = None
+        for attempt in range(3):
+            try:
+                response = requests.post(
+                    "https://computo.oep.org.bo/api/v1/descargar",
+                    headers=headers,
+                    json={"tipoArchivo": "excel", "idDepartamento": codigo_departamento},
+                    timeout=30,
+                )
+                response.raise_for_status()
+                payload = response.json()
+                break
+            except requests.RequestException as exc:
+                if attempt == 2:
+                    print(
+                        f"[WARN] No se pudo descargar departamento {codigo_departamento}: {exc}"
+                    )
+                    return None, None
+                time.sleep(2)
 
-        payload = response.json()
-        data = pd.ExcelFile(
-            BytesIO(base64.b64decode(payload["archivo"])),
-            engine="calamine",
-        )
-        date = payload["fecha"]
+        if not isinstance(payload, dict):
+            print(
+                f"[WARN] Respuesta inesperada para departamento {codigo_departamento}: {payload}"
+            )
+            return None, None
+
+        archivo_b64 = payload.get("archivo")
+        if not archivo_b64 and isinstance(payload.get("data"), dict):
+            archivo_b64 = payload["data"].get("archivo")
+        if not archivo_b64:
+            print(
+                f"[WARN] Sin archivo para departamento {codigo_departamento}. "
+                f"Claves disponibles: {sorted(payload.keys())}"
+            )
+            return None, None
+
+        try:
+            data = pd.ExcelFile(
+                BytesIO(base64.b64decode(archivo_b64)),
+                engine="calamine",
+            )
+        except Exception as exc:
+            print(f"[WARN] Archivo invalido para departamento {codigo_departamento}: {exc}")
+            return None, None
+
+        date = payload.get("fecha") or datetime.now(timezone.utc).isoformat()
 
         return date, data
 
@@ -114,6 +148,9 @@ def actualizar():
     for codigo_departamento, departamento in DEPARTAMENTOS.items():
         print(departamento)
         date, excel = descargar(codigo_departamento)
+        if excel is None:
+            print(f"[WARN] Se omite {departamento} por falta de archivo descargable.")
+            continue
         for sheet in excel.sheet_names:
             data = parsear_sheet(excel, sheet)
             formar_eleccion(date, data, sheet, departamento)
